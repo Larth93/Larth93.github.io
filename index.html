@@ -599,7 +599,7 @@ form.addEventListener('submit',async e=>{
   if(first){first.focus();return}
   sbtn.disabled=true;const old=sbtn.innerHTML;sbtn.textContent='Отправляю…';
   try{
-    const r=await fetch('https://saity-pod-klyuch.demo-coffee.workers.dev/api/lead',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(form)))});
+    const r=await fetch('https://saity-pod-klyuch.demo-coffee.workers.dev/api/lead',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({...Object.fromEntries(new FormData(form)),m:(new URLSearchParams(location.search).get('m')||'').slice(0,60)})});
     const res=await r.json().catch(()=>({}));
     if(!r.ok||!res.ok)throw new Error(res.error||r.status);
     form.reset();show('ok','Заявка отправлена! Свяжусь с вами в течение дня.');
