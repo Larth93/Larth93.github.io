@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Анкета на сайт — Сайты под ключ</title>
+<meta name="description" content="Короткая анкета: расскажите о бизнесе и задаче, а мы вернёмся с расчётом стоимости и сроков.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#0d0d0d">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,400;0,500;0,600;0,700;1,500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#f3f3ef;--white:#fff;--ink:#0d0d0d;--gray:#6d6d67;--line:#d9d9d2;--lime:#c8f031;--ease:cubic-bezier(.2,.8,.2,1)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Inter Tight",system-ui,sans-serif;background:var(--paper);color:var(--ink);font-size:17px;line-height:1.55;-webkit-font-smoothing:antialiased;min-height:100vh}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--ink);outline-offset:3px;border-radius:6px}
+.mono{font-family:"JetBrains Mono",monospace;font-size:12.5px;letter-spacing:.03em;text-transform:uppercase;color:var(--gray)}
+.top{max-width:760px;margin:0 auto;padding:22px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px}
+.logo{display:flex;align-items:center;gap:10px;text-decoration:none;font-weight:600;letter-spacing:-.02em}
+.logo .mark{width:28px;height:28px;border-radius:8px;background:var(--ink);display:grid;place-items:center}
+.logo .mark i{width:9px;height:9px;border-radius:50%;background:var(--lime)}
+.wrap{max-width:760px;margin:0 auto;padding:10px 20px 80px}
+h1{font-size:clamp(36px,6vw,58px);font-weight:600;letter-spacing:-.045em;line-height:1;margin:18px 0 14px}
+h1 em{font-style:italic;font-weight:500;color:var(--gray)}
+.lead{color:var(--gray);font-size:18px;max-width:560px}
+.from{display:inline-flex;align-items:center;gap:8px;margin-top:18px;padding:7px 14px;border-radius:999px;background:var(--white);border:1px solid var(--line);font-size:14px}
+.from i{width:8px;height:8px;border-radius:50%;background:#22c55e}
+.progress{margin:34px 0 8px;display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.progress span{height:4px;border-radius:4px;background:var(--line);transition:background .4s var(--ease)}
+.progress span.on{background:var(--ink)}
+.steplbl{display:flex;justify-content:space-between;margin-bottom:22px}
+.card{background:var(--white);border:1px solid var(--line);border-radius:26px;padding:34px}
+.step[hidden]{display:none}
+.step h2{font-size:28px;letter-spacing:-.03em;font-weight:600;margin-bottom:22px}
+.f{margin-bottom:22px}
+.f > label,.f > .lbl{display:block;font-weight:600;font-size:15.5px;margin-bottom:8px}
+.f .hint{font-weight:400;color:var(--gray)}
+input[type=text],input[type=tel],textarea,select{width:100%;font:inherit;padding:14px 16px;border:1.5px solid var(--line);border-radius:14px;background:var(--paper);color:var(--ink);transition:border-color .2s,background .2s}
+textarea{min-height:96px;resize:vertical}
+input:focus,textarea:focus,select:focus{outline:none;border-color:var(--ink);background:var(--white)}
+.f.bad input,.f.bad textarea{border-color:#d33}
+.err{display:none;color:#c92a2a;font-size:14px;margin-top:6px}
+.f.bad .err{display:block}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chips input{position:absolute;opacity:0;pointer-events:none}
+.chips label{display:inline-flex;align-items:center;gap:8px;padding:10px 16px;border:1.5px solid var(--line);border-radius:999px;cursor:pointer;font-weight:500;font-size:15px;background:var(--white);transition:.2s}
+.chips label:hover{border-color:#aaa}
+.chips input:checked + label{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.chips input:focus-visible + label{outline:2px solid var(--ink);outline-offset:2px}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.nav{display:flex;justify-content:space-between;gap:12px;margin-top:10px}
+.btn{position:relative;display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:16px 28px;border-radius:999px;border:0;background:var(--ink);color:var(--paper);font-weight:600;cursor:pointer;overflow:hidden;isolation:isolate;transition:transform .2s}
+.btn::before{content:"";position:absolute;inset:0;background:var(--lime);transform:translateY(101%);transition:transform .4s var(--ease);z-index:-1}
+.btn:hover::before{transform:none}
+.btn:hover{color:var(--ink)}
+.btn.ghost{background:transparent;color:var(--ink);box-shadow:inset 0 0 0 1.5px var(--line)}
+.btn.ghost::before{background:var(--paper)}
+.btn:disabled{opacity:.5;cursor:wait}
+.hp{position:absolute;left:-9999px}
+.status{display:none;margin-top:16px;padding:14px 18px;border-radius:14px;background:#fdecea;color:#b42318;font-size:15px}
+.done{display:none;text-align:center;padding:30px 10px}
+.done .ic{width:76px;height:76px;border-radius:50%;background:var(--lime);display:grid;place-items:center;margin:0 auto 20px;font-size:32px}
+.done h2{font-size:34px;letter-spacing:-.03em;font-weight:600;margin-bottom:10px}
+.done p{color:var(--gray);max-width:440px;margin:0 auto 24px}
+.note{color:var(--gray);font-size:13.5px;margin-top:18px;text-align:center}
+@media (max-width:620px){.card{padding:22px;border-radius:20px}.row2{grid-template-columns:1fr}.nav .btn{flex:1}.step h2{font-size:24px}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<header class="top">
+  <a class="logo" href="../"><span class="mark"><i></i></span>Сайты под ключ</a>
+  <span class="mono">Анкета · 3 минуты</span>
+</header>
+
+<main class="wrap">
+  <span class="mono">Бриф на сайт</span>
+  <h1>Расскажите о задаче — <em>посчитаем сайт</em></h1>
+  <p class="lead">Ответьте на несколько вопросов. Если на что-то нет ответа — пропускайте, уточним при разговоре.</p>
+  <div class="from" id="from" hidden><i></i><span></span></div>
+
+  <div class="progress" aria-hidden="true"><span class="on"></span><span></span><span></span></div>
+  <div class="steplbl"><span class="mono" id="stepName">Шаг 1 из 3 · О вас</span><span class="mono" id="stepPct">33%</span></div>
+
+  <div class="card">
+    <form id="bf" novalidate>
+      <p class="hp" aria-hidden="true"><label>Не заполняйте: <input name="website" tabindex="-1" autocomplete="off"></label></p>
+
+      <section class="step" data-step="1">
+        <h2>О вас и бизнесе</h2>
+        <div class="row2">
+          <div class="f"><label for="name">Как к вам обращаться</label><input type="text" id="name" name="name" autocomplete="name" required><div class="err">Укажите имя</div></div>
+          <div class="f"><label for="contact">Телефон или Telegram</label><input type="text" id="contact" name="contact" placeholder="+7 900 000-00-00 или @username" required><div class="err">Укажите, как с вами связаться</div></div>
+        </div>
+        <div class="f"><label for="business">Чем занимается бизнес</label><textarea id="business" name="business" placeholder="Например: кофейня с выпечкой, работаем с 8 утра, есть доставка" required></textarea><div class="err">Пара слов о бизнесе поможет посчитать точнее</div></div>
+        <div class="f"><label for="city">Город или где работаете <span class="hint">(необязательно)</span></label><input type="text" id="city" name="city" placeholder="Казань / по всей России / онлайн"></div>
+      </section>
+
+      <section class="step" data-step="2" hidden>
+        <h2>Каким должен быть сайт</h2>
+        <div class="f"><span class="lbl">Что нужно</span>
+          <div class="chips" role="radiogroup" aria-label="Тип сайта">
+            <input type="radio" name="plan" id="p1" value="Визитка"><label for="p1">Визитка</label>
+            <input type="radio" name="plan" id="p2" value="Лендинг" checked><label for="p2">Лендинг</label>
+            <input type="radio" name="plan" id="p3" value="Многостраничный сайт"><label for="p3">Многостраничный</label>
+            <input type="radio" name="plan" id="p4" value="Доработка сайта"><label for="p4">Доработать текущий</label>
+            <input type="radio" name="plan" id="p5" value="Пока не знаю"><label for="p5">Не знаю, подскажите</label>
+          </div>
+        </div>
+        <div class="f"><label for="goal">Что должен делать посетитель на сайте</label><textarea id="goal" name="goal" placeholder="Оставить заявку, записаться, заказать доставку, позвонить…"></textarea></div>
+        <div class="f"><span class="lbl">Какие функции пригодятся <span class="hint">(можно несколько)</span></span>
+          <div class="chips">
+            <input type="checkbox" name="features" id="ft1" value="Заявки в Telegram"><label for="ft1">Заявки в Telegram</label>
+            <input type="checkbox" name="features" id="ft2" value="Онлайн-запись"><label for="ft2">Онлайн-запись</label>
+            <input type="checkbox" name="features" id="ft3" value="Корзина и заказ"><label for="ft3">Корзина и заказ</label>
+            <input type="checkbox" name="features" id="ft4" value="Калькулятор стоимости"><label for="ft4">Калькулятор</label>
+            <input type="checkbox" name="features" id="ft5" value="Галерея работ"><label for="ft5">Галерея работ</label>
+            <input type="checkbox" name="features" id="ft6" value="Цены / прайс"><label for="ft6">Цены / прайс</label>
+            <input type="checkbox" name="features" id="ft7" value="Отзывы"><label for="ft7">Отзывы</label>
+            <input type="checkbox" name="features" id="ft8" value="Карта и контакты"><label for="ft8">Карта и контакты</label>
+            <input type="checkbox" name="features" id="ft9" value="Тексты под ключ"><label for="ft9">Нужны тексты</label>
+          </div>
+        </div>
+        <div class="f"><label for="current">Есть ли сайт сейчас <span class="hint">(ссылка, если есть)</span></label><input type="text" id="current" name="current" placeholder="нет / https://…"></div>
+      </section>
+
+      <section class="step" data-step="3" hidden>
+        <h2>Детали</h2>
+        <div class="f"><label for="likes">Сайты, которые нравятся, или пожелания по стилю</label><textarea id="likes" name="likes" placeholder="Ссылки, цвета, «строго и дорого», «ярко и дружелюбно»…"></textarea></div>
+        <div class="f"><span class="lbl">Что уже есть</span>
+          <div class="chips">
+            <input type="checkbox" name="materials" id="m1" value="Логотип"><label for="m1">Логотип</label>
+            <input type="checkbox" name="materials" id="m2" value="Фото"><label for="m2">Фото</label>
+            <input type="checkbox" name="materials" id="m3" value="Тексты"><label for="m3">Тексты</label>
+            <input type="checkbox" name="materials" id="m4" value="Ничего нет"><label for="m4">Пока ничего</label>
+          </div>
+        </div>
+        <div class="row2">
+          <div class="f"><label for="deadline">Когда нужен сайт</label>
+            <select id="deadline" name="deadline"><option value="">Не важно</option><option>Как можно скорее</option><option>В течение недели</option><option>В течение месяца</option><option>Пока присматриваюсь</option></select>
+          </div>
+          <div class="f"><label for="budget">Ориентир по бюджету</label>
+            <select id="budget" name="budget"><option value="">Не знаю</option><option>До 15 000 ₽</option><option>15–30 000 ₽</option><option>30–60 000 ₽</option><option>Больше 60 000 ₽</option></select>
+          </div>
+        </div>
+        <div class="f"><label for="extra">Что ещё важно знать <span class="hint">(необязательно)</span></label><textarea id="extra" name="extra"></textarea></div>
+      </section>
+
+      <div class="nav" id="nav">
+        <button class="btn ghost" type="button" id="back" hidden>← Назад</button>
+        <button class="btn" type="button" id="next" style="margin-left:auto">Дальше →</button>
+      </div>
+      <div class="status" id="status" role="alert"></div>
+    </form>
+
+    <div class="done" id="done" role="status">
+      <div class="ic">✓</div>
+      <h2>Анкета отправлена</h2>
+      <p>Спасибо! Изучим задачу и свяжемся с вами в течение дня, чтобы уточнить детали и назвать стоимость.</p>
+      <a class="btn" href="../">Посмотреть примеры работ →</a>
+    </div>
+  </div>
+  <p class="note">Нажимая «Отправить», вы соглашаетесь на обработку контактных данных для ответа на анкету.</p>
+</main>
+
+<script>
+const API='https://saity-pod-klyuch.demo-coffee.workers.dev/api/brief';
+const $=id=>document.getElementById(id);
+const steps=[...document.querySelectorAll('.step')],bars=[...document.querySelectorAll('.progress span')];
+const NAMES=['О вас','О сайте','Детали'];
+let cur=1;
+// Ссылка менеджера: …/brief/?m=Петя
+const m=(new URLSearchParams(location.search).get('m')||'').trim().slice(0,60);
+if(m){const f=$('from');f.hidden=false;f.querySelector('span').textContent='Анкету прислал(а): '+m}
+
+function show(n){
+  cur=n;steps.forEach(s=>s.hidden=+s.dataset.step!==n);
+  bars.forEach((b,i)=>b.classList.toggle('on',i<n));
+  $('stepName').textContent=`Шаг ${n} из 3 · ${NAMES[n-1]}`;$('stepPct').textContent=Math.round(n/3*100)+'%';
+  $('back').hidden=n===1;$('next').textContent=n===3?'Отправить анкету →':'Дальше →';
+  const first=steps[n-1].querySelector('input:not([type=radio]):not([type=checkbox]),textarea');
+  if(first&&n>1)first.focus({preventScroll:true});
+  window.scrollTo({top:document.querySelector('.progress').offsetTop-20,behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'});
+}
+function validStep(n){
+  let first=null;
+  steps[n-1].querySelectorAll('[required]').forEach(i=>{const bad=!i.value.trim();i.closest('.f').classList.toggle('bad',bad);if(bad&&!first)first=i});
+  if(first){first.focus();return false}return true;
+}
+document.querySelectorAll('[required]').forEach(i=>i.addEventListener('input',()=>i.closest('.f').classList.remove('bad')));
+$('back').onclick=()=>show(cur-1);
+$('next').onclick=async()=>{
+  if(!validStep(cur))return;
+  if(cur<3)return show(cur+1);
+  const fd=new FormData($('bf')),data={m};
+  for(const [k,v] of fd.entries()){if(k==='features'||k==='materials'){(data[k]=data[k]||[]).push(v)}else data[k]=v}
+  const btn=$('next');btn.disabled=true;btn.textContent='Отправляю…';$('status').style.display='none';
+  try{
+    const r=await fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});
+    const res=await r.json().catch(()=>({}));
+    if(!r.ok||!res.ok)throw new Error(res.error||r.status);
+    $('bf').style.display='none';document.querySelector('.steplbl').style.display='none';document.querySelector('.progress').style.display='none';$('done').style.display='block';
+  }catch(e){
+    $('status').textContent='Не получилось отправить. Проверьте интернет и попробуйте ещё раз через минуту.';$('status').style.display='block';
+  }finally{btn.disabled=false;if(cur===3)btn.textContent='Отправить анкету →'}
+};
+</script>
+</body>
+</html>
