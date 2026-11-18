@@ -126,7 +126,7 @@ footer{padding:40px max(16px,6vw);color:var(--muted);font-size:13px;border-top:1
     <h3 class="script glow">Почти готово</h3>
     <p>Отправьте сообщение с заявкой Анастасии — текст уже подготовлен. После подтверждения место за вами.</p>
     <a class="btn" id="tg" target="_blank" rel="noopener">Telegram</a>
-    <a class="btn" id="wa" target="_blank" rel="noopener">WhatsApp</a>
+    
     <p style="margin-top:16px;font-size:13px">Текст заявки скопирован в буфер — если что, просто вставьте его в чат.</p>
   </div>
 </section>
@@ -137,8 +137,8 @@ footer{padding:40px max(16px,6vw);color:var(--muted);font-size:13px;border-top:1
 /* === URL веб-приложения Google Apps Script (заявки в Telegram) === */
 const ENDPOINT = "https://script.google.com/macros/s/AKfycbwc1zvNOUbDKXYahkYxCj3rjeWWDoOrJK1Tj-VvQYAAW6Ah20py5TM709T4vVgpR8_vEg/exec";
 /* === Запасной вариант: контакты педагога === */
-const TELEGRAM = "username";        // ник без @
-const WHATSAPP = "79000000000";     // номер только цифрами
+const TELEGRAM = "sianasta2302";
+const WHATSAPP = "";
 
 const f=document.getElementById('form'),err=document.getElementById('err');
 f.addEventListener('submit',async e=>{
@@ -162,7 +162,6 @@ f.addEventListener('submit',async e=>{
   } else if(d.website) return show('ok');
   try{await navigator.clipboard.writeText(msg)}catch(_){}
   document.getElementById('tg').href=`https://t.me/${TELEGRAM}?text=${encodeURIComponent(msg)}`;
-  document.getElementById('wa').href=`https://wa.me/${WHATSAPP}?text=${encodeURIComponent(msg)}`;
   show('done');
 });
 function show(id){f.style.display='none';const el=document.getElementById(id);el.style.display='block';el.scrollIntoView({behavior:'smooth',block:'center'})}
