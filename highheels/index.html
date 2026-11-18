@@ -114,9 +114,14 @@ footer{padding:40px max(16px,6vw);color:var(--muted);font-size:13px;border-top:1
     </label>
     <label>Комментарий<textarea name="comment" rows="3" placeholder="Вопросы педагогу"></textarea></label>
     <label class="check"><input type="checkbox" name="agree" required> Согласна на обработку персональных данных для записи на мастер-класс</label>
+    <input name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true">
     <div class="err" id="err"></div>
     <button class="btn" type="submit" style="justify-self:start;margin-top:4px">Отправить заявку</button>
   </form>
+  <div class="done" id="ok">
+    <h3 class="script glow">Вы записаны</h3>
+    <p>Заявка отправлена Анастасии. Она свяжется с вами для подтверждения. До встречи 29 ноября в 17:00, DF Komsomolka!</p>
+  </div>
   <div class="done" id="done">
     <h3 class="script glow">Почти готово</h3>
     <p>Отправьте сообщение с заявкой Анастасии — текст уже подготовлен. После подтверждения место за вами.</p>
@@ -129,7 +134,9 @@ footer{padding:40px max(16px,6vw);color:var(--muted);font-size:13px;border-top:1
 <footer>High Heels · class by asa · Анастасия Коняева · 29 ноября 2026, 17:00–19:00 · DF Komsomolka</footer>
 
 <script>
-/* === Контакты педагога — заменить на реальные === */
+/* === URL веб-приложения Google Apps Script (заявки в Telegram) === */
+const ENDPOINT = "";
+/* === Запасной вариант: контакты педагога === */
 const TELEGRAM = "username";        // ник без @
 const WHATSAPP = "79000000000";     // номер только цифрами
 
@@ -145,12 +152,20 @@ f.addEventListener('submit',async e=>{
 Имя: ${d.name}
 Телефон: ${d.phone}${d.nick?`\nНик: ${d.nick}`:''}
 Опыт: ${d.level}${d.comment?`\nКомментарий: ${d.comment}`:''}`;
+  const btn=f.querySelector('button');btn.disabled=true;btn.textContent='Отправляем…';
+  if(ENDPOINT && !d.website){
+    try{
+      const r=await fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify(d)});
+      const j=await r.json();
+      if(j.ok) return show('ok');
+    }catch(_){}
+  } else if(d.website) return show('ok');
   try{await navigator.clipboard.writeText(msg)}catch(_){}
   document.getElementById('tg').href=`https://t.me/${TELEGRAM}?text=${encodeURIComponent(msg)}`;
   document.getElementById('wa').href=`https://wa.me/${WHATSAPP}?text=${encodeURIComponent(msg)}`;
-  f.style.display='none';
-  const done=document.getElementById('done');done.style.display='block';done.scrollIntoView({behavior:'smooth',block:'center'});
+  show('done');
 });
+function show(id){f.style.display='none';const el=document.getElementById(id);el.style.display='block';el.scrollIntoView({behavior:'smooth',block:'center'})}
 </script>
 </body>
 </html>
