@@ -1,0 +1,83 @@
+{
+"c2u33l1": {"why": [
+"Ballpark figure — бейсбольная метафора «примерная цифра».",
+"Jump the shark — «скатиться, потерять качество» (от эпизода Happy Days); Past Simple.",
+"Out of left field — бейсбольное «совершенно неожиданно».",
+"Step up to the plate — «взять ответственность» (бейсбол: выйти к базе).",
+"Hail Mary — из американского футбола: отчаянная попытка на удачу.",
+"The elephant in the room — «очевидная проблема, о которой молчат».",
+"Monday morning quarterback — тот, кто критикует задним числом."
+], "alts": {"0": ["Can you give me a rough estimate?", "Can you give me a rough figure?"]}},
+"c2u33l2": {"why": [
+"Callback — возврат к более ранней шутке в конце выступления.",
+"Kill — сленг комиков «иметь огромный успех»; Past Simple killed.",
+"Bomb — «провалиться» на сцене; Past Simple bombed.",
+"Heckler — зритель, выкрикивающий из зала; shut down the heckler.",
+"Timing — «тайминг, чувство паузы»; all about timing.",
+"Setup — подводка к шутке (перед punchline).",
+"Crowd work — импровизационная работа с залом."
+]},
+"c2u33l3": {"why": [
+"Self-deprecating — «самоироничный», юмор над собой.",
+"Mess with someone — «прикалываться над кем-то»; just + Continuous.",
+"Give someone a hard time — «подкалывать, донимать».",
+"Take a jab at — «подколоть, уколоть словами».",
+"Roast — «дружески высмеять» на празднике; Past Simple roasted.",
+"Take a joke — «нормально воспринимать шутки».",
+"Tease — «дразнить»; Past Simple teased + constantly."
+]},
+"c2u33l4": {"why": [
+"Pass away — вежливый эвфемизм «умереть».",
+"Be laid off — «быть сокращённым» (не по вине работника); пассив were laid off.",
+"Between jobs — эвфемизм «временно без работы».",
+"Restroom — вежливое американское название туалета в общественных местах.",
+"Tipsy — мягкое «навеселе, слегка пьян».",
+"Let someone go — эвфемизм «уволить»; после decided to — инфинитив let.",
+"Euphemism — смягчённая замена неприятного слова."
+], "alts": {"0": ["Her grandfather died last spring."], "5": ["They decided to fire him."]}},
+"c2u34l1": {"why": [
+"Emphasis — «акцент, выделение»; put the emphasis on.",
+"Schwa — нейтральный редуцированный гласный /ə/ в безударных словах.",
+"Choppy — «рубленый»; ударение на всём ломает ритм.",
+"Weak form — слабая форма служебных слов: can → /kən/.",
+"Content words — знаменательные слова (несут смысл и ударение).",
+"Contrastive stress — ударение для противопоставления, меняет смысл.",
+"Function words — служебные слова (артикли, предлоги), обычно безударны."
+]},
+"c2u34l2": {"why": [
+"Intonation — «интонация, мелодия речи»; flat — без мелодии.",
+"Uptalk — повышение тона в конце утверждений; звучит как вопрос.",
+"Monotone — «монотонная речь»; in a monotone.",
+"Pitch range — «диапазон высоты тона».",
+"Fall-rise — нисходяще-восходящий тон, сигнал оговорки «но».",
+"Sound + прилагательное (bored) — глагол-связка «звучать».",
+"Vocal fry — скрипучий низкий регистр голоса."
+]},
+"c2u34l3": {"why": [
+"Lemme = let me в беглой речи; повелительное перед check.",
+"Dunno = don't know в беглой речи.",
+"Flap — одноударный звук на месте t между гласными (water).",
+"Glottal stop — гортанная смычка вместо t перед слоговым n (button).",
+"Gonna = going to + глагол для будущего: gonna call.",
+"Connected speech — связная речь с редукциями и слияниями.",
+"Assimilation — уподобление звуков: d + y → /dʒ/ (didja)."
+]},
+"c2u34l4": {"why": [
+"Intelligibility — «понятность» речи; цель важнее идеального акцента.",
+"Minimal pair — слова, различающиеся одним звуком (/ɪ/–/iː/).",
+"Final devoicing — оглушение звонких на конце (bag → bak), перенос из русского.",
+"Stress-timed — ритм определяется ударными слогами.",
+"Word stress — ударение в слове; неверное сбивает слушателя.",
+"Self-conscious — «стесняющийся, зажатый»; be self-conscious about.",
+"Accent reduction — устойчивое название курсов смягчения акцента."
+]},
+"c2u34l5": {"why": [
+"Register — «регистр речи»: формальность под аудиторию.",
+"Push (to) — разговорное «перенести на более позднее время».",
+"Overdo — «перестараться, перебарщивать».",
+"Work out — «уладиться, получиться»; Past Simple worked out.",
+"Come across as — «производить впечатление»; 3-е лицо comes.",
+"Code-switch — «переключаться между языками/диалектами»; all the time.",
+"Help + инфинитив без to: helps you sound natural."
+], "alts": {"1": ["Could we move the call to Monday?", "Could we reschedule the call for Monday?"], "4": ["He seems very confident."]}}
+}

@@ -1,0 +1,286 @@
+{
+  "b2u30l1": {
+    "why": [
+      "Future in the past: после прошедшего knew будущее «сдвигается» — will → would.",
+      "Was/were going to — план в прошлом, который не осуществился (but the flights were canceled).",
+      "Was about to — «вот-вот собиралась»: действие прервано другим (when he answered).",
+      "Косвенная речь после promised (прошедшее): will → would.",
+      "Was to + V — книжное «суждено было»: взгляд из прошлого на будущую судьбу компании.",
+      "После thought (прошедшее) — would: прогноз, сделанный в прошлом.",
+      "Past Continuous для договорённости в прошлом: билеты куплены, рейс на next morning."
+    ],
+    "alts": {
+      "0": ["I knew you would like this movie."],
+      "1": ["We were going to travel, but the flights got canceled.", "We were going to go away, but the flights were canceled."],
+      "3": ["He promised he would come on time.", "He promised to be on time."],
+      "4": ["That small company was destined to become a giant."],
+      "5": ["I thought it would rain, so I brought an umbrella."],
+      "6": ["They were flying to Tokyo the following morning."]
+    },
+    "qwhy": [
+      "will start — после прошедшего thought нужно сдвинуть will в would; starts — настоящее время не согласуется с thought; is starting — тоже настоящее.",
+      "am going to — настоящее, а намерение было в прошлом; will — не передаёт прошлый план; would have — нужно would have called, и смысл другой.",
+      "going — нужно going to, и смысл «вот-вот» теряется; to about — неверный порядок; near to — не образует такой конструкции.",
+      "He was gonna become president — разговорное, а не книжное; He would became — после would нужна V1; He will become president then — будущее, не взгляд из прошлого."
+    ]
+  },
+  "b2u30l2": {
+    "why": [
+      "Whose — «чей/у которой»: принадлежность (её машина) в определительном придаточном.",
+      "Which относится ко всему предыдущему предложению (то, что он опоздал); what здесь невозможно.",
+      "После quantifier + of (both of) для людей — whom, а не who/them.",
+      "None of which — о предметах (suggestions) после of только which.",
+      "Предлог + which (формально): in which = where / that I was born in.",
+      "The reason why — «причина, по которой», устойчивое сочетание.",
+      "Non-defining (в запятых) о человеке — who; that в запятых нельзя."
+    ],
+    "gap": { "4": "in which|where" },
+    "alts": {
+      "2": ["I have two sisters, and both of them are doctors."],
+      "3": ["She made five suggestions, and none of them worked."],
+      "4": ["This is the house where I was born.", "This is the house I was born in."],
+      "5": ["That's why I quit.", "That's the reason I quit."]
+    },
+    "qwhy": [
+      "what — не может относиться к целому предложению; that — нельзя в придаточном с запятой; who — только о людях.",
+      "who — после предлога of нужен объектный падеж whom; them — создаёт два независимых предложения без союза (ошибка); which — о предметах, а не о людях.",
+      "that — в non-defining (с запятыми) нельзя; без первой запятой придаточное оформлено неверно; без which нет относительного местоимения.",
+      "to who — после предлога нужен whom; to that — that не ставится после предлога; whom to — неверный порядок."
+    ]
+  },
+  "b2u30l3": {
+    "why": [
+      "Whatever — «что бы ни»: уступка о любом действии; в придаточном Present Simple.",
+      "Whoever — «тот, кто / кто бы ни»: подлежащее придаточного, глагол с -s.",
+      "Wherever — «куда бы ни»: речь о месте (I go).",
+      "However + прилагательное (hard) — «как бы ни»; прилагательное сразу за however.",
+      "Whenever — «всякий раз, когда / когда бы ни»: речь о времени (you're in town).",
+      "Whichever — «какой бы ни» при выборе из ограниченного набора (option).",
+      "No matter what — «что бы ни», с wh-словом what; после него Present Simple."
+    ],
+    "gap": { "0": "Whatever|No matter what", "4": "whenever|when|any time" },
+    "alts": {
+      "1": ["The first person to finish can go home."],
+      "2": ["My dog follows me everywhere I go."],
+      "3": ["No matter how hard it is, keep going."],
+      "4": ["Come see us whenever you're in town."],
+      "5": ["Choose the option that suits you best."],
+      "6": ["Whatever happens, stay calm.", "Whatever happens, keep calm."]
+    },
+    "qwhy": [
+      "Whatever — не сочетается с much + глагол «стоит»; No matter — нужно No matter how much; Whichever — о выборе из вариантов, не о степени.",
+      "will do — в придаточном с -ever will не ставят; would do — условное, не к месту; did do — прошедшее эмфатическое, не подходит.",
+      "Whatever — о вещах, а позвонил человек; Who ever that — бессмыслица; Anyone — нужно Anyone who called.",
+      "whatever I go — whatever не про место; however I go — «как бы я ни шёл», не «куда»; whenever I go where — лишнее where, смысл времени."
+    ]
+  },
+  "b2u30l4": {
+    "why": [
+      "Unless = if ... not: «если рейс НЕ задержат»; отрицание уже внутри unless.",
+      "As long as — «при условии что»: разрешение с условием (будешь тихо себя вести).",
+      "In case — «на случай если»: мера предосторожности заранее, до вылета игры.",
+      "Otherwise — «иначе»: последствие, если не выполнить первое действие.",
+      "Provided (that) — формальное «при условии что»; после него Present Simple, не will.",
+      "Suppose — «предположим»: воображаемая ситуация, дальше вопрос с would.",
+      "On condition that — «при условии, что», формальное условие сделки."
+    ],
+    "gap": {
+      "1": "as long as|so long as|provided|providing",
+      "3": "otherwise|or",
+      "4": "Provided|Providing|As long as|If",
+      "5": "Suppose|Supposing|Imagine"
+    },
+    "alts": {
+      "0": ["I'll be there at eight if my flight isn't delayed."],
+      "1": ["You can stay if you're quiet."],
+      "2": ["Save your progress in case the game crashes.", "Save the game in case it crashes."],
+      "3": ["Leave now or you'll be late."],
+      "5": ["What if you won a million? What would you do?"]
+    },
+    "qwhy": [
+      "if — даёт противоположный смысл (опоздаем, если поторопимся); in case — мера предосторожности, не условие; as long as — тоже обратный смысл.",
+      "unless — «если не», смысл ломается; provided — условие-разрешение, а не предосторожность; otherwise — «иначе», не соединяет так предложения.",
+      "unless — «если не вернёшься», противоположный смысл; in case — предосторожность; otherwise — «иначе», не подходит.",
+      "Unless you study, you'll fail — правильно; If you don't study, you'll fail — правильно; As long as you study, you'll pass — правильно (ошибка только в варианте с unless + don't)."
+    ]
+  },
+  "b2u30l5": {
+    "why": [
+      "So + прилагательное (long) + that: степень и результат.",
+      "Such a + (прилагательное) + исчисляемое существительное в ед. ч. (a crowded train) + that.",
+      "Too + прилагательное + to V — «слишком..., чтобы»: значит, нельзя.",
+      "Enough ставится после прилагательного: good enough.",
+      "So many + исчисляемое во мн. ч. (bugs).",
+      "Enough ставится перед существительным: enough money.",
+      "Too + прил. + to V; дополнение it после drink не повторяем."
+    ],
+    "alts": {
+      "1": ["The train was so crowded that we had to stand.", "The train was so crowded that we stood."],
+      "3": ["Is your English good enough for this job?"],
+      "4": ["There were so many bugs that we postponed the release."],
+      "5": ["We don't have enough money for a vacation.", "We can't afford a vacation."],
+      "6": ["The coffee was too hot to drink."]
+    },
+    "qwhy": [
+      "so — перед существительным нужно such; such a — weather неисчисляемое, без a; too — не сочетается с that-результатом.",
+      "such — перед прилагательным без существительного нельзя; too — не употребляется с that; enough — ставится после прилагательного и не с that.",
+      "enough old — enough должен стоять после прилагательного; too old — противоположный смысл; so old — нужен that-результат.",
+      "to carry it — после too ... to дополнение не повторяют; carrying — после too нужен инфинитив; that I carry — неверная конструкция.",
+      "so many — noise неисчисляемое; such — нужно such a lot of; too many — для исчисляемых и без that."
+    ]
+  },
+  "b2u31l1": {
+    "why": [
+      "Эмфатическое do в Present Simple: «правда нравится», глагол like в начальной форме.",
+      "Did + V1 для контраста в прошлом: не позвонил, но всё-таки написал.",
+      "Do + повелительное — вежливая настойчивость: «садитесь же».",
+      "Does + V1 (she, Present Simple): эмфаза «действительно знает»; know без -s.",
+      "Did + V1: «я ведь предупреждал» — подчёркнутое подтверждение в прошлом.",
+      "Do + V1 для искренней эмфазы: «мы правда ценим».",
+      "Does + V1 (the plan = it): «действительно есть»; have без -s после does."
+    ],
+    "alts": {
+      "0": ["I really like your new haircut!"],
+      "1": ["He didn't call, but he did send a text."],
+      "2": ["Please, do sit down.", "Please sit down."],
+      "4": ["I warned you about the traffic."],
+      "5": ["We really appreciate your help."],
+      "6": ["The plan really does have some problems."]
+    },
+    "qwhy": [
+      "am — am listen неграмматично; does — с I нужно do; did do — прошедшее и двойной глагол.",
+      "did finished — после did нужна V1; does finish — настоящее время, а речь о yesterday; finished did — неверный порядок.",
+      "Does — повелительное образуется только с Do; Did — прошедшее, не повелительное; Be — be help неграмматично.",
+      "was — was seem неграмматично; has — has seem неграмматично; do — с he и в прошлом нужно did."
+    ]
+  },
+  "b2u31l2": {
+    "why": [
+      "As + профессия = «в качестве»: она реально была официанткой.",
+      "Like + существительное = «похоже на»: поёт как профессионал, но им не является.",
+      "As if + придаточное (подлежащее + глагол) — «как будто».",
+      "As usual — устойчивое выражение «как обычно».",
+      "As + подлежащее + глагол (I tell you): «делай так, как я говорю».",
+      "Such as — вводит примеры (Civilization как пример стратегии).",
+      "Look like + существительное — «быть похожим на»."
+    ],
+    "gap": { "2": "as if|as though|like", "4": "as|what", "5": "such as|like" },
+    "alts": {
+      "0": ["She worked as a waitress in college.", "She worked as a waitress while she was in college."],
+      "2": ["You look like you've seen a ghost."],
+      "4": ["Do what I tell you.", "Do as I say."],
+      "6": ["You resemble your mother.", "You look like your mom."]
+    },
+    "qwhy": [
+      "like — означало бы «как будто подушку», а куртка реально служила подушкой; such as — вводит примеры; as if — требует придаточное.",
+      "like as — двойной союз, ошибка; as — as we'll stay home не значит «похоже, что»; such as — вводит примеры.",
+      "as — она не рыба, это сравнение; as if — требует придаточное; such — не вводит сравнение.",
+      "Like — значило бы «подобно врачу» (не являясь им); Such as — вводит примеры; As if — требует придаточное."
+    ]
+  },
+  "b2u31l3": {
+    "why": [
+      "There's no point (in) + V-ing: после no point только герундий.",
+      "It's no use + V-ing — «бесполезно»; инфинитив здесь невозможен.",
+      "Be worth + V-ing — «стоит (сделать)»; worth to read — ошибка.",
+      "It's a waste of money + V-ing — «пустая трата денег».",
+      "Can't help + V-ing — «не могу не (делать)».",
+      "What's the point of + V-ing: после предлога of — герундий.",
+      "Have trouble + V-ing — «с трудом делать что-то»."
+    ],
+    "alts": {
+      "0": ["There's no point in waiting — the store is closed.", "It's pointless to wait — the store is closed."],
+      "1": ["There's no point complaining about the weather."],
+      "2": ["This book is worth a read."],
+      "3": ["Buying cheap headphones is a waste of money."],
+      "4": ["I can't stop thinking about her."],
+      "5": ["What's the point in arguing with him?"],
+      "6": ["She has difficulty remembering names.", "She finds it hard to remember names."]
+    },
+    "qwhy": [
+      "to tell — после no point инфинитив не ставят; tell — голый глагол невозможен; told — причастие не подходит.",
+      "to visit — после worth нужен герундий; visit — голый глагол невозможен; to visiting — лишнее to.",
+      "laugh — после can't help нужен герундий; to laugh — инфинитив не используется; laughed — прошедшее время не подходит.",
+      "to argue — после no use нужен герундий; argue — голый глагол невозможен; argued — прошедшее не подходит."
+    ]
+  },
+  "b2u31l4": {
+    "why": [
+      "Used to + V для прошлого состояния (have = иметь), которого уже нет; would с состояниями нельзя.",
+      "Would + V — повторяющееся действие в прошлом (every summer), ностальгический рассказ.",
+      "В вопросе с did — use to без -d: Did you use to...?",
+      "Be used to + V-ing — «быть привыкшим»; после to — герундий.",
+      "Get used to + существительное: the new job — конкретная работа, нужен артикль the.",
+      "Used to + V — прошлое состояние (live), сейчас уже нет; would невозможно.",
+      "Отрицание: didn't use to (без -d), потому что did уже несёт прошедшее."
+    ],
+    "gap": { "1": "would|used to" },
+    "alts": {
+      "0": ["I had long hair before.", "I used to have long hair."],
+      "2": ["Did you play the piano before?"],
+      "3": ["I'm not used to driving on the left side.", "I'm not used to driving on the left side of the road."],
+      "4": ["She's gradually getting used to the new job.", "She's slowly getting used to her new job."],
+      "5": ["We used to live by the sea.", "We used to live near the ocean."],
+      "6": ["He never used to like spicy food."]
+    },
+    "qwhy": [
+      "would live — would с глаголом состояния нельзя; was used to live — значит «привык», и нужно living; use to live — без did нужно used.",
+      "get — после be used to нужен герундий; got — прошедшее не подходит; have got — неверная форма после to.",
+      "used to — после did пишется без -d; would — did would невозможно; get used to — меняет смысл на «привыкать».",
+      "I used to have a dog — верно; We would play in the yard — верно (действие); We used to play in the yard — верно."
+    ]
+  },
+  "b2u31l5": {
+    "why": [
+      "The + сравнительная степень в первой части: the more I learn, ... the less I know.",
+      "Артикль the нужен в обеих частях конструкции «чем..., тем...».",
+      "Far + сравнительная степень — «гораздо»; very со сравнительной нельзя.",
+      "Not nearly as ... as — «далеко не такой ..., как».",
+      "Повтор сравнительной степени (harder and harder) — нарастание «всё труднее».",
+      "By far + превосходная степень — «безусловно, с большим отрывом».",
+      "Slightly + сравнительная степень — смягчение «немного дешевле»."
+    ],
+    "gap": {
+      "2": "far|much|a lot|way",
+      "3": "not nearly|nowhere near",
+      "6": "slightly|a bit|a little"
+    },
+    "alts": {
+      "2": ["This laptop is much faster than my old one."],
+      "3": ["The sequel wasn't nearly as good as the original.", "The sequel was nowhere near as good as the original."],
+      "4": ["It's getting harder and harder to find a cheap apartment.", "Finding a cheap apartment is getting harder and harder."],
+      "5": ["She's easily the best player on the team."],
+      "6": ["The new version is a bit cheaper.", "The new version is a little cheaper."]
+    },
+    "qwhy": [
+      "better — без the конструкция неполная; the best — превосходная, а нужна сравнительная; more better — двойное сравнение.",
+      "very — не сочетается со сравнительной степенью; more — more better — двойное сравнение; most — превосходная степень.",
+      "The more I read books — существительное должно идти вместе с the more; More books — без the; The most books — превосходная степень.",
+      "more and more high — у high сравнительная форма higher; high and high — нужна сравнительная степень; the higher — без второй части нет смысла."
+    ]
+  },
+  "b2u31l6": {
+    "why": [
+      "Want + объект + to V: «хочу, чтобы ты...»; that-придаточное после want невозможно.",
+      "Make + объект + V без to: made me cry.",
+      "Let + объект + V без to: let me explain.",
+      "Отрицание в сложном дополнении: not ставится перед to.",
+      "Persuade + объект + to V — «убедить кого-то сделать».",
+      "Remind + объект + to V — «напомнить кому-то сделать».",
+      "Get + объект + to V — «добиться, уговорить»; в отличие от make — с to."
+    ],
+    "alts": {
+      "0": ["I'd like you to call me tomorrow."],
+      "1": ["The film made me cry."],
+      "4": ["My friend convinced me to buy the game.", "My friend talked me into buying the game."],
+      "6": ["I finally got him to admit his mistake.", "I finally made him admit the mistake."]
+    },
+    "qwhy": [
+      "that I finish — want не используется с that-придаточным; me finish — после want нужно to; me finishing — герундий здесь невозможен.",
+      "to wait — после make в активе to не ставится; waiting — герундий невозможен; waited — прошедшее не подходит.",
+      "use — после allow нужно to; using — герундий в этой конструкции не используется; used — прошедшее не подходит.",
+      "He suggested me to go — suggest не используется с объект + to V; He suggested me going — нужно my going или просто going; He suggested to me go — неграмматично.",
+      "to not touching — после to нужна V1, и not ставят перед to; don't touch — повелительное без косвенной конструкции; not touch — пропущено to."
+    ]
+  }
+}

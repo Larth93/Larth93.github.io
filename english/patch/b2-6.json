@@ -1,0 +1,274 @@
+{
+  "b2u32l1": {
+    "why": [
+      "Turn down разделяемый: местоимение it ставится только между глаголом и частицей.",
+      "Run out of — трёхчастный глагол «закончиться»; Present Perfect: кофе кончился, результат сейчас.",
+      "Look forward to: to здесь предлог, поэтому дальше V-ing (meeting).",
+      "Come up with — «придумать»; трёхчастный глагол, не разделяется.",
+      "Cut down on — «сокращать потребление» чего-то; нужен предлог on.",
+      "Get away with it — «сойти с рук»; with обязателен перед дополнением.",
+      "Catch up on sleep — «наверстать/отоспаться»; предлог on."
+    ],
+    "alts": {
+      "0": ["The music is loud. Please turn it down."],
+      "1": ["We're out of coffee.", "We've run out of coffee."],
+      "2": ["I'm looking forward to meeting you."],
+      "3": ["She came up with a great idea.", "She thought of a brilliant idea."],
+      "4": ["I'm trying to eat less sugar."],
+      "6": ["I need to catch up on sleep.", "I need to get some sleep."]
+    },
+    "qwhy": [
+      "up it — местоимение нельзя ставить после частицы; it — без up глагол меняет смысл; up — нет дополнения, непонятно что поднять.",
+      "receive — после предлога to нужен герундий; received — причастие не подходит; be receiving — инфинитивная форма после предлога невозможна.",
+      "with up — неверный порядок частиц; up — put up значит «вешать, размещать»; on with — такого глагола в этом значении нет.",
+      "off — run off значит «убежать»; out — без of нельзя присоединить ink; away with — run away with значит «убежать с»."
+    ]
+  },
+  "b2u32l2": {
+    "why": [
+      "Set off — «отправиться в путь, выехать»; после need to — начальная форма глагола.",
+      "Drop sb off — «высадить кого-то»; местоимение me между drop и off.",
+      "Check in — регистрация на рейс/в отеле; онлайн-регистрация на рейс.",
+      "Back up — «сделать резервную копию»; глагол пишется раздельно (сущ. — backup).",
+      "Log out — «выйти из системы» после окончания работы.",
+      "Sign up for — «записаться на» курс; Past Simple signed.",
+      "Keep + V-ing: freezing up — «постоянно зависает»."
+    ],
+    "gap": { "0": "set off|set out|leave", "4": "log out|sign out", "6": "freezing up|freezing|crashing" },
+    "alts": {
+      "0": ["We need to leave before rush hour."],
+      "1": ["Could you drop me off at the hotel?"],
+      "2": ["You can check in online 24 hours in advance."],
+      "3": ["I forgot to back up my pictures."],
+      "4": ["Please log off when you're done.", "Please sign out when you're finished."],
+      "5": ["I enrolled in a coding course.", "I signed up for a programming course."],
+      "6": ["My laptop keeps freezing."]
+    },
+    "qwhy": [
+      "out — see out значит «проводить до двери»; up — see up не существует в этом смысле; away — see away не используется.",
+      "back off — «отступить»; set up — «настроить»; look up — «найти (в словаре)».",
+      "over — get over значит «пережить, оправиться»; off — get off значит «выйти (из транспорта)»; by — get by значит «сводить концы».",
+      "check out — глагол пишется раздельно, а нужно существительное; checking out — герундий, не название процедуры; out-check — неверный порядок."
+    ]
+  },
+  "b2u32l3": {
+    "why": [
+      "Идиома cost an arm and a leg — «стоить бешеных денег»; слово leg фиксировано.",
+      "Be broke — «быть на мели»; broke, а не broken (сломанный).",
+      "Make ends meet — «сводить концы с концами»; meet — голый инфинитив после make.",
+      "In the nick of time — «в последний момент», фиксированная идиома.",
+      "Once in a blue moon — «раз в сто лет», очень редко.",
+      "Call it a day — «закончить на сегодня»; let's + V.",
+      "A rip-off — «обдираловка» (существительное через дефис)."
+    ],
+    "alts": {
+      "0": ["That hotel costs a fortune."],
+      "1": ["After paying rent, I'm always broke."],
+      "3": ["We made it to the gate just in time.", "We reached the gate in the nick of time."],
+      "4": ["I eat fast food very rarely.", "I hardly ever eat fast food."],
+      "5": ["It's late. Let's stop for today."],
+      "6": ["Twenty dollars for a coffee? That's a rip-off!"]
+    },
+    "qwhy": [
+      "I'm on the shallow — дословный перевод, так не говорят; I'm broken — «я сломан»; I'm moneyless — неестественно.",
+      "once in a blue moon — «очень редко»; around the clock — «круглосуточно»; on a rainy day — буквально «в дождливый день».",
+      "in the clock — неверный предлог; on the clock day — бессмыслица; all clock — не идиома.",
+      "buy an umbrella — буквальное понимание; save time — речь о деньгах; waste money — противоположное."
+    ]
+  },
+  "b2u32l4": {
+    "why": [
+      "Pay off — «окупиться, принести плоды»; Past Simple paid.",
+      "A piece of cake — «проще простого», фиксированная идиома.",
+      "On cloud nine — «на седьмом небе»; в английском число nine.",
+      "Back to square one — «вернуться к началу», фиксированная идиома.",
+      "Get cold feet — «струсить в последний момент»; feet во мн. ч.",
+      "Butterflies in my stomach — «мандраж» перед выступлением.",
+      "At the end of my rope — американский вариант «на пределе»."
+    ],
+    "alts": {
+      "0": ["All that hard work finally paid off."],
+      "1": ["The test was really easy.", "The test was a breeze."],
+      "2": ["She was over the moon after the wedding."],
+      "3": ["The client hated it, so we're starting over.", "The client didn't like it, so we're back to square one."],
+      "6": ["After three sleepless nights, I'm at my wits' end."]
+    },
+    "qwhy": [
+      "on cloud seven — в английском только nine; in seventh heaven sky — смешение, правильно in seventh heaven; over the cloud — не идиома.",
+      "point zero — не идиома; step first — неверный порядок и не идиома; the start line — не устойчивое выражение.",
+      "pay out — «выплачивать»; pay up — «расплатиться (долг)»; pay back — «вернуть долг».",
+      "cold — keep one's cold не говорят; calm feet — смешение идиом; temper off — бессмыслица (lose one's temper)."
+    ]
+  },
+  "b2u33l1": {
+    "why": [
+      "Tell + человек + история: tell sb a story — устойчиво.",
+      "Say без прямого дополнения-человека: he said (that) he was busy.",
+      "Speak + язык: speak Spanish.",
+      "Talk about — беседа, разговор на тему (for hours).",
+      "Tell the difference — «различать», устойчивое сочетание с tell.",
+      "Speak up — «говорить громче».",
+      "Talk sb into + V-ing — «уговорить кого-то сделать»."
+    ],
+    "alts": {
+      "0": ["She told me a funny story."],
+      "1": ["He said that he was busy.", "He told me he was busy."],
+      "3": ["We talked about our plans for hours.", "We spent hours talking about our plans."],
+      "4": ["Can you see the difference between them?"],
+      "5": ["Please speak louder, I can't hear you."],
+      "6": ["She persuaded me to buy the expensive one.", "She convinced me to buy the expensive one."]
+    },
+    "qwhy": [
+      "said — say не берёт человека без to; spoke — spoke me невозможно; talked — talk не вводит сообщение так.",
+      "told — tell goodbye не говорят; spoke — speak goodbye не говорят; talked — talk goodbye не говорят.",
+      "say — say a lie не сочетается; speak — speak a lie неверно; talk — talk a lie неверно.",
+      "told — tell sb out of не существует; said — say sb out of неверно; spoke — speak sb out of неверно.",
+      "He told me the news — верно; He said the news to me — верно (say + to); He told the news to me — верно."
+    ]
+  },
+  "b2u33l2": {
+    "why": [
+      "See — непроизвольно увидеть событие (салют); Did + V1 в вопросе.",
+      "Look at — направить взгляд на неподвижный объект (небо).",
+      "Watch — смотреть что-то движущееся, процесс (сериал).",
+      "Rise — непереходный: солнце поднимается само; he/she/it → rises.",
+      "A raise — американское «прибавка к зарплате».",
+      "Rise непереходный (аренда выросла сама), неправильный: rise – rose – risen.",
+      "Raise переходный: кто-то поднимает что-то (руку)."
+    ],
+    "alts": {
+      "0": ["Did you see the fireworks yesterday evening?"],
+      "2": ["We watched the entire season over the weekend."],
+      "3": ["The sun comes up in the east."],
+      "4": ["She asked her boss for a pay raise."],
+      "5": ["The rent went up by fifteen percent this year.", "Rent increased by fifteen percent this year."],
+      "6": ["If you know the answer, put up your hand.", "Raise your hand if you know the answer."]
+    },
+    "qwhy": [
+      "raised — переходный, а безработица выросла сама; rised — такой формы нет; was risen — rise не бывает в пассиве.",
+      "rose — непереходный, не берёт дополнение taxes; risen — причастие без вспомогательного; rised — такой формы нет.",
+      "look — look the kids неграмматично (нужен at); see — «увидеть», не «присмотреть»; look at — «посмотреть на», не «присмотреть».",
+      "look — не значит «понимать»; watch — «наблюдать»; look at — «смотреть на»."
+    ]
+  },
+  "b2u33l3": {
+    "why": [
+      "Magazine — «журнал», ложный друг «магазина» (store).",
+      "Relevant — «актуальный, уместный»; actual значит «фактический».",
+      "Neat — «аккуратный, опрятный»; accurate значит «точный».",
+      "Accurate — «точный» (о прогнозе).",
+      "Economical — «экономный», а economic — «экономический».",
+      "Lend — «дать взаймы» (кому-то); borrow — «взять взаймы».",
+      "Sympathetic — «сочувствующий», а не «симпатичный»."
+    ],
+    "alts": {
+      "1": ["Is this information still up to date?", "Is this information still current?"],
+      "2": ["Her desk is always very neat.", "She keeps her desk very tidy."],
+      "4": ["This car is very fuel-efficient."],
+      "5": ["Could you lend me twenty dollars?", "Can I borrow twenty dollars?"],
+      "6": ["He was very supportive when my cat died."]
+    },
+    "qwhy": [
+      "an actual issue — actual = «фактический»; an actually issue — наречие перед существительным; a current actual issue — тавтология и ложный друг.",
+      "a sympathetic girl — «сочувствующая»; a sympathy girl — бессмыслица; a simpatic girl — такого слова нет.",
+      "lose — глагол «терять»; losed — нет такой формы; loss — существительное «потеря».",
+      "sensitive — «чувствительный»; sensational — «сенсационный»; sense — существительное."
+    ]
+  },
+  "b2u33l4": {
+    "why": [
+      "Gonna — разговорная редукция going to (намерение) перед глаголом.",
+      "Wanna — разговорная редукция want to; do you wanna = do you want to.",
+      "Gotta — редукция (have) got to — «надо»; I've gotta = I've got to.",
+      "Kinda — редукция kind of — «как-то, довольно».",
+      "Did you сливается в «didja» — ассимиляция d + y → /dʒ/.",
+      "Flap T: в water американское t между гласными звучит как быстрое d.",
+      "Gotcha — got you, «понял»; ассимиляция t + y → /tʃ/."
+    ],
+    "alts": {
+      "0": ["I'm going to grab some coffee.", "I'm going to get some coffee."],
+      "1": ["Do you want to come with us?"],
+      "2": ["I have to go, sorry.", "I've got to go, sorry."],
+      "3": ["It's kind of cold in here.", "It's a bit cold in here."],
+      "6": ["Got it, I'll fix it."]
+    },
+    "qwhy": [
+      "What are you mean — грамматически неверно; Why do you mean — why не вписывается; What did you mean — прошедшее, а whaddaya = what do you.",
+      "beter with strong T — в американском t между гласными смягчается; bet-ter with pause — паузы нет; bitter — другое слово с другим гласным.",
+      "only by the T sound — конечное t часто почти не слышно; can is louder — наоборот, can безударное; they sound identical always — различаются ударением и гласным.",
+      "I half to leave — half звучит похоже, но смысла нет; I have a leave — другое значение («отпуск»); I had to leave — прошедшее, а hafta = have to."
+    ]
+  },
+  "b2u34l1": {
+    "why": [
+      "Be set in — «действие происходит в» (месте/времени).",
+      "Plot twist — «сюжетный поворот».",
+      "Binge-watch — «смотреть запоем»; Past Simple binge-watched.",
+      "Overrated — «переоценённый» (хуже, чем о нём говорят).",
+      "Based on — «основанный на» (по реальной истории).",
+      "End on a cliffhanger — «закончиться на самом интересном».",
+      "Live up to the hype — «оправдать ажиотаж/ожидания»."
+    ],
+    "alts": {
+      "0": ["The series takes place in 1990s Seoul.", "The show is set in Seoul in the 1990s."],
+      "2": ["We binged the whole season.", "We binge-watched the entire season."],
+      "4": ["The movie is based on a true story."],
+      "6": ["The sequel didn't live up to expectations.", "The sequel didn't live up to the hype."]
+    },
+    "qwhy": [
+      "It's happening in London — о текущем событии, не о месте действия; It's put in London — неверно; It's located on London — о расположении здания, плюс неверный предлог.",
+      "be shot in a movie — «быть застреленным в фильме»; shoot in a movie — «снимать (как режиссёр)»; play in a movie role in — неграмматично.",
+      "gripping — «захватывающий»; underrated — «недооценённый»; relatable — «близкий, понятный».",
+      "made by — «сделан (кем)», не об источнике; shot of — неверный предлог; based by — неверный предлог."
+    ]
+  },
+  "b2u34l2": {
+    "why": [
+      "Beat a game — «пройти игру»; beat – beat – beaten, Past Simple совпадает с V1.",
+      "Patch — «патч», обновление, исправляющее баги.",
+      "Nerf — «ослабить» оружие/персонажа в патче; Past Simple nerfed.",
+      "Pay-to-win — игра, где деньги дают преимущество; прилагательное через дефисы.",
+      "Grind — «фармить», долго повторять действия ради прогресса; после had to — V1.",
+      "Lag — «лагать»; Present Continuous: временная проблема (tonight).",
+      "Immersive — «погружающий»; one of the most + прилагательное."
+    ],
+    "gap": { "0": "beat|finished|completed" },
+    "alts": {
+      "0": ["I finally finished the game last night.", "I finally completed the game last night."],
+      "1": ["The new update fixed most of the bugs."],
+      "5": ["The servers are laggy tonight."],
+      "6": ["It's one of the most immersive worlds I have ever seen."]
+    },
+    "qwhy": [
+      "pass the game — калька с «пройти», так не говорят; go the game — бессмыслица; walk the game — не существует.",
+      "buff — наоборот, «усилить»; patch up — «залатать, помириться»; grind — «фармить».",
+      "free-to-play — бесплатная игра, не обязательно с преимуществом; early access — ранний доступ; co-op — совместная игра.",
+      "lagging up — lag без up; freezing out — freeze out = «вытеснить»; grinding — «фармить»."
+    ]
+  },
+  "b2u34l3": {
+    "why": [
+      "All of a sudden — «вдруг», фиксированное выражение.",
+      "It turned out that — «оказалось, что»; Past Simple turned.",
+      "Long story short — «короче говоря».",
+      "Past Simple (started) — короткое событие на фоне Past Continuous (was walking).",
+      "Past Perfect (had left) — действие произошло раньше, чем я понял (realized).",
+      "Just as — «как раз когда»: два действия совпали во времени.",
+      "In the end — «в итоге»; at the end требует of (at the end of the movie)."
+    ],
+    "gap": { "3": "started|began" },
+    "alts": {
+      "0": ["Suddenly, the lights went out.", "All of a sudden the power went out."],
+      "1": ["It turned out he was her brother."],
+      "3": ["I was walking home when it began to rain.", "I was walking home when it started raining."],
+      "4": ["I realized that I had left my keys inside.", "I realized I'd locked my keys inside."],
+      "6": ["In the end, everything turned out fine.", "Eventually everything worked out."]
+    },
+    "qwhy": [
+      "Past Perfect — для предыстории, а не фона; Present Perfect — не для рассказа о прошлом; Future Simple — будущее.",
+      "Past Simple — последовательные события, не предшествование; Present Simple — настоящее; Past Continuous — фон, длительность.",
+      "At the end — «в конце чего-то», требует of; On the end — неверный предлог; By the end we make up — «к концу» и неверное время.",
+      "Long story short — подводит итог; Needless to say — «само собой», ожидаемое; Did I ever tell you — начало истории."
+    ]
+  }
+}

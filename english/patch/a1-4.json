@@ -1,0 +1,221 @@
+{
+  "a1u20l1": {
+    "why": [
+      "Устойчивая фраза при знакомстве: Nice to meet you.",
+      "Where are you from? — предлог from стоит в конце вопроса.",
+      "Перед профессией в ед. числе нужен артикль a/an; software начинается с согласного звука → a.",
+      "What do you do? — вопрос о профессии; второе do — смысловой глагол «делать».",
+      "first time — «первый раз»: Is this your first time in…?",
+      "And you? — короткий встречный вопрос «А ты?».",
+      "Устойчивое выражение by the way — «кстати»."
+    ],
+    "alts": {
+      "0": ["Hi, I'm Max. Pleased to meet you."],
+      "2": ["I'm a programmer.", "I'm a software engineer."],
+      "3": ["What's your job?", "What do you do for a living?"],
+      "4": ["Are you in Chicago for the first time?"],
+      "5": ["Fine, thanks. And you?", "Good, thanks. How about you?"]
+    },
+    "qwhy": [
+      "What are you doing? — это «что ты делаешь сейчас»; What is your work do? — бессмысленная смесь; What you do? — пропущен do.",
+      "Me too meet — неграмматично; Yes, nice — невежливо и неполно; I'm fine — ответ на How are you?",
+      "a — engineer начинается с гласного звука; the — профессию так не называют; без артикля — перед профессией артикль обязателен."
+    ]
+  },
+  "a1u20l2": {
+    "why": [
+      "spell — «назвать по буквам»: Can you spell…?",
+      "first name — «имя» (last name — фамилия).",
+      "phone number — «номер телефона».",
+      "double O — так называют две одинаковые буквы подряд.",
+      "@ в адресе читается at, точка — dot.",
+      "say that again — «повторить»; again — «ещё раз»."
+    ],
+    "alts": {
+      "0": ["Could you spell your last name?", "Can you spell your surname?"],
+      "2": ["What is your phone number?", "What's your number?"],
+      "5": ["Sorry, could you repeat that?", "Sorry, can you repeat that?"]
+    },
+    "qwhy": [
+      "zero point — это «ноль целых» в десятичных дробях; null / nothing — так ноль в номерах не читают.",
+      "последнее имя ребёнка / прозвище — неверный буквальный перевод; отчество — в английском его нет, это middle name лишь отчасти.",
+      "[ʒiː] — такой буквы нет (G — [dʒiː]); [jot] — немецкое название; [aɪ] — это буква I."
+    ]
+  },
+  "a1u20l3": {
+    "why": [
+      "Принадлежность: sister's husband — «муж сестры» ('s после владельца).",
+      "cousin — двоюродный брат или сестра.",
+      "Вопрос в Present Simple: Do you have…? (с any — в вопросе).",
+      "only child — «единственный ребёнок»; перед only — артикль an.",
+      "parents — мн. число на -s, поэтому только апостроф: parents'.",
+      "married — «женат/замужем»: Are you married? — ответ Yes, I am.",
+      "Сын тёти — двоюродный брат: cousin."
+    ],
+    "alts": {
+      "2": ["Have you got any brothers or sisters?", "Do you have any siblings?"],
+      "5": ["Are you married? — Yes."]
+    },
+    "qwhy": [
+      "the car of my father's — неестественно; my fathers car — нет апострофа; car my father — нет притяжательной формы.",
+      "niece — племянница; cousin — двоюродный брат; uncle — дядя.",
+      "my parent's houses — один родитель и много домов; my parents's — после -s множественного 's не добавляют; house of parents my — неверный порядок."
+    ]
+  },
+  "a1u20l4": {
+    "why": [
+      "О волосах и глазах говорим через have: she has.",
+      "Рост и телосложение описываем через be: my brother is.",
+      "What does … look like? — вопрос о внешности.",
+      "beard — «борода»: have a beard.",
+      "hair неисчисляемое, глагол в ед. ч.: her hair is.",
+      "friendly — «дружелюбный», прилагательное после be.",
+      "Прилагательное цвета стоит перед существительным: a red dress."
+    ],
+    "alts": {
+      "0": ["She's got long dark hair."],
+      "1": ["My brother is tall and slim."],
+      "4": ["She has curly hair."],
+      "6": ["She's in a red dress.", "She's wearing a red dress."]
+    },
+    "qwhy": [
+      "is / are — глаза «имеют», нужен have; have — he требует has.",
+      "What does he look like? — о внешности; How is he look? / What he like? — неграмматично.",
+      "black long hair — цвет должен стоять после размера; hair long black / long hair black — прилагательные идут перед существительным."
+    ]
+  },
+  "a1u20l5": {
+    "why": [
+      "work as + профессия — «работать кем-то».",
+      "work for + компания — «работать на компанию».",
+      "Перед профессией нужен артикль; engineer начинается с гласного звука → an.",
+      "Конкретная должность — исчисляемое job: a new job.",
+      "После does — начальная форма: work.",
+      "work в значении «объём дел» неисчисляемое: a lot of work.",
+      "work at + место работы (учреждение): at a hospital."
+    ],
+    "alts": {
+      "1": ["She works at a big bank."],
+      "4": ["Does your wife work full time?"],
+      "6": ["My sister works in a hospital."]
+    },
+    "qwhy": [
+      "a work — work неисчисляемое; I look a job — нужно look for; I search work job — бессмысленно.",
+      "like — «как, подобно», а не «в качестве»; for — с компанией; how — так не говорят.",
+      "work — she требует -s; is work — be и Simple не смешивают; working — без is нельзя."
+    ]
+  },
+  "a1u21l1": {
+    "why": [
+      "check in — «регистрироваться» (фразовый глагол).",
+      "boarding pass — «посадочный талон».",
+      "aisle seat — «место у прохода»; aisle начинается с гласного звука → an.",
+      "carry-on — «ручная кладь».",
+      "delayed — «задержан»: is delayed by two hours.",
+      "gate — «выход на посадку».",
+      "С самолётом, автобусом, поездом — on: on the plane."
+    ],
+    "alts": {
+      "0": ["Where do I check in for flight UA 90?"],
+      "2": ["Could I have an aisle seat, please?", "Can I get an aisle seat, please?"],
+      "4": ["Our flight is two hours late."],
+      "6": ["We're already on board."]
+    },
+    "qwhy": [
+      "in the plane — с самолётом используем on; at plane / into plane — неверный предлог и нет артикля.",
+      "ticket gate — турникет; landing card — миграционная карта; check card — дебетовая карта.",
+      "delayed — задержан; boarded — посадка завершена; landed — приземлился."
+    ]
+  },
+  "a1u21l2": {
+    "why": [
+      "purpose — «цель»: What's the purpose of your visit?",
+      "Present Continuous для запланированного будущего: How long are you staying?",
+      "for + период: for two weeks.",
+      "Устойчиво: on vacation — «в отпуске».",
+      "nothing to declare — «нечего декларировать».",
+      "return ticket — «обратный билет».",
+      "business trip — «командировка»: on a business trip."
+    ],
+    "alts": {
+      "0": ["What is the purpose of your visit?"],
+      "1": ["How long will you stay?", "How long will you be here?"],
+      "2": ["I'm staying for two weeks."],
+      "3": ["I'm here on holiday."],
+      "6": ["I'm here on business."]
+    },
+    "qwhy": [
+      "Since — с моментом начала, а не с периодом; During — «во время чего-то»; Five days ago — «пять дней назад».",
+      "custom — «обычай»; costumes — «костюмы»; passport control — паспортный контроль, а не таможня.",
+      "In airport — нет артикля и не отвечает про жильё; Yes, I am — на вопрос с where не отвечают да/нет; Five nights — это ответ на How long."
+    ]
+  },
+  "a1u21l3": {
+    "why": [
+      "reservation — «бронь»: I have a reservation.",
+      "included — «включён»: Is breakfast included?",
+      "С этажом — предлог on: on the fourth floor.",
+      "Вопрос о наличии: Is there + ед. число.",
+      "checkout — «выезд» (существительное).",
+      "towel — «полотенце»: an extra towel.",
+      "«На имя» — under: The reservation is under…"
+    ],
+    "alts": {
+      "0": ["I have a booking for three nights.", "I booked a room for three nights."],
+      "3": ["Do you have Wi-Fi in the room?", "Is there Wi-Fi in my room?"],
+      "4": ["When is checkout?"],
+      "5": ["Can I get an extra towel, please?", "Could I get another towel, please?"],
+      "6": ["The reservation is under the name Sokolova."]
+    },
+    "qwhy": [
+      "on the name / for name of / by name — устойчиво только under the name.",
+      "Are — pool в ед. числе; Has / Does — в конструкции there is используется be.",
+      "Give me key card / I want key card now / Key card me — грубо или неграмматично, нет артикля."
+    ]
+  },
+  "a1u21l4": {
+    "why": [
+      "how do I get to… — «как добраться до…».",
+      "go straight — «идите прямо».",
+      "Повелительное наклонение — начальная форма: Turn left.",
+      "on your right — «справа от вас».",
+      "across from — «напротив» (американский вариант).",
+      "far — «далеко»: Is it far from here?",
+      "Вопрос о наличии: Is there a… near here?"
+    ],
+    "alts": {
+      "0": ["Excuse me, how can I get to the museum?", "Excuse me, where is the museum?"],
+      "1": ["Go straight ahead for three blocks."],
+      "4": ["It's opposite the park."],
+      "6": ["Is there a metro station near here?", "Is there a subway station nearby?"]
+    },
+    "qwhy": [
+      "opposite of — с opposite предлог of не нужен; in front post office — «перед», а не «напротив», и нет of the; against — «против, вплотную к».",
+      "Hey you, / Listen, — грубо; Sorry me — такого выражения нет.",
+      "Turns — в повелительном -s не бывает; Turning / To turn — не повелительная форма."
+    ]
+  },
+  "a1u21l5": {
+    "why": [
+      "take somebody to — «отвезти кого-то куда-то».",
+      "take a taxi / take an Uber — «поехать на такси».",
+      "drop off — «высадить» (фразовый глагол, off после местоимения).",
+      "trunk — «багажник» (американский вариант).",
+      "traffic неисчисляемое: a lot of traffic — «большие пробки».",
+      "Вопрос о цене — How much.",
+      "Keep the change — «сдачи не надо»."
+    ],
+    "alts": {
+      "0": ["Could you take me to the airport?"],
+      "1": ["Let's get an Uber.", "Let's call an Uber."],
+      "2": ["You can let me out at the corner."],
+      "4": ["The traffic is really bad today.", "There's heavy traffic today."],
+      "5": ["How much does it cost to get downtown?"]
+    },
+    "qwhy": [
+      "Pick me up here — «заберите меня»; Get me out here — неестественно; Fall me here — бессмыслица.",
+      "many traffics — traffic неисчисляемое; big jams traffic — неверный порядок; much cars — cars исчисляемое, нужно many.",
+      "get on — с автобусом, поездом, но не легковым автомобилем; sit the taxi — нет предлога; go into taxi — неестественно и нет артикля."
+    ]
+  }
+}

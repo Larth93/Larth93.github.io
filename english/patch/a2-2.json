@@ -1,0 +1,289 @@
+{
+"a2u4l1": {
+ "why": [
+  "После сравнительной степени (cheaper) второй объект вводится словом than.",
+  "Короткое прилагательное big: -er с удвоением согласной (bigger); есть than.",
+  "Длинное прилагательное expensive: сравнительная степень через more.",
+  "bad — исключение: bad → worse → the worst.",
+  "good — исключение: good → better; есть than.",
+  "a bit = немного; усиливает сравнительную степень: a bit more crowded."
+ ],
+ "alts": {
+  "1": ["This apartment is larger than the last one.", "This flat is bigger than the previous one."],
+  "2": ["The city center is more expensive.", "Downtown is more expensive."],
+  "3": ["The weather is worse today."],
+  "5": ["The bus was a little more crowded.", "The bus was slightly more crowded."]
+ },
+ "qwhy": [
+  "more cheap — короткое прилагательное берёт -er, не more; more cheaper — двойное сравнение; cheapest — превосходная степень, а есть than.",
+  "gooder — good неправильное; more good — так не говорят; best — превосходная степень.",
+  "much — much comfortable без -er/more невозможно; -er — у длинного прилагательного -er не бывает; most — превосходная степень требует the и не ставится в сравнении.",
+  "more big that — big берёт -er, и нужно than, а не that; biger then — нужно удвоить g, then = «потом»; bigger as — нет is, и после сравнительной степени нужно than."
+ ]
+},
+"a2u4l2": {
+ "why": [
+  "good — исключение: the best; превосходная степень с the.",
+  "Длинное прилагательное beautiful: превосходная степень через the most.",
+  "Короткое прилагательное hot: the + -est с удвоением t (hottest).",
+  "bad — исключение: the worst; часто с I've ever had.",
+  "После превосходной степени место/группа вводится через in: in the world.",
+  "Короткое прилагательное cheap: the cheapest."
+ ],
+ "alts": {
+  "0": ["It's the best restaurant in the city."],
+  "3": ["This is the worst coffee I have ever had.", "This is the worst coffee I've ever tasted."],
+  "5": ["What is the cheapest option?", "Which option is the cheapest?"]
+ },
+ "qwhy": [
+  "the expensivest — длинное прилагательное не берёт -est; most expensive — пропущен the; the more expensive — сравнительная, а не превосходная степень.",
+  "the baddest — bad неправильное (baddest — только сленг); the most bad — так не говорят; the worse — сравнительная степень.",
+  "of — of для группы (of all), а Europe — место; on, at — с названием континента не используются."
+ ]
+},
+"a2u4l3": {
+ "why": [
+  "Конструкция (not) as + прилагательное + as: второе as обязательно.",
+  "too + прилагательное = слишком (с негативным результатом: не могу позволить).",
+  "enough ставится ПОСЛЕ прилагательного: big enough.",
+  "enough ставится ПЕРЕД существительным: enough time.",
+  "as + прилагательное + as = такой же, как.",
+  "too + прилагательное: too noisy = слишком шумная."
+ ],
+ "alts": {
+  "1": ["It's too expensive, I can't pay for it."],
+  "2": ["The room isn't large enough for three."],
+  "4": ["She is as tall as her brother."]
+ },
+ "qwhy": [
+  "enough warm — enough ставится после прилагательного; too enough warm — too и enough не сочетаются; warm as enough — бессмысленный набор.",
+  "very enough — так не говорят; enough — «достаточно горячий» не объясняет, почему нельзя пить; as — as hot без второго as неполно.",
+  "so as — so ... as возможно, но не «so as» подряд; than — than после сравнительной степени, а здесь big; more — more big невозможно и нет than.",
+  "too — too chairs без many невозможно; as — as chairs бессмысленно; enough of — enough of нужен перед the/my и т.п., а не перед голым существительным."
+ ]
+},
+"a2u4l4": {
+ "why": [
+  "Глагол speak описывается наречием; наречие от good — well.",
+  "Наречие образа действия: careful + -ly, описывает как вести машину.",
+  "Наречие polite + -ly описывает, как он ответил.",
+  "hardly = почти не; отрицательное по смыслу, ставится перед глаголом.",
+  "hard как наречие не меняет форму: work hard = усердно/много работать.",
+  "После глаголов чувств (taste, look, smell) — прилагательное: tastes good."
+ ],
+ "alts": {
+  "0": ["She speaks very good English."],
+  "1": ["Drive carefully, please."],
+  "2": ["He politely answered the question."],
+  "3": ["I barely slept last night."],
+  "5": ["The soup is tasty.", "The soup is delicious."]
+ },
+ "qwhy": [
+  "good — прилагательное, а нужен наречие к plays; goodly — такого наречия нет; better well — бессмысленное сочетание.",
+  "fastly — fast не берёт -ly; faster — сравнительная степень, а нет сравнения; fasting — «голодание».",
+  "tiredly — после look нужно прилагательное; tiring — «утомительный», а не «уставший»; tiredness — существительное."
+ ]
+},
+"a2u5l1": {
+ "why": [
+  "must: строгая обязанность или правило (закон о ремнях).",
+  "have to: необходимость из-за обстоятельств (работа); I have to + V1.",
+  "mustn't = запрещено (курить в здании).",
+  "don't have to = не обязательно, нет необходимости.",
+  "Прошедшее от must/have to — had to (yesterday).",
+  "Вопрос с have to: Does she have to + V1? work shifts = работать сменами."
+ ],
+ "alts": {
+  "0": ["You have to wear a seat belt.", "You have to fasten your seat belt."],
+  "2": ["You can't smoke in the building.", "Smoking isn't allowed in the building."],
+  "3": ["You don't need to wear a suit."],
+  "4": ["Yesterday I had to stay late at work."]
+ },
+ "qwhy": [
+  "mustn't — это запрет, а не «не нужно»; must — нелогично: бесплатно, но обязан платить; have to — то же противоречие.",
+  "don't have to — «не обязательно», а здесь опасно — нужен запрет; haven't to — такой формы нет; don't must — must не употребляется с do.",
+  "musted — у must нет прошедшей формы; must have — это предположение о прошлом (must have + V3); was must — такой конструкции нет."
+ ]
+},
+"a2u5l2": {
+ "why": [
+  "should + V1 — совет (тебе стоит).",
+  "shouldn't + V1 — совет не делать чего-то.",
+  "for a headache = от головной боли; headache — исчисляемое, с a.",
+  "После should первый глагол стоит в V1, и второй через and тоже: stay ... and rest.",
+  "have a sore throat = болит горло (sore = больной, воспалённый).",
+  "had better ('d better) + V1 — настойчивый совет: тебе лучше..."
+ ],
+ "alts": {
+  "0": ["You should go to the doctor.", "You should go see a doctor."],
+  "1": ["You shouldn't eat that much sugar."],
+  "5": ["You'd better go to the drugstore now.", "You had better go to the pharmacy now."]
+ },
+ "qwhy": [
+  "should to — после should to не ставится; shoulds — модальные глаголы не берут -s; must to — после must to не ставится.",
+  "Do should — модальный глагол не используется с do; Must to — лишнее to; Have — Have I call невозможно (нужно Do I have to).",
+  "I have a heat — heat = жара, не температура тела; I am fever — fever существительное; temperature high — неправильный порядок (I have a high temperature)."
+ ]
+},
+"a2u5l3": {
+ "why": [
+  "might + V1 — возможность (возможно, опоздаю).",
+  "После may not — V1: may not come.",
+  "May I...? — вежливая просьба о разрешении.",
+  "maybe (одно слово) = может быть; наречие в начале фразы.",
+  "may + be: возможно, он находится дома.",
+  "not sure = не уверен; it might snow — возможность."
+ ],
+ "alts": {
+  "0": ["I may be late tonight.", "Maybe I'll be late tonight."],
+  "1": ["She might not come to the meeting.", "Maybe she won't come to the meeting."],
+  "2": ["Can I come in?"],
+  "3": ["I might get a promotion.", "I may get a promotion."],
+  "4": ["He might be at home now.", "Maybe he's at home now."],
+  "5": ["I'm not sure — it may snow."]
+ },
+ "qwhy": [
+  "might to — после модального глагола to не нужен; mights — модальные не берут -s; musts — то же, и must значило бы уверенность.",
+  "Might — для просьбы звучит устаревше и очень формально; Maybe — наречие, не начинает вопрос; Should to — лишнее to и это не просьба.",
+  "May be — раздельно: модальный + глагол, нужно he may be right; Might — нужен глагол: he might be; May — May he's невозможно."
+ ]
+},
+"a2u5l4": {
+ "why": [
+  "What do you do? — стандартный вопрос о профессии.",
+  "Перед профессией в единственном числе нужен артикль a/an: a software developer.",
+  "work as + профессия = работать кем-то.",
+  "work for + компания = работать в (на) компании.",
+  "be in charge of = отвечать за, руководить.",
+  "part-time = неполный рабочий день; part-time job.",
+  "colleagues — мн. ч. (my colleagues are), отсюда are; colleague = коллега по работе."
+ ],
+ "alts": {
+  "0": ["What's your job?", "What do you do for a living?"],
+  "1": ["I am a software engineer."],
+  "2": ["She's a nurse."],
+  "3": ["I work at a large bank.", "I work for a big bank."],
+  "4": ["He manages the sales team.", "He runs the sales team."],
+  "5": ["I want to find a part-time job."],
+  "6": ["My coworkers are very friendly."]
+ },
+ "qwhy": [
+  "What is your work? — звучит неестественно, говорят What's your job?; Who do you work? — грамматически неверно; What are you working? — так не говорят.",
+  "a — перед гласным звуком нужно an; the — профессия здесь не конкретная; — — артикль перед профессией обязателен.",
+  "hire — после предлога нужна -ing форма; to hire — после for инфинитив не ставится; hired — V3 здесь не подходит."
+ ]
+},
+"a2u6l1": {
+ "why": [
+  "a little + неисчисляемое (water) = немного.",
+  "a few + исчисляемое во мн. ч. (minutes) = несколько.",
+  "How much is...? — вопрос о цене.",
+  "a lot of = много; подходит и к исчисляемым (people), и к неисчисляемым.",
+  "check = счёт в ресторане (американский вариант; британский — bill).",
+  "How many + исчисляемое во мн. ч. (people).",
+  "be ready to + V1: ready to order = готовы заказать."
+ ],
+ "alts": {
+  "0": ["Could I have some more water?", "Can I have a little more water?"],
+  "1": ["We waited for a table for a few minutes."],
+  "3": ["There were lots of people there.", "There were many people there."],
+  "4": ["Could we have the check, please?", "Can we get the check, please?"]
+ },
+ "qwhy": [
+  "a few — для исчисляемых, а milk неисчисляемое; many — тоже для исчисляемых; few — «мало» и для исчисляемых.",
+  "much — для неисчисляемых, а tickets исчисляемое; little — для неисчисляемых; lot — нужно a lot of и не в вопросе с How.",
+  "A few people came — «пришло несколько человек», смысл позитивный; A little people — little для неисчисляемых; Little people — то же, и это значит «маленькие люди».",
+  "the account — банковский счёт; the bill of paper — так не говорят; the count — подсчёт, не счёт в ресторане."
+ ]
+},
+"a2u6l2": {
+ "why": [
+  "После enjoy — герундий (V-ing): enjoy traveling.",
+  "После decide — инфинитив с to: decided to rent.",
+  "После Do you mind — герундий: mind opening.",
+  "После want — инфинитив с to: want to find.",
+  "После avoid — герундий: avoids driving.",
+  "look forward to: to здесь предлог, поэтому дальше V-ing.",
+  "После предлога for — герундий: thanks for helping."
+ ],
+ "alts": {
+  "0": ["I like traveling alone.", "I enjoy traveling by myself."],
+  "1": ["We decided to hire a car."],
+  "2": ["Could you open the window?", "Would you mind opening the window?"],
+  "4": ["She avoids driving at night."],
+  "5": ["I look forward to seeing you."],
+  "6": ["Thank you for helping me.", "Thanks for your help."]
+ },
+ "qwhy": [
+  "to write — после finish инфинитив не используется; write — нужна -ing форма; wrote — прошедшее время.",
+  "studying — после hope нужен to + V1; study — пропущено to; studied — прошедшее время.",
+  "to learn — после предлога in инфинитив невозможен; learn — нужна -ing форма; learned — прошедшее время.",
+  "meeting — после agree нужен to + V1; meet — пропущено to; met — прошедшее время."
+ ]
+},
+"a2u6l3": {
+ "why": [
+  "who — относительное местоимение для людей (woman).",
+  "that — для предметов (bus); здесь that — подлежащее придаточного, опустить нельзя.",
+  "which — для предметов (apartment); можно также that или опустить.",
+  "Придаточное о соседе (он) в настоящем: who doesn't smoke — 3-е лицо ед. ч.",
+  "Past Simple: залог уже заплачен; pay → paid.",
+  "utilities = коммунальные услуги (свет, вода, газ)."
+ ],
+ "gap": { "0": "who|that", "1": "that|which", "2": "which|that" },
+ "alts": {
+  "0": ["The woman who lives next door is a doctor."],
+  "2": ["The apartment we saw was furnished.", "The apartment that we saw was furnished."],
+  "4": ["The deposit we paid was high.", "The deposit we paid was large."],
+  "5": ["Are utilities included in the rent?"]
+ },
+ "qwhy": [
+  "which — для вещей, а man — человек; what — не используется как относительное местоимение после существительного; whose — «чей».",
+  "who — для людей, а car — вещь; what — после существительного не ставится; where — для места.",
+  "the girl that sings, the bus that leaves, the man that helped — здесь that — подлежащее придаточного, без него предложение ломается."
+ ]
+},
+"a2u6l4": {
+ "why": [
+  "hold on = подождать (у телефона).",
+  "call back = перезвонить; местоимение you стоит между глаголом и частицей.",
+  "hang up = положить (бросить) трубку.",
+  "get through = дозвониться.",
+  "По телефону представляются через This is..., а не I am...",
+  "leave a message = оставить сообщение.",
+  "speak up = говорить громче."
+ ],
+ "alts": {
+  "0": ["Could you wait a moment, please?", "Can you hold on a minute, please?"],
+  "1": ["I'll call you back in 10 minutes."],
+  "4": ["Hello, this is Ivan from the bank."],
+  "6": ["Sorry, could you speak louder?"]
+ },
+ "qwhy": [
+  "call back you — местоимение должно стоять между глаголом и частицей; back call you — частица не идёт перед глаголом; call you up back — две частицы подряд, бессмыслица.",
+  "I am Anna speaking here — неестественно, говорят This is Anna (speaking); Here is Anna — так не представляются; It's me Anna is — грамматически неверно.",
+  "повесить картину — это hang a picture (без up в смысле звонка); взять трубку — pick up / answer; перезвонить — call back."
+ ]
+},
+"a2u6l5": {
+ "why": [
+  "to + V1 выражает цель: пишу, чтобы спросить.",
+  "Please find attached — стандартная фраза о вложении в деловом письме.",
+  "Could you please + V1 — вежливая просьба; confirm = подтвердить.",
+  "look forward to: to — предлог, поэтому V-ing: hearing.",
+  "Thank you for your + существительное: reply = ответ.",
+  "Best regards — стандартная вежливая подпись в письме."
+ ],
+ "alts": {
+  "1": ["Please find my resume attached.", "My resume is attached."],
+  "2": ["Could you confirm my booking, please?", "Could you please confirm my reservation?"],
+  "4": ["Thank you for your fast reply.", "Thanks for your quick reply."],
+  "5": ["Kind regards, Ivan", "Regards, Ivan"]
+ },
+ "qwhy": [
+  "hear — после предлога to нужна -ing форма; heard — прошедшее время; to hear — два to подряд, ошибка.",
+  "Send it. — приказ, невежливо; You must send it. — звучит как требование; Give me it. — грубо и неестественный порядок.",
+  "Hey Brown! — фамильярно для незнакомца; Hello dear Brown — неверный порядок и нет Mr.; Yo Mr. Brown — сленг."
+ ]
+}
+}

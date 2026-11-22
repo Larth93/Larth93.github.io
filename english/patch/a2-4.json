@@ -1,0 +1,283 @@
+{
+"a2u22l1": {
+ "why": [
+  "apply for + вакансия = подавать заявку на работу.",
+  "experience в значении «опыт» — неисчисляемое: two years of experience.",
+  "work as + профессия = работать кем-то.",
+  "since + точка начала (2022); Present Perfect — работаю до сих пор.",
+  "be responsible for + V-ing: после предлога for — герундий.",
+  "be good at + V-ing: после предлога at — герундий.",
+  "turn down = отказать (кандидату, предложению).",
+  "salary = зарплата (фиксированная, обычно в месяц/год)."
+ ],
+ "alts": {
+  "0": ["I'm applying for the job in marketing.", "I'm applying for the marketing position."],
+  "1": ["I have two years' experience."],
+  "3": ["I have worked here since 2022.", "I've been working here since 2022."],
+  "4": ["I was in charge of managing the team."],
+  "6": ["They rejected me after the interview."],
+  "7": ["The salary is three thousand per month.", "The salary is 3,000 a month."]
+ },
+ "qwhy": [
+  "like — «как» в значении сходства, а не профессии; how — вопросительное слово; for — for + компания, а не профессия.",
+  "have worked — период закрыт (2018–2020), нужен Past Simple; work — настоящее время; was work — неверная форма.",
+  "communicate — после предлога at нужна -ing форма; to communicate — инфинитив после предлога невозможен; communication with — нет дополнения после with.",
+  "apply to job — apply to + компания, и нет артикля; apply on — неверный предлог; ask a job — так не говорят (ask for a job — просить работу)."
+ ]
+},
+"a2u22l2": {
+ "why": [
+  "show around = провести, показать (помещение).",
+  "break room = комната отдыха в офисе.",
+  "have to + V1: wear your badge = носить пропуск.",
+  "set up = настроить (технику).",
+  "log in = войти (в систему).",
+  "figure out = разобраться, понять.",
+  "get along with = ладить с кем-то.",
+  "deadline = крайний срок."
+ ],
+ "alts": {
+  "1": ["This is the staff room."],
+  "2": ["You must wear your badge.", "You need to wear your badge."],
+  "4": ["Sign in with your email.", "Log in using your email."],
+  "5": ["I can't understand this program."],
+  "6": ["I get on well with my coworkers.", "I get along with my colleagues."],
+  "7": ["The deadline is next Friday."]
+ },
+ "qwhy": [
+  "show up — «появиться, прийти»; look around you — «оглянись вокруг»; show off — «хвастаться».",
+  "get on to — «связаться с, переключиться на»; go along — «идти вместе, соглашаться»; get with along — неверный порядок слов.",
+  "mustn't — это запрет, а костюм можно, просто не обязательно; haven't — haven't wear невозможно; not have — нет вспомогательного do.",
+  "coleague — орфографическая ошибка (colleague) и это не разговорный вариант; partner job — так не говорят; workman — рабочий, мастер."
+ ]
+},
+"a2u22l3": {
+ "why": [
+  "let someone know = сообщить кому-то; после let — V1 без to.",
+  "get back to someone = ответить, перезвонить позже.",
+  "catch up = пообщаться, наверстать новости.",
+  "hear from someone = получить весточку от кого-то.",
+  "look forward to: to — предлог, поэтому V-ing: seeing.",
+  "By the way = кстати.",
+  "as soon as possible = как можно скорее (ASAP).",
+  "Take care = береги себя (дружеская концовка)."
+ ],
+ "alts": {
+  "0": ["I just wanted to let you know I'm here.", "Just wanted to tell you I'm here."],
+  "1": ["Sorry, I'll reply later.", "Sorry, I'll get back to you later."],
+  "3": ["It was great hearing from you!", "So nice to hear from you!"],
+  "4": ["I look forward to seeing you.", "Can't wait to see you."],
+  "6": ["Please reply ASAP.", "Please answer as soon as possible."]
+ },
+ "qwhy": [
+  "see — после предлога to нужна -ing форма; saw — прошедшее время; be seeing to — бессмыслица.",
+  "be there wait, before the week, back to work — выдуманные расшифровки, BTW = by the way.",
+  "get on to you — «связаться, придираться»; go back you — грамматически неверно; get you back — «отомстить тебе».",
+  "Yours faithfully, Dear Sir, Respectfully — официальные формулы, а не дружеская концовка."
+ ]
+},
+"a2u22l4": {
+ "why": [
+  "come to dinner = прийти на ужин (без артикля).",
+  "How about + V-ing: How about going...?",
+  "Let's + V1 — предложение сделать что-то вместе.",
+  "can't make it = не смогу прийти/успеть.",
+  "Present Continuous для договорённости на будущее (on Friday).",
+  "come over = зайти в гости.",
+  "call off = отменить.",
+  "hang out = тусоваться, проводить время."
+ ],
+ "alts": {
+  "0": ["Would you like to come for dinner?", "Would you like to come over for dinner?"],
+  "1": ["What about going to the movies?", "How about going to the cinema?"],
+  "3": ["Sorry, I can't come."],
+  "4": ["I'm seeing Anna on Friday."],
+  "5": ["Do you want to come by tonight?", "Do you want to come over this evening?"],
+  "6": ["They canceled the party."],
+  "7": ["We usually hang out in the city center."]
+ },
+ "qwhy": [
+  "order — после about нужна -ing форма; to order — инфинитив после предлога невозможен; ordered — прошедшее время.",
+  "to take — после Let's to не ставится; taking — нужна начальная форма; takes — -s после Let's невозможно.",
+  "call up — «позвонить»; call back — «перезвонить»; put on — «надеть, включить».",
+  "No. I don't want. — грубо и неполно (нужно to); I won't, busy. — грубо и неграмматично; Not, thanks you. — грамматические ошибки (No, thank you)."
+ ]
+},
+"a2u22l5": {
+ "why": [
+  "Sorry for + V-ing: being late.",
+  "get stuck = застрять.",
+  "oversleep → overslept (неправильный глагол) = проспать.",
+  "run out of = закончиться (батарея, деньги).",
+  "Past Continuous: действие было в процессе (вёл машину), поэтому не мог ответить.",
+  "apologize for = извиняться за.",
+  "make up for = загладить, компенсировать.",
+  "let someone down = подвести кого-то; после let — V1."
+ ],
+ "alts": {
+  "0": ["Sorry I'm late.", "Sorry for being late."],
+  "1": ["I was stuck in traffic."],
+  "3": ["My phone's battery died.", "My phone died."],
+  "4": ["I was driving, so I couldn't pick up."],
+  "5": ["I'm sorry for the mistake."]
+ },
+ "qwhy": [
+  "miss — после for нужна -ing форма; to miss — инфинитив после предлога невозможен; missed — прошедшее время.",
+  "sleep over — «переночевать у кого-то»; outsleep, sleep out — не значат «проспать».",
+  "to — apologize to + человек, а не причина; about of — два предлога подряд; — — предлог for обязателен.",
+  "ran off money — run off = «убежать»; My money run — неверная форма и смысл; I out of money ran — неверный порядок слов."
+ ]
+},
+"a2u22l6": {
+ "why": [
+  "post = выложить (в соцсети); Past Simple — posted.",
+  "follow = подписаться, следить за (блогером).",
+  "charge = заряжать.",
+  "scroll through = листать (ленту).",
+  "notifications — мн. ч. после all.",
+  "look up = поискать (информацию); местоимение it между глаголом и up.",
+  "sign up for = зарегистрироваться в.",
+  "always (наречие частоты) стоит после глагола be: I'm always."
+ ],
+ "alts": {
+  "0": ["She posted a picture from Paris.", "She shared a photo from Paris."],
+  "1": ["I follow lots of travel bloggers."],
+  "4": ["I switched off all notifications.", "I turned all notifications off."],
+  "5": ["Just google it.", "Just search for it online."],
+  "6": ["I signed up for a new app.", "I registered in a new app."],
+  "7": ["I'm on my phone all the time.", "I'm constantly on my phone."]
+ },
+ "qwhy": [
+  "follow on a channel — follow без on; sign to — нужно sign up for; subscribe a channel at — нужен предлог to, at лишний.",
+  "check never — наречие частоты ставится перед смысловым глаголом; never am check — смешаны be и check; am never checking always — бессмыслица.",
+  "look after — «заботиться»; look out — «быть осторожным»; look for up — две частицы подряд.",
+  "died off out — лишние частицы; is killed — «убита», не о батарее; is sleeping — «спит», так не говорят."
+ ]
+},
+"a2u23l1": {
+ "why": [
+  "Повелительное наклонение в рецепте; chop = нарезать.",
+  "boil = варить (в кипящей воде).",
+  "a pinch of = щепотка.",
+  "flour — неисчисляемое, поэтому How much.",
+  "a few + исчисляемое во мн. ч. (eggs) = несколько.",
+  "stir = помешивать.",
+  "bake = запекать (в духовке); 350 °F — это около 175 °C.",
+  "heat up = разогреть."
+ ],
+ "alts": {
+  "0": ["Cut the onions into small pieces.", "Chop the onion finely."],
+  "1": ["Cook the pasta for ten minutes."],
+  "4": ["We need some eggs."],
+  "6": ["Bake it for an hour at 350 degrees."],
+  "7": ["Just warm it up in the microwave.", "Just microwave it."]
+ },
+ "qwhy": [
+  "many — для исчисляемых, а milk неисчисляемое; few — тоже для исчисляемых; lot — нужно a lot of и не после How.",
+  "cooker — это плита; cooking — процесс готовки; cookman — такого слова нет.",
+  "Past Simple, Present Perfect, Future — в рецептах инструкции даются в повелительном наклонении.",
+  "boil — варить; fry — жарить; stir — помешивать."
+ ]
+},
+"a2u23l2": {
+ "why": [
+  "work out = тренироваться.",
+  "play + командные игры с мячом: play soccer.",
+  "do + yoga (и боевые искусства, гимнастика); she → does.",
+  "go + V-ing для занятий: go running.",
+  "warm up = разминаться.",
+  "take up = начать заниматься (хобби, спортом).",
+  "give up = сдаться.",
+  "coach = тренер (спортивный)."
+ ],
+ "alts": {
+  "0": ["I go to the gym three times a week.", "I exercise at the gym three times a week."],
+  "3": ["Let's go for a run in the park."],
+  "4": ["Always warm up before you train.", "Always warm up before a workout."],
+  "5": ["I started boxing last year."],
+  "7": ["My trainer is very strict."]
+ },
+ "qwhy": [
+  "play — для игр с мячом и соревнований; go — для занятий на -ing; make — со спортом не используется.",
+  "do — с -ing занятиями используется go; play — для игр с мячом; make — не со спортом.",
+  "give in out — бессмыслица; take up — «начать заниматься», противоположное; give off — «испускать (запах, тепло)».",
+  "football — в США это американский футбол; footbal game — ошибка в написании; ball — просто «мяч»."
+ ]
+},
+"a2u23l3": {
+ "why": [
+  "-ing прилагательное описывает то, что вызывает чувство: фильм скучный (boring).",
+  "-ed прилагательное описывает чувство человека: мне скучно (bored).",
+  "be about = быть о (сюжет).",
+  "ending = концовка.",
+  "come out = выходить (о фильме, сезоне).",
+  "binge-watch = смотреть запоем; Past Simple — binge-watched.",
+  "turn out to be = оказаться.",
+  "I'd recommend it = я бы посоветовал."
+ ],
+ "alts": {
+  "0": ["The film was so boring.", "The movie was really boring."],
+  "1": ["I got bored after twenty minutes.", "I was bored after 20 minutes."],
+  "3": ["The ending was a huge surprise."],
+  "4": ["The new season is coming out in May.", "The new season comes out in May."],
+  "7": ["I would definitely recommend it."]
+ },
+ "qwhy": [
+  "I was interesting — «я был интересным», а не «мне было интересно»; I interested — нет be; It was interested me — неверная конструкция.",
+  "confused — это чувство человека, а сюжет вызывает чувство (-ing); confuse — глагол; confusedly — наречие.",
+  "go out — «выйти, погаснуть»; get out — «выбраться»; turn up — «появиться».",
+  "turn up to — «прийти на»; come over — «зайти в гости»; work out — «тренироваться, получиться»."
+ ]
+},
+"a2u23l4": {
+ "why": [
+  "Present Perfect с yet в вопросе: have + V3; beat → beaten.",
+  "level up = повысить уровень; Past Simple — leveled (американское написание с одной l).",
+  "First Conditional: в главной части will + V1 (respawn = возродиться).",
+  "should + V1: upgrade = улучшить.",
+  "team up = объединиться.",
+  "pick up = подобрать.",
+  "Past Simple: законченное действие; finish the game = пройти игру.",
+  "walkthrough = прохождение (гайд)."
+ ],
+ "alts": {
+  "1": ["I leveled up three times today."],
+  "4": ["Let's team up for the next mission."],
+  "6": ["I beat the game in forty hours.", "I completed the game in forty hours."],
+  "7": ["I found a walkthrough online."]
+ },
+ "qwhy": [
+  "pass the game — калька с русского, так не говорят; go the game — бессмыслица; make the game — «создать игру».",
+  "will find — после if будущее время не ставится; found — прошедшее время; finding — нет сказуемого.",
+  "beat — V2 = beat, но после have нужна V3 beaten; beating — -ing после have невозможно; beated — beat неправильный глагол.",
+  "team on — неверная частица; group out, join off — таких выражений нет."
+ ]
+},
+"a2u23l5": {
+ "why": [
+  "cut down on = сократить (потребление чего-то).",
+  "shouldn't + V1 — совет не делать; stay up = не ложиться.",
+  "used to + V1 — прошлая привычка, которой больше нет.",
+  "enough перед существительным: enough sleep.",
+  "too much + неисчисляемое (junk food).",
+  "try to + V1 = стараться сделать.",
+  "cut out = полностью исключить.",
+  "habit = привычка."
+ ],
+ "alts": {
+  "0": ["I should eat less sugar.", "I should cut back on sugar."],
+  "1": ["You shouldn't go to bed so late."],
+  "2": ["I used to smoke, but I gave up.", "I used to smoke, but I stopped."],
+  "3": ["I don't sleep enough."],
+  "4": ["She eats a lot of junk food."],
+  "5": ["I try to walk 10,000 steps every day."],
+  "6": ["He gave up coffee completely.", "He completely cut out coffee."]
+ },
+ "qwhy": [
+  "cut off — «отрезать, отключить»; cut up — «нарезать»; cut on down — неверный порядок слов.",
+  "use — в утверждении нужно used to; was used — was used to + V-ing значит «был привычен»; am used — «я привык», и нужен -ing.",
+  "much — для неисчисляемых, а snacks исчисляемое; more — too more невозможно; enough — too enough невозможно.",
+  "stay on — «остаться (на работе, в должности)»; get up — «вставать»; sit out — «пропустить, пересидеть»."
+ ]
+}
+}

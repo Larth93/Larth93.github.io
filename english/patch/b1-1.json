@@ -1,0 +1,137 @@
+{
+"b1u1l1": {
+ "why": [
+  "Present Perfect Continuous: have been + V-ing — процесс начался в прошлом (since May) и продолжается.",
+  "How long + длительность до сих пор → have you been + V-ing; русское настоящее «живёшь» = Perfect Continuous.",
+  "for an hour + действие всё ещё идёт → has been waiting.",
+  "Видимые следы недавнего процесса (exhausted) → Have you been working?",
+  "Количество (twelve applications) = результат → Present Perfect Simple: have sent.",
+  "know — глагол состояния, в Continuous не употребляется → have known.",
+  "all morning — процесс, длящийся до сих пор → It's been raining."
+ ],
+ "alts": {"0": ["I have been looking for work since May."], "1": ["How long have you lived in Berlin?"], "2": ["She has been waiting for an hour."], "5": ["We have known each other for many years."]},
+ "qwhy": [
+  "learn — Present Simple не выражает «уже три года»; am learning — Continuous без связи с периодом for; learned since — прошлое время и неверный предлог.",
+  "works — регулярное действие, а не процесс до сейчас; worked yesterday — противоречит «all day» сегодня; is work — неверная форма.",
+  "have been reading — указано количество (три книги), нужен результат; read since — since не сочетается с this month; am reading — процесс, а не итог.",
+  "I've known him… — правильно (know в Simple); I've been working… — правильно, work — динамический глагол; He's been sleeping — правильно."
+ ]
+},
+"b1u1l2": {
+ "why": [
+  "Поезд ушёл раньше другого прошлого момента (got there) → Past Perfect: had left.",
+  "Опыт до момента в прошлом (before) → had never + V3: lived.",
+  "By the time + Past Simple → действие, завершённое к тому моменту: had started.",
+  "Потеря произошла раньше, чем она это поняла (realized) → had lost.",
+  "two days earlier — раньше момента рассказа → had expired.",
+  "before — «до» (встречи); показывает, что действие завершилось раньше."
+ ],
+ "alts": {"0": ["When I got there, the train had already gone."], "2": ["By the time we got there, the movie had started."], "5": ["He had finished the paperwork before the meeting."]},
+ "qwhy": [
+  "ate — не показывает, что это случилось раньше; has eaten — Present Perfect не сочетается с прошлым контекстом; eats — настоящее время.",
+  "have + V3 — Present Perfect; was + V-ing — Past Continuous; had + V-ing — не формула Past Perfect (это была бы неполная Past Perfect Continuous без been).",
+  "have gone — Present Perfect при прошлом called; go — настоящее; was go — неграмматично."
+ ]
+},
+"b1u1l3": {
+ "why": [
+  "Короткое действие прерывает фоновый процесс (was walking … when) → Past Simple: noticed.",
+  "Фон рассказа, процесс в прошлом → Past Continuous: It was raining.",
+  "Телефон оставлен раньше, чем я понял → Past Perfect: had left.",
+  "Eventually = «в конце концов, после долгих усилий» — подходит к долгим поискам отеля.",
+  "In the end = «в итоге»; at the end требует of (at the end of the day).",
+  "Meanwhile + процесс параллельно с основными событиями → Past Continuous: was waiting."
+ ],
+ "alts": {"0": ["I was walking home when I saw something strange."], "3": ["In the end, we found the hotel.", "Finally, we found the hotel."], "4": ["In the end, everything turned out fine.", "In the end, it worked out fine."]},
+ "qwhy": [
+  "had had — ужин закончился бы до отключения, а смысл — процесс; have — настоящее время; had — Past Simple не передаёт фон.",
+  "was losing — потеря не процесс; loses — настоящее; has lost — Present Perfect в прошлом рассказе.",
+  "at the end — «в конце (чего-то)», нужно of; on the end, to the end — не значат «в итоге».",
+  "возможно — это possibly/maybe; иногда — sometimes; немедленно — immediately."
+ ]
+},
+"b1u1l4": {
+ "why": [
+  "This time tomorrow — процесс в конкретный момент будущего → Future Continuous: will be flying.",
+  "By June — завершённость к сроку → Future Perfect: will have finished.",
+  "Вежливый вопрос о планах, не просьба → Future Continuous: Will you be using…?",
+  "In five years (к тому времени) кредит будет выплачен → will have paid off.",
+  "at eight — я буду в процессе ужина → I'll be having dinner.",
+  "by — «к» (не позже) концу месяца; используется с Future Perfect."
+ ],
+ "alts": {"0": ["This time tomorrow I will be flying to Dubai."], "1": ["By June I'll have finished my studies.", "By June I'll have completed my degree."], "3": ["In five years we'll have paid off the loan."]},
+ "qwhy": [
+  "'ll have had — завершённость к сроку, а нужен процесс в момент; have — настоящее; 'm have — неграмматично.",
+  "will be live — неверная форма; live — настоящее, нет «к 2030»; will living — нет be.",
+  "until — «до» (действие длится до момента), не срок; since — «с» (начало периода); for — длительность."
+ ]
+},
+"b1u2l1": {
+ "why": [
+  "Zero conditional — общая истина: Present Simple в обеих частях → it melts.",
+  "Регулярный результат → Present Simple: can't sleep.",
+  "Инструкция: if + Present, повелительное наклонение → restart.",
+  "Придаточное с if в Present Simple; отрицание с I → don't charge.",
+  "if + Present Simple (press), результат всегда наступает.",
+  "Общий факт о растениях: if + Present Simple, после don't — базовая форма get."
+ ],
+ "gap": {"2": "restart|reboot"},
+ "alts": {"0": ["If you heat ice, it melts."], "1": ["If I drink coffee late, I can't fall asleep."], "2": ["If the app crashes, reboot your phone."], "5": ["Plants die without water."]},
+ "qwhy": [
+  "will boil — First conditional для конкретной ситуации, а здесь закон природы; would boil — нереальное условие; boiled — прошедшее.",
+  "If + Past, would — Second; If + Present, will — First; If + Past Perfect, would have — Third.",
+  "will install — will не ставится после if; installed — прошедшее; would install — нереальное условие."
+ ]
+},
+"b1u2l2": {
+ "why": [
+  "Second conditional: if + Past Simple, would + глагол → would travel.",
+  "If I were you — устойчивая формула совета; were для всех лиц.",
+  "Нереальная гипотеза (выигрыш в лотерею) → if + Past Simple: won.",
+  "После would ('d) — базовая форма глагола: see.",
+  "Гипотетическое условие → if + Past Simple: offered.",
+  "Она не говорит по-английски (нереально сейчас) → if + Past Simple: spoke."
+ ],
+ "gap": {"0": "would|could"},
+ "alts": {"1": ["If I were you, I would take the job.", "If I were you, I'd accept the job."], "2": ["What would you do if you won the lottery?"], "4": ["I'd move if they offered me more."]},
+ "qwhy": [
+  "am — реальное условие, не сочетается с I'd; would be — would не ставится после if; will be — First conditional.",
+  "will — First conditional, а условие нереальное (had); did, has — не дают значения «бы».",
+  "If I am you, I will — реальное условие, нелогично; If I would be you — would после if; If I was you I will — смешение, will вместо would.",
+  "If I win, I'll quit — реальная возможность, а не мечта; If I win, I quit — zero conditional; If I'd win — would после if."
+ ]
+},
+"b1u2l3": {
+ "why": [
+  "Third conditional: результат would have + V3 → come.",
+  "Нереальный результат в прошлом: wouldn't have + V3 (lost).",
+  "После if — Past Perfect ('d = had) + V3: asked.",
+  "Результат в Third conditional: would have stayed.",
+  "Смешанное условие: прошлое условие ('d = had + V3: accepted) → результат сейчас (now).",
+  "Условие о прошлом → if + Past Perfect: had failed."
+ ],
+ "gap": {"3": "would|could|might"},
+ "alts": {"0": ["If I had known, I would have come."], "2": ["She would have helped if you had asked."], "3": ["If you had warned me, I'd have stayed home.", "If you had warned me, I would have stayed at home."]},
+ "qwhy": [
+  "left — Past Simple для Second conditional; would leave — would не ставится после if; has left — Present Perfect.",
+  "would say — Second conditional (о настоящем); had said — Past Perfect в главной части; will say — реальное будущее.",
+  "would known, could known — после модального нужна базовая форма; did know — Past Simple, не Past Perfect."
+ ]
+},
+"b1u2l4": {
+ "why": [
+  "wish + Past Simple — сожаление о настоящем → had.",
+  "wish + Past Perfect — сожаление о прошлом → had studied.",
+  "wish + would — раздражение чужим поведением; stop + V-ing: interrupting.",
+  "If only + Past (could) — усиленное «если бы только».",
+  "wish + were — нереальное желание о настоящем (were для всех лиц).",
+  "Реальное желание о будущем → hope + Present, а не wish."
+ ],
+ "alts": {"0": ["I wish I had more spare time."], "1": ["I wish I had studied more."], "3": ["If only I spoke French!"], "4": ["She wishes she was taller."]},
+ "qwhy": [
+  "I wish I know — после wish нужно прошедшее; I wish I don't know — и время, и смысл неверны; I hope I knew — hope не для нереального.",
+  "didn't send — о прошлом нужен Past Perfect; don't send — настоящее; wouldn't send — wish + would о своих действиях не используют.",
+  "I wish you feel — wish не сочетается с Present; I wish you felt better soon — wish не для пожеланий на будущее; I wish you will — wish не сочетается с will."
+ ]
+}
+}

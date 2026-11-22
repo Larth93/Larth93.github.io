@@ -1,0 +1,234 @@
+{
+  "startu1l1": {
+    "why": [
+      "spell — «называть буквы слова»; вопрос How do you spell…? — стандартная просьба продиктовать по буквам.",
+      "last name — фамилия (first name — имя); перед Ivanov нужна именно фамилия.",
+      "letters — буквы; после числа 26 существительное во множественном числе.",
+      "again — «ещё раз»; say that again = повторите сказанное.",
+      "capital letter — заглавная буква; with a capital letter = «с большой буквы».",
+      "double — «двойной»: так диктуют удвоенную букву (double L = LL)."
+    ],
+    "alts": {
+      "0": ["How do you spell your name?"],
+      "1": ["My surname is Ivanov.", "My family name is Ivanov."],
+      "3": ["Could you repeat that, please?", "Can you say that again, please?", "Please say that again."],
+      "4": ["It starts with a capital letter.", "It's written with a capital letter."]
+    },
+    "qwhy": [
+      "е — так читается русская буква; э — нет такого названия; ай — это название буквы I.",
+      "и — это название буквы E; ей, ий — таких названий нет.",
+      "джей — это название буквы J; гэ, жи — русское/искажённое чтение.",
+      "эр — так R называют в русском; ра, ер — неверно.",
+      "Как это произносится — это How do you pronounce it?; Что это значит — What does it mean?; Как это сказать — How do you say it?"
+    ]
+  },
+  "startu1l2": {
+    "why": [
+      "seat [sit] — сиденье, место; take a seat = присесть (долгий [i], не sit).",
+      "live [lɪv] — жить, краткий [ɪ]; не путать с leave.",
+      "leave [liv] — уезжать/уходить, долгий [i]: «уезжаем в шесть».",
+      "full [fʊl] — полный, краткий [ʊ]; не fool [ful] — дурак.",
+      "bad [bæd] — плохой, широкий [æ]; не bed [bɛd] — кровать.",
+      "cup [kʌp] — чашка, звук [ʌ]; a cup of coffee — чашка кофе.",
+      "bed [bɛd] — кровать, звук [ɛ]; не bad [bæd] — плохой."
+    ],
+    "alts": {
+      "0": ["Have a seat, please.", "Please sit down."],
+      "2": ["We're leaving at six."],
+      "6": ["The bed is really big."]
+    },
+    "qwhy": [
+      "sit, ship, live — краткий [ɪ].",
+      "ɛ — звук в bed; ʌ — в cup; ɑ — в father.",
+      "æ — звук в cat; ʊ — в book; ɑ — в car.",
+      "жить — это live; любить — love; лежать — lie.",
+      "cat — cut: разные гласные [æ]/[ʌ], а не пара по долготе; bed — bad: [ɛ]/[æ]; ship — shop: [ɪ]/[ɑ]."
+    ]
+  },
+  "startu1l3": {
+    "why": [
+      "go home — «идти домой» без предлога to; home — дифтонг [oʊ].",
+      "What time is it? — устойчивый вопрос «Который час?»; time [taɪm].",
+      "Have a nice day! — стандартное пожелание; day [deɪ].",
+      "doctor [ˈdɑktər] — врач; во втором слоге шва.",
+      "talk about — говорить о чём-то; about [əˈbaʊt] начинается со шва.",
+      "today [təˈdeɪ] — «сегодня», без предлога; первый слог — шва."
+    ],
+    "alts": {
+      "0": ["I want to go home."],
+      "1": ["What's the time?"],
+      "4": ["Let's talk about this."]
+    },
+    "qwhy": [
+      "a, æ, ʌ — ударные/полные гласные; безударный слог about редуцируется до [ə].",
+      "go — русское «о» без скольжения; gɔ — британский/неверный звук; gu — другое слово.",
+      "один, три, ни одного — шва в первом и последнем слогах, то есть ровно два.",
+      "eɪ — как в day; ɔɪ — как в boy; aʊ — как в now.",
+      "tu, tʊ, to — полные формы; в беглой речи to ослабляется до [tə]."
+    ]
+  },
+  "startu1l4": {
+    "why": [
+      "Thank you — глухой [θ]: язык между зубами, не «сэнк».",
+      "think [θɪŋk] — думать; I think… = «думаю, что…».",
+      "weather [ˈwɛðər] — погода, звонкий [ð].",
+      "three [θri] — три, глухой [θ]; не free.",
+      "very [ˈvɛri] — очень; V: верхние зубы на нижней губе.",
+      "mother [ˈmʌðər] — мама, звонкий [ð] в середине слова.",
+      "next month — «в следующем месяце», без предлога; month [mʌnθ]."
+    ],
+    "alts": {
+      "0": ["Thanks a lot.", "Thank you so much.", "Thanks very much."],
+      "1": ["I think this is a good idea.", "I think that's a good idea."],
+      "2": ["It's nice weather today.", "The weather's nice today."],
+      "4": ["She's really tired.", "She is very tired."],
+      "5": ["My mom is a teacher."],
+      "6": ["I'll come back next month."]
+    },
+    "qwhy": [
+      "θ — глухой TH (think); z и d — русские замены, ошибка.",
+      "ð — звонкий TH (this); s и f — типичные неверные замены.",
+      "зубы на нижней губе / как русское «в» — это V; как «б» — B.",
+      "ничем/гласным/последним звуком — слова отличаются только первым звуком.",
+      "thank, three, thing — начинаются с глухого [θ]."
+    ]
+  },
+  "startu1l5": {
+    "why": [
+      "bag [bæɡ] — сумка; звонкий [ɡ] на конце не оглушаем, иначе back.",
+      "be right back — «сейчас вернусь»; back [bæk] — глухой [k].",
+      "Good morning — «доброе утро»; morning [ˈmɔrnɪŋ], на конце [ŋ] без «г».",
+      "hotel [hoʊˈtɛl] — отель; [h] — лёгкий выдох, ударение на втором слоге.",
+      "car [kɑr] — машина; в США R на конце звучит.",
+      "like to sing — любить петь; sing [sɪŋ] без «г» на конце."
+    ],
+    "alts": {
+      "1": ["I'll be back soon."],
+      "2": ["Good morning, everybody!", "Morning, everyone!"],
+      "5": ["Do you like singing?"]
+    },
+    "qwhy": [
+      "ничем — отличаются конечным согласным; гласным/ударением — они одинаковые.",
+      "раскатисто — это русское «р»; не произносится — так в британском, не в США; как «л» — другой звук.",
+      "да/иногда/только в США — ng на конце даёт один носовой [ŋ] без [ɡ].",
+      "как русское «х» — слишком хрипло; не произносится никогда — H немая лишь в редких словах (hour); как «г» — неверно."
+    ]
+  },
+  "startu2l1": {
+    "why": [
+      "hope [hoʊp] — надеяться; magic e: o читается [oʊ].",
+      "cute [kjut] — милый; magic e: u читается [ju].",
+      "hate [heɪt] — ненавидеть; magic e: a → [eɪ] (ср. hat).",
+      "ride [raɪd] — ехать (на велосипеде); ride a bike, magic e: i → [aɪ].",
+      "note [noʊt] — записка; leave a note = оставить записку.",
+      "hat [hæt] — шляпа; закрытый слог: a → [æ]."
+    ],
+    "alts": {
+      "0": ["I hope you're doing well.", "I hope you're OK."],
+      "2": ["I hate to wait."],
+      "4": ["Leave a note for me."]
+    },
+    "qwhy": [
+      "æ — для закрытого слога (cat); ɑ — father; ə — безударный слог.",
+      "aɪ — с magic e (kite); i — долгий звук ee; ə — безударный.",
+      "hate, make, name — читаются строго по правилу [eɪ].",
+      "ʌ — закрытый слог (cut); ʊ, u — другие звуки (book, food).",
+      "да/только в США/иногда — конечная e в note немая всегда."
+    ]
+  },
+  "startu2l2": {
+    "why": [
+      "train station — вокзал; -tion читается [ʃən].",
+      "check [tʃɛk] — проверять; ch → [tʃ], ck → [k].",
+      "know [noʊ] — знать; k перед n немая. don't know — не знаю.",
+      "write [raɪt] — писать; w перед r немая.",
+      "phone [foʊn] — телефон; ph → [f]. My phone is dead = сел телефон.",
+      "watch a movie — смотреть фильм; tch → [tʃ].",
+      "shop [ʃɑp] — магазин; sh → [ʃ]."
+    ],
+    "alts": {
+      "1": ["Can I check my mail?", "May I check my email?"],
+      "2": ["I don't know what his name is."],
+      "3": ["Please write down your address here.", "Write your address here, please."],
+      "4": ["My phone's battery is dead.", "My phone died."],
+      "5": ["Let's watch a film."],
+      "6": ["The store closes at nine."]
+    },
+    "qwhy": [
+      "p, ph, v — ph читается как [f].",
+      "n, w, o — читаются; немая только k.",
+      "tɪɔn, tsɪən, ʃn̩ɑ — буквальное или выдуманное чтение; верно [ʃən].",
+      "k — c перед a, o, u; tʃ — это ch; ts — немецкое чтение.",
+      "h — не звучит в where; v — другая буква; hw обязательно — в современном американском обычно просто [w]."
+    ]
+  },
+  "startu2l3": {
+    "why": [
+      "meet [mit] — встречаться; ee → долгий [i].",
+      "Good night — «спокойной ночи»; igh → [aɪ].",
+      "food [fud] — еда; oo здесь долгий [u].",
+      "near here — рядом, поблизости; ear → [ɪr].",
+      "my first time — «впервые»; ir → [ɜr].",
+      "work from home — работать из дома; or после w → [ɜr].",
+      "start to rain — начинаться (о дожде); ai → [eɪ]."
+    ],
+    "alts": {
+      "0": ["Let's meet at twelve.", "Let's meet at midday."],
+      "2": ["The food is great here."],
+      "3": ["Is there a bank nearby?", "Is there a bank around here?"],
+      "4": ["It's my first time in New York.", "I'm in New York for the first time."],
+      "6": ["Wait, it's starting to rain.", "Hold on, it's starting to rain."]
+    },
+    "qwhy": [
+      "ɪɡ — gh не читается; i — долгий звук ee; eɪ — звук ai/ay.",
+      "aɪ — звук igh; æ, ɛ — звуки закрытого слога.",
+      "food, moon, soon — долгий [u].",
+      "ɛr — air/are; ɑr — ar; ɪr — eer/ear.",
+      "tea, eat, meat — читаются по правилу [i]."
+    ]
+  },
+  "startu2l4": {
+    "why": [
+      "ready [ˈrɛdi] — готов; вопрос да/нет — восходящая интонация.",
+      "forget [fərˈɡɛt] — забывать; глагол, ударение на втором слоге.",
+      "water [ˈwɔtər] — вода; существительное, ударение на первом слоге.",
+      "question [ˈkwɛstʃən] — вопрос; have a question — «есть вопрос».",
+      "begins — Present Simple, the movie = it → -s; расписание.",
+      "information — неисчисляемое, без -s; ударение перед -tion: inforMAtion."
+    ],
+    "alts": {
+      "2": ["Could I have some water?", "Can I get some water?"],
+      "4": ["The movie starts at eight.", "The film starts at eight."]
+    },
+    "qwhy": [
+      "wa-TER — двусложные существительные обычно ударны на первом слоге; равное/нет ударения — так не бывает.",
+      "BE-gin — у глагола ударение на втором; равное/на обоих — неверно.",
+      "нисходящая/ровная/не важно — вопрос да/нет обычно идёт вверх.",
+      "восходящая — это для вопросов да/нет; ровная/вниз-вверх — неестественно.",
+      "существительные, глаголы, прилагательные — смысловые слова, они ударные."
+    ]
+  },
+  "startu2l5": {
+    "why": [
+      "get better — становиться лучше; better — flap T: [ˈbɛɾər].",
+      "party — вечеринка; t после r перед безударным слогом → flap.",
+      "can't [kænt] — не могу; в США с широким [æ] и ударением.",
+      "job [dʒɑb] — работа; o в закрытом слоге в США → [ɑ].",
+      "a bottle of water — бутылка воды; tt → flap: [ˈbɑɾəl].",
+      "hot [hɑt] — жарко; It's hot — о погоде."
+    ],
+    "alts": {
+      "0": ["It's getting better.", "Things are getting better."],
+      "2": ["I can't find my keys."],
+      "4": ["Can I have a bottle of water, please?"],
+      "5": ["It's very hot today."]
+    },
+    "qwhy": [
+      "чёткое «т» — британская норма; не звучит — так бывает после n (twenty); как «ч» — неверно.",
+      "got to — это gotta; want to — wanna; go now — не связано.",
+      "ɔ — британское/старое; oʊ — как в go; ʌ — как в cup.",
+      "нет — это британское; только в начале фразы/иногда — американский R звучит всегда.",
+      "what are — what're; won't — will not; want a lot — не связано."
+    ]
+  }
+}

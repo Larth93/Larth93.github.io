@@ -1,0 +1,359 @@
+{
+  "a1u3l1": {
+    "why": [
+      "Present Simple: she → глагол с -s; работа в банке — постоянный факт.",
+      "Present Simple: I → глагол без -s; get up — регулярное действие (каждый день).",
+      "my brother = he → -s; согласная + y: study → studies.",
+      "the store = it → -s; расписание работы магазина.",
+      "he → -s; go → goes (после o добавляется -es); every day — привычка.",
+      "we → глагол без -s; live — постоянное состояние.",
+      "she → -s; после ch добавляется -es: watches; in the evening — привычка."
+    ],
+    "alts": {
+      "0": [
+        "She works at a bank."
+      ],
+      "1": [
+        "I wake up at seven.",
+        "I get up at 7."
+      ],
+      "2": [
+        "My brother is studying English.",
+        "My brother learns English."
+      ],
+      "3": [
+        "The shop opens at nine."
+      ],
+      "5": [
+        "We live in a small flat."
+      ],
+      "6": [
+        "She watches television in the evening.",
+        "In the evening she watches TV."
+      ]
+    },
+    "qwhy": [
+      "work — с my mom (= she) нужен -s; working — без вспомогательного be нельзя; is work — be и глагол вместе не ставятся.",
+      "gos — после o добавляется -es; go — с he нужно окончание; goies — неверное написание.",
+      "studys — после согласной y меняется на ies; study — нет окончания; studyes — y должна стать i.",
+      "lives — с they окончание -s не ставится; living — без be нельзя; is live — лишний is.",
+      "действия прямо сейчас — это Present Continuous; прошлое — Past Simple; будущие планы — going to / Continuous."
+    ]
+  },
+  "a1u3l2": {
+    "why": [
+      "Отрицание в Present Simple с I: don't + глагол.",
+      "Вопрос с this bus (= it): Does + подлежащее + глагол без -s.",
+      "she → doesn't; основной глагол eat остаётся без -s.",
+      "Вопрос с you: Do + you + глагол.",
+      "После does основной глагол — начальная форма: mean, не means.",
+      "После doesn't глагол без -s: smoke.",
+      "Краткий ответ повторяет вспомогательный глагол вопроса: Do you…? — Yes, I do.",
+      "После do в вопросе основной глагол в начальной форме: work."
+    ],
+    "alts": {
+      "0": [
+        "I do not understand."
+      ],
+      "1": [
+        "Does this bus stop here?"
+      ],
+      "2": [
+        "She does not eat meat."
+      ],
+      "3": [
+        "Can you speak English?"
+      ],
+      "4": [
+        "What is the meaning of this word?"
+      ],
+      "5": [
+        "He does not smoke."
+      ],
+      "6": [
+        "Yes."
+      ]
+    },
+    "qwhy": [
+      "Do — с she нужен Does; Is — like не употребляется с be; Has — вспомогательный для Perfect, не для Present Simple.",
+      "speaks — после doesn't -s не ставится; speaking — нужна начальная форма; to speak — частица to лишняя.",
+      "No, I not — нет вспомогательного глагола; No, I doesn't — с I используется don't; No, I'm not — вопрос был с do, а не с be.",
+      "I not understand — нет don't; I doesn't — с I используется don't; I no understand — no не отрицает глагол.",
+      "does — parents во мн. ч. (= they); are / is — live — смысловой глагол, нужен do."
+    ]
+  },
+  "a1u3l3": {
+    "why": [
+      "usually — «обычно»; наречие частотности стоит перед основным глаголом get up.",
+      "always — «всегда»; после глагола be: is always late.",
+      "never — «никогда»; уже отрицательное, поэтому без don't.",
+      "How often…? — «Как часто…?»: вопрос о частоте.",
+      "twice a week — «два раза в неделю»; twice = two times.",
+      "sometimes — «иногда»; стоит перед глаголом works (возможно и в начале).",
+      "rarely — «редко»; перед основным глаголом watch."
+    ],
+    "alts": {
+      "1": [
+        "She's always late."
+      ],
+      "2": [
+        "We don't ever eat fast food."
+      ],
+      "4": [
+        "I go to the gym two times a week."
+      ],
+      "5": [
+        "Sometimes he works on weekends.",
+        "He sometimes works on the weekend."
+      ],
+      "6": [
+        "They seldom watch TV.",
+        "They hardly ever watch TV."
+      ]
+    },
+    "qwhy": [
+      "I drink usually tea — наречие не ставят между глаголом и дополнением; Usually I tea drink — нарушен порядок слов; I drink tea usually always — два наречия, бессмыслица.",
+      "He always is tired — с be наречие ставится после глагола; Always he tired — нет глагола; He is tired always is — повтор is.",
+      "I don't never smoke — двойное отрицание; I never don't smoke — тоже; I not never smoke — нет вспомогательного, двойное отрицание.",
+      "rarely — означает «редко»; одинаково / зависит — often всегда чаще rarely.",
+      "перед глаголом / после be — так ставятся однословные наречия (always, never); в середине слова — бессмыслица."
+    ]
+  },
+  "a1u3l4": {
+    "why": [
+      "Where — «где»: вопрос о месте проживания.",
+      "What time is it? — устойчивый вопрос «Который час?».",
+      "Why — «почему»: вопрос о причине.",
+      "Who — подлежащее (кто живёт?), поэтому без do и глагол с -s: lives.",
+      "How long — «как долго»: вопрос о продолжительности перелёта.",
+      "Whose — «чей»: вопрос о владельце (bag).",
+      "Which — выбор из ограниченного числа вариантов (red or blue).",
+      "How old — «сколько лет»: вопрос о возрасте."
+    ],
+    "gap": {
+      "6": "Which|What"
+    },
+    "alts": {
+      "1": [
+        "What's the time?"
+      ],
+      "4": [
+        "How long does the flight take?"
+      ],
+      "5": [
+        "Whose is this bag?"
+      ],
+      "6": [
+        "What color do you want, red or blue?"
+      ]
+    },
+    "qwhy": [
+      "When — ответ был бы о времени; Who — о человеке; Why — о причине.",
+      "Where — ответ был бы о месте; What — «что»: What is your birthday? звучит как «что такое твой день рождения»; Which — выбор из вариантов.",
+      "Who does live here? — who подлежащее, do не нужен (кроме эмфазы); Who do lives — do с -s после него неверно; Who living — нет глагола.",
+      "Who — «кто», не «чей»; Who's = who is; Which — «который».",
+      "What are you? — вопрос о профессии/сути; Who are you? — «кто вы?»; Why are you? — бессмысленно."
+    ]
+  },
+  "a1u3l5": {
+    "why": [
+      "После love обычно -ing: love traveling (в американском одно l).",
+      "hate + -ing: hate waiting; wait in line — стоять в очереди.",
+      "После enjoy — только -ing: enjoy cooking.",
+      "like + -ing о хобби вообще: likes playing.",
+      "После don't mind — только -ing: don't mind working.",
+      "like + -ing: swim → swimming (удвоение согласной после краткого ударного гласного).",
+      "I'd like + to + глагол: вежливое «я бы хотел» сейчас."
+    ],
+    "gap": {
+      "0": "traveling|to travel",
+      "3": "playing|to play",
+      "5": "swimming|to swim"
+    },
+    "alts": {
+      "0": [
+        "I love to travel."
+      ],
+      "1": [
+        "She hates standing in line.",
+        "She hates to wait in line."
+      ],
+      "2": [
+        "Do you like cooking?",
+        "Do you like to cook?"
+      ],
+      "3": [
+        "He likes to play video games."
+      ],
+      "4": [
+        "I don't mind staying late at work."
+      ],
+      "5": [
+        "We like to swim in the ocean."
+      ],
+      "6": [
+        "I'd like to order, please.",
+        "I would like to order now."
+      ]
+    },
+    "qwhy": [
+      "to dance — после enjoy нельзя инфинитив; dance — нужна форма -ing; danceing — немая e выпадает.",
+      "swiming — согласная удваивается; swimeing — e нет; swimmming — лишняя m.",
+      "makeing — немая e выпадает; makking — удвоения нет; maked — это не -ing и не реальная форма.",
+      "I like a coffee — значит «мне нравится кофе», а не просьба; I like coffee now — то же; I liking — нет вспомогательного глагола.",
+      "get up — после mind нужна -ing; to getting up — лишнее to; gets up — нужна форма -ing."
+    ]
+  },
+  "a1u4l1": {
+    "why": [
+      "Can I…? — просьба о разрешении/возможности (можно оплатить?).",
+      "can't + глагол — «не могу»; не получается найти.",
+      "Could you…? — вежливая просьба «не могли бы вы».",
+      "После can глагол без to и без -s: speak.",
+      "can't + глагол без to: запрет «нельзя парковаться».",
+      "borrow — взять на время у кого-то (lend — дать). Can I…? — просьба.",
+      "Can you + глагол? — вопрос об умении (водить)."
+    ],
+    "gap": {
+      "0": "Can|Could|May",
+      "2": "Could|Can|Would"
+    },
+    "alts": {
+      "0": [
+        "Can I pay with a card?",
+        "Could I pay by card?"
+      ],
+      "2": [
+        "Can you repeat that, please?",
+        "Could you say that again, please?"
+      ],
+      "4": [
+        "You're not allowed to park here.",
+        "Parking isn't allowed here."
+      ],
+      "5": [
+        "Could I borrow your pen?",
+        "Can I use your pen?"
+      ],
+      "6": [
+        "Do you know how to drive?"
+      ]
+    },
+    "qwhy": [
+      "cans — can не принимает -s; can to — после can без to; is can — be с can не сочетается.",
+      "Do you can — can не требует do; You can help me? — нет инверсии; Can you to — лишнее to.",
+      "Open the window — резкий приказ; You open the window? — грубо и неграмматично для просьбы; Can open window? — нет подлежащего и артикля.",
+      "[kən] — это слабая форма утвердительного can; [kɑnt] — британское; [kʌnt] — неверное и грубое по звучанию.",
+      "You don't can — can не требует do; You not can — неверный порядок; You can't to — лишнее to."
+    ]
+  },
+  "a1u4l2": {
+    "why": [
+      "Повелительное наклонение: глагол в начальной форме без подлежащего — Turn left.",
+      "Отрицательный императив: Don't + глагол.",
+      "Let's + глагол — предложение сделать что-то вместе.",
+      "go straight — «идти прямо».",
+      "Отрицательный императив: please don't + глагол — вежливый запрет.",
+      "Императив: Cross the street — «переходите улицу»."
+    ],
+    "alts": {
+      "0": [
+        "Make a left at the corner.",
+        "Turn left on the corner."
+      ],
+      "1": [
+        "Don't worry, it's OK.",
+        "Don't worry, everything's fine."
+      ],
+      "2": [
+        "Let's go to the beach."
+      ],
+      "3": [
+        "Go straight ahead for two blocks."
+      ],
+      "4": [
+        "Don't touch the paintings, please."
+      ]
+    },
+    "qwhy": [
+      "Not be late — отрицание императива через don't; No late — нет глагола; Don't late — late — прилагательное, нужен be.",
+      "Give order — калька «давай»; Let order — нужно Let's (let us); We order pizza let — неверный порядок.",
+      "Close door! — резко и без артикля; You close the door — звучит как утверждение или приказ; Closing the door — не просьба.",
+      "Go direct — неестественно; Walk right — «иди направо»; Go forward right — бессмыслица."
+    ]
+  },
+  "a1u4l3": {
+    "why": [
+      "next to — «рядом с», вплотную.",
+      "at — место-точка: at the bus stop.",
+      "on — на поверхности стола.",
+      "between — «между» двумя объектами (the bank and the pharmacy).",
+      "in — внутри города: in Los Angeles.",
+      "under — «под»: под кроватью.",
+      "across from — «напротив» (американский вариант).",
+      "on — общественный транспорт: on the bus."
+    ],
+    "gap": {
+      "0": "next to|near"
+    },
+    "alts": {
+      "0": [
+        "The bank is beside the hotel.",
+        "The bank is near the hotel."
+      ],
+      "2": [
+        "Your keys are on the table."
+      ],
+      "4": [
+        "She lives in LA."
+      ],
+      "6": [
+        "The museum is opposite the park."
+      ],
+      "7": [
+        "I'm on the bus right now."
+      ]
+    },
+    "qwhy": [
+      "in — аэропорт как точка-пункт обычно с at; on — для поверхности; to — направление, не местоположение.",
+      "in — внутри; at — в точке; under — «под».",
+      "on — для автобуса/поезда; at — точка; by — способ передвижения (by taxi), не местоположение.",
+      "in — для машины/такси; at — точка; by — способ (by train), а не «в поезде».",
+      "next to — «рядом»; behind — «позади»; between — «между»."
+    ]
+  },
+  "a1u4l4": {
+    "why": [
+      "on — с днями недели: on Monday.",
+      "at — с точным временем: at three.",
+      "in — с годами: in 2005.",
+      "in — с временами года: in summer.",
+      "from … to — промежуток времени: from nine to five.",
+      "at night — устойчивое выражение (в отличие от in the morning/evening).",
+      "after — «после»: after lunch."
+    ],
+    "alts": {
+      "0": [
+        "See you Monday!"
+      ],
+      "1": [
+        "The meeting is at three o'clock.",
+        "The meeting's at 3."
+      ],
+      "3": [
+        "We usually travel in the summer."
+      ],
+      "4": [
+        "I work from nine till five.",
+        "I work nine to five."
+      ]
+    },
+    "qwhy": [
+      "in — для месяцев/лет; at — для точного времени; — — с днём недели нужен предлог (в разговорном США иногда опускают).",
+      "on — для дней; in — для месяцев/лет; by — «к (сроку)».",
+      "at — at night, но не at the morning; on — для дней; by — «к».",
+      "in, on, at — перед next предлог не ставится.",
+      "in — in the night звучит неестественно в значении «ночью»; on — для дней; by — «к»."
+    ]
+  }
+}

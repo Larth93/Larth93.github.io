@@ -1,0 +1,276 @@
+{
+  "a1u22l1": {
+    "why": [
+      "Can I get…? — естественная и вежливая форма заказа в американском кафе.",
+      "I'll have… — «я возьму»: принятый способ заказать.",
+      "Устойчиво: for here or to go — «здесь или с собой».",
+      "Вопрос с неисчисляемым (milk) → any.",
+      "«Счёт» в американском ресторане — the check.",
+      "Anything else? — «что-нибудь ещё?»; в вопросе — any-производное.",
+      "Просьба (Could I have…?) → some даже в вопросе."
+    ],
+    "alts": {
+      "0": ["Could I get a large black coffee?", "I'll have a large black coffee."],
+      "1": ["I'll take the chicken salad.", "I'd like the chicken salad."],
+      "4": ["Could we have the check, please?", "Can we have the check, please?"],
+      "6": ["Can I have some water?", "Could I get some water?"]
+    },
+    "qwhy": [
+      "I want tea / Give me tea — звучит грубо; Tea me — неграмматично.",
+      "the bill of paper — бессмыслица; the count — «подсчёт»; the score — «счёт» в игре.",
+      "a / an — sugar неисчисляемое; many — только с исчисляемыми."
+    ]
+  },
+  "a1u22l2": {
+    "why": [
+      "Where can I find…? — вежливый вопрос, где лежит товар.",
+      "aisle — «ряд, проход» в магазине: in aisle 3.",
+      "Хлеб считается буханками: a loaf of bread.",
+      "a dozen — «дюжина»; после него сразу существительное, без of.",
+      "apples исчисляемые → How many.",
+      "cheese неисчисляемое → How much.",
+      "on sale — «со скидкой» (for sale — «продаётся»)."
+    ],
+    "alts": {
+      "0": ["Where is the rice?"],
+      "2": ["I need a loaf of bread."],
+      "3": ["Please buy a dozen eggs.", "Get a dozen eggs, please."],
+      "6": ["These shirts are discounted today."]
+    },
+    "qwhy": [
+      "loaf — для хлеба; dozen — для штучных (яйца); piece — для твёрдых кусков, не для молока.",
+      "many — water неисчисляемое; lot — How lot не бывает; few — для исчисляемых и не после How.",
+      "for sale — «выставлено на продажу»; in sale / at sale — неверный предлог."
+    ]
+  },
+  "a1u22l3": {
+    "why": [
+      "try on — разделяемый глагол: местоимение it стоит между try и on.",
+      "in a large — «в размере L»: in + a + размер.",
+      "jeans — всегда множественное число → are.",
+      "too + прилагательное — «слишком»: too small.",
+      "fitting room — «примерочная».",
+      "Сравнительная степень: big → bigger (удвоение g).",
+      "fit — «подходить по размеру»; it → fits."
+    ],
+    "alts": {
+      "0": ["Can I try this on?", "May I try it on?"],
+      "1": ["Do you have this in size large?", "Do you have this in L?"],
+      "3": ["The jacket is too small on me.", "This jacket is too small for me."],
+      "4": ["Where are the fitting rooms?", "Where's the fitting room?"],
+      "5": ["Do you have a larger size?", "Do you have it in a bigger size?"]
+    },
+    "qwhy": [
+      "try on it — местоимение должно стоять между try и on; on try it — неверный порядок; try it — без on значит «попробовать».",
+      "is — pants всегда мн. число; am — только с I; be — нужно спрягать.",
+      "very much / so much expensive — much перед прилагательным не ставят; expensiver — у длинных прилагательных more expensive."
+    ]
+  },
+  "a1u22l4": {
+    "why": [
+      "backpack — ед. число → How much is.",
+      "sunglasses — всегда мн. число → How much are.",
+      "pay by card — «платить картой» (by + способ оплаты).",
+      "receipt — «чек» (p не читается).",
+      "change — «сдача».",
+      "refund — «возврат денег»: I'd like a refund.",
+      "too + прилагательное: too expensive — «слишком дорого»."
+    ],
+    "alts": {
+      "0": ["How much does this backpack cost?"],
+      "1": ["How much do these sunglasses cost?"],
+      "2": ["Can I pay with a card?", "Can I pay with my card?"],
+      "3": ["Would you like your receipt?", "Do you need a receipt?"],
+      "5": ["I'd like my money back, please."]
+    },
+    "qwhy": [
+      "is — shoes во мн. числе; do / does — с How much + существительным используется be.",
+      "three point seventy-five — так читают десятичные числа, не цены; three and seventy-five dollars cents — бессмыслица; thirty-seven five — неверно.",
+      "rest — «отдых, остаток»; delivery — «доставка»; money back card — бессмыслица."
+    ]
+  },
+  "a1u22l5": {
+    "why": [
+      "What's the weather like? — устойчивый вопрос о погоде.",
+      "В английском нужно подлежащее: It's cold — «холодно».",
+      "Дождь идёт сейчас → Present Continuous: it's raining.",
+      "a lot in London — обычное явление → Present Simple: it rains.",
+      "degrees — «градусы» (мн. число после eighty).",
+      "После going to — начальная форма: snow.",
+      "humid — «влажный» о погоде."
+    ],
+    "alts": {
+      "0": ["How's the weather today?", "What's the weather today?"],
+      "1": ["It's very cold outside."],
+      "3": ["It rains a lot in London."],
+      "5": ["The forecast says it'll snow.", "According to the forecast, it's going to snow."],
+      "6": ["It's very humid here in the summer."]
+    },
+    "qwhy": [
+      "Is cold / Cold is — нет подлежащего it; It cold — пропущен глагол is.",
+      "It snows now — Simple не для процесса в момент речи; It snowing — пропущен is; Is snow — нет подлежащего.",
+      "70°C — это кипяток; 7°C — около 45°F; 35°C — около 95°F."
+    ]
+  },
+  "a1u23l1": {
+    "why": [
+      "there are + мн. число (two bedrooms) — «есть, имеются».",
+      "Внутри комнаты — in: in the living room.",
+      "С этажом — on: on the fifth floor.",
+      "rent — «арендная плата».",
+      "furniture неисчисляемое → much furniture.",
+      "Вопрос о наличии: Is there + ед. число.",
+      "neighbor — «сосед» (американское написание)."
+    ],
+    "alts": {
+      "0": ["My apartment has two bedrooms."],
+      "1": ["There is a couch in the living room.", "There's a sofa in the living room."],
+      "3": ["The rent is $1,500 per month."],
+      "4": ["We don't have a lot of furniture.", "We have little furniture."],
+      "5": ["Is there a washer?", "Do you have a washing machine?"]
+    },
+    "qwhy": [
+      "Are there — balcony в ед. числе; Has it — так о наличии не спрашивают; There is — это утверждение, не вопрос.",
+      "many furnitures / a lot of furnitures / much furnitures — furniture неисчисляемое, без -s.",
+      "in the balcony — балкон — открытая площадка, нужно on; at / into balcony — неверный предлог и нет артикля."
+    ]
+  },
+  "a1u23l2": {
+    "why": [
+      "wake up — «просыпаться»; после usually — начальная форма (I).",
+      "take a shower — «принимать душ».",
+      "Наречие частотности always стоит перед основным глаголом has.",
+      "take — «занимать (время)»; commute (it) → takes.",
+      "get home — «приходить домой», без to.",
+      "he → goes; go to bed — «ложиться спать».",
+      "after that — «после этого»."
+    ],
+    "alts": {
+      "0": ["I usually get up at 6:30."],
+      "1": ["Then I have a shower.", "Then I shower."],
+      "2": ["She always drinks coffee for breakfast."],
+      "4": ["I come home at about seven.", "I get home around seven."],
+      "6": ["Then I check my email."]
+    },
+    "qwhy": [
+      "I cook often dinner — наречие не ставят между глаголом и дополнением; Often … always / often always — два противоречащих наречия.",
+      "get to home — с home предлог to не нужен; come to the home — лишние to и the; go at home — неверный предлог.",
+      "get — she требует -s; getting — нет is; is get — be и Simple не смешивают."
+    ]
+  },
+  "a1u23l3": {
+    "why": [
+      "free time — «свободное время».",
+      "go + -ing для активностей с движением: go hiking.",
+      "play + инструмент; she → plays.",
+      "enjoy + -ing: enjoy reading.",
+      "do yoga — с йогой и боевыми искусствами используем do.",
+      "be into — разговорное «увлекаться».",
+      "like + -ing: like cooking."
+    ],
+    "alts": {
+      "0": ["What do you like to do in your free time?", "What do you do in your spare time?"],
+      "1": ["I go hiking at the weekend.", "On weekends I go hiking."],
+      "2": ["She plays piano very well."],
+      "3": ["I like reading before bed.", "I like to read before bed."],
+      "5": ["He really likes video games."],
+      "6": ["Do you like to cook?"]
+    },
+    "qwhy": [
+      "play — для игр и инструментов; do — для йоги, каратэ; make — «изготавливать».",
+      "goes — для -ing активностей (go swimming); does — для yoga и т.п.; makes — «делать, изготавливать».",
+      "to watching — после enjoy не ставится to; watch — нужна -ing форма; watched — прошедшее время."
+    ]
+  },
+  "a1u23l4": {
+    "why": [
+      "Дни недели — on: on Tuesdays (регулярно).",
+      "Месяцы — in: in August.",
+      "Даты читаются порядковыми числительными: June fifth.",
+      "Времена года — in: in winter.",
+      "С next предлог не нужен: next Friday.",
+      "in the fall — «осенью» (американский вариант).",
+      "on weekends — американский вариант «по выходным»."
+    ],
+    "alts": {
+      "0": ["I have an English class on Tuesdays.", "I have English on Tuesdays."],
+      "1": ["We're going to go to Spain in August."],
+      "2": ["My birthday is June fifth.", "My birthday is on the fifth of June."],
+      "3": ["It's very cold here in the winter."],
+      "5": ["The leaves are beautiful in autumn.", "The leaves are beautiful in the autumn."]
+    },
+    "qwhy": [
+      "on — для дней и дат; at — для времени суток; без предлога — с месяцем предлог in обязателен.",
+      "on / in / at next Monday — с next предлог не используется.",
+      "August 3rd / 3 августа — так прочитали бы в Европе; «8 марта не бывает» — бывает, именно это и значит 03/08 в США."
+    ]
+  },
+  "a1u24l1": {
+    "why": [
+      "have a + симптом: I have a headache.",
+      "My back — одна часть тела (it) → hurts.",
+      "feet — мн. число → hurt без -s.",
+      "sore throat — «боль в горле».",
+      "have a fever — «у меня температура».",
+      "I'm sick — «я болен / заболел».",
+      "What's wrong? — «Что случилось?»."
+    ],
+    "alts": {
+      "0": ["I have a really bad headache.", "I've got a terrible headache."],
+      "1": ["I have a backache.", "My back is hurting."],
+      "2": ["My feet hurt after the walk."],
+      "4": ["I think I have a temperature."],
+      "5": ["I'm ill, so I can't come today.", "I'm sick, so I can't come in today."],
+      "6": ["What's the matter? You look tired."]
+    },
+    "qwhy": [
+      "My head is pain — pain не прилагательное; I have headache pain me — бессмыслица; Me head hurts — нужно my.",
+      "hurts — eyes мн. число; is hurt — «ранен»; hurting — без are.",
+      "a cool — «прохладный»; a cough — кашель; a fever — температура."
+    ]
+  },
+  "a1u24l2": {
+    "why": [
+      "«Лекарство от…» — something for.",
+      "prescription — «рецепт» (врачебный).",
+      "Инструкция — повелительное наклонение: Take.",
+      "allergic to — «аллергия на».",
+      "pharmacy — «аптека».",
+      "on an empty stomach — «натощак».",
+      "side effects — «побочные эффекты»."
+    ],
+    "alts": {
+      "0": ["Do you have anything for a sore throat?"],
+      "1": ["Do I need a prescription for it?", "Is this prescription only?"],
+      "4": ["Where's the closest pharmacy?", "Where is the nearest drugstore?"],
+      "6": ["Does it have any side effects?"]
+    },
+    "qwhy": [
+      "against cough — «от» болезни по-английски for; from cough — неверный предлог; to cough — «чтобы кашлять».",
+      "drink / eat / do medicine — лекарство «принимают»: take.",
+      "on / for / with — после allergic используется только to."
+    ]
+  },
+  "a1u24l3": {
+    "why": [
+      "911 — единый номер экстренных служб в США.",
+      "ambulance — «скорая помощь»; начинается с гласного → an.",
+      "Законченное действие в прошлом: steal → stole.",
+      "yesterday → Past Simple: lose → lost.",
+      "can you + начальная форма: help.",
+      "I'm lost — «я заблудился» (состояние, be + lost).",
+      "police station — «полицейский участок»."
+    ],
+    "alts": {
+      "0": ["Call 911! There was an accident."],
+      "2": ["Somebody stole my phone.", "My phone was stolen."],
+      "4": ["Excuse me, could you help me?"],
+      "6": ["Where's the closest police station?"]
+    },
+    "qwhy": [
+      "I lost — «я потерял» (нужно дополнение); I'm losing — «я проигрываю/теряю»; I lose me — неграмматично.",
+      "steal — настоящее время; stealed — steal неправильный; stolen — причастие, без has нельзя.",
+      "112 — европейский номер; 01 — старый российский номер пожарных; 999 — британский номер."
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "c1u23l1": {
+    "why": [
+      "On the one hand — первая часть пары связок «с одной стороны ... с другой стороны».",
+      "proponents = сторонники (идеи); мн. ч. → argue без -s.",
+      "Conversely = наоборот — вводит противоположную точку зрения.",
+      "outweigh = перевешивать; benefits мн. ч. → без -s.",
+      "drawback = недостаток; The main drawback — один главный.",
+      "On balance = взвесив всё — формула вывода в заключении."
+    ],
+    "gap": { "1": "Proponents|Supporters|Advocates", "4": "drawback|disadvantage" },
+    "alts": {
+      "0": ["On the one hand, cars give you freedom.", "On one hand, cars offer freedom."],
+      "1": ["Supporters argue that it saves money.", "Advocates claim that it saves money."],
+      "2": ["Critics, on the other hand, see only risks.", "Conversely, critics see nothing but risks."],
+      "3": ["The benefits clearly outweigh the costs."],
+      "4": ["The main disadvantage is the price.", "The biggest drawback is the price."],
+      "5": ["Overall, I support the proposal.", "On the whole, I support the proposal."]
+    },
+    "qwhy": [
+      "From the other side / By other hand / In other side — кальки и неверные предлоги; правильно только on the other hand.",
+      "defends one side from the start — это аргументативное эссе; tells a personal story — нарратив; describes a graph — описание данных.",
+      "in the first sentence — сначала излагают обе стороны; nowhere ever — сбалансированный вывод обязателен; in every paragraph — абзацы посвящены отдельным сторонам."
+    ]
+  },
+  "c1u23l2": {
+    "why": [
+      "thesis statement = тезис, позиция автора; ставится в конце вступления.",
+      "counterargument = контраргумент; address a counterargument = разобрать его.",
+      "Admittedly = следует признать — вводит уступку перед возражением.",
+      "compelling evidence = убедительные доказательства.",
+      "overlook = упускать из виду; view в ед. ч. → -s.",
+      "make a strong case for = убедительно обосновать; прошлое — made."
+    ],
+    "gap": { "2": "Admittedly|Granted" },
+    "alts": {
+      "0": ["Put your thesis statement at the end of your introduction."],
+      "1": ["Always address at least one counterargument.", "Always deal with at least one counterargument."],
+      "2": ["Granted, the plan has some weaknesses.", "Admittedly, the plan has some weak points."],
+      "3": ["There is convincing evidence for this claim.", "There is strong evidence to support this claim."],
+      "4": ["This view ignores the human cost."],
+      "5": ["She made a compelling case for higher taxes.", "She argued convincingly for higher taxes."]
+    },
+    "qwhy": [
+      "topic sentence only — главная мысль абзаца, а не всего эссе; hook — «крючок» в начале; citation — ссылка на источник.",
+      "concession — признание чужого довода, а не опровержение; summary — краткое изложение; hedge — смягчение.",
+      "Moreover / Furthermore — добавляют довод, а нужен контраст; Similarly — сходство."
+    ]
+  },
+  "c1u23l3": {
+    "why": [
+      "express dissatisfaction with = выразить недовольство (формально); после my — существительное.",
+      "full refund = полный возврат денег.",
+      "look into = разобраться (в вопросе); после Please — повелительное наклонение.",
+      "look forward to + -ing: to здесь предлог, поэтому hearing.",
+      "apologize for any inconvenience caused — стандартная формула извинения.",
+      "escalate = передать жалобу на более высокий уровень; после will — базовая форма."
+    ],
+    "alts": {
+      "0": ["I am writing to express my dissatisfaction with your service.", "I am writing to complain about your service."],
+      "1": ["I would like a full refund for the item.", "I would like to request a full refund for the item."],
+      "2": ["Please investigate this matter urgently.", "Please look into this matter as a matter of urgency."],
+      "3": ["I look forward to hearing from you.", "I look forward to your reply."],
+      "4": ["We apologize for any inconvenience caused.", "We are sorry for any inconvenience."],
+      "5": ["Otherwise, I will take the complaint further.", "Otherwise, I will escalate this complaint."]
+    },
+    "qwhy": [
+      "hear — после предлога to нужна -ing форма; heard — причастие не подходит; be hearing — неграмматично после to-предлога.",
+      "Kisses / Cheers / Bye — неформальные прощания, неуместны в деловом письме.",
+      "Остальные варианты — нейтральные формальные фразы, уместные в жалобе."
+    ]
+  },
+  "c1u23l4": {
+    "why": [
+      "peak at + значение = достичь пика на уровне.",
+      "level off = выровняться, перестать расти (амер. написание leveled).",
+      "fluctuate = колебаться; wildly усиливает.",
+      "account for + доля = составлять (часть целого).",
+      "rise by + величина изменения (на 12%).",
+      "stand out = выделяться; What ... stands out — wh-cleft для акцента."
+    ],
+    "gap": { "3": "account for|make up" },
+    "alts": {
+      "0": ["The number of visitors peaked at 2 million in 2019."],
+      "1": ["Growth leveled off in the last quarter.", "Growth plateaued in the final quarter."],
+      "2": ["Oil prices fluctuated wildly throughout the year."],
+      "3": ["Exports make up 60% of revenue.", "Exports account for 60 percent of revenue."],
+      "4": ["Profits rose 12% year over year.", "Profits increased by 12% compared with last year."],
+      "5": ["What really stands out is the spike in March.", "The spike in March really stands out."]
+    },
+    "qwhy": [
+      "of — a rise of + величина (a rise of 5%), а не область; on / at — не сочетаются с rise в этом значении.",
+      "peak at — достичь пика; plunge — резко упасть; surge — резко вырасти.",
+      "account on / take for — несуществующие сочетания; consist — требует of и означает «состоять из»."
+    ]
+  },
+  "c1u23l5": {
+    "why": [
+      "chair a meeting = вести/председательствовать на совещании.",
+      "item = пункт повестки дня.",
+      "stick to the agenda = придерживаться повестки.",
+      "park an issue = отложить вопрос на потом (деловой сленг).",
+      "follow up on = заняться, довести до конца (вопрос после встречи).",
+      "take the minutes = вести протокол."
+    ],
+    "alts": {
+      "0": ["Who is going to chair tomorrow's meeting?", "Who will run tomorrow's meeting?"],
+      "1": ["Let's move on to the next item.", "Let's move on to the next point."],
+      "2": ["Can we please stick to the agenda?", "Let's stick to the agenda, please."],
+      "3": ["Let's put that issue aside for now.", "Let's table that issue for now."],
+      "4": ["Jake will follow up on the budget question.", "Jake will handle the budget question."],
+      "5": ["Could someone take minutes today?", "Can someone take the minutes today?"]
+    },
+    "qwhy": [
+      "hours — часы; notes of agenda — неестественное сочетание; protocol — ложный друг, это дипломатический этикет.",
+      "Shut up, please / You are wrong / That's stupid — грубые и недипломатичные реплики.",
+      "agenda points — пункты повестки (до встречи); minutes — протокол; bullets — пункты списка."
+    ]
+  },
+  "c1u24l1": {
+    "why": [
+      "a proven track record = подтверждённая история достижений.",
+      "spearhead = возглавить (инициативу, проект); прошлое — spearheaded.",
+      "cross-functional = кросс-функциональный (из разных отделов), через дефис.",
+      "lead by example = вести личным примером; manager → -s.",
+      "hands-on = практический, лично вовлечённый (через дефис).",
+      "align with = соответствовать, соотноситься с."
+    ],
+    "gap": { "1": "spearheaded|led|headed" },
+    "alts": {
+      "0": ["She has a proven track record in sales."],
+      "1": ["I led our expansion into Asia.", "I headed our expansion into Asia."],
+      "2": ["I managed a cross-functional team of twelve people.", "I led a cross-functional team of 12."],
+      "3": ["A good manager leads by example."],
+      "4": ["My approach is very hands-on.", "I have a very hands-on approach."],
+      "5": ["How does this role fit with your goals?", "How does this position align with your goals?"]
+    },
+    "qwhy": [
+      "ABC — не модель ответа на собеседовании; SWOT — анализ сильных/слабых сторон; KPI — показатели эффективности.",
+      "I was responsible for / Revenue was my duty — описание обязанностей без результата; We did some things — расплывчато.",
+      "background check — проверка биографии; CV gap — пробел в резюме; record track — неверный порядок слов."
+    ]
+  },
+  "c1u24l2": {
+    "why": [
+      "apply for + должность = подать заявку на.",
+      "advertise = размещать (вакансию); пассив was advertised.",
+      "contribute = внести вклад; после could — базовая форма.",
+      "well-suited to = хорошо подходящий для (через дефис).",
+      "Please find ... attached — устойчивая формула делового письма.",
+      "Drawing on = опираясь на (опыт, знания) — причастный оборот."
+    ],
+    "gap": { "1": "advertised|posted" },
+    "alts": {
+      "0": ["I am writing to apply for the position of CFO.", "I am writing to apply for the CFO position."],
+      "1": ["The job was posted on LinkedIn.", "The vacancy was advertised on LinkedIn."],
+      "2": ["I believe I could make a significant contribution to your team."],
+      "3": ["My background makes me well suited to this role.", "My experience makes me a strong fit for this role."],
+      "4": ["Please find my résumé attached.", "My résumé is attached."],
+      "5": ["Using my experience, I redesigned the process."]
+    },
+    "qwhy": [
+      "to — apply to + компания, а не должность; on / at — не употребляются с apply в этом значении.",
+      "specific achievements / knowledge of the company / a clear request for an interview — всё это как раз нужно включать.",
+      "I am a great leader / hard-working / I like people — голословные заявления без доказательств."
+    ]
+  },
+  "c1u24l3": {
+    "why": [
+      "That said = при этом, тем не менее — смягчённый переход к критике.",
+      "not quite there yet = пока не совсем готово — мягкая оценка.",
+      "It might be worth + -ing = возможно, стоит... — вежливое предложение.",
+      "come across as = производить впечатление; после may — базовая форма.",
+      "blunt = резкий, прямолинейный.",
+      "room for improvement = есть куда расти, что улучшить."
+    ],
+    "gap": { "0": "That said|Having said that" },
+    "alts": {
+      "0": ["The draft is good. Having said that, the ending needs work.", "The draft is good, but the ending needs some work."],
+      "1": ["The design isn't quite there yet."],
+      "2": ["It may be worth testing this with users.", "It might be a good idea to test this with users."],
+      "3": ["Your email might come across as rude.", "Your email may seem rude."],
+      "4": ["He's honest but sometimes too blunt."],
+      "5": ["There's still room for improvement."]
+    },
+    "qwhy": [
+      "This is wrong / You failed / Bad work — прямая и резкая критика без смягчения.",
+      "talk about yesterday — время не прошедшее по смыслу; show anger / give orders — наоборот, форма смягчает просьбу.",
+      "tactful / diplomatic / considerate — все означают вежливость и такт."
+    ]
+  },
+  "c1u24l4": {
+    "why": [
+      "The purpose of this report is to... — стандартное начало отчёта.",
+      "reveal = выявить, показать (о результатах опроса).",
+      "respondents = участники опроса; Most + мн. ч.",
+      "It is recommended that + subjunctive: базовая форма adopt без -s.",
+      "feasible = осуществимый; not financially feasible = финансово неосуществимо.",
+      "In light of = в свете (результатов) — формальная связка."
+    ],
+    "gap": { "1": "revealed|showed" },
+    "alts": {
+      "0": ["The aim of this report is to assess staff morale.", "This report aims to assess staff morale."],
+      "1": ["The survey showed widespread dissatisfaction."],
+      "2": ["Most respondents preferred flexible hours.", "Most of the respondents favored flexible hours."],
+      "3": ["It is recommended that the company adopt the plan.", "We recommend that the firm adopt the plan."],
+      "4": ["The proposal is not financially viable."],
+      "5": ["Given these findings, we propose changes.", "In view of these findings, we propose changes."]
+    },
+    "qwhy": [
+      "reviews — после recommended that нужна базовая форма без -s; reviewed — прошедшее не используется; will review — будущее в subjunctive не ставится.",
+      "rhetorical questions / personal anecdotes / dramatic openings — приёмы эссе или рассказа, а не отчёта.",
+      "feeble — слабый; fallible — способный ошибаться; flexible — гибкий."
+    ]
+  },
+  "c1u24l5": {
+    "why": [
+      "meet halfway = пойти навстречу, сойтись посередине; после Could we — базовая форма.",
+      "sticking point = камень преткновения.",
+      "find common ground = найти точки соприкосновения.",
+      "final offer = окончательное предложение.",
+      "make a concession = пойти на уступку.",
+      "walk away = выйти из переговоров; после ready to — инфинитив."
+    ],
+    "alts": {
+      "0": ["Could we meet in the middle on the price?", "Can we meet halfway on the price?"],
+      "1": ["Payment terms are still the main sticking point."],
+      "2": ["Let's try to find some common ground."],
+      "3": ["This is our final offer."],
+      "4": ["They made a major concession on delivery."],
+      "5": ["We're prepared to walk away if necessary."]
+    },
+    "qwhy": [
+      "double will — will не ставится в if-части; would double — would не ставится после if; doubles — Present Simple даёт 1-й тип, а главная часть с would.",
+      "selling point — преимущество товара; turning point — поворотный момент; standpoint — точка зрения.",
+      "zero-sum — выигрыш одного = проигрыш другого; lose-lose — плохо для обоих; one-sided — выгодно одной стороне."
+    ]
+  }
+}

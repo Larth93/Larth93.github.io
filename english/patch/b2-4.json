@@ -1,0 +1,185 @@
+{
+  "b2u23l1": {
+    "why": [
+      "Findings — «результаты исследования», в этом значении всегда во множественном числе (отсюда were).",
+      "Sample size — устойчивое сочетание «размер выборки»; sample здесь существительное-определитель.",
+      "Be associated with — «быть связанным с» (корреляция); нужна форма причастия после is.",
+      "Классическая фраза: correlation does not imply causation — «причинность», а не cause (причина).",
+      "Clinical trials — «клинические испытания»; be in clinical trials — устойчивое выражение, мн. ч.",
+      "Breakthrough — «прорыв» в науке; call it a major breakthrough — типичная коллокация.",
+      "Suggest — осторожный глагол научного стиля: результаты лишь указывают на связь, а не доказывают её."
+    ],
+    "alts": {
+      "0": ["The results were published in Nature."],
+      "3": ["Correlation doesn't mean causation."],
+      "4": ["The drug is currently in clinical trials."],
+      "6": ["The results indicate a strong link.", "The results suggest a strong connection."]
+    },
+    "qwhy": [
+      "proves — категорично «доказывает»; confirms — «подтверждает», тоже уверенно; establishes — «устанавливает», уверенно.",
+      "causing — герундий, не термин; cause-effect — не существительное в этой фразе; casualty — «жертва, потеря», ложный друг.",
+      "thinks — действительный залог: упражнение не может думать; is thinking — то же, да ещё Continuous; thought — без is не образует пассив."
+    ]
+  },
+  "b2u23l2": {
+    "why": [
+      "Sedentary lifestyle — «сидячий образ жизни»; lead a ... lifestyle — устойчивая коллокация.",
+      "Chronic condition — «хроническое заболевание»; condition в медицине = болезнь, состояние.",
+      "Immune system — «иммунная система»; именно её «укрепляют», а не immunity.",
+      "Sleep deprivation — «лишение сна, недосып»; deprivation — существительное от deprive.",
+      "Be prone to + существительное — «быть склонным к» (чему-то нежелательному: головным болям).",
+      "Side effects — «побочные эффекты», всегда во мн. ч. в этом сочетании.",
+      "Processed food — «переработанная еда»; причастие processed выступает прилагательным."
+    ],
+    "alts": {
+      "0": ["Office workers often have a sedentary lifestyle."],
+      "2": ["Sleep helps boost the immune system."],
+      "4": ["I am prone to headaches.", "I tend to get headaches."],
+      "5": ["This medicine has few side effects."],
+      "6": ["Try to avoid processed foods."]
+    },
+    "qwhy": [
+      "boost the immunity system — такого термина нет, только immune system; strong immunity up — бессмыслица; raise immune — immune прилагательное, нужно существительное.",
+      "prune — «чернослив; обрезать»; prone of — неверный предлог, только prone to; proned — нет такой формы.",
+      "under-the-table — «из-под полы, нелегально»; on-the-counter — не термин; free-receipt — бессмыслица, receipt = чек."
+    ]
+  },
+  "b2u23l3": {
+    "why": [
+      "Procrastinate — «откладывать дела»; always → Present Simple, подлежащее I без -s.",
+      "Cognitive biases — «когнитивные искажения»; some + исчисляемое во мн. ч.",
+      "Self-esteem — самооценка как ощущение собственной ценности (влияет на отношения), а не self-assessment.",
+      "Peer pressure — «давление сверстников»; give in to peer pressure — «поддаваться давлению».",
+      "Resilience — «устойчивость, способность восстанавливаться»; mental resilience — психологическая устойчивость.",
+      "Delayed gratification — «отложенное вознаграждение», устойчивый термин психологии.",
+      "Сравнение be like a muscle: сила воли, как мышца, тренируется и устаёт."
+    ],
+    "alts": {
+      "0": ["I always put things off before deadlines."],
+      "1": ["Everyone has cognitive biases."],
+      "3": ["Teenagers often give in to pressure from their peers.", "Teenagers often succumb to peer pressure."],
+      "4": ["Sports build mental resilience.", "Sport develops mental resilience."]
+    },
+    "qwhy": [
+      "peer pressure — давление сверстников; resilience — устойчивость; procrastination — откладывание дел.",
+      "self-assessment — оценка своих результатов, а не ощущение ценности; self-rating — «самооценка» как рейтинг, не о чувстве ценности; self-value check — не существует.",
+      "p произносится — нет, начальное ps- читается /s/; ps как «пс» — то же самое ошибочное; ch как «ч» — ch здесь не участвует, в psychologist ch = /k/."
+    ]
+  },
+  "b2u23l4": {
+    "why": [
+      "Inflation — «инфляция»; reached + процент, last year → Past Simple.",
+      "Raise interest rates — «поднять ставки» (переходный глагол raise, не rise); last action → Past Simple.",
+      "Slip into recession — «скатиться в рецессию», устойчивая коллокация.",
+      "Supply and demand — фиксированный порядок в английском: сначала предложение, потом спрос.",
+      "Soar — «взлететь» о ценах; after the pandemic → Past Simple soared.",
+      "Purchasing power — «покупательная способность», устойчивый термин.",
+      "Economical — «экономный» (мало расходует топлива); economic значит «экономический»."
+    ],
+    "alts": {
+      "0": ["Inflation reached nine percent last year.", "Last year inflation reached nine percent."],
+      "1": ["The bank raised interest rates once again."],
+      "3": ["Prices are determined by supply and demand."],
+      "4": ["House prices soared after the pandemic."],
+      "6": ["This car is very fuel-efficient."]
+    },
+    "qwhy": [
+      "an economic car — economic = «экономический», не «экономный»; an economy car of — лишний of; an economics car — economics = наука.",
+      "cuts interest rates — снижение ставок разгоняет спрос и инфляцию; prints more money — эмиссия усиливает инфляцию; cancels taxes — увеличивает спрос и не входит в функции ЦБ.",
+      "are — economics как наука требует ед. ч.; were being — неверное время и число; be — нужна личная форма глагола.",
+      "soared — «взлетели», противоположный смысл; leveled — «выровнялись»; climbed — «выросли»."
+    ]
+  },
+  "b2u24l1": {
+    "why": [
+      "Rob + место/жертва (a bank): грабят банк, а не крадут его.",
+      "Steal + похищенный предмет (my bike); last night → Past Simple stole.",
+      "Break into — «вломиться»; неправильный глагол: break – broke – broken.",
+      "Arrest — «арестовать»; событие в прошлом → Past Simple arrested.",
+      "Fraud — «мошенничество», неисчисляемое; online fraud — интернет-мошенничество.",
+      "Witness — «свидетель»: человек, который видел машину и описал её.",
+      "Crime rate — «уровень преступности», устойчивое сочетание."
+    ],
+    "alts": {
+      "0": ["Two men robbed a bank in the city center."],
+      "1": ["Somebody stole my bike last night.", "Someone stole my bicycle last night."],
+      "2": ["Burglars broke into the house."],
+      "4": ["Internet fraud is growing rapidly.", "Online fraud is growing fast."],
+      "6": ["The crime rate has gone down.", "The crime rate has dropped."]
+    },
+    "qwhy": [
+      "robbed — rob требует жертву/место, а не предмет; burgled — о проникновении в здание, не о кошельке; defrauded — «обманули» человека, не кошелёк.",
+      "stole — steal требует предмет, а не место; stolen — причастие без вспомогательного глагола; thieved — устаревшее/редкое слово.",
+      "shopkeeper — владелец магазина; shopper — покупатель; shop thief man — не существует.",
+      "make a crime — неверная коллокация; do crime act — бессмыслица; perform a crime — не используется, только commit."
+    ]
+  },
+  "b2u24l2": {
+    "why": [
+      "Charged with — единственно верный предлог после charge (не for).",
+      "Plead guilty / not guilty — устойчивое выражение «(не) признать вину».",
+      "Jury — «присяжные», именно они выносят verdict.",
+      "Be acquitted of — «быть оправданным по» обвинениям; пассив, причастие acquitted.",
+      "Sentenced to + срок — предлог to.",
+      "Attorney — американское «адвокат»; advocate значит «сторонник идеи».",
+      "Probation — «условный срок»; two years' probation — притяжательный падеж срока."
+    ],
+    "alts": {
+      "0": ["He was charged with tax evasion.", "He was accused of tax fraud."],
+      "1": ["The defendant pled not guilty."],
+      "3": ["She was cleared of all charges."],
+      "5": ["Call your lawyer before answering any questions.", "Call your attorney before you answer questions."],
+      "6": ["He got two years of probation.", "He was given two years' probation."]
+    },
+    "qwhy": [
+      "for — после charged не используется; of — так говорят с accused/convicted, не с charged; in — неверный предлог.",
+      "convict — осудить (противоположное); sentence — назначить наказание; charge — предъявить обвинение.",
+      "advocate — сторонник идеи, а не юрист в суде США; advocator — не существует; jurist man — бессмыслица (jurist = правовед)."
+    ]
+  },
+  "b2u24l3": {
+    "why": [
+      "Breathtaking — «захватывающий дух»: сильное прилагательное для вида с вершины.",
+      "Bustling — «оживлённый, кипящий жизнью» — типично о рынках и улицах.",
+      "Off the beaten track — идиома «вдали от туристических маршрутов», предлог off.",
+      "Tourist trap — идиома: место, где переплачивают туристы.",
+      "Soak up the atmosphere — «впитывать атмосферу»; -ing-форма как сопутствующее действие после запятой.",
+      "Wander — «бродить» без цели; рассказ в прошлом → wandered.",
+      "Secluded — «уединённый», вдали от людей."
+    ],
+    "alts": {
+      "0": ["The view from the summit was breathtaking.", "The view from the top was stunning."],
+      "1": ["We explored the busy night market.", "We explored the lively night market."],
+      "2": ["The village is off the beaten path."],
+      "5": ["We wandered along narrow cobblestone streets.", "We wandered through narrow cobbled streets."]
+    },
+    "qwhy": [
+      "travel — неисчисляемое, с a не употребляется; travels — мн. ч., не сочетается с a; travelling one — неестественно.",
+      "tourist cage / tourist hole / tourist net — таких идиом нет, только tourist trap.",
+      "secluded — уединённый; tranquil — спокойный; run-down — обветшалый."
+    ]
+  },
+  "b2u24l4": {
+    "why": [
+      "Set off — «отправиться в путь»; set – set – set, Past Simple совпадает с инфинитивом.",
+      "Past Perfect Continuous (had been + -ing): длительность действия до момента в прошлом.",
+      "Past Perfect с never: опыт до того момента в прошлом; seen — 3-я форма see.",
+      "Break down — «сломаться» о транспорте; Past Simple broke.",
+      "Was/were about to — «вот-вот собирались»: несостоявшееся будущее в прошлом.",
+      "Get stranded — «застрять без транспорта»; got + причастие stranded.",
+      "Past Continuous (was raining) — фон, на который накладывается короткое действие landed."
+    ],
+    "alts": {
+      "0": ["We set out before sunrise.", "We left before dawn."],
+      "1": ["We had been walking for six hours."],
+      "2": ["I had never seen a sunset like that."],
+      "4": ["We were about to quit.", "We were on the verge of giving up."],
+      "5": ["We were stranded at the border."]
+    },
+    "qwhy": [
+      "walked — не передаёт длительность до момента; have walked — Present Perfect в рассказе о прошлом; are walking — настоящее время.",
+      "am about — настоящее время; had about — неверная конструкция; was going about — значит «занимался», не «собирался».",
+      "left — не показывает, что поезд ушёл раньше; has left — Present Perfect в прошлом контексте; was leaving yet — бессмысленная смесь."
+    ]
+  }
+}

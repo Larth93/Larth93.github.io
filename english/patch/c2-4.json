@@ -1,0 +1,92 @@
+{
+"c2u23l1": {"why": [
+"Because + придаточное (it rained) — кратко вместо многословного due to the fact that.",
+"Сильный глагол decide вместо номинализации make a decision; после must — инфинитив без to.",
+"Redundant — «избыточный»: подарок по определению бесплатный, free лишнее.",
+"Succinct — «сжатый, лаконичный»; keep … succinct = держать кратким.",
+"Padding — «вода», лишний текст для объёма; cut the padding.",
+"Concise — «краткий и ёмкий»; пара clear and concise — устойчивая.",
+"Pare down — «урезать, сократить»; down to five minutes указывает на результат."
+], "alts": {"0": ["The match was canceled because of the rain.", "Because of the rain, the match was canceled."]}},
+"c2u23l2": {"why": [
+"Flow — «плавность текста»; vary sentence length улучшает течение речи.",
+"Choppy — «отрывистый, рубленый» о тексте из коротких фраз.",
+"Cadence — «ритм, интонационный рисунок» речи.",
+"Parallelism — одинаковая грамматическая форма в перечне: running, swimming, cycling.",
+"Punchy — «хлёсткий, энергичный»; short and punchy.",
+"Tricolon — фигура из трёх параллельных частей: veni, vidi, vici.",
+"Monotonous — «монотонный»; string of equal sentences — однообразие."
+]},
+"c2u23l3": {"why": [
+"Hackneyed — «избитый, затасканный»; hackneyed phrases.",
+"Buzzword — модное словечко; synergy — типичный корпоративный пример.",
+"Trite — «банальный»; trite openings like «Nowadays».",
+"Platitude — «пустая банальность, трюизм»; empty platitudes.",
+"Low-hanging fruit — клише «самое лёгкое, что можно сделать сначала».",
+"Game-changer — клише «то, что меняет правила игры»; is lazy — критика.",
+"Stale — «несвежий, приевшийся» (о шутке, идее)."
+], "alts": {"1": ["«Synergy» is a classic corporate buzzword."]}},
+"c2u23l4": {"why": [
+"Tighter — сравнительная степень tight: «плотнее, без лишнего»; much усиливает сравнение.",
+"Active voice — действительный залог; in the active voice.",
+"Clunky — «корявый, тяжеловесный» о фразе.",
+"Polish — «шлифовать текст»; spend time + -ing: spent a week polishing.",
+"После always в повелительном — инфинитив read; read aloud = читать вслух.",
+"Streamline — «упростить, сделать стройнее».",
+"For emphasis — «для акцента»; end focus — важное в конце."
+], "alts": {"5": ["We need to simplify this paragraph."]}},
+"c2u24l1": {"why": [
+"No sooner had … than — инверсия «едва … как»; no sooner обязательно с than.",
+"Come as no surprise — устойчивое «не стать неожиданностью».",
+"Little did she know — эмфатическая инверсия «она и не подозревала».",
+"On the point of + -ing — «вот-вот, на грани того, чтобы».",
+"Take something for granted — «принимать как должное»; granted — причастие.",
+"Exceed expectations — «превзойти ожидания»; Past Simple exceeded.",
+"At someone's insistence — «по чьему-то настоянию»."
+], "alts": {"2": ["She had no idea he was watching."], "3": ["We were on the verge of giving up."]}},
+"c2u24l2": {"why": [
+"Albeit — «хотя и»; присоединяет уступку без глагола: albeit a modest one.",
+"Were it not for — инверсия вместо If it were not for (2-й тип условных).",
+"By no means — «отнюдь не»; фиксированное выражение.",
+"Lest + (should) + инфинитив — «чтобы не»; книжная конструкция.",
+"Whereby — «посредством которого, при котором»; связывает system с описанием.",
+"To say nothing of — «не говоря уже о»; требует предлога of.",
+"Hence — «отсюда, поэтому»; может стоять перед существительным без глагола."
+], "alts": {"1": ["If it weren't for the rain, we'd go out."], "2": ["The task is not easy at all."]}},
+"c2u24l3": {"why": [
+"Ir- перед r + reverse + -ible: irreversible «необратимый».",
+"Whole + hearted + -ly: наречие при глаголе agree.",
+"Re- (снова) + negotiate → renegotiation; после a нужно существительное.",
+"Pronounce → pronunciation (корень меняется: -nounce → -nunci-); после her нужно существительное.",
+"Explain → explanatory (-ain → -an-); прилагательное перед notes.",
+"Maintain → maintenance (не maintainance); существительное после regular.",
+"Mis- (неправильно) + interpret: «неверно истолковать»."
+]},
+"c2u24l4": {"why": [
+"Contend that — «утверждать, отстаивать»; глагол с -s для the writer.",
+"Concede that — «признавать (нехотя)»; подходит к признанию слабости данных.",
+"Take issue with — «не соглашаться с»; фиксированное выражение.",
+"Underscore — «подчёркивать» (AmE); третье лицо — underscores.",
+"Compelling — «убедительный»; but incomplete — уступительный контраст.",
+"Cast doubt on — устойчивое «ставить под сомнение».",
+"Simplistic — «упрощённый, примитивный» (с негативом), не simple."
+], "alts": {"3": ["The second text emphasizes the human cost.", "The second text highlights the human cost."], "5": ["Recent studies call that theory into question."]}},
+"c2u24l5": {"why": [
+"Op-ed — авторская колонка (opposite the editorial page).",
+"Underlying assumption — «скрытое, лежащее в основе допущение».",
+"Straw man — «чучело»: искажённая позиция оппонента, которую легко опровергнуть.",
+"False dichotomy — «ложная дилемма»: there are other options.",
+"Cherry-pick — «выборочно подбирать удобное»; 3-е лицо cherry-picks.",
+"Loaded language — эмоционально нагруженные слова.",
+"Ad hominem — лат. «к человеку»: нападение на личность, а не на аргумент."
+]},
+"c2u24l6": {"why": [
+"Granted, — вводная уступка «допустим»; затем обычно следует but.",
+"Conflate X with Y — «смешивать разные понятия»; 3-е лицо conflates.",
+"Fall apart — «рассыпаться, развалиться»; under scrutiny — при проверке.",
+"Far from clear — «далеко не очевидно».",
+"Admittedly — «надо признать»; вводит уступку собственной слабости.",
+"Rebuttal — «опровержение, ответ на критику».",
+"Counterargument — «контраргумент»; strongest counterargument."
+], "alts": {"1": ["The writer confuses correlation with causation."]}}
+}

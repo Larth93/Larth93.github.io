@@ -1,0 +1,329 @@
+{
+  "c1u20l1": {
+    "why": [
+      "break even = выйти в ноль (доходы равны расходам); прошлое — broke even (last quarter).",
+      "Коллокация raise capital = привлечь капитал.",
+      "slash = резко урезать; после decided to — инфинитив.",
+      "revenue = выручка (весь доход от продаж), противопоставлена profits (прибыль).",
+      "hostile takeover = враждебное поглощение; bid — предложение о покупке.",
+      "cash-flow через дефис как определение к problems = проблемы с денежным потоком."
+    ],
+    "gap": { "2": "slash|cut" },
+    "alts": {
+      "0": ["The company finally broke even last quarter."],
+      "1": ["We need to raise capital before we expand."],
+      "2": ["Management decided to cut costs across the board."],
+      "3": ["Our revenue went up, but profits went down.", "Revenue grew, but profits fell."],
+      "4": ["The board rejected the hostile takeover bid."],
+      "5": ["Small businesses often face cash-flow problems."]
+    },
+    "qwhy": [
+      "do / create / win — не сочетаются с profit; правильно turn или make a profit.",
+      "profit — прибыль после расходов; margin — маржа; benefit — выгода.",
+      "economic — относящийся к экономике; economy — существительное; economist — человек.",
+      "raised — переходный, требует дополнения; arose — «возникли»; rised — несуществующая форма."
+    ]
+  },
+  "c1u20l2": {
+    "why": [
+      "soar = взлететь (о ценах); Present Perfect из-за since the pandemic.",
+      "curb = обуздать, сдерживать (inflation); после moved to — инфинитив.",
+      "plummet = резко упасть, обвалиться; прошлое — после объявления.",
+      "stimulus package = пакет мер стимулирования экономики.",
+      "grow by + величина изменения (на два процента).",
+      "stagnate = стоять на месте; Present Perfect из-за for a decade."
+    ],
+    "gap": { "0": "soared|skyrocketed", "2": "plummeted|plunged" },
+    "alts": {
+      "0": ["Housing prices have skyrocketed since the pandemic."],
+      "1": ["The central bank took steps to curb inflation."],
+      "2": ["Share prices plunged after the announcement.", "Stock prices collapsed after the announcement."],
+      "3": ["The government unveiled a huge stimulus package."],
+      "4": ["GDP grew by two percent last year.", "GDP rose by 2% last year."],
+      "5": ["Wages have stagnated for ten years.", "Wages have been flat for a decade."]
+    },
+    "qwhy": [
+      "fiscal — налоги и госрасходы; foreign — внешняя политика; social — социальная политика.",
+      "by — на величину, а не до уровня; on / at — не употребляются с fell в этом значении.",
+      "crisises — неверно, греческое -is → -es; crisis — ед. ч.; crisi — несуществующая форма."
+    ]
+  },
+  "c1u20l3": {
+    "why": [
+      "pass a bill = принять законопроект (о парламенте/Конгрессе).",
+      "run for office = баллотироваться (амер.).",
+      "incumbent = действующий обладатель поста.",
+      "voter turnout = явка избирателей.",
+      "veto = наложить вето; после threatened to — инфинитив.",
+      "bipartisan = двухпартийный, поддержанный обеими партиями."
+    ],
+    "alts": {
+      "0": ["Congress finally passed the health care bill."],
+      "1": ["She plans to run for office next year."],
+      "2": ["The incumbent lost by a narrow margin.", "The incumbent narrowly lost."],
+      "3": ["Voter turnout hit a record high."],
+      "4": ["The president threatened to veto the bill."],
+      "5": ["The reform had rare bipartisan support."]
+    },
+    "qwhy": [
+      "politics — политика как сфера; politic — прилагательное «благоразумный»; polity — государственное устройство.",
+      "accept / take a law — не коллокации; adopt to a law — лишний предлог (adopt a law возможно, но без to).",
+      "landfall — выход урагана на сушу; flood / wave — не образуют эту идиому."
+    ]
+  },
+  "c1u20l4": {
+    "why": [
+      "file a lawsuit = подать иск.",
+      "plead guilty = признать вину в суде.",
+      "reach a verdict = вынести вердикт (о присяжных).",
+      "be acquitted of = быть оправданным по обвинению.",
+      "settle out of court = уладить дело без суда.",
+      "be charged with + преступление = быть обвинённым в."
+    ],
+    "alts": {
+      "0": ["The customers sued the bank.", "The customers filed a lawsuit against the bank."],
+      "1": ["He decided to plead guilty to avoid a trial."],
+      "2": ["It took the jury two days to reach a verdict."],
+      "3": ["She was cleared of all charges.", "She was acquitted on all counts."],
+      "4": ["The companies agreed to settle out of court."],
+      "5": ["He was charged with tax evasion."]
+    },
+    "qwhy": [
+      "with — с charged, а не convicted; for — разговорный вариант, стандарт — of; in — не используется.",
+      "verdict — решение о виновности; plea — заявление подсудимого; charge — обвинение.",
+      "defendant — ответчик; prosecutor — обвинитель; witness — свидетель."
+    ]
+  },
+  "c1u21l1": {
+    "why": [
+      "be diagnosed with + болезнь — устойчивое управление.",
+      "prescribe = выписать (лекарство).",
+      "side effect = побочный эффект.",
+      "be in remission = находиться в ремиссии; Present Perfect из-за for years.",
+      "burnout = выгорание (существительное); suffer from + существительное.",
+      "cognitive bias = когнитивное искажение."
+    ],
+    "alts": {
+      "0": ["She was diagnosed with asthma as a child.", "She was diagnosed with asthma when she was a child."],
+      "1": ["The doctor prescribed a stronger painkiller."],
+      "2": ["Drowsiness is a common side effect."],
+      "3": ["Her cancer has been in remission for many years."],
+      "4": ["Many nurses suffer from burnout.", "Many nurses experience burnout."],
+      "5": ["Confirmation bias is a classic cognitive bias."]
+    },
+    "qwhy": [
+      "of / by / on — с diagnosed (о болезни) используется только with.",
+      "in / at / under — be on medication — устойчивое сочетание.",
+      "acute — острое; temporary — временное; sharp — резкое (о боли), не о болезни."
+    ]
+  },
+  "c1u21l2": {
+    "why": [
+      "Модель обучают: train a system/model on data; пассив was trained.",
+      "data breach = утечка данных.",
+      "be held accountable for = нести ответственность (отчитываться) за.",
+      "transparency = прозрачность (существительное после more).",
+      "mass surveillance = массовая слежка.",
+      "safeguards against = меры защиты от."
+    ],
+    "alts": {
+      "0": ["The system was trained on millions of images."],
+      "1": ["A massive data breach exposed customers' emails.", "A huge data leak exposed customer emails."],
+      "2": ["Who should be responsible for errors?", "Who should be held responsible for mistakes?"],
+      "3": ["Critics are demanding more transparency from tech companies."],
+      "4": ["Facial recognition raises fears of mass surveillance."],
+      "5": ["We need stronger protections against misuse.", "We need stronger safeguards against abuse."]
+    },
+    "qwhy": [
+      "teach — учат людей, а не модели; learn / study — делает сам обучающийся, без дополнения-модели.",
+      "Остальные варианты — не подотчётность: ответственность за объекты, страхование ответственности, вина.",
+      "unattended — без присмотра; uninterested — незаинтересованный; unaware — не осведомлённый."
+    ]
+  },
+  "c1u21l3": {
+    "why": [
+      "carbon footprint = углеродный след.",
+      "emissions = выбросы (обычно во мн. ч.); halve emissions = сократить вдвое.",
+      "renewable = возобновляемый (источник энергии).",
+      "adapt to = приспособиться к; после must — базовая форма.",
+      "phase out = поэтапно отказаться от.",
+      "greenwashing = «зелёный камуфляж», ложная экологичность; accuse of + существительное/герундий."
+    ],
+    "alts": {
+      "0": ["Flying less dramatically reduces your carbon footprint."],
+      "1": ["The EU aims to cut emissions in half by 2030."],
+      "2": ["Solar is now the cheapest renewable energy source."],
+      "3": ["Cities will have to adapt to more frequent heat waves."],
+      "4": ["The plan will phase out gas boilers.", "The plan will gradually phase out gas boilers."],
+      "5": ["Activists accused the airline of greenwashing."]
+    },
+    "qwhy": [
+      "adaptation — приспособление к последствиям; migration — миграция; emission — выброс.",
+      "stable / steady — устойчивый в смысле «стабильный»; sustained — продолжительный, а не экологичный.",
+      "fossilized — окаменевший (не о топливе); organic — органический; raw — сырой."
+    ]
+  },
+  "c1u21l4": {
+    "why": [
+      "break a story = первым опубликовать новость.",
+      "verify = проверять достоверность; после must — базовая форма.",
+      "media coverage = освещение в СМИ.",
+      "go viral = стать вирусным; прошлое — went viral.",
+      "retraction = опровержение, отзыв публикации.",
+      "disinformation = намеренная ложь (deliberate), в отличие от misinformation."
+    ],
+    "alts": {
+      "0": ["A local reporter broke the story first.", "A local reporter was the first to break the story."],
+      "1": ["Journalists must check every claim.", "Journalists have to fact-check every claim."],
+      "2": ["The trial received extensive media coverage.", "The trial was widely covered in the media."],
+      "3": ["The video went viral within a few hours."],
+      "4": ["The magazine published a full retraction."],
+      "5": ["Deliberate lies spread as disinformation."]
+    },
+    "qwhy": [
+      "were / are / have been — news неисчисляемое, согласуется в ед. ч., а событие в прошлом.",
+      "misinformation — ложь без умысла; information — просто информация; malpractice — профессиональная халатность.",
+      "make a story / burst the news / open news — не коллокации."
+    ]
+  },
+  "c1u21l5": {
+    "why": [
+      "critically acclaimed = получивший признание критиков.",
+      "thought-provoking = заставляющий задуматься (через дефис).",
+      "derivative = вторичный, неоригинальный; dismiss as + прилагательное.",
+      "evoke = вызывать (чувство, ассоциацию).",
+      "unfold = разворачиваться (о сюжете); plot → -s.",
+      "retrospective = ретроспектива (выставка работ художника за всю карьеру)."
+    ],
+    "alts": {
+      "0": ["Her debut film was acclaimed by critics.", "Her first film was critically acclaimed."],
+      "1": ["It is a deeply thought-provoking play."],
+      "2": ["Critics dismissed the sequel as unoriginal."],
+      "3": ["The paintings evoke a feeling of loneliness."],
+      "4": ["The plot unfolds over one night."],
+      "5": ["The museum is hosting a Hopper retrospective."]
+    },
+    "qwhy": [
+      "personage — важная персона, не литературный персонаж; person — человек; hero only — только главный герой.",
+      "original / seminal / groundbreaking — все означают оригинальность или новаторство.",
+      "untrue — неправдивый (о факте); unfaithful — неверный (в отношениях); unstable — неустойчивый."
+    ]
+  },
+  "c1u22l1": {
+    "why": [
+      "premises = посылки аргумента (мн. ч. от premise).",
+      "fallacy = логическая ошибка.",
+      "straw man = искажённая версия чужого аргумента, которую легко опровергнуть.",
+      "free will = свобода воли.",
+      "empirical = основанный на опыте и наблюдении.",
+      "challenge assumptions = ставить под сомнение допущения; philosophy → -s."
+    ],
+    "alts": {
+      "0": ["Every argument is based on a few premises."],
+      "1": ["Attacking the person is a classic logical fallacy."],
+      "2": ["You're attacking a distorted version of my argument.", "You're attacking a straw man."],
+      "3": ["Do we actually have free will?"],
+      "4": ["Science relies on empirical evidence.", "Science is based on empirical data."],
+      "5": ["Good philosophy questions our assumptions."]
+    },
+    "qwhy": [
+      "red herring — уводит от темы; slippery slope — «скользкая дорожка»; ad hominem — нападки на личность.",
+      "deontology — этика долга; stoicism — стоицизм; nihilism — отрицание ценностей.",
+      "a priori — до опыта; theoretical — теоретический; imperial — имперский (созвучие)."
+    ]
+  },
+  "c1u22l2": {
+    "why": [
+      "peer-reviewed = рецензируемый (коллегами), через дефис.",
+      "conduct research = проводить исследование.",
+      "sample size = размер выборки.",
+      "Correlation does not imply causation — устойчивая формула; causation = причинность.",
+      "replicate = воспроизвести (результаты); failed to + инфинитив.",
+      "findings = результаты исследования (мн. ч.) → suggest без -s."
+    ],
+    "alts": {
+      "0": ["The study was published in a peer-reviewed journal."],
+      "1": ["They carried out research on sleep patterns.", "They conducted a study on sleep patterns."],
+      "2": ["The sample was far too small."],
+      "3": ["Correlation does not mean causation."],
+      "4": ["Other labs could not replicate the results.", "Other labs failed to reproduce the results."],
+      "5": ["The results suggest a genetic link.", "The findings indicate a genetic link."]
+    },
+    "qwhy": [
+      "make — не коллокация с experiment в академ. стиле; do up — «застегнуть, отремонтировать»; perform on — лишний предлог.",
+      "hypothesises — неверно, -is → -es; hypothesis — ед. ч.; hypothesi — несуществующая форма.",
+      "prove / guarantee / confirm forever — слишком категорично для научных результатов."
+    ]
+  },
+  "c1u22l3": {
+    "why": [
+      "substantial = значительный (о сумме/финансировании).",
+      "facilitate = облегчать, способствовать; после can — базовая форма.",
+      "inherent in = присущий чему-либо.",
+      "comply with = соблюдать (правила).",
+      "be consistent with = согласовываться с.",
+      "allocate to = выделять (средства) кому-либо; пассив were allocated."
+    ],
+    "alts": {
+      "0": ["The project received significant funding.", "The project got substantial funding."],
+      "1": ["Technology can make distance learning easier."],
+      "2": ["Risk is inherent in any investment.", "Every investment involves risk."],
+      "3": ["All companies must comply with the new rules."],
+      "4": ["The results are consistent with previous studies.", "The results agree with earlier studies."],
+      "5": ["Funds were allocated to rural schools."]
+    },
+    "qwhy": [
+      "to / on / with — с inherent используется in.",
+      "underline — подчёркивать; undergo — подвергаться; underlie — лежать в основе.",
+      "deprive — лишать; drive — вести; arrive — прибывать."
+    ]
+  },
+  "c1u22l4": {
+    "why": [
+      "contend = утверждать (отстаивать позицию); writer → -s.",
+      "acknowledge = признавать (ограничения, недостатки).",
+      "In essence = по сути — вводит суть сказанного.",
+      "omit = опускать, не включать.",
+      "highlight = выделять, подчёркивать.",
+      "concede = признавать (уступая оппоненту)."
+    ],
+    "gap": { "5": "concedes|acknowledges|admits" },
+    "alts": {
+      "0": ["The author argues that taxes are too low.", "The writer claims that taxes are too low."],
+      "1": ["She admits the limitations of her study."],
+      "2": ["Essentially, the report calls for reform.", "Basically, the report calls for reform."],
+      "3": ["A good summary leaves out minor details."],
+      "4": ["The article points out three key risks."],
+      "5": ["He admits that the data is incomplete.", "He acknowledges that the data are incomplete."]
+    },
+    "qwhy": [
+      "your personal opinion — не входит в изложение; all examples and statistics — слишком подробно; quotes from every paragraph — нужно своими словами.",
+      "claims / insists / argues — выражают собственную позицию, а не уступку.",
+      "the same length / twice as long — это не сокращение; one word — слишком мало."
+    ]
+  },
+  "c1u22l5": {
+    "why": [
+      "paraphrase = перефразировать; после try to — инфинитив.",
+      "patchwriting — замена слов синонимами при сохранении структуры оригинала.",
+      "plagiarism = плагиат; count as + существительное.",
+      "convey = передавать (мысль, смысл).",
+      "nuance = оттенок значения; every + ед. ч.",
+      "lead to = приводить к; прошлое — led to."
+    ],
+    "gap": { "5": "led to|caused|resulted in" },
+    "alts": {
+      "0": ["Try to rephrase the question in your introduction."],
+      "1": ["Replacing words with synonyms one at a time is patchwriting, not paraphrasing."],
+      "2": ["Copying without attribution is considered plagiarism."],
+      "3": ["A good paraphrase conveys the same idea.", "A good paraphrase expresses the same idea."],
+      "4": ["Synonyms rarely share every shade of meaning."],
+      "5": ["Rising costs resulted in higher prices.", "Higher costs led to higher prices."]
+    },
+    "qwhy": [
+      "rised sharp — неверные формы (rose, sharply); Sharply unemployment went — неграмматично; rose sharply indeed — почти копия оригинала.",
+      "verbs / sentence structure / word order — их как раз и меняют при перефразе.",
+      "summarizing — сокращение; citing — ссылка на источник; quoting — дословная цитата."
+    ]
+  }
+}

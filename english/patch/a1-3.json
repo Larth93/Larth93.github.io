@@ -1,0 +1,248 @@
+{
+  "a1u5l1": {
+    "why": [
+      "Вода неисчисляемая, поэтому считаем через «упаковку»: a bottle of water.",
+      "news — неисчисляемое существительное, глагол в единственном числе: is, несмотря на -s.",
+      "advice неисчисляемое: без a и без -s; some advice — «совет».",
+      "Кусок торта — a piece of cake: cake как масса считается через piece.",
+      "luggage неисчисляемое, поэтому How much, а не How many; без -s.",
+      "money — неисчисляемое, глагол в ед. числе: isn't (is not).",
+      "После two нужно множественное число: slices; пиццу считаем ломтиками."
+    ],
+    "alts": {
+      "0": ["Can I get a bottle of water?", "Could I have a bottle of water?"],
+      "1": ["The news is very good."],
+      "2": ["I need a piece of advice.", "I need advice."],
+      "3": ["Do you want a piece of cake?"],
+      "6": ["I'll have two slices of pizza.", "I'll take two pieces of pizza."]
+    },
+    "qwhy": [
+      "apple, bag, chair — исчисляемые: an apple, two bags, a chair.",
+      "are — news в ед. числе; am — только с I; be — не спрягается так в Present.",
+      "an advice / a advice — advice неисчисляемое, без артикля a; one advices — нет множественного числа.",
+      "a coffee cup of — неверный порядок; one cup coffee — пропущен of; cup coffees — бессмыслица.",
+      "luggages — нет множественного числа; luggage are — глагол должен быть в ед. ч.; My a luggage — нельзя артикль после my и с неисчисляемым."
+    ]
+  },
+  "a1u5l2": {
+    "why": [
+      "Обычный вопрос → any.",
+      "Утверждение → some (немного сыра).",
+      "Предложение (Would you like…?) → some даже в вопросе: ждём «да».",
+      "Отрицание (don't) → any.",
+      "В вопросе используем производное от any: anything — «что-нибудь».",
+      "Утверждение, речь о человеке → someone («кто-то»).",
+      "Утверждение/предложение (Let's…) → some."
+    ],
+    "alts": {
+      "1": ["I need a little cheese."],
+      "2": ["Would you like tea?", "Do you want some tea?"],
+      "3": ["We have no milk."],
+      "5": ["Somebody is at the door.", "There's someone at the door."],
+      "6": ["Let's get some vegetables."]
+    },
+    "qwhy": [
+      "some — в отрицании используется any; a — bread неисчисляемое; no — двойное отрицание с isn't.",
+      "any — в предложениях используем some; a some — два определителя подряд невозможны; many — cake здесь как масса, many с неисчисляемым нельзя.",
+      "some — в обычном вопросе-уточнении нужно any; a / an — brothers во мн. числе.",
+      "can't see nothing — двойное отрицание; can see anything — смысл «могу видеть что угодно»; can't see something — в отрицании нужен anything.",
+      "Anyone — в утверждении нужно someone; Anything / Something — это о предметах, а звонит человек."
+    ]
+  },
+  "a1u5l3": {
+    "why": [
+      "Вопрос о цене — How much (деньги неисчисляемы).",
+      "people — исчисляемое (мн. ч.) → How many.",
+      "time неисчисляемое, отрицание → much.",
+      "Утверждение с исчисляемым (tourists) → естественно a lot of.",
+      "sugar неисчисляемое → a little («немного»).",
+      "questions исчисляемое → a few («несколько»).",
+      "too + прилагательное: expensive — «дорогой»; too expensive — «слишком дорого»."
+    ],
+    "alts": {
+      "0": ["How much does this jacket cost?"],
+      "1": ["How many people are there in your family?"],
+      "3": ["There are lots of tourists here.", "There are many tourists here."],
+      "4": ["I'd like some sugar, please."],
+      "5": ["I have some questions."]
+    },
+    "qwhy": [
+      "much — для неисчисляемых, а apples исчисляемые; lot — нужно a lot of и не после How; few of — How few of не говорят.",
+      "many — цена (деньги) неисчисляемая; lot — How lot не бывает; long — «как долго», не о цене.",
+      "many / a few — для исчисляемых, а coffee неисчисляемое; lots — нужно lots of.",
+      "much friends — much с исчисляемыми нельзя; many of friends / much of friends — лишний of перед существительным без артикля.",
+      "water, money, milk — неисчисляемые, с ними a little, а не a few."
+    ]
+  },
+  "a1u5l4": {
+    "why": [
+      "Вопрос о действии прямо сейчас: are you + doing (Present Continuous).",
+      "Дождь идёт в момент речи: it's (it is) + raining.",
+      "Действие сейчас: I'm + looking (look for — искать).",
+      "Отрицание в Present Continuous: she + isn't + working; today — временно.",
+      "Вопрос: Are + you + waiting — be выносится вперёд.",
+      "Временное проживание: we're + staying.",
+      "Описываем, во что человек одет сейчас: he's + wearing."
+    ],
+    "alts": {
+      "2": ["I'm trying to find the exit."],
+      "3": ["She's not working today."],
+      "4": ["Are you waiting for somebody?"],
+      "5": ["We're staying at the Hilton hotel."],
+      "6": ["He has a black jacket on."]
+    },
+    "qwhy": [
+      "snows — Simple для привычек, а Look! — сейчас; snowing — нет is; snow — нет is и -ing.",
+      "watch — Simple, а right now требует Continuous; watching — пропущен are; is watching — they требует are.",
+      "I'm knowing / I knowing — know глагол состояния, не ставится в -ing; I am know — be не сочетается с начальной формой.",
+      "Does / Do — с -ing нужен be, не do; Are — she требует is.",
+      "siting — после краткого ударного гласного согласная удваивается; sitng / sitteing — неверное написание."
+    ]
+  },
+  "a1u5l5": {
+    "why": [
+      "usually + привычка → Present Simple: I drink.",
+      "Look → действие происходит сейчас: she's talking (Continuous).",
+      "What do you do? — устойчивый вопрос о профессии, Present Simple.",
+      "every Sunday → регулярное действие, Present Simple: he + plays.",
+      "this week → временная ситуация: I'm working (Continuous).",
+      "Научный факт → Present Simple: water + boils.",
+      "Shh! — ребёнок спит прямо сейчас → is sleeping."
+    ],
+    "alts": {
+      "0": ["I usually have tea in the morning."],
+      "1": ["Look, she's speaking to the manager."],
+      "2": ["What do you do for a living? — I'm a designer.", "What's your job? — I'm a designer."],
+      "4": ["This week I'm working from home."],
+      "5": ["Water boils at 100 degrees Celsius."],
+      "6": ["Be quiet! The baby is sleeping.", "Shh! The baby's asleep."]
+    },
+    "qwhy": [
+      "am walking — every day означает привычку → Simple; walking — без am это не глагольная форма; walks — с I без -s.",
+      "study / studies — Simple не подходит, Be quiet! говорит о «сейчас»; studying — пропущен am.",
+      "текущем действии — для этого What are you doing?; планах / прошлом — вопрос в Present Simple о постоянном.",
+      "is living — живёт постоянно, а this month противопоставлен; live — she требует -s; living — нет глагола be.",
+      "plays / play — Simple, а Listen! указывает на сейчас; playing — пропущен is."
+    ]
+  },
+  "a1u6l1": {
+    "why": [
+      "be born — «родиться» всегда в прошедшем: I was born.",
+      "you → were; вопрос о прошлом (last night).",
+      "flight — ед. число → was; was delayed — «был задержан».",
+      "we → were, отрицание weren't; yesterday — прошлое.",
+      "the trip — ед. число → Was в начале вопроса.",
+      "crowded — «переполненный, многолюдный»: описание места.",
+      "ago ставится после промежутка времени: two years ago — «два года назад»."
+    ],
+    "alts": {
+      "2": ["The flight was late."],
+      "3": ["We were not at home yesterday.", "We weren't home yesterday."],
+      "4": ["Was it a good trip?", "Did you have a good trip?"],
+      "6": ["They were in Rome two years ago."]
+    },
+    "qwhy": [
+      "was — they требует were; are — настоящее время; been — причастие, не используется без have.",
+      "Were — he требует was; Did — с прилагательными и местом используется be; Is — настоящее.",
+      "I born — пропущен was; I am born — настоящее время; I were born — с I используется was.",
+      "wasn't — we требует weren't; didn't — с местом (at home) нужен be; aren't — настоящее время.",
+      "now / usually — настоящее; tomorrow — будущее."
+    ]
+  },
+  "a1u6l2": {
+    "why": [
+      "last year → Past Simple: visit + -ed.",
+      "Законченное действие в прошлом: book + -ed = booked.",
+      "yesterday → Past Simple: called.",
+      "Законченное действие в прошлом: arrive + d (немая e).",
+      "Past Simple: stay + -ed; после гласной y не меняется.",
+      "Согласная + y → ied: study → studied.",
+      "all day в прошлом → walked."
+    ],
+    "alts": {
+      "0": ["We went to New York last year."],
+      "1": ["I reserved a hotel online.", "I booked a hotel room online."],
+      "4": ["They stayed in a small hotel."],
+      "6": ["We walked around the city the whole day."]
+    },
+    "qwhy": [
+      "studyed — согласная + y меняется на i; studed / studid — неверное написание.",
+      "stoped — краткий ударный слог: согласная удваивается; stopt / stopted — нестандартные формы.",
+      "[t] / [d] — после t окончание -ed произносится [ɪd]; «не произносится» — неверно.",
+      "[ɪd] — только после t/d; [d] — после звонких; [ed] — такого произношения нет.",
+      "lives / live — настоящее время, а in 2019 — прошлое; is living — Continuous настоящего."
+    ]
+  },
+  "a1u6l3": {
+    "why": [
+      "last summer → Past Simple; go — неправильный: went.",
+      "have a great time в прошлом: had.",
+      "lose — неправильный: lost.",
+      "yesterday → buy — неправильный: bought.",
+      "on Friday (прошлое) → fly — неправильный: flew.",
+      "meet — неправильный: met; in college — прошлое.",
+      "take — неправильный: took; take a taxi — «взять такси».",
+      "leave — неправильный: left («оставил»)."
+    ],
+    "alts": {
+      "0": ["I went to Spain last summer."],
+      "1": ["We had a wonderful time."],
+      "4": ["On Friday we flew to Chicago."],
+      "6": ["They took a cab to the hotel."],
+      "7": ["He forgot his bag on the train."]
+    },
+    "qwhy": [
+      "goed — go неправильный; gone — третья форма (причастие); wented — такого слова нет.",
+      "buyed — buy неправильный; brought — прошедшее от bring; boughted — двойное прошедшее.",
+      "seed — see неправильный; seen — третья форма; sawed — от saw «пилить».",
+      "[seɪd] / [said] / [sid] — said произносится [sɛd], как «сэд».",
+      "eated — eat неправильный; eaten — третья форма; eat — настоящее время."
+    ]
+  },
+  "a1u6l4": {
+    "why": [
+      "Вопрос в прошлом: Did + подлежащее + начальная форма.",
+      "Отрицание в прошлом: didn't + начальная форма (see).",
+      "После did глагол в начальной форме: go, не went.",
+      "После didn't — начальная форма: miss.",
+      "What — подлежащее, поэтому did не нужен: happened (Past Simple).",
+      "После did — начальная форма: enjoy.",
+      "Краткий ответ на Did…? — Yes, we did."
+    ],
+    "alts": {
+      "1": ["I didn't notice the sign."],
+      "4": ["What happened in the airport?"],
+      "5": ["Did they like the trip?"]
+    },
+    "qwhy": [
+      "saw — после did прошедшая форма не нужна; seen — причастие; seeing — -ing не после did.",
+      "doesn't / don't — настоящее время; wasn't — с глаголом call нужен did.",
+      "did you bought — прошлое уже в did; you bought без did / bought you — неверный порядок.",
+      "Did — с прилагательным (tired) используется be; Was — you требует were; Do — настоящее.",
+      "came — в кратком ответе повторяем did; does — настоящее; was — вопрос задан с did."
+    ]
+  },
+  "a1u6l5": {
+    "why": [
+      "be + going to + глагол: I'm going to rent.",
+      "После going to — начальная форма глагола: do.",
+      "Отрицание: we + aren't + going to.",
+      "Вопрос: Is + she + going to (she → is).",
+      "Предсказание по признакам: going to + начальная форма rain.",
+      "check in — «заселиться»: going to + check in.",
+      "boarding pass — посадочный талон, его показывают у выхода (gate)."
+    ],
+    "alts": {
+      "0": ["I'm planning to rent a car."],
+      "1": ["What are you doing tonight?"],
+      "2": ["We're not going to check out early."]
+    },
+    "qwhy": [
+      "are — she требует is; does — going to строится с be, не с do; — — без be нельзя.",
+      "I going to call — пропущен am; I'm going call — пропущен to; I go to call — это «иду, чтобы позвонить».",
+      "goes to / going — нет конструкции be going to; is go to — нужна форма going.",
+      "got to — «должен»; want to — «хочу» (wanna); go now — «иди сейчас».",
+      "check in — заселиться; check up / check off — «проверить», «отметить»."
+    ]
+  }
+}
