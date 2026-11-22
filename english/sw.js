@@ -1,5 +1,5 @@
-const V='mwrfa0pr';
-const ASSETS=["./","index.html","app.css?v=mwrfa0pr","app.js?v=mwrfa0pr","manifest.webmanifest","icon.svg","icon-192.png","icon-512.png","apple-touch-icon.png","data/start-1.js?v=mwrfa0pr","data/a1-1.js?v=mwrfa0pr","data/a1-2.js?v=mwrfa0pr","data/a1-3.js?v=mwrfa0pr","data/a2-1.js?v=mwrfa0pr","data/a2-2.js?v=mwrfa0pr","data/b1-1.js?v=mwrfa0pr","data/b1-2.js?v=mwrfa0pr","data/b2-1.js?v=mwrfa0pr","data/b2-2.js?v=mwrfa0pr","data/c1-1.js?v=mwrfa0pr","data/c1-2.js?v=mwrfa0pr"];
+const V='mwrffisn';
+const ASSETS=["./","index.html","app.css?v=mwrffisn","app.js?v=mwrffisn","manifest.webmanifest","icon.svg","icon-192.png","icon-512.png","apple-touch-icon.png","data/start-1.js?v=mwrffisn","data/a1-1.js?v=mwrffisn","data/a1-2.js?v=mwrffisn","data/a1-3.js?v=mwrffisn","data/a1-4.js?v=mwrffisn","data/a1-5.js?v=mwrffisn","data/a2-1.js?v=mwrffisn","data/a2-2.js?v=mwrffisn","data/a2-3.js?v=mwrffisn","data/b1-1.js?v=mwrffisn","data/b1-2.js?v=mwrffisn","data/b1-3.js?v=mwrffisn","data/b1-5.js?v=mwrffisn","data/b2-1.js?v=mwrffisn","data/b2-2.js?v=mwrffisn","data/b2-5.js?v=mwrffisn","data/c1-1.js?v=mwrffisn","data/c1-2.js?v=mwrffisn","data/c2-1.js?v=mwrffisn"];
 self.addEventListener('install',e=>{e.waitUntil(caches.open('ascend-'+V).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!=='ascend-'+V).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
 self.addEventListener('fetch',e=>{ if(e.request.method!=='GET') return;
