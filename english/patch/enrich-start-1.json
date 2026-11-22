@@ -1,0 +1,432 @@
+{
+ "startu1l1": {
+  "tags": [
+   "sounds",
+   "reading"
+  ],
+  "extra": [
+   [
+    "Could you [spell] that, please?",
+    "Не могли бы вы продиктовать это по буквам?",
+    "spell — назвать слово по буквам."
+   ],
+   [
+    "My first [name] is Anna.",
+    "Меня зовут Анна.",
+    "first name — имя (не фамилия)."
+   ],
+   [
+    "Is that [B] as in boy?",
+    "Это B, как в слове boy?",
+    "Буква B называется [bi]; так уточняют букву при диктовке."
+   ],
+   [
+    "The letter [Y] sounds like \"why.\"",
+    "Буква Y звучит как «why».",
+    "Название Y — [waɪ], совпадает со словом why."
+   ],
+   [
+    "Please write your [email] address here.",
+    "Пожалуйста, напишите здесь ваш адрес электронной почты.",
+    "Почту часто диктуют по буквам."
+   ],
+   [
+    "How many [letters] are in your name?",
+    "Сколько букв в вашем имени?",
+    "letters — буквы; sounds — звуки."
+   ],
+   [
+    "The letter [R] is called \"ar.\"",
+    "Буква R называется «ар».",
+    "В американском варианте R — [ɑr]."
+   ]
+  ]
+ },
+ "startu1l2": {
+  "tags": [
+   "sounds",
+   "pronunciation"
+  ],
+  "extra": [
+   [
+    "I need a new [ship] for the game.",
+    "Мне нужен новый корабль для игры.",
+    "ship — краткий [ɪ], не путать с sheep [i]."
+   ],
+   [
+    "The farmer has ten [sheep].",
+    "У фермера десять овец.",
+    "sheep — долгий [i]; sheep не меняется во мн. числе."
+   ],
+   [
+    "Can you [feel] the wind?",
+    "Ты чувствуешь ветер?",
+    "feel — долгий [i], fill — краткий [ɪ]."
+   ],
+   [
+    "Please [fill] the glass with water.",
+    "Пожалуйста, наполни стакан водой.",
+    "fill — краткий [ɪ]."
+   ],
+   [
+    "My bag is [full].",
+    "Моя сумка полная.",
+    "full — краткий [ʊ], fool — долгий [u]."
+   ],
+   [
+    "Don't be a [fool].",
+    "Не будь дураком.",
+    "fool — долгий [u]."
+   ],
+   [
+    "We [eat] dinner at seven.",
+    "Мы ужинаем в семь.",
+    "eat — долгий [i], it — краткий [ɪ]."
+   ]
+  ]
+ },
+ "startu1l3": {
+  "tags": [
+   "sounds",
+   "pronunciation"
+  ],
+  "extra": [
+   [
+    "Have a nice [day]!",
+    "Хорошего дня!",
+    "day — дифтонг [eɪ]."
+   ],
+   [
+    "Let's [go] to the park.",
+    "Пойдём в парк.",
+    "go — дифтонг [oʊ]."
+   ],
+   [
+    "This is a [photo] of my family.",
+    "Это фотография моей семьи.",
+    "photo — [ˈfoʊtoʊ], два дифтонга [oʊ]."
+   ],
+   [
+    "It's [about] five miles from here.",
+    "Это примерно в пяти милях отсюда.",
+    "Безударное a в about — шва [ə]."
+   ],
+   [
+    "I like your new [phone].",
+    "Мне нравится твой новый телефон.",
+    "phone — дифтонг [oʊ]."
+   ],
+   [
+    "My [sister] is a doctor.",
+    "Моя сестра — врач.",
+    "Безударное -er звучит как [ər]."
+   ],
+   [
+    "Can I [buy] you a coffee?",
+    "Можно угостить тебя кофе?",
+    "buy — дифтонг [aɪ]."
+   ]
+  ]
+ },
+ "startu1l4": {
+  "tags": [
+   "sounds",
+   "pronunciation"
+  ],
+  "extra": [
+   [
+    "I have [three] brothers.",
+    "У меня три брата.",
+    "three — глухой [θ], язык между зубами."
+   ],
+   [
+    "Is [this] your car?",
+    "Это твоя машина?",
+    "this — звонкий [ð]."
+   ],
+   [
+    "We drink [wine] with dinner.",
+    "Мы пьём вино за ужином.",
+    "wine — [w] губами, не [v]."
+   ],
+   [
+    "Grapes grow on a [vine].",
+    "Виноград растёт на лозе.",
+    "vine — [v] зубами и губой."
+   ],
+   [
+    "[Thursday] is my day off.",
+    "Четверг — мой выходной.",
+    "Thursday начинается с глухого [θ]."
+   ],
+   [
+    "My [mother] lives in Chicago.",
+    "Моя мама живёт в Чикаго.",
+    "mother — звонкий [ð] в середине."
+   ],
+   [
+    "The [weather] is nice today.",
+    "Сегодня хорошая погода.",
+    "weather: [w] в начале и [ð] в середине."
+   ]
+  ]
+ },
+ "startu1l5": {
+  "tags": [
+   "sounds",
+   "pronunciation"
+  ],
+  "extra": [
+   [
+    "My favorite color is [red].",
+    "Мой любимый цвет — красный.",
+    "Американский [r] — язык не касается нёба."
+   ],
+   [
+    "[Hello], how are you?",
+    "Привет, как дела?",
+    "[h] — лёгкий выдох, не русское «х»."
+   ],
+   [
+    "She likes to [sing] in the car.",
+    "Она любит петь в машине.",
+    "-ng — один носовой звук [ŋ], без [g]."
+   ],
+   [
+    "I have a big [dog].",
+    "У меня большая собака.",
+    "Звонкий [g] на конце не оглушаем: dog ≠ dock."
+   ],
+   [
+    "Write your name on the [card].",
+    "Напишите имя на карточке.",
+    "card ≠ cart: конечный [d] звонкий."
+   ],
+   [
+    "Your [hair] looks great.",
+    "Твои волосы отлично выглядят.",
+    "hair: [h] в начале и [r] в конце."
+   ],
+   [
+    "Is it [long] or short?",
+    "Оно длинное или короткое?",
+    "long — конечный [ŋ]."
+   ]
+  ]
+ },
+ "startu2l1": {
+  "tags": [
+   "reading",
+   "sounds"
+  ],
+  "extra": [
+   [
+    "Can you [ride] a bike?",
+    "Ты умеешь кататься на велосипеде?",
+    "Magic e: rid → ride, i читается [aɪ]."
+   ],
+   [
+    "I have a [kite].",
+    "У меня есть воздушный змей.",
+    "kit → kite: немая e делает i долгим."
+   ],
+   [
+    "Put on your [cap].",
+    "Надень кепку.",
+    "Закрытый слог: a = [æ]."
+   ],
+   [
+    "Superman wears a red [cape].",
+    "Супермен носит красный плащ.",
+    "cap → cape: a = [eɪ]."
+   ],
+   [
+    "This [note] is for you.",
+    "Эта записка для тебя.",
+    "not → note: o = [oʊ]."
+   ],
+   [
+    "Don't [cut] your finger.",
+    "Не порежь палец.",
+    "Закрытый слог: u = [ʌ]."
+   ],
+   [
+    "It's very [cold] outside.",
+    "На улице очень холодно.",
+    "o перед ld читается [oʊ]."
+   ]
+  ]
+ },
+ "startu2l2": {
+  "tags": [
+   "reading",
+   "sounds"
+  ],
+  "extra": [
+   [
+    "Please [shut] the door.",
+    "Пожалуйста, закрой дверь.",
+    "sh = [ʃ]."
+   ],
+   [
+    "My [phone] is dead.",
+    "У меня сел телефон.",
+    "ph = [f]."
+   ],
+   [
+    "[Which] one do you want?",
+    "Какой ты хочешь?",
+    "wh = [w]."
+   ],
+   [
+    "I'll [pick] you up at six.",
+    "Я заберу тебя в шесть.",
+    "ck = [k] после краткой гласной."
+   ],
+   [
+    "Is there a gas [station] nearby?",
+    "Здесь рядом есть заправка?",
+    "-tion = [ʃən]."
+   ],
+   [
+    "Let's have [lunch] together.",
+    "Давай пообедаем вместе.",
+    "ch = [tʃ]."
+   ],
+   [
+    "I need more [information].",
+    "Мне нужно больше информации.",
+    "-tion = [ʃən], ударение перед ним."
+   ]
+  ]
+ },
+ "startu2l3": {
+  "tags": [
+   "reading",
+   "sounds"
+  ],
+  "extra": [
+   [
+    "Do you want some [tea]?",
+    "Хочешь чаю?",
+    "ea обычно = [i]."
+   ],
+   [
+    "The [moon] is bright tonight.",
+    "Луна сегодня яркая.",
+    "oo = [u]."
+   ],
+   [
+    "Our [house] is small.",
+    "Наш дом маленький.",
+    "ou = [aʊ]."
+   ],
+   [
+    "I'll wait for the [train].",
+    "Я подожду поезд.",
+    "ai = [eɪ]."
+   ],
+   [
+    "Turn on the [light], please.",
+    "Включи, пожалуйста, свет.",
+    "igh = [aɪ]."
+   ],
+   [
+    "Where did you [park] the car?",
+    "Где ты припарковал машину?",
+    "ar = [ɑr]."
+   ],
+   [
+    "Let's take a [break].",
+    "Давай сделаем перерыв.",
+    "Исключение: ea в break = [eɪ]."
+   ]
+  ]
+ },
+ "startu2l4": {
+  "tags": [
+   "pronunciation",
+   "sounds"
+  ],
+  "extra": [
+   [
+    "I need a [hotel] for tonight.",
+    "Мне нужен отель на эту ночь.",
+    "hoTEL — ударение на второй слог."
+   ],
+   [
+    "He works in [photography].",
+    "Он работает в фотографии.",
+    "phoTOGraphy — ударение сдвигается."
+   ],
+   [
+    "What's your [address]?",
+    "Какой у вас адрес?",
+    "В AmE часто ADdress — ударение на первый слог."
+   ],
+   [
+    "Do you like [coffee]?",
+    "Ты любишь кофе?",
+    "Вопрос да/нет — голос вверх ↗; COFfee."
+   ],
+   [
+    "Where do you [work]?",
+    "Где ты работаешь?",
+    "Wh-вопрос — голос вниз ↘."
+   ],
+   [
+    "Let's [begin] the meeting.",
+    "Давай начнём встречу.",
+    "beGIN — ударение на второй слог."
+   ],
+   [
+    "This is my [computer].",
+    "Это мой компьютер.",
+    "comPUter — ударение на второй слог."
+   ]
+  ]
+ },
+ "startu2l5": {
+  "tags": [
+   "pronunciation",
+   "slang-colloquial"
+  ],
+  "extra": [
+   [
+    "Can I have a glass of [water]?",
+    "Можно стакан воды?",
+    "Flap t: water [ˈwɔɾər]."
+   ],
+   [
+    "I'm [gonna] call you later.",
+    "Я позвоню тебе позже.",
+    "gonna = going to в разговорной речи."
+   ],
+   [
+    "Do you [wanna] get pizza?",
+    "Хочешь пиццу?",
+    "wanna = want to, только в разговоре."
+   ],
+   [
+    "Let's meet [later].",
+    "Давай встретимся позже.",
+    "Flap t: later [ˈleɪɾər]."
+   ],
+   [
+    "I [gotta] go now.",
+    "Мне надо идти.",
+    "gotta = have got to, разговорное."
+   ],
+   [
+    "Is this [butter] or margarine?",
+    "Это масло или маргарин?",
+    "Flap t: butter [ˈbʌɾər]."
+   ],
+   [
+    "She lives in the [city].",
+    "Она живёт в городе.",
+    "Flap t: city [ˈsɪɾi]."
+   ]
+  ]
+ }
+}

@@ -1,0 +1,426 @@
+{
+ "a1u5l1": {
+  "tags": [
+   "quantifiers",
+   "articles"
+  ],
+  "extra": [
+   [
+    "I need [some] water.",
+    "Мне нужно немного воды.",
+    "Неисчисляемое — без a, можно some."
+   ],
+   [
+    "Can I have [an] apple?",
+    "Можно яблоко?",
+    "Исчисляемое ед. ч. → an."
+   ],
+   [
+    "[Money] isn't everything.",
+    "Деньги — это не всё.",
+    "money неисчисляемое — глагол в ед. ч."
+   ],
+   [
+    "I have some good [news].",
+    "У меня хорошие новости.",
+    "news неисчисляемое, без -s в значении мн."
+   ],
+   [
+    "We need two [bottles] of milk.",
+    "Нам нужно две бутылки молока.",
+    "Неисчисляемое считаем ёмкостями."
+   ],
+   [
+    "Your hair [is] beautiful.",
+    "У тебя красивые волосы.",
+    "hair неисчисляемое → is."
+   ],
+   [
+    "Can I get [a] cup of tea?",
+    "Можно чашку чая?",
+    "a cup of — единица измерения."
+   ]
+  ]
+ },
+ "a1u5l2": {
+  "tags": [
+   "quantifiers"
+  ],
+  "extra": [
+   [
+    "There are [some] eggs in the fridge.",
+    "В холодильнике есть яйца.",
+    "Утверждение → some."
+   ],
+   [
+    "Do we have [any] bread?",
+    "У нас есть хлеб?",
+    "Вопрос → any."
+   ],
+   [
+    "I don't have [any] money.",
+    "У меня нет денег.",
+    "Отрицание → any."
+   ],
+   [
+    "Would you like [some] coffee?",
+    "Хотите кофе?",
+    "Предложение — some даже в вопросе."
+   ],
+   [
+    "Are there [any] good restaurants here?",
+    "Здесь есть хорошие рестораны?",
+    "Общий вопрос → any."
+   ],
+   [
+    "She bought [some] flowers.",
+    "Она купила цветы.",
+    "Утверждение → some."
+   ],
+   [
+    "Can I have [some] water, please?",
+    "Можно воды, пожалуйста?",
+    "Просьба — some."
+   ]
+  ]
+ },
+ "a1u5l3": {
+  "tags": [
+   "quantifiers"
+  ],
+  "extra": [
+   [
+    "How [many] kids do you have?",
+    "Сколько у тебя детей?",
+    "Исчисляемые → many."
+   ],
+   [
+    "How [much] sugar do you want?",
+    "Сколько сахара тебе?",
+    "Неисчисляемое → much."
+   ],
+   [
+    "I don't have [much] time.",
+    "У меня мало времени.",
+    "Отрицание + неисчисляемое → much."
+   ],
+   [
+    "She has [a lot of] friends.",
+    "У неё много друзей.",
+    "В утверждении — a lot of."
+   ],
+   [
+    "There aren't [many] people here.",
+    "Здесь немного людей.",
+    "people исчисляемые → many."
+   ],
+   [
+    "How [much] does it cost?",
+    "Сколько это стоит?",
+    "Цена → how much."
+   ],
+   [
+    "We drink [a lot of] coffee.",
+    "Мы пьём много кофе.",
+    "Утверждение → a lot of."
+   ]
+  ]
+ },
+ "a1u5l4": {
+  "tags": [
+   "present-continuous"
+  ],
+  "extra": [
+   [
+    "I'm [cooking] dinner now.",
+    "Я сейчас готовлю ужин.",
+    "am + -ing."
+   ],
+   [
+    "She [is] talking on the phone.",
+    "Она говорит по телефону.",
+    "she → is + -ing."
+   ],
+   [
+    "What are you [doing]?",
+    "Что ты делаешь?",
+    "are + doing."
+   ],
+   [
+    "They [aren't] listening.",
+    "Они не слушают.",
+    "Отрицание: aren't + -ing."
+   ],
+   [
+    "It's [raining] again.",
+    "Опять идёт дождь.",
+    "Действие сейчас."
+   ],
+   [
+    "[Is] he working today?",
+    "Он сегодня работает?",
+    "Вопрос: Is he…-ing?"
+   ],
+   [
+    "We're [sitting] in a cafe.",
+    "Мы сидим в кафе.",
+    "sit → sitting (удвоение)."
+   ]
+  ]
+ },
+ "a1u5l5": {
+  "tags": [
+   "present-simple",
+   "present-continuous"
+  ],
+  "extra": [
+   [
+    "She [works] in a hospital.",
+    "Она работает в больнице.",
+    "Постоянное → Present Simple."
+   ],
+   [
+    "Right now he's [sleeping].",
+    "Сейчас он спит.",
+    "right now → Continuous."
+   ],
+   [
+    "I usually [walk] to work.",
+    "Обычно я хожу на работу пешком.",
+    "usually → Simple."
+   ],
+   [
+    "Look! It's [snowing]!",
+    "Смотри! Идёт снег!",
+    "Look! — действие сейчас."
+   ],
+   [
+    "I [know] the answer.",
+    "Я знаю ответ.",
+    "know — глагол состояния, не в Continuous."
+   ],
+   [
+    "What [do] you do?",
+    "Чем ты занимаешься (кем работаешь)?",
+    "Профессия → Simple."
+   ],
+   [
+    "Today I'm [wearing] a suit.",
+    "Сегодня я в костюме.",
+    "Временное действие → Continuous."
+   ]
+  ]
+ },
+ "a1u6l1": {
+  "tags": [
+   "past-simple",
+   "to-be"
+  ],
+  "extra": [
+   [
+    "I [was] at home yesterday.",
+    "Вчера я был дома.",
+    "I → was."
+   ],
+   [
+    "They [were] very tired.",
+    "Они очень устали.",
+    "they → were."
+   ],
+   [
+    "[Were] you at the party?",
+    "Ты был на вечеринке?",
+    "you → were."
+   ],
+   [
+    "It [wasn't] expensive.",
+    "Это было недорого.",
+    "it → wasn't."
+   ],
+   [
+    "Was she happy? — Yes, she [was].",
+    "Она была рада? — Да.",
+    "Краткий ответ: Yes, she was."
+   ],
+   [
+    "We [weren't] late.",
+    "Мы не опоздали.",
+    "we → weren't."
+   ],
+   [
+    "Where [were] you last night?",
+    "Где ты был вчера вечером?",
+    "you → were."
+   ]
+  ]
+ },
+ "a1u6l2": {
+  "tags": [
+   "past-simple"
+  ],
+  "extra": [
+   [
+    "We [visited] Boston last year.",
+    "В прошлом году мы были в Бостоне.",
+    "Правильный глагол + -ed."
+   ],
+   [
+    "She [stayed] at a hotel.",
+    "Она остановилась в отеле.",
+    "Гласная + y → -ed."
+   ],
+   [
+    "I [studied] all night.",
+    "Я учился всю ночь.",
+    "Согласная + y → -ied."
+   ],
+   [
+    "He [stopped] the car.",
+    "Он остановил машину.",
+    "stop → stopped (удвоение)."
+   ],
+   [
+    "They [watched] a movie.",
+    "Они посмотрели фильм.",
+    "watch → watched."
+   ],
+   [
+    "I [called] my mom yesterday.",
+    "Вчера я позвонил маме.",
+    "call → called."
+   ],
+   [
+    "The movie [started] at nine.",
+    "Фильм начался в девять.",
+    "После t -ed читается [ɪd]."
+   ]
+  ]
+ },
+ "a1u6l3": {
+  "tags": [
+   "past-simple"
+  ],
+  "extra": [
+   [
+    "I [bought] a new phone.",
+    "Я купил новый телефон.",
+    "buy → bought."
+   ],
+   [
+    "She [went] to Paris.",
+    "Она поехала в Париж.",
+    "go → went."
+   ],
+   [
+    "We [saw] a great movie.",
+    "Мы посмотрели отличный фильм.",
+    "see → saw."
+   ],
+   [
+    "He [ate] all the pizza.",
+    "Он съел всю пиццу.",
+    "eat → ate."
+   ],
+   [
+    "They [came] home late.",
+    "Они пришли домой поздно.",
+    "come → came."
+   ],
+   [
+    "I [had] a great time.",
+    "Я отлично провёл время.",
+    "have → had."
+   ],
+   [
+    "She [took] a taxi.",
+    "Она взяла такси.",
+    "take → took."
+   ]
+  ]
+ },
+ "a1u6l4": {
+  "tags": [
+   "past-simple",
+   "questions"
+  ],
+  "extra": [
+   [
+    "[Did] you see the game?",
+    "Ты видел игру?",
+    "Вопрос в прошлом → Did."
+   ],
+   [
+    "I [didn't] go to work.",
+    "Я не пошёл на работу.",
+    "Отрицание → didn't."
+   ],
+   [
+    "Did she [call] you?",
+    "Она тебе звонила?",
+    "После did — базовая форма."
+   ],
+   [
+    "Where did you [go]?",
+    "Куда ты ходил?",
+    "Не went, а go после did."
+   ],
+   [
+    "He didn't [buy] anything.",
+    "Он ничего не купил.",
+    "didn't + базовая форма."
+   ],
+   [
+    "Did they win? — No, they [didn't].",
+    "Они выиграли? — Нет.",
+    "Краткий ответ: No, they didn't."
+   ],
+   [
+    "What [did] you have for lunch?",
+    "Что ты ел на обед?",
+    "Wh-вопрос + did."
+   ]
+  ]
+ },
+ "a1u6l5": {
+  "tags": [
+   "future"
+  ],
+  "extra": [
+   [
+    "I'm [going to] buy a car.",
+    "Я собираюсь купить машину.",
+    "План → be going to."
+   ],
+   [
+    "She's going to [visit] her grandma.",
+    "Она собирается навестить бабушку.",
+    "После going to — базовая форма."
+   ],
+   [
+    "[Are] you going to call him?",
+    "Ты собираешься ему позвонить?",
+    "Вопрос: Are you going to…?"
+   ],
+   [
+    "We [aren't] going to stay long.",
+    "Мы не собираемся оставаться надолго.",
+    "Отрицание: aren't going to."
+   ],
+   [
+    "Look at the sky! It's going to [rain].",
+    "Посмотри на небо! Сейчас пойдёт дождь.",
+    "Признаки сейчас → going to."
+   ],
+   [
+    "What [are] you going to do?",
+    "Что ты собираешься делать?",
+    "Wh-вопрос + are."
+   ],
+   [
+    "He's [going to] start a new job.",
+    "Он собирается начать новую работу.",
+    "Намерение → going to."
+   ]
+  ]
+ }
+}

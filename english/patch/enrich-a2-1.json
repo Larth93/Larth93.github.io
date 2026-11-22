@@ -1,0 +1,415 @@
+{
+ "a2u1l1": {
+  "tags": [
+   "past-simple"
+  ],
+  "extra": [
+   [
+    "We [watched] a great movie last night.",
+    "Вчера вечером мы смотрели отличный фильм.",
+    "Правильный глагол + -ed."
+   ],
+   [
+    "She [went] to Boston in May.",
+    "В мае она ездила в Бостон.",
+    "Go — went."
+   ],
+   [
+    "I [saw] Mike at the store.",
+    "Я видел Майка в магазине.",
+    "See — saw."
+   ],
+   [
+    "They [bought] a new car last week.",
+    "На прошлой неделе они купили машину.",
+    "Buy — bought."
+   ],
+   [
+    "He [stopped] at a red light.",
+    "Он остановился на красный.",
+    "Stop — удвоение p: stopped."
+   ],
+   [
+    "We [had] pizza for dinner.",
+    "На ужин у нас была пицца.",
+    "Have — had."
+   ]
+  ]
+ },
+ "a2u1l2": {
+  "tags": [
+   "past-simple",
+   "questions"
+  ],
+  "extra": [
+   [
+    "[Did] you call your mom?",
+    "Ты позвонил маме?",
+    "Вопрос в прошлом — did."
+   ],
+   [
+    "I didn't [like] the movie.",
+    "Мне не понравился фильм.",
+    "После didn't — начальная форма."
+   ],
+   [
+    "Where did you [go] last summer?",
+    "Куда ты ездил прошлым летом?",
+    "После did — go, не went."
+   ],
+   [
+    "She [didn't] come to the party.",
+    "Она не пришла на вечеринку.",
+    "Отрицание — didn't + глагол."
+   ],
+   [
+    "Did he [see] the email?",
+    "Он видел письмо?",
+    "После did — see."
+   ],
+   [
+    "What [did] you eat for lunch?",
+    "Что ты ел на обед?",
+    "Wh-вопрос + did."
+   ]
+  ]
+ },
+ "a2u1l3": {
+  "tags": [
+   "past-continuous",
+   "past-simple"
+  ],
+  "extra": [
+   [
+    "I [was] driving when you called.",
+    "Я был за рулём, когда ты позвонил.",
+    "I — was + -ing."
+   ],
+   [
+    "They were [watching] TV at nine.",
+    "В девять они смотрели ТВ.",
+    "Действие в процессе."
+   ],
+   [
+    "She was cooking when the power [went] out.",
+    "Она готовила, когда отключили свет.",
+    "Короткое действие — Past Simple."
+   ],
+   [
+    "What [were] you doing at midnight?",
+    "Что ты делал в полночь?",
+    "You — were."
+   ],
+   [
+    "We were walking home when it [started] to rain.",
+    "Мы шли домой, когда начался дождь.",
+    "Прервавшее действие — Past Simple."
+   ],
+   [
+    "He [wasn't] listening to me.",
+    "Он меня не слушал.",
+    "Отрицание — wasn't + -ing."
+   ]
+  ]
+ },
+ "a2u1l4": {
+  "tags": [
+   "past-simple",
+   "present-simple"
+  ],
+  "extra": [
+   [
+    "I [used] to play tennis.",
+    "Раньше я играл в теннис.",
+    "Used to — прошлая привычка."
+   ],
+   [
+    "She used to [live] in Texas.",
+    "Раньше она жила в Техасе.",
+    "После used to — начальная форма."
+   ],
+   [
+    "Did you [use] to have long hair?",
+    "У тебя раньше были длинные волосы?",
+    "В вопросе — use без d."
+   ],
+   [
+    "We didn't use to [have] a car.",
+    "Раньше у нас не было машины.",
+    "Didn't use to + глагол."
+   ],
+   [
+    "He used to [smoke], but he quit.",
+    "Раньше он курил, но бросил.",
+    "Used to — этого больше нет."
+   ],
+   [
+    "There used [to] be a cinema here.",
+    "Раньше здесь был кинотеатр.",
+    "There used to be — раньше было."
+   ]
+  ]
+ },
+ "a2u2l1": {
+  "tags": [
+   "present-perfect"
+  ],
+  "extra": [
+   [
+    "Have you ever [been] to Canada?",
+    "Ты когда-нибудь был в Канаде?",
+    "Been — опыт поездки."
+   ],
+   [
+    "I've [never] tried sushi.",
+    "Я никогда не пробовал суши.",
+    "Never — никогда в жизни."
+   ],
+   [
+    "She has [seen] that movie three times.",
+    "Она смотрела этот фильм три раза.",
+    "See — seen."
+   ],
+   [
+    "[Has] he ever met a celebrity?",
+    "Он когда-нибудь встречал знаменитость?",
+    "He — has."
+   ],
+   [
+    "We've never [flown] business class.",
+    "Мы никогда не летали бизнес-классом.",
+    "Fly — flown."
+   ],
+   [
+    "I [have] eaten alligator once.",
+    "Я однажды ел аллигатора.",
+    "I — have + V3."
+   ]
+  ]
+ },
+ "a2u2l2": {
+  "tags": [
+   "present-perfect"
+  ],
+  "extra": [
+   [
+    "I've [just] finished my homework.",
+    "Я только что сделал домашку.",
+    "Just — только что."
+   ],
+   [
+    "Have you called him [yet]?",
+    "Ты уже позвонил ему?",
+    "Yet — в конце вопроса."
+   ],
+   [
+    "She has [already] left.",
+    "Она уже ушла.",
+    "Already — между have и V3."
+   ],
+   [
+    "We haven't eaten [yet].",
+    "Мы ещё не ели.",
+    "Yet в отрицании — ещё не."
+   ],
+   [
+    "The bus has just [left].",
+    "Автобус только что ушёл.",
+    "Leave — left."
+   ],
+   [
+    "I've already [paid] the bill.",
+    "Я уже оплатил счёт.",
+    "Pay — paid."
+   ]
+  ]
+ },
+ "a2u2l3": {
+  "tags": [
+   "present-perfect",
+   "prepositions"
+  ],
+  "extra": [
+   [
+    "I've worked here [for] five years.",
+    "Я работаю здесь пять лет.",
+    "For + период."
+   ],
+   [
+    "She has lived in Miami [since] 2019.",
+    "Она живёт в Майами с 2019 года.",
+    "Since + точка отсчёта."
+   ],
+   [
+    "We've known each other [since] college.",
+    "Мы знакомы с колледжа.",
+    "Since + момент в прошлом."
+   ],
+   [
+    "He's been sick [for] three days.",
+    "Он болеет три дня.",
+    "For + длительность."
+   ],
+   [
+    "How [long] have you lived here?",
+    "Как долго ты здесь живёшь?",
+    "How long — сколько времени."
+   ],
+   [
+    "I haven't seen her [since] Monday.",
+    "Я не видел её с понедельника.",
+    "Since + день."
+   ]
+  ]
+ },
+ "a2u2l4": {
+  "tags": [
+   "present-perfect",
+   "past-simple"
+  ],
+  "extra": [
+   [
+    "I [lost] my phone yesterday.",
+    "Вчера я потерял телефон.",
+    "Yesterday — Past Simple."
+   ],
+   [
+    "I've [lost] my keys. Can you help?",
+    "Я потерял ключи. Поможешь?",
+    "Результат сейчас — Present Perfect."
+   ],
+   [
+    "She [visited] Paris in 2020.",
+    "Она была в Париже в 2020.",
+    "Точная дата — Past Simple."
+   ],
+   [
+    "Have you [seen] my glasses?",
+    "Ты не видел мои очки?",
+    "Важен результат — Present Perfect."
+   ],
+   [
+    "We [moved] here two years ago.",
+    "Мы переехали сюда два года назад.",
+    "Ago — Past Simple."
+   ],
+   [
+    "He's [broken] his arm, so he can't drive.",
+    "Он сломал руку и не может водить.",
+    "Результат сейчас — Present Perfect."
+   ]
+  ]
+ },
+ "a2u3l1": {
+  "tags": [
+   "future"
+  ],
+  "extra": [
+   [
+    "I'm tired. I [think] I'll go to bed.",
+    "Я устал. Пожалуй, пойду спать.",
+    "I think I'll — решение сейчас."
+   ],
+   [
+    "We're [going] to buy a house next year.",
+    "В следующем году мы купим дом.",
+    "Заранее план — going to."
+   ],
+   [
+    "Don't worry, I'[ll] help you.",
+    "Не волнуйся, я помогу.",
+    "Спонтанное обещание — will."
+   ],
+   [
+    "Look at those clouds! It's going to [rain].",
+    "Смотри на тучи! Будет дождь.",
+    "Прогноз по признакам — going to."
+   ],
+   [
+    "I [won't] tell anyone.",
+    "Я никому не скажу.",
+    "Обещание в отрицании — won't."
+   ],
+   [
+    "She's going [to] study medicine.",
+    "Она собирается изучать медицину.",
+    "Going to + глагол."
+   ]
+  ]
+ },
+ "a2u3l2": {
+  "tags": [
+   "present-continuous",
+   "future"
+  ],
+  "extra": [
+   [
+    "I'm [meeting] Sarah for lunch tomorrow.",
+    "Завтра я обедаю с Сарой.",
+    "Договорённость — Present Continuous."
+   ],
+   [
+    "We're [flying] to Denver on Friday.",
+    "В пятницу мы летим в Денвер.",
+    "Билеты куплены — Present Continuous."
+   ],
+   [
+    "What [are] you doing this weekend?",
+    "Что ты делаешь в выходные?",
+    "Вопрос о планах — are you doing."
+   ],
+   [
+    "She's [having] a party on Saturday.",
+    "В субботу у неё вечеринка.",
+    "Have a party — в Continuous возможно."
+   ],
+   [
+    "I'm not [working] next Monday.",
+    "В следующий понедельник я не работаю.",
+    "Отрицание — am not + -ing."
+   ],
+   [
+    "They're [getting] married in June.",
+    "Они женятся в июне.",
+    "Get married — запланированное событие."
+   ]
+  ]
+ },
+ "a2u3l3": {
+  "tags": [
+   "conditionals"
+  ],
+  "extra": [
+   [
+    "If it [rains], we'll stay home.",
+    "Если пойдёт дождь, останемся дома.",
+    "После if — Present Simple."
+   ],
+   [
+    "If you study, you['ll] pass the test.",
+    "Если будешь учиться, сдашь тест.",
+    "Главная часть — will."
+   ],
+   [
+    "I'll call you if I [need] help.",
+    "Я позвоню, если понадобится помощь.",
+    "После if — Present, не will."
+   ],
+   [
+    "If she's late, we [won't] wait.",
+    "Если она опоздает, мы не будем ждать.",
+    "Отрицание — won't."
+   ],
+   [
+    "What will you do if you [miss] the bus?",
+    "Что будешь делать, если опоздаешь на автобус?",
+    "После if — Present Simple."
+   ],
+   [
+    "[If] you hurry, you'll catch the train.",
+    "Если поторопишься, успеешь на поезд.",
+    "If — если."
+   ]
+  ]
+ }
+}

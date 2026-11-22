@@ -1,0 +1,487 @@
+{
+ "b1u30l1": {
+  "tags": [
+   "articles"
+  ],
+  "extra": [
+   [
+    "He plays [the] guitar in a band.",
+    "Он играет на гитаре в группе.",
+    "The с музыкальными инструментами."
+   ],
+   [
+    "I usually have coffee for [breakfast].",
+    "Я обычно пью кофе на завтрак.",
+    "Без артикля с приёмами пищи."
+   ],
+   [
+    "She lives near [the] Pacific Ocean.",
+    "Она живёт у Тихого океана.",
+    "The с названиями океанов."
+   ],
+   [
+    "It took [an] hour to get there.",
+    "Дорога заняла час.",
+    "An перед гласным звуком: hour."
+   ],
+   [
+    "[The] sun is really strong today.",
+    "Сегодня солнце очень сильное.",
+    "The с единственными в своём роде объектами."
+   ],
+   [
+    "I love [dogs], especially big ones.",
+    "Я люблю собак, особенно больших.",
+    "Без артикля с обобщением во мн. числе."
+   ]
+  ]
+ },
+ "b1u30l2": {
+  "tags": [
+   "quantifiers"
+  ],
+  "extra": [
+   [
+    "How [many] people are coming tonight?",
+    "Сколько людей придёт сегодня вечером?",
+    "Many с исчисляемыми."
+   ],
+   [
+    "There's very [little] milk left.",
+    "Молока осталось очень мало.",
+    "Little с неисчисляемыми — мало."
+   ],
+   [
+    "I have [a few] friends in Boston.",
+    "У меня есть несколько друзей в Бостоне.",
+    "A few — несколько (позитивно)."
+   ],
+   [
+    "[Every] room has a TV.",
+    "В каждой комнате есть телевизор.",
+    "Every + ед. число."
+   ],
+   [
+    "We have [plenty of] time before the movie.",
+    "У нас полно времени до фильма.",
+    "Plenty of — много, достаточно."
+   ],
+   [
+    "[Each] student gets a laptop.",
+    "Каждый студент получает ноутбук.",
+    "Each — каждый по отдельности."
+   ]
+  ]
+ },
+ "b1u30l3": {
+  "tags": [
+   "quantifiers",
+   "conjunctions"
+  ],
+  "extra": [
+   [
+    "[Neither] option is perfect.",
+    "Ни один вариант не идеален.",
+    "Neither + ед. число — ни один из двух."
+   ],
+   [
+    "We can meet on [either] day.",
+    "Мы можем встретиться в любой из двух дней.",
+    "Either — любой из двух."
+   ],
+   [
+    "I like [both] of them.",
+    "Мне нравятся оба.",
+    "Both of them — оба."
+   ],
+   [
+    "Neither Tom [nor] Lisa came.",
+    "Ни Том, ни Лиза не пришли.",
+    "Neither... nor — ни... ни."
+   ],
+   [
+    "I don't like it either. — Me [neither].",
+    "Мне тоже не нравится. — Мне тоже.",
+    "Me neither — согласие с отрицанием."
+   ],
+   [
+    "[Both] the hotel and the beach were great.",
+    "И отель, и пляж были отличные.",
+    "Both... and — и... и."
+   ]
+  ]
+ },
+ "b1u30l4": {
+  "tags": [
+   "conjunctions"
+  ],
+  "extra": [
+   [
+    "I left early [in order to] catch the bus.",
+    "Я ушёл рано, чтобы успеть на автобус.",
+    "In order to + глагол — цель."
+   ],
+   [
+    "[Despite] the rain, we went hiking.",
+    "Несмотря на дождь, мы пошли в поход.",
+    "Despite + существительное."
+   ],
+   [
+    "I'm tired [because] I worked late.",
+    "Я устал, потому что работал допоздна.",
+    "Because + предложение."
+   ],
+   [
+    "Speak louder [so that] everyone can hear.",
+    "Говори громче, чтобы все слышали.",
+    "So that + подлежащее + can."
+   ],
+   [
+    "[Even though] it was late, she called me.",
+    "Хотя было поздно, она мне позвонила.",
+    "Even though — хотя (усиленно)."
+   ],
+   [
+    "It was cold, [so] we stayed inside.",
+    "Было холодно, поэтому мы остались внутри.",
+    "So — следствие."
+   ]
+  ]
+ },
+ "b1u31l1": {
+  "tags": [
+   "gerund-infinitive"
+  ],
+  "extra": [
+   [
+    "I [stopped] smoking two years ago.",
+    "Я бросил курить два года назад.",
+    "Stop + -ing — прекратить делать."
+   ],
+   [
+    "She [promised] to call me.",
+    "Она пообещала мне позвонить.",
+    "Promise + to-инфинитив."
+   ],
+   [
+    "Do you mind [opening] the window?",
+    "Не против открыть окно?",
+    "Mind + -ing."
+   ],
+   [
+    "I remember [meeting] him at a party.",
+    "Я помню, как встретил его на вечеринке.",
+    "Remember + -ing — помнить прошлое."
+   ],
+   [
+    "Try [restarting] your computer.",
+    "Попробуй перезагрузить компьютер.",
+    "Try + -ing — попробовать как способ."
+   ],
+   [
+    "We hope [to see] you soon.",
+    "Надеемся скоро увидеть тебя.",
+    "Hope + to-инфинитив."
+   ]
+  ]
+ },
+ "b1u31l2": {
+  "tags": [
+   "prepositions"
+  ],
+  "extra": [
+   [
+    "I'm proud [of] you.",
+    "Я горжусь тобой.",
+    "Proud of — гордиться."
+   ],
+   [
+    "She's married [to] a doctor.",
+    "Она замужем за врачом.",
+    "Married to."
+   ],
+   [
+    "He's good [at] math.",
+    "Он хорошо разбирается в математике.",
+    "Good at — хорош в чём-то."
+   ],
+   [
+    "I'm tired [of] waiting.",
+    "Я устал ждать.",
+    "Tired of + -ing."
+   ],
+   [
+    "This town is famous [for] its pizza.",
+    "Этот город славится пиццей.",
+    "Famous for."
+   ],
+   [
+    "Are you aware [of] the risks?",
+    "Ты знаешь о рисках?",
+    "Aware of — осведомлён о."
+   ]
+  ]
+ },
+ "b1u31l3": {
+  "tags": [
+   "prepositions"
+  ],
+  "extra": [
+   [
+    "I'm listening [to] a podcast.",
+    "Я слушаю подкаст.",
+    "Listen to."
+   ],
+   [
+    "Can you look [at] this for me?",
+    "Можешь посмотреть на это?",
+    "Look at."
+   ],
+   [
+    "We talked [about] the trip.",
+    "Мы поговорили о поездке.",
+    "Talk about."
+   ],
+   [
+    "I don't believe [in] luck.",
+    "Я не верю в удачу.",
+    "Believe in."
+   ],
+   [
+    "Thanks for paying [for] lunch.",
+    "Спасибо, что заплатил за обед.",
+    "Pay for."
+   ],
+   [
+    "She complained [about] the noise.",
+    "Она пожаловалась на шум.",
+    "Complain about."
+   ]
+  ]
+ },
+ "b1u31l4": {
+  "tags": [
+   "relative-clauses",
+   "prepositions"
+  ],
+  "extra": [
+   [
+    "That's the guy I told you [about].",
+    "Это тот парень, о котором я тебе рассказывал.",
+    "Предлог в конце придаточного."
+   ],
+   [
+    "She's the person I rely [on].",
+    "Она человек, на которого я полагаюсь.",
+    "Rely on — предлог остаётся в конце."
+   ],
+   [
+    "This is the house I grew up [in].",
+    "Это дом, в котором я вырос.",
+    "Grow up in — предлог в конце."
+   ],
+   [
+    "Who's the girl you were talking [to]?",
+    "Кто та девушка, с которой ты говорил?",
+    "Talk to — предлог в конце."
+   ],
+   [
+    "The job I applied [for] was filled.",
+    "Вакансию, на которую я подавался, закрыли.",
+    "Apply for."
+   ],
+   [
+    "It's a topic I know little [about].",
+    "Это тема, о которой я мало знаю.",
+    "Know about."
+   ]
+  ]
+ },
+ "b1u31l5": {
+  "tags": [
+   "causative"
+  ],
+  "extra": [
+   [
+    "I had my hair [cut] yesterday.",
+    "Вчера я подстригся.",
+    "Have + объект + 3-я форма."
+   ],
+   [
+    "We need to get the car [washed].",
+    "Нам нужно помыть машину (в мойке).",
+    "Get + объект + причастие."
+   ],
+   [
+    "She's having her house [painted].",
+    "Ей красят дом.",
+    "Continuous в каузативе."
+   ],
+   [
+    "Where do you get your suits [cleaned]?",
+    "Где ты чистишь костюмы?",
+    "Get something done в вопросе."
+   ],
+   [
+    "I'm going to get my eyes [checked].",
+    "Я собираюсь проверить зрение.",
+    "Get + eyes + checked."
+   ],
+   [
+    "He had his phone [stolen] on the subway.",
+    "У него украли телефон в метро.",
+    "Have something done — о неприятностях."
+   ]
+  ]
+ },
+ "b1u32l1": {
+  "tags": [
+   "future",
+   "conjunctions"
+  ],
+  "extra": [
+   [
+    "Call me when you [get] home.",
+    "Позвони, когда доберёшься домой.",
+    "После when — Present Simple вместо will."
+   ],
+   [
+    "I'll stay until the movie [ends].",
+    "Я останусь, пока фильм не закончится.",
+    "Until + Present Simple."
+   ],
+   [
+    "After we [eat], let's go for a walk.",
+    "Когда поедим, пойдём погуляем.",
+    "After + Present Simple."
+   ],
+   [
+    "As soon as I [hear] anything, I'll tell you.",
+    "Как только что-то узнаю, скажу тебе.",
+    "As soon as + Present."
+   ],
+   [
+    "Don't leave [until] I come back.",
+    "Не уходи, пока я не вернусь.",
+    "Until — до тех пор, пока."
+   ],
+   [
+    "[Before] you sign, read the contract.",
+    "Прежде чем подписать, прочитай договор.",
+    "Before — прежде чем."
+   ]
+  ]
+ },
+ "b1u32l2": {
+  "tags": [
+   "future"
+  ],
+  "extra": [
+   [
+    "The train [leaves] at 6:40.",
+    "Поезд отправляется в 6:40.",
+    "Present Simple для расписаний."
+   ],
+   [
+    "Look at those clouds! It's [going to] rain.",
+    "Посмотри на тучи! Сейчас пойдёт дождь.",
+    "Going to — прогноз по признакам."
+   ],
+   [
+    "I think she'[ll] love the gift.",
+    "Думаю, ей понравится подарок.",
+    "Will после I think."
+   ],
+   [
+    "We're [flying] to Miami on Friday.",
+    "В пятницу мы летим в Майами.",
+    "Present Continuous для договорённостей."
+   ],
+   [
+    "I'm [going to] learn to drive this year.",
+    "Я собираюсь научиться водить в этом году.",
+    "Going to — намерение."
+   ],
+   [
+    "The phone's ringing. — I'[ll] get it.",
+    "Телефон звонит. — Я возьму.",
+    "Will — спонтанное решение."
+   ]
+  ]
+ },
+ "b1u32l3": {
+  "tags": [
+   "modals"
+  ],
+  "extra": [
+   [
+    "You [should] see a doctor.",
+    "Тебе стоит сходить к врачу.",
+    "Should — совет."
+   ],
+   [
+    "She [might] be late today.",
+    "Она, возможно, сегодня опоздает.",
+    "Might — возможность."
+   ],
+   [
+    "That [can't] be true!",
+    "Не может быть!",
+    "Can't — уверенность в невозможности."
+   ],
+   [
+    "You [needn't] bring anything.",
+    "Можешь ничего не приносить.",
+    "Needn't — нет необходимости."
+   ],
+   [
+    "All passengers [must] wear seat belts.",
+    "Все пассажиры должны пристегнуться.",
+    "Must — правило."
+   ],
+   [
+    "I [had to] wait two hours yesterday.",
+    "Вчера мне пришлось ждать два часа.",
+    "Had to — прошедшее от have to."
+   ]
+  ]
+ },
+ "b1u32l4": {
+  "tags": [
+   "present-perfect",
+   "past-simple"
+  ],
+  "extra": [
+   [
+    "I [lost] my keys yesterday.",
+    "Я вчера потерял ключи.",
+    "Yesterday — Past Simple."
+   ],
+   [
+    "Have you ever [been] to Canada?",
+    "Ты когда-нибудь был в Канаде?",
+    "Ever — Present Perfect."
+   ],
+   [
+    "She [is] cooking dinner right now.",
+    "Она сейчас готовит ужин.",
+    "Right now — Present Continuous."
+   ],
+   [
+    "He usually [walks] to work.",
+    "Он обычно ходит на работу пешком.",
+    "Usually — Present Simple."
+   ],
+   [
+    "By the time we arrived, they [had] left.",
+    "К тому времени, как мы приехали, они уже ушли.",
+    "Past Perfect — раньше другого прошлого."
+   ],
+   [
+    "I've been [waiting] for an hour.",
+    "Я жду уже час.",
+    "Present Perfect Continuous — длительность."
+   ]
+  ]
+ }
+}

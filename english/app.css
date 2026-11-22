@@ -259,3 +259,4 @@ textarea.field{min-height:110px;resize:none}
 .p-top b{font-size:16px}
 .btn svg{width:20px;height:20px;flex:none}.chip svg{width:16px;height:16px}
 .p-foot .fb .fb-row b{color:var(--ok)}.hero-btns .btn{flex:1 1 0;padding:0 12px;min-width:0;white-space:nowrap}
+body.large #app,body.large .player{zoom:1.12}
