@@ -103,7 +103,7 @@ function pickVoice(){
   VOICE = vs[0] || ('speechSynthesis' in window ? speechSynthesis.getVoices().find(v=>/^en/i.test(v.lang)) : null) || null;
 }
 const voiceIsGood = () => VOICE && /Premium|Enhanced|Google|Microsoft|Neural|Natural/i.test(VOICE.name);
-if ('speechSynthesis' in window){ pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+if ('speechSynthesis' in window){ pickVoice(); speechSynthesis.onvoiceschanged = () => { pickVoice(); if (typeof TAB!=='undefined' && TAB==='me' && !document.querySelector('.player')) render(); }; }
 function say(text, rate, onend){
   text = String(text).replace(/\s*\([^)]*[а-яА-Яa-z][^)]*\)/g,'');
   if (!('speechSynthesis' in window)) { onend && onend(); return; }
@@ -1107,6 +1107,7 @@ function viewMe(app){
     <div class="row"><span>Звуки</span><div class="seg" data-k="sound"><button data-v="true">Вкл</button><button data-v="false">Выкл</button></div></div>
     <div class="row"><span>Голос</span><select class="sel" id="voice">${vs.length?vs.map(v=>`<option ${VOICE&&v.name===VOICE.name?'selected':''}>${esc(v.name)}</option>`).join(''):'<option>системный</option>'}</select></div>
   </div>`);
+  st.append(h(`<div class="tiny" style="padding:0 0 12px">Голосов English (US), доступных сайту: ${vs.length}. Если скачанного голоса нет в списке, полностью закрой и снова открой приложение. Некоторые версии iOS не дают сайтам доступ к голосам Premium.</div>`));
   if (!voiceIsGood()) st.append(h(`<div class="tip-card">Голос звучит роботизированно? На iPhone скачай качественный: <b>Настройки → Универсальный доступ → Устной контент → Голоса → English → Ava (Premium)</b>, потом перезапусти приложение и выбери его здесь.</div>`));
   st.querySelectorAll('.seg').forEach(sg=>{ const k=sg.dataset.k; sg.querySelectorAll('button').forEach(b=>{ const v = b.dataset.v==='true'?true:b.dataset.v==='false'?false:isNaN(+b.dataset.v)?b.dataset.v:+b.dataset.v;
     if (S.settings[k]===v) b.classList.add('on'); b.onclick=()=>{ S.settings[k]=v; save(); applyTheme(); if(k==='rate') say('This is how I sound.'); render(); }; }); });
