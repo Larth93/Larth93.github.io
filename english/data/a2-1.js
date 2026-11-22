@@ -147,6 +147,41 @@ addUnits("a2", [
      "goed — go неправильный глагол; go — настоящее время, а нужен прошлый; gone — третья форма, без have не используется.",
      "livied — y здесь нет; liveed — на -e добавляется только -d; lives — настоящее время, а речь о 2019 году.",
      "[t] — так звучит после глухих (worked); [d] — после звонких (played); не читается — окончание после t/d всегда произносится отдельным слогом."
+    ],
+    "tags": [
+     "past-simple"
+    ],
+    "extra": [
+     [
+      "We [watched] a great movie last night.",
+      "Вчера вечером мы смотрели отличный фильм.",
+      "Правильный глагол + -ed."
+     ],
+     [
+      "She [went] to Boston in May.",
+      "В мае она ездила в Бостон.",
+      "Go — went."
+     ],
+     [
+      "I [saw] Mike at the store.",
+      "Я видел Майка в магазине.",
+      "See — saw."
+     ],
+     [
+      "They [bought] a new car last week.",
+      "На прошлой неделе они купили машину.",
+      "Buy — bought."
+     ],
+     [
+      "He [stopped] at a red light.",
+      "Он остановился на красный.",
+      "Stop — удвоение p: stopped."
+     ],
+     [
+      "We [had] pizza for dinner.",
+      "На ужин у нас была пицца.",
+      "Have — had."
+     ]
     ]
    },
    {
@@ -272,6 +307,42 @@ addUnits("a2", [
      "forgot — после didn't прошедшая форма не нужна; forgotten — третья форма без have невозможна; forgets — -s после didn't не ставится.",
      "did buy — в вопросе к подлежащему did не нужен; buy — нужен прошедший глагол; did bought — двойное прошедшее, ошибка.",
      "Did — с be (at home) did не используется; Was — с you всегда were; Do — настоящее время и не с be."
+    ],
+    "tags": [
+     "past-simple",
+     "questions"
+    ],
+    "extra": [
+     [
+      "[Did] you call your mom?",
+      "Ты позвонил маме?",
+      "Вопрос в прошлом — did."
+     ],
+     [
+      "I didn't [like] the movie.",
+      "Мне не понравился фильм.",
+      "После didn't — начальная форма."
+     ],
+     [
+      "Where did you [go] last summer?",
+      "Куда ты ездил прошлым летом?",
+      "После did — go, не went."
+     ],
+     [
+      "She [didn't] come to the party.",
+      "Она не пришла на вечеринку.",
+      "Отрицание — didn't + глагол."
+     ],
+     [
+      "Did he [see] the email?",
+      "Он видел письмо?",
+      "После did — see."
+     ],
+     [
+      "What [did] you eat for lunch?",
+      "Что ты ел на обед?",
+      "Wh-вопрос + did."
+     ]
     ]
    },
    {
@@ -393,6 +464,42 @@ addUnits("a2", [
      "took — короткое действие, а нужен процесс, который прервали; am taking — настоящее время; were taking — с I нужно was.",
      "I was knowing — know глагол состояния, в Continuous не ставится; I were knowing — ещё и неверное were; I knowed — know неправильный: knew.",
      "was playing — с they нужно were; played at — Past Simple не передаёт процесс в момент 5 p.m.; are playing — настоящее время, а речь о вчера."
+    ],
+    "tags": [
+     "past-continuous",
+     "past-simple"
+    ],
+    "extra": [
+     [
+      "I [was] driving when you called.",
+      "Я был за рулём, когда ты позвонил.",
+      "I — was + -ing."
+     ],
+     [
+      "They were [watching] TV at nine.",
+      "В девять они смотрели ТВ.",
+      "Действие в процессе."
+     ],
+     [
+      "She was cooking when the power [went] out.",
+      "Она готовила, когда отключили свет.",
+      "Короткое действие — Past Simple."
+     ],
+     [
+      "What [were] you doing at midnight?",
+      "Что ты делал в полночь?",
+      "You — were."
+     ],
+     [
+      "We were walking home when it [started] to rain.",
+      "Мы шли домой, когда начался дождь.",
+      "Прервавшее действие — Past Simple."
+     ],
+     [
+      "He [wasn't] listening to me.",
+      "Он меня не слушал.",
+      "Отрицание — wasn't + -ing."
+     ]
     ]
    },
    {
@@ -503,6 +610,42 @@ addUnits("a2", [
      "use to — в утверждении нужно used to; was used to — это «был привычен к», и после него нужен -ing; used — без to глагол hate не присоединить.",
      "used to — после did -d убирается; using to — такой формы нет; uses to — -s после did невозможно.",
      "Я раньше это делал — это I used to do it; Я это использую — I use it; Мне это надоело — I'm tired of it / I'm fed up with it."
+    ],
+    "tags": [
+     "past-simple",
+     "present-simple"
+    ],
+    "extra": [
+     [
+      "I [used] to play tennis.",
+      "Раньше я играл в теннис.",
+      "Used to — прошлая привычка."
+     ],
+     [
+      "She used to [live] in Texas.",
+      "Раньше она жила в Техасе.",
+      "После used to — начальная форма."
+     ],
+     [
+      "Did you [use] to have long hair?",
+      "У тебя раньше были длинные волосы?",
+      "В вопросе — use без d."
+     ],
+     [
+      "We didn't use to [have] a car.",
+      "Раньше у нас не было машины.",
+      "Didn't use to + глагол."
+     ],
+     [
+      "He used to [smoke], but he quit.",
+      "Раньше он курил, но бросил.",
+      "Used to — этого больше нет."
+     ],
+     [
+      "There used [to] be a cinema here.",
+      "Раньше здесь был кинотеатр.",
+      "There used to be — раньше было."
+     ]
     ]
    }
   ]
@@ -627,6 +770,41 @@ addUnits("a2", [
      "have — с she нужно has; is — is + seen был бы пассив; did — did + seen невозможно.",
      "He has been to Rome — значит «бывал в Риме», не обязательно сейчас там; went ... has — бессмысленный порядок слов; is been — is с been не сочетается.",
      "Остальные варианты правильные: twice, never и вопрос без даты подходят для Present Perfect."
+    ],
+    "tags": [
+     "present-perfect"
+    ],
+    "extra": [
+     [
+      "Have you ever [been] to Canada?",
+      "Ты когда-нибудь был в Канаде?",
+      "Been — опыт поездки."
+     ],
+     [
+      "I've [never] tried sushi.",
+      "Я никогда не пробовал суши.",
+      "Never — никогда в жизни."
+     ],
+     [
+      "She has [seen] that movie three times.",
+      "Она смотрела этот фильм три раза.",
+      "See — seen."
+     ],
+     [
+      "[Has] he ever met a celebrity?",
+      "Он когда-нибудь встречал знаменитость?",
+      "He — has."
+     ],
+     [
+      "We've never [flown] business class.",
+      "Мы никогда не летали бизнес-классом.",
+      "Fly — flown."
+     ],
+     [
+      "I [have] eaten alligator once.",
+      "Я однажды ел аллигатора.",
+      "I — have + V3."
+     ]
     ]
    },
    {
@@ -744,6 +922,41 @@ addUnits("a2", [
      "already — в вопросе возможен, но выражает удивление и стоит перед V3, а не в конце; just — в конце вопроса не ставится; ever — значит «когда-нибудь», не «уже».",
      "yet — используется в вопросах и отрицаниях, в конце; ever — «когда-нибудь», не подходит к утверждению; still — с Present Perfect в утверждении так не используется.",
      "already — не используется в отрицании в значении «ещё не»; just — не ставится в конце отрицания; never — двойное отрицание с haven't."
+    ],
+    "tags": [
+     "present-perfect"
+    ],
+    "extra": [
+     [
+      "I've [just] finished my homework.",
+      "Я только что сделал домашку.",
+      "Just — только что."
+     ],
+     [
+      "Have you called him [yet]?",
+      "Ты уже позвонил ему?",
+      "Yet — в конце вопроса."
+     ],
+     [
+      "She has [already] left.",
+      "Она уже ушла.",
+      "Already — между have и V3."
+     ],
+     [
+      "We haven't eaten [yet].",
+      "Мы ещё не ели.",
+      "Yet в отрицании — ещё не."
+     ],
+     [
+      "The bus has just [left].",
+      "Автобус только что ушёл.",
+      "Leave — left."
+     ],
+     [
+      "I've already [paid] the bill.",
+      "Я уже оплатил счёт.",
+      "Pay — paid."
+     ]
     ]
    },
    {
@@ -857,6 +1070,42 @@ addUnits("a2", [
      "for — перед периодом, а 2018 — точка; from — с Present Perfect для точки начала нужно since; during — значит «в течение чего-то», не «с».",
      "I live here — Present Simple не передаёт «длится до сейчас»; lived ... since three years — since с периодом невозможен; am living here three years — нет for и нужен Present Perfect.",
      "did — с had (V3) и How long до сейчас нужно have; do — с had (V3) не сочетается; are — are + had невозможно."
+    ],
+    "tags": [
+     "present-perfect",
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "I've worked here [for] five years.",
+      "Я работаю здесь пять лет.",
+      "For + период."
+     ],
+     [
+      "She has lived in Miami [since] 2019.",
+      "Она живёт в Майами с 2019 года.",
+      "Since + точка отсчёта."
+     ],
+     [
+      "We've known each other [since] college.",
+      "Мы знакомы с колледжа.",
+      "Since + момент в прошлом."
+     ],
+     [
+      "He's been sick [for] three days.",
+      "Он болеет три дня.",
+      "For + длительность."
+     ],
+     [
+      "How [long] have you lived here?",
+      "Как долго ты здесь живёшь?",
+      "How long — сколько времени."
+     ],
+     [
+      "I haven't seen her [since] Monday.",
+      "Я не видел её с понедельника.",
+      "Since + день."
+     ]
     ]
    },
    {
@@ -977,6 +1226,42 @@ addUnits("a2", [
      "Did — did сочетается с V1, а ridden — V3; Do — настоящее время и не с V3; Were — were + ridden невозможно.",
      "has moved / have moved — с конкретным годом Present Perfect нельзя; have к тому же не с she; moves — настоящее время.",
      "lost yesterday — лишнее yesterday не подходит к пропуску, нужен результат сейчас; lose — настоящее время; was losing — процесс в прошлом, а не результат."
+    ],
+    "tags": [
+     "present-perfect",
+     "past-simple"
+    ],
+    "extra": [
+     [
+      "I [lost] my phone yesterday.",
+      "Вчера я потерял телефон.",
+      "Yesterday — Past Simple."
+     ],
+     [
+      "I've [lost] my keys. Can you help?",
+      "Я потерял ключи. Поможешь?",
+      "Результат сейчас — Present Perfect."
+     ],
+     [
+      "She [visited] Paris in 2020.",
+      "Она была в Париже в 2020.",
+      "Точная дата — Past Simple."
+     ],
+     [
+      "Have you [seen] my glasses?",
+      "Ты не видел мои очки?",
+      "Важен результат — Present Perfect."
+     ],
+     [
+      "We [moved] here two years ago.",
+      "Мы переехали сюда два года назад.",
+      "Ago — Past Simple."
+     ],
+     [
+      "He's [broken] his arm, so he can't drive.",
+      "Он сломал руку и не может водить.",
+      "Результат сейчас — Present Perfect."
+     ]
     ]
    }
   ]
@@ -1099,6 +1384,41 @@ addUnits("a2", [
      "'m going to — для заранее принятого решения, а здесь решение сейчас; am — am get невозможно; go — I go get не подходит по смыслу и форме.",
      "'ll — will для спонтанного решения, а здесь уже решено (I've decided); will to — после will to не ставится; am go — нет going to.",
      "will to — после will to не нужно; fall — You fall! без вспомогательного глагола не передаёт будущее; are fall — нет going to."
+    ],
+    "tags": [
+     "future"
+    ],
+    "extra": [
+     [
+      "I'm tired. I [think] I'll go to bed.",
+      "Я устал. Пожалуй, пойду спать.",
+      "I think I'll — решение сейчас."
+     ],
+     [
+      "We're [going] to buy a house next year.",
+      "В следующем году мы купим дом.",
+      "Заранее план — going to."
+     ],
+     [
+      "Don't worry, I'[ll] help you.",
+      "Не волнуйся, я помогу.",
+      "Спонтанное обещание — will."
+     ],
+     [
+      "Look at those clouds! It's going to [rain].",
+      "Смотри на тучи! Будет дождь.",
+      "Прогноз по признакам — going to."
+     ],
+     [
+      "I [won't] tell anyone.",
+      "Я никому не скажу.",
+      "Обещание в отрицании — won't."
+     ],
+     [
+      "She's going [to] study medicine.",
+      "Она собирается изучать медицину.",
+      "Going to + глагол."
+     ]
     ]
    },
    {
@@ -1215,6 +1535,42 @@ addUnits("a2", [
      "visit — Present Simple для расписаний, а не личных договорённостей; will visiting — после will нужен V1; visited — прошедшее время.",
      "is going start — пропущено to; will starting — после will нужен V1; starting — нет глагола-сказуемого.",
      "do — с doing (V-ing) нужен be; will — will + doing невозможно (нужно will be doing); is — с you нужно are."
+    ],
+    "tags": [
+     "present-continuous",
+     "future"
+    ],
+    "extra": [
+     [
+      "I'm [meeting] Sarah for lunch tomorrow.",
+      "Завтра я обедаю с Сарой.",
+      "Договорённость — Present Continuous."
+     ],
+     [
+      "We're [flying] to Denver on Friday.",
+      "В пятницу мы летим в Денвер.",
+      "Билеты куплены — Present Continuous."
+     ],
+     [
+      "What [are] you doing this weekend?",
+      "Что ты делаешь в выходные?",
+      "Вопрос о планах — are you doing."
+     ],
+     [
+      "She's [having] a party on Saturday.",
+      "В субботу у неё вечеринка.",
+      "Have a party — в Continuous возможно."
+     ],
+     [
+      "I'm not [working] next Monday.",
+      "В следующий понедельник я не работаю.",
+      "Отрицание — am not + -ing."
+     ],
+     [
+      "They're [getting] married in June.",
+      "Они женятся в июне.",
+      "Get married — запланированное событие."
+     ]
     ]
    },
    {
@@ -1336,6 +1692,41 @@ addUnits("a2", [
      "would — это Second Conditional; are — are pass невозможно; did — прошедшее время, а речь о будущем.",
      "when — «когда»; because — «потому что»; although — «хотя».",
      "will get — после when о будущем will не ставится; got — прошедшее время; getting — нет сказуемого."
+    ],
+    "tags": [
+     "conditionals"
+    ],
+    "extra": [
+     [
+      "If it [rains], we'll stay home.",
+      "Если пойдёт дождь, останемся дома.",
+      "После if — Present Simple."
+     ],
+     [
+      "If you study, you['ll] pass the test.",
+      "Если будешь учиться, сдашь тест.",
+      "Главная часть — will."
+     ],
+     [
+      "I'll call you if I [need] help.",
+      "Я позвоню, если понадобится помощь.",
+      "После if — Present, не will."
+     ],
+     [
+      "If she's late, we [won't] wait.",
+      "Если она опоздает, мы не будем ждать.",
+      "Отрицание — won't."
+     ],
+     [
+      "What will you do if you [miss] the bus?",
+      "Что будешь делать, если опоздаешь на автобус?",
+      "После if — Present Simple."
+     ],
+     [
+      "[If] you hurry, you'll catch the train.",
+      "Если поторопишься, успеешь на поезд.",
+      "If — если."
+     ]
     ]
    }
   ]

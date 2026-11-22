@@ -126,6 +126,41 @@ addUnits("b1", [
      "painted — актив: картина не рисовала сама; is painting — актив Continuous; was paint — нужна V3 (painted).",
      "grows by — актив с by бессмысленно; is grow — нужна V3; grown — нет глагола be.",
      "from — откуда, а не кем; with — инструмент (with a knife); of — принадлежность."
+    ],
+    "tags": [
+     "passive"
+    ],
+    "extra": [
+     [
+      "The Mona Lisa was [painted] by Leonardo da Vinci.",
+      "Мона Лиза была написана Леонардо да Винчи.",
+      "was + V3; by — исполнитель."
+     ],
+     [
+      "Coffee [is] grown in Brazil.",
+      "Кофе выращивают в Бразилии.",
+      "is + V3 — Present Passive."
+     ],
+     [
+      "The bridge was [built] in 1937.",
+      "Мост был построен в 1937 году.",
+      "build — built."
+     ],
+     [
+      "These cookies are [baked] fresh every day.",
+      "Это печенье пекут свежим каждый день.",
+      "are + V3."
+     ],
+     [
+      "The letter [was] sent yesterday.",
+      "Письмо было отправлено вчера.",
+      "was — прошедшее, ед. число."
+     ],
+     [
+      "Were you [invited] to the party?",
+      "Тебя пригласили на вечеринку?",
+      "Were + подлежащее + V3."
+     ]
     ]
    },
    {
@@ -267,6 +302,41 @@ addUnits("b1", [
      "will open by — актив + лишнее by; is opened next — Present для будущего факта неверно; will been opened — после will нужна базовая форма be.",
      "is washed now — Present Simple не для процесса сейчас; has washed — актив Perfect; is washing by — актив Continuous, машина не моет сама.",
      "He fired — актив: «он уволил»; He was fire, He got fire — нужна V3 fired."
+    ],
+    "tags": [
+     "passive"
+    ],
+    "extra": [
+     [
+      "The package has been [delivered].",
+      "Посылка доставлена.",
+      "has been + V3."
+     ],
+     [
+      "A new bridge is [being] built downtown.",
+      "В центре строят новый мост.",
+      "is being + V3 — процесс."
+     ],
+     [
+      "The meeting will be [held] on Monday.",
+      "Встреча состоится в понедельник.",
+      "will be + V3."
+     ],
+     [
+      "The house was being [painted] when we arrived.",
+      "Когда мы приехали, дом красили.",
+      "was being + V3."
+     ],
+     [
+      "The winners [have] been chosen.",
+      "Победители выбраны.",
+      "have been — мн. число."
+     ],
+     [
+      "The flight has been [canceled] because of the storm.",
+      "Рейс отменили из-за шторма.",
+      "has been canceled."
+     ]
     ]
    }
   ]
@@ -394,6 +464,41 @@ addUnits("b1", [
      "said — say не используется с прямым «кому» (said me); say — нет прошедшего; spoke — speak не вводит содержание речи.",
      "will — нет сдвига времени после said; can — меняет смысл; had — не модальный и не передаёт будущее.",
      "yesterday, the day before — прошлое; today — без сдвига, неверно."
+    ],
+    "tags": [
+     "reported-speech"
+    ],
+    "extra": [
+     [
+      "She said she [was] feeling better.",
+      "Она сказала, что чувствует себя лучше.",
+      "is → was при сдвиге времён."
+     ],
+     [
+      "He told us he [had] lost his wallet.",
+      "Он сказал нам, что потерял кошелёк.",
+      "lost → had lost."
+     ],
+     [
+      "They said they [would] be late.",
+      "Они сказали, что опоздают.",
+      "will → would."
+     ],
+     [
+      "She [said] that she loved the gift.",
+      "Она сказала, что ей понравился подарок.",
+      "said без объекта."
+     ],
+     [
+      "He told me he [could] swim.",
+      "Он сказал мне, что умеет плавать.",
+      "can → could."
+     ],
+     [
+      "Mom said she was busy [that] day.",
+      "Мама сказала, что в тот день была занята.",
+      "today → that day."
+     ]
     ]
    },
    {
@@ -528,6 +633,42 @@ addUnits("b1", [
      "that — не вводит вопрос; what — вопрос да/нет, а не специальный; do — вспомогательный глагол в косвенном вопросе не нужен.",
      "close — без to; closing — tell не сочетается с V-ing; that I close — неверная конструкция для приказа.",
      "when does the meeting start — вопросительный порядок; when starts the meeting — инверсия; when the meeting does start — лишний do."
+    ],
+    "tags": [
+     "reported-speech",
+     "questions"
+    ],
+    "extra": [
+     [
+      "He asked me what time it [was].",
+      "Он спросил меня, который час.",
+      "Прямой порядок слов в косвенном вопросе."
+     ],
+     [
+      "She asked [if|whether] I was hungry.",
+      "Она спросила, голоден ли я.",
+      "if/whether — для вопросов да/нет."
+     ],
+     [
+      "The teacher told us not [to] talk.",
+      "Учитель сказал нам не разговаривать.",
+      "not to + глагол — запрет."
+     ],
+     [
+      "They asked where we [had] parked.",
+      "Они спросили, где мы припарковались.",
+      "parked → had parked."
+     ],
+     [
+      "He asked me [to] close the window.",
+      "Он попросил меня закрыть окно.",
+      "ask + объект + to."
+     ],
+     [
+      "She wanted to know how old I [was].",
+      "Она хотела узнать, сколько мне лет.",
+      "Порядок слов: подлежащее + глагол."
+     ]
     ]
    },
    {
@@ -649,6 +790,41 @@ addUnits("b1", [
      "who — нет значения «чей»; which — для предметов, не притяжательное; who's = who is.",
      "that — нельзя после запятой о всём предложении; what — не относительное местоимение для предыдущей фразы; who — о людях.",
      "My boss, who I like — non-defining, опускать нельзя; Paris, which I love — тоже non-defining; Tom, who called — who подлежащее и non-defining."
+    ],
+    "tags": [
+     "relative-clauses"
+    ],
+    "extra": [
+     [
+      "The book [that|which] I'm reading is great.",
+      "Книга, которую я читаю, отличная.",
+      "that/which — для предметов."
+     ],
+     [
+      "She's the woman [whose] car was stolen.",
+      "Это женщина, у которой украли машину.",
+      "whose — чей."
+     ],
+     [
+      "Paris, [which] I visited last year, is beautiful.",
+      "Париж, где я был в прошлом году, прекрасен.",
+      "В non-defining — только which."
+     ],
+     [
+      "That's the restaurant [where] we first met.",
+      "Это ресторан, где мы впервые встретились.",
+      "where — для места."
+     ],
+     [
+      "The people [who|that] live next door are noisy.",
+      "Люди, которые живут по соседству, шумные.",
+      "who/that — для людей."
+     ],
+     [
+      "My boss, [who] is very strict, praised me.",
+      "Мой начальник, который очень строгий, похвалил меня.",
+      "Non-defining: who, не that."
+     ]
     ]
    }
   ]
@@ -766,6 +942,41 @@ addUnits("b1", [
      "can't — противоречит факту (Ferrari); mustn't — запрет, не вывод; should — ожидание/совет.",
      "mustn't — запрет, а не невозможность; must — противоречит возрасту; may — допускает возможность.",
      "must — о настоящем, а вывод о прошлом (+ rained требует have); can't have — противоречит мокрой дороге; should — не вывод о прошлом."
+    ],
+    "tags": [
+     "modals"
+    ],
+    "extra": [
+     [
+      "He [must] be at home; his car is outside.",
+      "Он, должно быть, дома — его машина у дома.",
+      "must — уверенность."
+     ],
+     [
+      "That [can't] be right; check it again.",
+      "Это не может быть правдой, проверь ещё раз.",
+      "can't — уверенность в невозможности."
+     ],
+     [
+      "She [might|may|could] be stuck in traffic.",
+      "Возможно, она застряла в пробке.",
+      "might/may/could — возможность."
+     ],
+     [
+      "They must [be] on vacation.",
+      "Они, должно быть, в отпуске.",
+      "must + be."
+     ],
+     [
+      "It [could] be a mistake.",
+      "Это может быть ошибкой.",
+      "could — предположение."
+     ],
+     [
+      "You must be [joking]!",
+      "Ты, должно быть, шутишь!",
+      "must be + -ing."
+     ]
     ]
    },
    {
@@ -880,6 +1091,41 @@ addUnits("b1", [
      "weren't you — два отрицания; did you — в предложении be, а не do; was you — неверное согласование.",
      "amn't I — в стандартном английском нет; am I not't — неграмматично; isn't I — is не с I.",
      "doesn't she — can модальный, повторяется он; can she — положительный хвост после утверждения; isn't she — не be."
+    ],
+    "tags": [
+     "question-tags"
+    ],
+    "extra": [
+     [
+      "It's cold today, [isn't] it?",
+      "Сегодня холодно, правда?",
+      "Утверждение → отрицательный хвост."
+     ],
+     [
+      "You haven't seen my keys, [have] you?",
+      "Ты не видел мои ключи?",
+      "Отрицание → положительный хвост."
+     ],
+     [
+      "He can drive, [can't] he?",
+      "Он ведь умеет водить?",
+      "can → can't."
+     ],
+     [
+      "Let's go, [shall] we?",
+      "Пойдём, хорошо?",
+      "Let's → shall we."
+     ],
+     [
+      "She didn't like it, [did] she?",
+      "Ей ведь не понравилось?",
+      "didn't → did."
+     ],
+     [
+      "I'm late, [aren't] I?",
+      "Я опоздал, да?",
+      "I am → aren't I."
+     ]
     ]
    },
    {
@@ -987,6 +1233,42 @@ addUnits("b1", [
      "so — не ставится перед a + сущ.; so a — неверный порядок; a such — артикль после such.",
      "such — перед сущ., а здесь только прилагательное; such a, so a — нет сущ., артикль не нужен.",
      "so — не перед прил. + сущ.; such a — people во мн. ч., a нельзя; so much — для неисчисляемых и без прил."
+    ],
+    "tags": [
+     "emphasis-cleft",
+     "adjectives-adverbs"
+    ],
+    "extra": [
+     [
+      "It was [such] a beautiful day.",
+      "Был такой прекрасный день.",
+      "such a + прилагательное + сущ."
+     ],
+     [
+      "The test was [so] easy.",
+      "Тест был таким лёгким.",
+      "so + прилагательное."
+     ],
+     [
+      "They're [such] nice people.",
+      "Они такие милые люди.",
+      "such + мн. число без a."
+     ],
+     [
+      "I was so tired [that] I fell asleep.",
+      "Я так устал, что заснул.",
+      "so ... that — результат."
+     ],
+     [
+      "She speaks [so] quickly!",
+      "Она так быстро говорит!",
+      "so + наречие."
+     ],
+     [
+      "It was such [an] interesting book.",
+      "Это была такая интересная книга.",
+      "an перед гласным звуком."
+     ]
     ]
    },
    {
@@ -1120,6 +1402,42 @@ addUnits("b1", [
      "borrow — брать, а не давать; owe — быть должным; pay off — выплатить долг.",
      "off — run off = убежать; out — без of нельзя перед сущ.; away of — не существует.",
      "pay back you — местоимение ставится между глаголом и частицей; back pay you — неверный порядок; pay you off back — две частицы."
+    ],
+    "tags": [
+     "phrasal-verbs",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "I need to cut [back] on spending.",
+      "Мне нужно сократить расходы.",
+      "cut back on — сокращать."
+     ],
+     [
+      "Can you lend me twenty dollars? I'll pay it [back].",
+      "Одолжишь двадцать долларов? Я верну.",
+      "pay back — вернуть долг."
+     ],
+     [
+      "We ran [out] of cash on vacation.",
+      "В отпуске у нас закончились наличные.",
+      "run out of — закончиться."
+     ],
+     [
+      "She's putting money [aside] for college.",
+      "Она откладывает деньги на колледж.",
+      "put aside — откладывать."
+     ],
+     [
+      "Prices have [gone] up again.",
+      "Цены опять выросли.",
+      "go up — расти."
+     ],
+     [
+      "I [paid] off my credit card last month.",
+      "Я погасил кредитку в прошлом месяце.",
+      "pay off — полностью погасить."
+     ]
     ]
    },
    {
@@ -1246,6 +1564,42 @@ addUnits("b1", [
      "make — make the dishes неверно; wash up do — бессмыслица; take — не сочетается.",
      "does — do money не говорят; earns up — up лишнее; takes — take money = брать деньги.",
      "make — make a favor неверно; give up — сдаться; take — не сочетается с favor."
+    ],
+    "tags": [
+     "collocations",
+     "confusing-words"
+    ],
+    "extra": [
+     [
+      "Please don't [make] so much noise.",
+      "Пожалуйста, не шуми так.",
+      "make noise."
+     ],
+     [
+      "I [do] the dishes after dinner.",
+      "После ужина я мою посуду.",
+      "do the dishes."
+     ],
+     [
+      "She [made] a lot of money last year.",
+      "В прошлом году она заработала много денег.",
+      "make money."
+     ],
+     [
+      "Can you [do] the laundry today?",
+      "Ты можешь постирать сегодня?",
+      "do the laundry."
+     ],
+     [
+      "Let's [make] a plan for the weekend.",
+      "Давай составим план на выходные.",
+      "make a plan."
+     ],
+     [
+      "I always [do] my best.",
+      "Я всегда стараюсь изо всех сил.",
+      "do your best."
+     ]
     ]
    }
   ]

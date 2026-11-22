@@ -137,7 +137,42 @@ addUnits("b1", [
     "text": {
      "en": "A few years ago, AI felt like science fiction. Now many of us use it every day without thinking about it. At my company, we use AI tools to write first drafts of emails, summarize long documents, and automate boring reports. It saves hours every week. However, I've learned not to rely on it completely. Last month, a chatbot gave me a statistic that looked convincing, but when I checked, the number wasn't accurate at all. Since then, I always check important facts myself. Privacy is another concern. Some companies don't allow employees to paste client data into public AI tools, because nobody knows exactly where that data goes. Will AI replace our jobs? Some tasks will definitely disappear, but I think it's more likely to change jobs than to destroy them. People who learn to use these tools well will probably have an advantage.",
      "ru": "Несколько лет назад ИИ казался научной фантастикой. Теперь многие пользуются им каждый день, не задумываясь. В моей компании мы используем ИИ-инструменты, чтобы писать черновики писем, кратко излагать длинные документы и автоматизировать скучные отчёты. Это экономит часы каждую неделю. Однако я научился не полагаться на него полностью. В прошлом месяце чат-бот дал мне статистику, которая выглядела убедительно, но когда я проверил, цифра оказалась совсем неточной. С тех пор я всегда сам проверяю важные факты. Конфиденциальность — ещё одна проблема. Некоторые компании запрещают сотрудникам вставлять данные клиентов в публичные ИИ-инструменты, потому что никто точно не знает, куда эти данные уходят. Заменит ли ИИ наши профессии? Некоторые задачи точно исчезнут, но мне кажется, он скорее изменит работу, чем уничтожит её. У тех, кто научится хорошо пользоваться этими инструментами, вероятно, будет преимущество."
-    }
+    },
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "I'm worried about my online [privacy].",
+      "Я беспокоюсь о своей конфиденциальности в сети.",
+      "Privacy — конфиденциальность."
+     ],
+     [
+      "This app [collects] a lot of personal data.",
+      "Это приложение собирает много личных данных.",
+      "Collect data — собирать данные."
+     ],
+     [
+      "We use AI tools to [save] time.",
+      "Мы используем ИИ-инструменты, чтобы экономить время.",
+      "Save time — экономить время."
+     ],
+     [
+      "Make sure you [update] your software.",
+      "Обязательно обнови программы.",
+      "Update — обновлять."
+     ],
+     [
+      "Chatbots sometimes make [up] facts.",
+      "Чат-боты иногда выдумывают факты.",
+      "Make up — выдумывать."
+     ],
+     [
+      "Can this task be [automated]?",
+      "Можно ли автоматизировать эту задачу?",
+      "Be automated — пассив от automate."
+     ]
+    ]
    },
    {
     "id": "b1u23l2",
@@ -264,7 +299,42 @@ addUnits("b1", [
     "text": {
      "en": "Climate change can feel like a problem that is too big for one person, but small everyday choices really add up. Take plastic, for example. Americans throw away billions of single-use plastic bottles every year, and only a small part of them is recycled. Many cities have now banned plastic bags, and people bring reusable ones instead. Food waste is another huge issue: about a third of the food produced in the US is never eaten. Planning meals and buying only what you need saves money and reduces waste at the same time. Transportation is the biggest source of pollution in many American cities, because most people drive everywhere. Using public transportation, biking, or working from home a few days a week can shrink your carbon footprint. Of course, governments and companies need to switch from fossil fuels to renewable energy, but individuals can still make a difference.",
      "ru": "Изменение климата может казаться проблемой, слишком большой для одного человека, но мелкие повседневные решения действительно складываются. Возьмём пластик. Американцы каждый год выбрасывают миллиарды одноразовых пластиковых бутылок, и лишь малая часть перерабатывается. Многие города уже запретили пластиковые пакеты, и люди приносят многоразовые. Пищевые отходы — ещё одна огромная проблема: около трети еды, производимой в США, так и не съедают. Планирование меню и покупка только нужного одновременно экономят деньги и сокращают отходы. Транспорт — главный источник загрязнения во многих американских городах, потому что большинство ездит на машине повсюду. Общественный транспорт, велосипед или работа из дома несколько дней в неделю могут уменьшить ваш углеродный след. Конечно, правительствам и компаниям нужно переходить с ископаемого топлива на возобновляемую энергию, но и отдельные люди могут что-то изменить."
-    }
+    },
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Climate [change] affects everyone.",
+      "Изменение климата касается всех.",
+      "Climate change — изменение климата."
+     ],
+     [
+      "We try to [reduce] plastic waste.",
+      "Мы стараемся сокращать пластиковые отходы.",
+      "Reduce — сокращать."
+     ],
+     [
+      "Solar energy is a [renewable] resource.",
+      "Солнечная энергия — возобновляемый ресурс.",
+      "Renewable — возобновляемый."
+     ],
+     [
+      "Please turn [off] the lights when you leave.",
+      "Пожалуйста, выключай свет, когда уходишь.",
+      "Turn off — выключать."
+     ],
+     [
+      "Many animals are in [danger] of extinction.",
+      "Многим животным грозит вымирание.",
+      "In danger of — под угрозой."
+     ],
+     [
+      "I bring my own [bag] to the store.",
+      "Я хожу в магазин со своей сумкой.",
+      "Own — собственный."
+     ]
+    ]
    },
    {
     "id": "b1u23l3",
@@ -396,7 +466,42 @@ addUnits("b1", [
     "text": {
      "en": "Two years ago, I was working sixty hours a week, sleeping five hours a night, and living on coffee and takeout. I thought I was fine until I started getting sick every month. At my annual check-up, my doctor looked at my blood test and said, \"If I were you, I'd change something now, before it gets worse.\" She didn't give me a prescription; she gave me a plan. First, get enough sleep: at least seven hours. Second, work out three times a week, even if it's just a thirty-minute walk. Third, cut down on sugar and eat a more balanced diet. It wasn't easy. The hardest part was leaving work on time. But after three months, I had more energy, my mood improved, and I hadn't caught a single cold. Now I tell everyone the same thing: burnout isn't a badge of honor.",
      "ru": "Два года назад я работал по шестьдесят часов в неделю, спал по пять часов и питался кофе и едой навынос. Я думал, что всё нормально, пока не начал болеть каждый месяц. На ежегодном осмотре врач посмотрела на мой анализ крови и сказала: «На вашем месте я бы что-то изменила сейчас, пока не стало хуже». Она не выписала мне рецепт — она дала мне план. Во-первых, высыпаться: минимум семь часов. Во-вторых, тренироваться три раза в неделю, пусть это даже тридцатиминутная прогулка. В-третьих, сократить сахар и питаться сбалансированнее. Было непросто. Труднее всего было уходить с работы вовремя. Но через три месяца у меня стало больше энергии, улучшилось настроение, и я ни разу не простудился. Теперь я всем говорю одно и то же: выгорание — не знак почёта."
-    }
+    },
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "I need to get more [exercise].",
+      "Мне нужно больше двигаться.",
+      "Exercise — физическая нагрузка (неисч.)."
+     ],
+     [
+      "I go for a [check-up] once a year.",
+      "Я прохожу осмотр раз в год.",
+      "Check-up — медосмотр."
+     ],
+     [
+      "Try to cut [down] on sugar.",
+      "Постарайся есть меньше сахара.",
+      "Cut down on — сокращать потребление."
+     ],
+     [
+      "She eats a [balanced] diet.",
+      "Она питается сбалансированно.",
+      "Balanced diet — сбалансированное питание."
+     ],
+     [
+      "I try to drink eight glasses of [water] a day.",
+      "Я стараюсь пить восемь стаканов воды в день.",
+      "Water — неисчисляемое, считаем стаканами."
+     ],
+     [
+      "He's in great [shape] for his age.",
+      "Он в отличной форме для своего возраста.",
+      "In shape — в форме."
+     ]
+    ]
    },
    {
     "id": "b1u23l4",
@@ -529,7 +634,43 @@ addUnits("b1", [
     "text": {
      "en": "So, this one time, on my second week in New York, I was running late for a job interview. It was pouring rain, and I was trying to hold an umbrella and a coffee at the same time. At the crosswalk, a guy in a suit bumped into me, and my coffee went all over his shirt. I was so embarrassed. I apologized about ten times, and he just laughed and said, \"Don't worry, it happens.\" I ran to the office, dried my hair in the restroom, and sat down in the waiting room. Five minutes later, the door opened, and guess who walked in? The same guy, now wearing a different shirt. It turned out he was the hiring manager! All of a sudden, I couldn't remember a single word of English. Long story short, I got the job, and he still tells that story at every office party.",
      "ru": "Короче, как-то раз, на второй неделе в Нью-Йорке, я опаздывал на собеседование. Лил дождь, а я пытался одновременно держать зонт и кофе. На переходе на меня налетел парень в костюме, и мой кофе оказался на его рубашке. Мне было ужасно стыдно. Я извинился раз десять, а он просто рассмеялся и сказал: «Не переживай, бывает». Я побежал в офис, высушил волосы в туалете и сел в приёмной. Через пять минут дверь открылась, и угадайте, кто вошёл? Тот самый парень, уже в другой рубашке. Оказалось, это менеджер по найму! Вдруг я не смог вспомнить ни одного английского слова. Короче говоря, работу я получил, а он до сих пор рассказывает эту историю на каждом корпоративе."
-    }
+    },
+    "tags": [
+     "speaking",
+     "past-continuous"
+    ],
+    "extra": [
+     [
+      "So, this one [time], I got locked out.",
+      "Так вот, однажды я не смог попасть домой.",
+      "This one time — разговорное начало истории."
+     ],
+     [
+      "Anyway, long story [short], we missed the train.",
+      "Короче, мы опоздали на поезд.",
+      "Long story short — короче говоря."
+     ],
+     [
+      "We [were] driving home when it started to snow.",
+      "Мы ехали домой, когда пошёл снег.",
+      "Past Continuous для фона событий."
+     ],
+     [
+      "[Suddenly], someone knocked on the door.",
+      "Вдруг кто-то постучал в дверь.",
+      "Suddenly — внезапно."
+     ],
+     [
+      "In the [end], everything was fine.",
+      "В итоге всё было нормально.",
+      "In the end — в конце концов."
+     ],
+     [
+      "You won't [believe] what happened next.",
+      "Ты не поверишь, что было дальше.",
+      "Фраза для удержания интереса."
+     ]
+    ]
    }
   ]
  },
@@ -665,7 +806,42 @@ addUnits("b1", [
     "text": {
      "en": "When I moved to Denver, the first few months were hard. I'd just gone through a breakup, and I wasn't sure I would ever get over it. Money was tight, too; my salary was enough to get by, but nothing more. Things started to change when I took up rock climbing. A coworker invited me to her gym, and I immediately got along with the people there. Climbing helped me get rid of stress, and after a while, I started to feel at home. Then something unexpected happened at work. My manager left the company, and the director asked if I could take over the team for a few weeks. I said I'd get back to him the next day, but I already knew my answer. Those few weeks turned into a permanent position. My mom says I take after my grandfather: when life gets difficult, we just keep climbing.",
      "ru": "Когда я переехал в Денвер, первые месяцы были трудными. Я только что пережил расставание и не был уверен, что когда-нибудь оправлюсь. С деньгами тоже было туго: зарплаты хватало, чтобы сводить концы с концами, но не более. Всё начало меняться, когда я занялся скалолазанием. Коллега пригласила меня в свой зал, и я сразу поладил с тамошними людьми. Скалолазание помогло избавиться от стресса, и через какое-то время я начал чувствовать себя как дома. Потом на работе случилось неожиданное. Мой менеджер ушёл из компании, и директор спросил, смогу ли я взять команду на несколько недель. Я сказал, что отвечу на следующий день, но уже знал ответ. Эти несколько недель превратились в постоянную должность. Мама говорит, что я похож на дедушку: когда жизнь становится трудной, мы просто продолжаем карабкаться."
-    }
+    },
+    "tags": [
+     "phrasal-verbs"
+    ],
+    "extra": [
+     [
+      "He really takes [after] his dad.",
+      "Он очень похож на отца.",
+      "Take after — быть похожим на родственника."
+     ],
+     [
+      "The plane took [off] on time.",
+      "Самолёт вылетел вовремя.",
+      "Take off — взлетать."
+     ],
+     [
+      "I need to get [over] this cold.",
+      "Мне нужно оправиться от простуды.",
+      "Get over — оправиться."
+     ],
+     [
+      "What time do you get [up]?",
+      "Во сколько ты встаёшь?",
+      "Get up — вставать."
+     ],
+     [
+      "She took [up] yoga last year.",
+      "В прошлом году она занялась йогой.",
+      "Take up — начать заниматься."
+     ],
+     [
+      "How did you get [away] with that?",
+      "Как тебе это сошло с рук?",
+      "Get away with — избежать наказания."
+     ]
+    ]
    },
    {
     "id": "b1u24l2",
@@ -790,7 +966,42 @@ addUnits("b1", [
     "text": {
      "en": "For months, I put off looking for a new apartment. My neighbor played loud music every night, and I just put up with it because moving seemed like too much work. Then one evening, I came across an article about a co-living building in my neighborhood: private rooms, shared kitchens, and, most importantly, strict quiet hours. I visited it the next weekend and signed up on the spot. Moving was chaotic. A friend helped me put together the furniture, and I finally put away my last box at two in the morning. Of course, the next day I came down with a cold and had to cancel all my plans. \"Sorry, something came up,\" I texted my friends, which wasn't exactly a lie. But a week later, I felt great. My new roommates even came up with the idea of a weekly dinner, and now Sunday is my favorite day.",
      "ru": "Месяцами я откладывал поиск новой квартиры. Сосед каждый вечер включал громкую музыку, а я просто терпел, потому что переезд казался слишком хлопотным. Потом однажды вечером я наткнулся на статью о доме для совместного проживания в моём районе: отдельные комнаты, общие кухни и, главное, строгие часы тишины. Я съездил туда в следующие выходные и сразу записался. Переезд был хаотичным. Друг помог мне собрать мебель, и последнюю коробку я разобрал в два часа ночи. Конечно, на следующий день я заболел простудой и отменил все планы. «Извините, кое-что возникло», — написал я друзьям, и это была почти правда. Но через неделю я чувствовал себя прекрасно. Новые соседи даже придумали еженедельный ужин, и теперь воскресенье — мой любимый день."
-    }
+    },
+    "tags": [
+     "phrasal-verbs"
+    ],
+    "extra": [
+     [
+      "She came up [with] a great idea.",
+      "Она придумала отличную идею.",
+      "Come up with — придумать."
+     ],
+     [
+      "I came [across] an old photo yesterday.",
+      "Вчера я наткнулся на старое фото.",
+      "Come across — случайно найти."
+     ],
+     [
+      "Please put [away] your phones.",
+      "Пожалуйста, уберите телефоны.",
+      "Put away — убирать."
+     ],
+     [
+      "The meeting was put [off] until Monday.",
+      "Встречу перенесли на понедельник.",
+      "Put off — откладывать."
+     ],
+     [
+      "When did you come [back] from Texas?",
+      "Когда ты вернулся из Техаса?",
+      "Come back — возвращаться."
+     ],
+     [
+      "Firefighters put [out] the fire quickly.",
+      "Пожарные быстро потушили огонь.",
+      "Put out — тушить."
+     ]
+    ]
    },
    {
     "id": "b1u24l3",
@@ -920,7 +1131,42 @@ addUnits("b1", [
     "text": {
      "en": "Monday did not start well. My alarm didn't go off, so I woke up forty minutes late. I rushed to the office and found my team in a panic. \"What's going on?\" I asked. A client had complained that the invoices were wrong, and my manager wanted me to look into it immediately. I spent the morning going through hundreds of transactions. It turned out that a software update had changed the tax rate. I looked up the correct rate, fixed the formula, and then went over everything again with a colleague to make sure. In the afternoon, I wrote to the client: \"We've corrected the error and look forward to continuing our work together.\" By six o'clock I was exhausted, but my manager thanked me in front of the whole team. My friends wanted to go out that evening, but I went home, asked my neighbor to look after my dog for an hour, and slept.",
      "ru": "Понедельник начался не очень. Будильник не сработал, и я проснулся на сорок минут позже. Я помчался в офис и застал команду в панике. «Что происходит?» — спросил я. Клиент пожаловался, что счета неверные, и менеджер хотел, чтобы я немедленно в этом разобрался. Всё утро я просматривал сотни транзакций. Оказалось, что обновление программы изменило налоговую ставку. Я посмотрел правильную ставку, исправил формулу, а потом ещё раз всё проверил с коллегой для надёжности. Днём я написал клиенту: «Мы исправили ошибку и с нетерпением ждём продолжения сотрудничества». К шести я был вымотан, но менеджер поблагодарил меня перед всей командой. Друзья хотели вечером куда-нибудь сходить, но я пошёл домой, попросил соседку на часок присмотреть за собакой и лёг спать."
-    }
+    },
+    "tags": [
+     "phrasal-verbs"
+    ],
+    "extra": [
+     [
+      "I'm looking forward [to] seeing you.",
+      "Я с нетерпением жду встречи с тобой.",
+      "Look forward to + -ing."
+     ],
+     [
+      "We'll look [into] the problem.",
+      "Мы разберёмся с этой проблемой.",
+      "Look into — изучить, разобраться."
+     ],
+     [
+      "She's going [through] a hard time.",
+      "Она переживает трудные времена.",
+      "Go through — переживать."
+     ],
+     [
+      "Can you look [after] my dog this weekend?",
+      "Можешь присмотреть за моей собакой на выходных?",
+      "Look after — присматривать."
+     ],
+     [
+      "Look [up] the word in the dictionary.",
+      "Посмотри это слово в словаре.",
+      "Look up — искать информацию."
+     ],
+     [
+      "Prices keep going [up].",
+      "Цены продолжают расти.",
+      "Go up — расти."
+     ]
+    ]
    },
    {
     "id": "b1u24l4",
@@ -1047,7 +1293,43 @@ addUnits("b1", [
     "text": {
      "en": "Last quarter, our startup had to make a difficult decision: should we keep doing business with our biggest client or not? They paid well, but they constantly changed their requirements and complained about every small detail. Our team was doing a lot of overtime, and people were making more mistakes because they were tired. Before we decided anything, we did some research. We looked at how much time each client took and how much profit we made from each one. The results were clear: this client brought twenty percent of our revenue but took forty percent of our time. Our CEO made an effort to negotiate better terms, but the client refused. In the end, we ended the contract politely. It was scary, but three months later we're making steady progress with smaller clients, and the team is doing a much better job. Sometimes the best business move is saying no.",
      "ru": "В прошлом квартале нашему стартапу пришлось принять трудное решение: продолжать ли работать с крупнейшим клиентом? Он хорошо платил, но постоянно менял требования и жаловался на каждую мелочь. Наша команда много перерабатывала, и люди делали больше ошибок от усталости. Прежде чем что-то решать, мы провели исследование. Мы посмотрели, сколько времени отнимает каждый клиент и сколько прибыли мы с него получаем. Результаты были однозначными: этот клиент приносил двадцать процентов выручки, но отнимал сорок процентов времени. Наш гендиректор постарался договориться о лучших условиях, но клиент отказался. В итоге мы вежливо расторгли контракт. Было страшно, но через три месяца мы стабильно растём с клиентами поменьше, а команда работает гораздо лучше. Иногда лучший бизнес-ход — сказать «нет»."
-    }
+    },
+    "tags": [
+     "collocations",
+     "confusing-words"
+    ],
+    "extra": [
+     [
+      "I need to [do] my homework.",
+      "Мне нужно сделать домашнее задание.",
+      "Do homework — устойчивое сочетание."
+     ],
+     [
+      "Sorry, I [made] a mistake.",
+      "Извините, я ошибся.",
+      "Make a mistake — с make."
+     ],
+     [
+      "Can we [make] an appointment for Monday?",
+      "Можем назначить встречу на понедельник?",
+      "Make an appointment — с make."
+     ],
+     [
+      "Who [does] the dishes in your house?",
+      "Кто у вас моет посуду?",
+      "Do the dishes — домашние дела с do."
+     ],
+     [
+      "She [did] a great job on the project.",
+      "Она отлично справилась с проектом.",
+      "Do a good job — с do."
+     ],
+     [
+      "Don't [make] so much noise!",
+      "Не шуми так!",
+      "Make noise — с make."
+     ]
+    ]
    },
    {
     "id": "b1u24l5",
@@ -1178,7 +1460,42 @@ addUnits("b1", [
     "text": {
      "en": "I used to think that moving to another country would be an adventure, and in many ways, it was. But nobody tells you how many small things you have to get used to. In Minsk, I used to walk everywhere and take the metro. In Phoenix, everyone drives, so I had to get my license and get used to six-lane highways. At first it was terrifying; now I'm used to it, although I still don't enjoy rush hour. The heat was another shock. I was used to snowy winters, not forty-five degrees Celsius in July. I didn't use to drink much water, but now I carry a huge bottle everywhere. Food took time, too. American portions are enormous, and I'm still not used to sweet bread. Some habits I've kept: I still take my shoes off at the door, and my American friends are slowly getting used to that.",
      "ru": "Раньше я думал, что переезд в другую страну будет приключением, и во многом так и было. Но никто не говорит, к скольким мелочам придётся привыкать. В Минске я раньше везде ходил пешком и ездил на метро. В Финиксе все ездят на машинах, так что мне пришлось получить права и привыкать к шестиполосным трассам. Сначала было страшно, сейчас я привык, хотя час пик всё ещё не люблю. Жара была ещё одним шоком. Я привык к снежным зимам, а не к сорока пяти градусам в июле. Раньше я пил мало воды, а теперь везде ношу огромную бутылку. С едой тоже понадобилось время. Американские порции огромные, и я всё ещё не привык к сладкому хлебу. Некоторые привычки я сохранил: я по-прежнему разуваюсь у двери, и мои американские друзья постепенно к этому привыкают."
-    }
+    },
+    "tags": [
+     "gerund-infinitive"
+    ],
+    "extra": [
+     [
+      "We [used] to go camping every summer.",
+      "Раньше мы каждое лето ходили в походы.",
+      "Used to — прошлая привычка."
+     ],
+     [
+      "I'm not used to [driving] on the right.",
+      "Я не привык ездить по правой стороне.",
+      "Be used to + -ing."
+     ],
+     [
+      "You'll get used [to] the weather.",
+      "Ты привыкнешь к погоде.",
+      "Get used to — привыкать."
+     ],
+     [
+      "Did you [use] to play sports?",
+      "Ты раньше занимался спортом?",
+      "В вопросе с did — use без -d."
+     ],
+     [
+      "It took me a year to get used to [living] here.",
+      "Мне понадобился год, чтобы привыкнуть жить здесь.",
+      "Get used to + -ing."
+     ],
+     [
+      "There [used] to be a cinema here.",
+      "Раньше здесь был кинотеатр.",
+      "There used to be — раньше было."
+     ]
+    ]
    },
    {
     "id": "b1u24l6",
@@ -1304,7 +1621,42 @@ addUnits("b1", [
     "text": {
      "en": "Ten years ago, I was a university student in Novosibirsk, and I had a clear plan. I was going to become an engineer, work for a local company, and live near my family. I never thought I would end up in California. Then, in my last year, a professor told me about a summer internship in San Jose. I was sure I wouldn't get it, so I almost didn't apply. When the acceptance email arrived, I was about to go to bed, and I read it five times before I believed it. My parents were worried; they thought I would stay forever. \"It's just three months,\" I promised. Of course, at the time, I didn't know that the company would offer me a full-time job, or that I would meet my future wife at that office. Life rarely goes the way we expect, and I'm glad mine didn't.",
      "ru": "Десять лет назад я был студентом в Новосибирске, и у меня был чёткий план. Я собирался стать инженером, работать в местной компании и жить рядом с семьёй. Я и не думал, что окажусь в Калифорнии. Потом, на последнем курсе, профессор рассказал мне о летней стажировке в Сан-Хосе. Я был уверен, что меня не возьмут, и чуть не передумал подавать заявку. Когда пришло письмо о зачислении, я как раз собирался ложиться спать и перечитал его пять раз, прежде чем поверил. Родители волновались: они думали, что я останусь навсегда. «Это всего на три месяца», — пообещал я. Конечно, тогда я не знал, что компания предложит мне постоянную работу и что в том офисе я встречу будущую жену. Жизнь редко идёт так, как мы ожидаем, и я рад, что моя пошла иначе."
-    }
+    },
+    "tags": [
+     "future"
+    ],
+    "extra": [
+     [
+      "He said he [would] call me later.",
+      "Он сказал, что позвонит мне позже.",
+      "Would — будущее в прошедшем."
+     ],
+     [
+      "I was [going] to tell you, I swear.",
+      "Я собирался тебе сказать, клянусь.",
+      "Was going to — несостоявшееся намерение."
+     ],
+     [
+      "We were about [to] eat when he arrived.",
+      "Мы собирались есть, когда он пришёл.",
+      "Be about to — вот-вот."
+     ],
+     [
+      "I thought it [would] be easier.",
+      "Я думал, будет легче.",
+      "Would после прошедшего времени."
+     ],
+     [
+      "She promised she [would] help us.",
+      "Она обещала, что поможет нам.",
+      "Would в косвенной речи."
+     ],
+     [
+      "They were [going] to move, but they changed their minds.",
+      "Они собирались переехать, но передумали.",
+      "Were going to — план, который не осуществился."
+     ]
+    ]
    }
   ]
  }

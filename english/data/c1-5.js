@@ -141,7 +141,43 @@ addUnits("c1", [
     "text": {
      "en": "When Lena moved to Chicago to join a fintech startup, her manager gave her a piece of advice she still repeats. \"You can work from home whenever you like, provided the team always knows where you are.\" It sounded generous, but it came with a catch. On condition that she delivered results, nobody would track her hours; otherwise, the freedom would quickly disappear.\n\nThe first months were rough. But for a colleague who patiently explained the company's internal tools, Lena would probably have given up. She learned to keep a contingency plan for everything. She carried a spare charger in case her laptop died during a client call, and she saved drafts every ten minutes. Supposing the server crashed before a demo, she could still present from her own notes.\n\nOne evening the CEO asked her a hypothetical question: \"What if we lost our biggest client tomorrow? Would we survive?\" Lena answered honestly. Without a second revenue stream, she said, the company would be in serious trouble. A smarter strategy would diversify now, while things were calm. As long as everyone pretended the risk didn't exist, they were gambling.\n\nThe CEO didn't reply immediately. A week later, he announced a new product line and put Lena in charge of it. With a little less honesty, she admits, she would never have gotten the job. Unless you speak up, she now tells new hires, nobody will notice your ideas.",
      "ru": "Когда Лена переехала в Чикаго, чтобы работать в финтех-стартапе, менеджер дал ей совет, который она до сих пор повторяет: «Можешь работать из дома когда угодно, при условии, что команда всегда знает, где ты». Звучало щедро, но был подвох. При условии, что она даёт результат, никто не будет считать её часы; иначе свобода быстро исчезнет.\n\nПервые месяцы были тяжёлыми. Если бы не коллега, который терпеливо объяснял внутренние инструменты компании, Лена, вероятно, сдалась бы. Она научилась держать запасной план на всё. Носила запасную зарядку на случай, если ноутбук сядет во время звонка с клиентом, и сохраняла черновики каждые десять минут. Допустим, сервер упадёт перед демонстрацией — она всё равно сможет выступить по своим заметкам.\n\nОднажды вечером генеральный директор задал ей гипотетический вопрос: «Что, если завтра мы потеряем крупнейшего клиента? Мы выживем?» Лена ответила честно. Без второго источника дохода, сказала она, у компании будут серьёзные проблемы. Более умная стратегия — диверсифицироваться сейчас, пока всё спокойно. Пока все делают вид, что риска нет, они играют в азартную игру.\n\nДиректор ответил не сразу. Через неделю он объявил о новой продуктовой линейке и поставил Лену во главе. Будь она чуть менее честной, признаётся она, она бы никогда не получила эту должность. «Если не высказываешься, — говорит она теперь новичкам, — никто не заметит твоих идей»."
-    }
+    },
+    "tags": [
+     "conditionals",
+     "conjunctions"
+    ],
+    "extra": [
+     [
+      "[Supposing] you lost your job, what would you do?",
+      "Предположим, ты потерял работу, что бы ты сделал?",
+      "Supposing = what if, вводит гипотезу."
+     ],
+     [
+      "Take a map; [otherwise] you'll get lost.",
+      "Возьми карту, иначе заблудишься.",
+      "otherwise — «в противном случае»."
+     ],
+     [
+      "[But for] her help, I would have failed.",
+      "Если бы не её помощь, я бы провалился.",
+      "But for + существительное = если бы не."
+     ],
+     [
+      "I'll lend you the car [on condition that] you return it tonight.",
+      "Я одолжу машину при условии, что вернёшь её вечером.",
+      "on condition that — формальное условие."
+     ],
+     [
+      "Bring an umbrella [in case] it rains.",
+      "Возьми зонт на случай дождя.",
+      "in case — на всякий случай, не = if."
+     ],
+     [
+      "You won't pass [unless] you study harder.",
+      "Ты не сдашь, если не будешь заниматься усерднее.",
+      "unless = if not."
+     ]
+    ]
    },
    {
     "id": "c1u30l2",
@@ -267,7 +303,42 @@ addUnits("c1", [
     "text": {
      "en": "Having spent ten years as a war correspondent, Mark Reyes thought nothing could surprise him. Then he took a job writing for a late-night comedy show in Los Angeles. His first day over, he went home convinced he had made a terrible mistake.\n\nThe writers' room was chaos. Twelve people sat around a table, coffee cups everywhere, shouting jokes at each other. Not knowing the unwritten rules, Mark stayed quiet for most of the morning. Judging by the looks he got, silence was not an option. Finally, the head writer turned to him, her pen tapping impatiently. \"Give me something,\" she said.\n\nShocked into action, he described a ridiculous scene he had once witnessed in a refugee camp: a goat stealing a reporter's satellite phone. The room went silent, everyone staring at him. Then someone laughed, and soon the whole table was in tears.\n\nGenerally speaking, Mark explains, comedy and journalism have more in common than people think. Both depend on noticing details others miss. Having learned to observe people under pressure, he found he could write characters that felt real. With deadlines looming every night, there was no time for perfectionism, which also reminded him of the newsroom.\n\nAll things considered, he doesn't regret the switch. Time permitting, he still writes long-form articles on weekends. But the goat sketch, rewritten a dozen times, became the show's most-watched clip that year, a fact he mentions at every dinner party.",
      "ru": "Проведя десять лет военным корреспондентом, Марк Рейес думал, что его ничем не удивить. Потом он устроился сценаристом в позднее комедийное шоу в Лос-Анджелесе. Когда первый день закончился, он пошёл домой в уверенности, что совершил ужасную ошибку.\n\nВ комнате сценаристов царил хаос. Двенадцать человек сидели вокруг стола, повсюду чашки кофе, и выкрикивали друг другу шутки. Не зная неписаных правил, Марк молчал почти всё утро. Судя по взглядам, молчание не вариант. Наконец главный сценарист повернулась к нему, нетерпеливо постукивая ручкой: «Дай мне хоть что-нибудь».\n\nПотрясённый и вынужденный действовать, он описал нелепую сцену, которую однажды видел в лагере беженцев: коза ворует спутниковый телефон у репортёра. В комнате повисла тишина, все уставились на него. Потом кто-то засмеялся, и вскоре весь стол рыдал от смеха.\n\nВообще говоря, объясняет Марк, у комедии и журналистики больше общего, чем думают. И то и другое зависит от умения замечать детали, которые другие упускают. Научившись наблюдать за людьми под давлением, он обнаружил, что может писать живых персонажей. Дедлайны нависали каждый вечер, времени на перфекционизм не было — это тоже напоминало ему редакцию.\n\nУчитывая всё, он не жалеет о смене профессии. Если есть время, по выходным он всё ещё пишет большие статьи. Но скетч про козу, переписанный десяток раз, стал самым просматриваемым клипом шоу в тот год — факт, который он упоминает на каждом званом ужине."
-    }
+    },
+    "tags": [
+     "participles"
+    ],
+    "extra": [
+     [
+      "[The meeting over], we all went for coffee.",
+      "Когда собрание закончилось, мы все пошли пить кофе.",
+      "Абсолютный оборот: свой подлежащий + причастие/прилагательное."
+     ],
+     [
+      "[Weather permitting], we'll hike tomorrow.",
+      "Если позволит погода, завтра пойдём в поход.",
+      "Абсолютный оборот с permitting."
+     ],
+     [
+      "[Having lived] in Tokyo, she speaks Japanese well.",
+      "Прожив в Токио, она хорошо говорит по-японски.",
+      "Perfect participle — предшествующее действие."
+     ],
+     [
+      "[Written] in haste, the email was full of typos.",
+      "Написанное в спешке письмо было полно опечаток.",
+      "Past participle — пассивное значение."
+     ],
+     [
+      "[Feeling] tired, he went to bed early.",
+      "Чувствуя усталость, он рано лёг спать.",
+      "Present participle — причина."
+     ],
+     [
+      "[All things considered], it was a success.",
+      "Учитывая всё, это был успех.",
+      "Устойчивый абсолютный оборот."
+     ]
+    ]
    },
    {
     "id": "c1u30l3",
@@ -394,7 +465,42 @@ addUnits("c1", [
     "text": {
      "en": "Ask a dozen Americans what success means and you will hear a dozen answers. For some, success is money. For others, it is freedom, or the respect of their peers. But almost everyone agrees on one thing: success requires resilience.\n\nPsychologists who study achievement have found that talent matters less than people assume. What predicts long-term success is a combination of persistence and a genuine passion for the work itself. Angela, a nurse from Ohio who later became a hospital director, puts it simply. \"I didn't have a brilliant education,\" she says. \"I had a stubborn curiosity and a sense of humor. Both got me through nights that would have broken me.\"\n\nThe curiosity she describes is not abstract. It is the curiosity of someone who keeps asking why a procedure works, why a patient isn't recovering, why a team keeps making the same mistake. Knowledge comes from that habit. And the knowledge she gained on the night shifts turned out to be more valuable than any certificate.\n\nThere is also a darker side. Ambition without integrity can destroy careers, as countless corporate scandals show. The ambition of a young executive who cuts corners may impress investors for a while, but trust, once lost, is hard to rebuild.\n\nPerhaps that is why wisdom, rather than intelligence, is the quality Angela values most in the people she hires. \"Intelligence is common,\" she says. \"Wisdom is knowing what to do with it.\"",
      "ru": "Спросите дюжину американцев, что значит успех, и услышите дюжину ответов. Для одних успех — это деньги. Для других — свобода или уважение коллег. Но почти все согласны в одном: успех требует стойкости.\n\nПсихологи, изучающие достижения, выяснили, что талант значит меньше, чем принято считать. Долгосрочный успех предсказывает сочетание упорства и настоящей страсти к самой работе. Анджела, медсестра из Огайо, позже ставшая директором больницы, говорит просто: «У меня не было блестящего образования. У меня было упрямое любопытство и чувство юмора. И то и другое помогло пережить ночи, которые иначе бы меня сломали».\n\nЛюбопытство, о котором она говорит, не абстрактное. Это любопытство человека, который всё время спрашивает, почему процедура работает, почему пациент не поправляется, почему команда повторяет одну и ту же ошибку. Знание рождается из этой привычки. И знание, которое она приобрела на ночных сменах, оказалось ценнее любого сертификата.\n\nЕсть и тёмная сторона. Амбиции без порядочности могут разрушить карьеру, как показывают бесчисленные корпоративные скандалы. Амбиции молодого руководителя, который срезает углы, могут какое-то время впечатлять инвесторов, но доверие, однажды потерянное, трудно восстановить.\n\nВозможно, поэтому именно мудрость, а не ум, Анджела ценит больше всего в людях, которых нанимает. «Ум встречается часто, — говорит она. — Мудрость — это знать, что с ним делать»."
-    }
+    },
+    "tags": [
+     "articles"
+    ],
+    "extra": [
+     [
+      "[Life] is too short to hold grudges.",
+      "Жизнь слишком коротка, чтобы держать обиды.",
+      "Абстрактное понятие в общем смысле — без артикля."
+     ],
+     [
+      "She lived [a] happy life.",
+      "Она прожила счастливую жизнь.",
+      "a life — конкретная жизнь с описанием."
+     ],
+     [
+      "[The] knowledge of three languages helped him.",
+      "Знание трёх языков помогло ему.",
+      "the knowledge of — ограничено of-фразой."
+     ],
+     [
+      "[Education] should be free for everyone.",
+      "Образование должно быть бесплатным для всех.",
+      "Общее понятие — нулевой артикль."
+     ],
+     [
+      "He received [an] excellent education.",
+      "Он получил отличное образование.",
+      "Абстрактное существительное с прилагательным часто берёт a/an."
+     ],
+     [
+      "[The] patience she showed was remarkable.",
+      "Терпение, которое она проявила, было замечательным.",
+      "Уточнение придаточным — the."
+     ]
+    ]
    },
    {
     "id": "c1u30l4",
@@ -529,7 +635,42 @@ addUnits("c1", [
     "text": {
      "en": "Few things divide American offices more than the question of remote work. Before 2020, only a handful of companies let employees work from home every day. Today, a good many firms operate with hybrid schedules, and quite a few have abandoned their downtown offices altogether.\n\nThe data are mixed. A great deal of research suggests that remote workers are more productive on focused tasks, yet hardly any studies show the same advantage for creative collaboration. Managers complain that new hires learn little when they never sit next to experienced colleagues. Every other conversation in leadership circles seems to come back to culture: how do you build it through a screen?\n\nEmployees see it differently. Most people who commute in large cities spend no fewer than eight hours a week in traffic or on trains. For them, giving up that time feels like a pay cut. Neither side is entirely wrong, and each has reasons to distrust the other.\n\nSome companies have found a compromise. At a software firm in Denver, teams meet in person two days a week, and the odd all-hands meeting brings everyone together. Few complaints have reached HR since the policy began. The CEO admits she has rewritten the rules umpteen times, but she believes flexibility is now permanent.\n\nWhat seems clear is that there is little appetite for a full return to the old model. Fewer workers are willing to accept it, and fewer employers can afford to lose talent over a desk.",
      "ru": "Мало что так разделяет американские офисы, как вопрос удалённой работы. До 2020 года лишь горстка компаний позволяла сотрудникам каждый день работать из дома. Сегодня очень многие фирмы работают по гибридному графику, а довольно многие вовсе отказались от офисов в центре.\n\nДанные противоречивы. Большое количество исследований говорит, что удалёнщики продуктивнее в задачах, требующих концентрации, однако почти ни одно исследование не показывает такого же преимущества для творческой совместной работы. Менеджеры жалуются, что новички мало чему учатся, если никогда не сидят рядом с опытными коллегами. Каждый второй разговор среди руководителей возвращается к культуре: как её строить через экран?\n\nСотрудники видят это иначе. Большинство людей, которые ездят на работу в крупных городах, проводят не менее восьми часов в неделю в пробках или в поездах. Для них отказ от этого времени ощущается как урезание зарплаты. Ни одна сторона не неправа полностью, и у каждой есть причины не доверять другой.\n\nНекоторые компании нашли компромисс. В софтверной фирме в Денвере команды встречаются лично два дня в неделю, а изредка общее собрание собирает всех вместе. С начала действия этой политики в отдел кадров почти не поступало жалоб. Генеральный директор признаёт, что переписывала правила бессчётное количество раз, но считает, что гибкость теперь навсегда.\n\nЯсно, похоже, одно: желания полностью вернуться к старой модели мало. Всё меньше работников готовы её принять, и всё меньше работодателей могут позволить себе терять таланты из-за рабочего стола."
-    }
+    },
+    "tags": [
+     "quantifiers"
+    ],
+    "extra": [
+     [
+      "There's [hardly any] milk left.",
+      "Молока почти не осталось.",
+      "hardly any — почти нет."
+     ],
+     [
+      "We get [the odd] visitor in winter.",
+      "Зимой у нас бывает редкий посетитель.",
+      "the odd — изредка встречающийся."
+     ],
+     [
+      "[A good many] people disagreed.",
+      "Довольно много людей не согласились.",
+      "a good many — значительное количество."
+     ],
+     [
+      "[Little] is known about his early life.",
+      "О его ранней жизни известно мало.",
+      "little (без a) — мало, с негативным оттенком."
+     ],
+     [
+      "I have [a little] time if you need help.",
+      "У меня есть немного времени, если нужна помощь.",
+      "a little — немного, позитивно."
+     ],
+     [
+      "[Neither] answer is correct.",
+      "Ни один из ответов не верен.",
+      "neither + ед. ч. — ни один из двух."
+     ]
+    ]
    },
    {
     "id": "c1u30l5",
@@ -665,7 +806,42 @@ addUnits("c1", [
     "text": {
      "en": "The city council meeting in Portland last Tuesday was supposed to last an hour. It went on for four. At the center of the debate was a proposal to turn a downtown parking garage into affordable housing.\n\nThe mayor opened by pointing out that rents had risen by forty percent in five years. She urged council members to act quickly, warning them that the city would lose teachers and nurses if nothing changed. One councilman, a former real estate developer, immediately accused her of ignoring local businesses. He claimed that removing parking would drive customers to the suburbs and threatened to block the vote.\n\nThe mayor refused to back down. She denied having ignored anyone and reminded him that business owners had been consulted twice. A café owner in the audience then asked to speak. To everyone's surprise, she admitted that she had initially opposed the plan but conceded that most of her customers arrived by bike or bus anyway.\n\nAfter a short break, a compromise emerged. The councilman suggested keeping one floor of the garage for short-term parking, and the mayor agreed to consider it. She reassured residents that construction would not begin until a traffic study was complete.\n\nReporters later asked the councilman whether he felt he had won. He insisted that it was never about winning, though he acknowledged that his phone had been ringing all night. The final vote is scheduled for next month.",
      "ru": "Заседание городского совета Портленда в прошлый вторник должно было длиться час. Оно продолжалось четыре. В центре дебатов было предложение превратить парковку в центре города в доступное жильё.\n\nМэр открыла заседание, указав, что аренда выросла на сорок процентов за пять лет. Она настоятельно призвала членов совета действовать быстро, предупредив, что город потеряет учителей и медсестёр, если ничего не изменится. Один член совета, бывший застройщик, сразу обвинил её в том, что она игнорирует местный бизнес. Он утверждал, что ликвидация парковки отправит покупателей в пригороды, и пригрозил заблокировать голосование.\n\nМэр отказалась отступать. Она отрицала, что кого-либо игнорировала, и напомнила, что с владельцами бизнеса консультировались дважды. Затем слова попросила владелица кафе из зала. Ко всеобщему удивлению, она призналась, что сначала была против плана, но согласилась, что большинство её клиентов и так приезжают на велосипеде или автобусе.\n\nПосле короткого перерыва появился компромисс. Член совета предложил оставить один этаж парковки для краткосрочной стоянки, и мэр согласилась это рассмотреть. Она заверила жителей, что строительство не начнётся, пока не завершится транспортное исследование.\n\nПозже журналисты спросили члена совета, считает ли он, что победил. Он настаивал, что речь никогда не шла о победе, хотя признал, что телефон звонил у него всю ночь. Окончательное голосование назначено на следующий месяц."
-    }
+    },
+    "tags": [
+     "reported-speech"
+    ],
+    "extra": [
+     [
+      "She [conceded] that she had made a mistake.",
+      "Она признала, что допустила ошибку.",
+      "concede — неохотно признать."
+     ],
+     [
+      "He [insisted on] paying for dinner.",
+      "Он настоял на том, чтобы заплатить за ужин.",
+      "insist on + -ing."
+     ],
+     [
+      "The minister [refused] to comment.",
+      "Министр отказался комментировать.",
+      "refuse + to-инфинитив."
+     ],
+     [
+      "They [accused] him of lying.",
+      "Его обвинили во лжи.",
+      "accuse somebody of + -ing."
+     ],
+     [
+      "She [warned] us not to touch the wires.",
+      "Она предупредила нас не трогать провода.",
+      "warn somebody not to."
+     ],
+     [
+      "He [apologized] for being late.",
+      "Он извинился за опоздание.",
+      "apologize for + -ing."
+     ]
+    ]
    }
   ]
  },
@@ -805,7 +981,43 @@ addUnits("c1", [
     "text": {
      "en": "Few mysteries have fascinated Americans as much as the 1971 hijacking by the man known as D. B. Cooper. On a flight from Portland to Seattle, a passenger in a dark suit handed a flight attendant a note. He was said to be calm and polite, even ordering a bourbon while explaining that he had a bomb.\n\nAfter landing in Seattle, he exchanged the other passengers for two hundred thousand dollars and four parachutes. The plane took off again, and somewhere over the forests of southwestern Washington, Cooper is believed to have jumped into the night. He was never seen again.\n\nThe FBI investigated for decades. Hundreds of suspects were considered; several were reported to have confessed on their deathbeds, and one man's niece claimed he had come home with mysterious injuries. None of these stories was ever proven. In 1980, a boy found nearly six thousand dollars in rotting bills on a riverbank. The cash is known to have come from the ransom, but how it got there remains unclear.\n\nIt is widely assumed that Cooper did not survive the jump. The weather was terrible, and he is thought to have been wearing loafers. Yet many enthusiasts insist he landed safely and lived quietly for years. His whereabouts are still debated in online forums.\n\nThe case was officially closed in 2016. Cooper is estimated to have been in his mid-forties, but his real name, allegedly, will never be known.",
      "ru": "Мало какие загадки так увлекали американцев, как угон самолёта в 1971 году человеком, известным как Д. Б. Купер. На рейсе из Портленда в Сиэтл пассажир в тёмном костюме передал стюардессе записку. Говорят, он был спокоен и вежлив и даже заказал бурбон, объясняя, что у него бомба.\n\nПосле посадки в Сиэтле он обменял остальных пассажиров на двести тысяч долларов и четыре парашюта. Самолёт снова взлетел, и где-то над лесами юго-запада штата Вашингтон Купер, как считается, прыгнул в ночь. Больше его никто не видел.\n\nФБР расследовало дело десятилетиями. Рассматривались сотни подозреваемых; по сообщениям, несколько из них признались на смертном одре, а племянница одного утверждала, что он вернулся домой с загадочными травмами. Ни одна из этих историй не была доказана. В 1980 году мальчик нашёл на берегу реки почти шесть тысяч долларов гниющими купюрами. Известно, что деньги были из выкупа, но как они туда попали — неясно.\n\nШироко распространено мнение, что Купер не пережил прыжок. Погода была ужасной, и, как считается, на нём были лоферы. Однако многие энтузиасты настаивают, что он благополучно приземлился и годами тихо жил. Его местонахождение до сих пор обсуждают на форумах.\n\nДело официально закрыли в 2016 году. Куперу, по оценкам, было около сорока пяти лет, но его настоящее имя, по-видимому, никогда не узнают."
-    }
+    },
+    "tags": [
+     "passive",
+     "hedging"
+    ],
+    "extra": [
+     [
+      "It is [believed] that the fire started in the kitchen.",
+      "Считается, что пожар начался на кухне.",
+      "It is believed that — безличный пассив."
+     ],
+     [
+      "The company is [thought] to be losing money.",
+      "Считается, что компания теряет деньги.",
+      "be thought to + инфинитив."
+     ],
+     [
+      "He is said [to have] left the country last year.",
+      "Говорят, он уехал из страны в прошлом году.",
+      "to have + V3 — для прошлого действия."
+     ],
+     [
+      "The painting is [estimated] to be worth millions.",
+      "Картина оценивается в миллионы.",
+      "be estimated to — оценочный пассив."
+     ],
+     [
+      "It has been [reported] that two people were injured.",
+      "Сообщается, что два человека пострадали.",
+      "It has been reported that — новостной стиль."
+     ],
+     [
+      "The suspect is [alleged] to have stolen the car.",
+      "Подозреваемый предположительно угнал машину.",
+      "be alleged to — юридическая дистанция."
+     ]
+    ]
    },
    {
     "id": "c1u31l2",
@@ -936,7 +1148,42 @@ addUnits("c1", [
     "text": {
      "en": "Last spring, my friend Dana and I decided to drive across Arizona to see the Grand Canyon. In hindsight, we should have planned more carefully.\n\nThe first mistake was the car. Dana had rented the cheapest model available, and the agent warned us that it might not handle the desert heat well. We laughed it off. By noon on the second day, the engine was overheating every forty miles. We could have turned back, but we were too stubborn.\n\nThe second mistake was water. I had packed six gallons, and Dana told me I needn't have bothered; there would be gas stations everywhere. There weren't. When the car finally died on a dusty road near Kingman, those six gallons were the only thing between us and a very bad day. We could have been in serious trouble.\n\nWe had no cell signal, so we couldn't call anyone. A rancher must have seen us from the highway, because an hour later a pickup truck pulled over. The driver, an older man named Walt, managed to tow us to his ranch. He didn't need to help us, but he refused to accept any money.\n\nWalt told us the road we had taken was supposed to be closed for repairs. Someone must have removed the sign. \"You might have died out there,\" he said calmly, pouring us lemonade.\n\nWe did eventually reach the Grand Canyon. It was worth it, but I still second-guess every road trip plan Dana suggests.",
      "ru": "Прошлой весной мы с подругой Даной решили проехать через Аризону, чтобы увидеть Гранд-Каньон. Оглядываясь назад, надо было планировать тщательнее.\n\nПервой ошибкой была машина. Дана арендовала самую дешёвую модель, и агент предупредил, что она может плохо переносить пустынную жару. Мы отмахнулись. К полудню второго дня двигатель перегревался каждые сорок миль. Мы могли повернуть назад, но были слишком упрямы.\n\nВторой ошибкой была вода. Я взяла шесть галлонов, а Дана сказала, что зря я заморачивалась — заправки будут повсюду. Их не было. Когда машина наконец заглохла на пыльной дороге у Кингмана, эти шесть галлонов были единственным, что отделяло нас от очень плохого дня. У нас могли быть серьёзные неприятности.\n\nСвязи не было, так что позвонить мы не могли. Должно быть, нас увидел с шоссе какой-то фермер, потому что через час рядом остановился пикап. Водителю, пожилому мужчине по имени Уолт, удалось отбуксировать нас на своё ранчо. Он не был обязан помогать, но отказался брать деньги.\n\nУолт рассказал, что дорога, по которой мы поехали, должна была быть закрыта на ремонт. Наверное, кто-то убрал знак. «Вы могли там погибнуть», — спокойно сказал он, наливая нам лимонад.\n\nВ итоге мы всё же добрались до Гранд-Каньона. Оно того стоило, но я до сих пор подвергаю сомнению каждый план поездки, который предлагает Дана."
-    }
+    },
+    "tags": [
+     "modals-past"
+    ],
+    "extra": [
+     [
+      "We [didn't need to] hurry, so we walked slowly.",
+      "Нам не нужно было спешить, и мы шли медленно.",
+      "didn't need to — не было необходимости (и не делали)."
+     ],
+     [
+      "You [could have] told me earlier!",
+      "Ты мог бы сказать мне раньше!",
+      "could have — упрёк о несделанном."
+     ],
+     [
+      "He [can't have] seen us; it was too dark.",
+      "Он не мог нас видеть: было слишком темно.",
+      "can't have — логическая невозможность в прошлом."
+     ],
+     [
+      "They [might have] gotten lost on the way.",
+      "Возможно, они заблудились по дороге.",
+      "might have — предположение о прошлом."
+     ],
+     [
+      "You [should have] seen his face!",
+      "Видел бы ты его лицо!",
+      "should have seen — эмоциональное восклицание."
+     ],
+     [
+      "I [needn't have] brought an umbrella; it was sunny.",
+      "Зря я взял зонт: было солнечно.",
+      "needn't have — сделал, но было не нужно."
+     ]
+    ]
    },
    {
     "id": "c1u31l3",
@@ -1070,7 +1317,42 @@ addUnits("c1", [
     "text": {
      "en": "When Carlos Mendez was offered a promotion to regional manager, he didn't relish the idea. It would mean relocating from San Diego to Minneapolis, leaving his friends, and facing winters he could barely imagine. He had always been loath to make decisions in a hurry, so he asked for two weeks to think it over.\n\nHis wife was enthusiastic. She had long aspired to work in a bigger city, and she couldn't help but notice that Minneapolis had a strong healthcare industry, perfect for her career as a nurse. Carlos, however, dreaded telling his elderly parents. He resented being pressured by his company, too. His boss kept emailing him, saying she looked forward to hearing his answer \"soon.\"\n\nHe spent evenings contemplating the pros and cons. He couldn't envisage himself shoveling snow, but he also couldn't face spending another five years in the same position. There was no point in complaining about stagnation if he refused every opportunity.\n\nIn the end, his father made the decision easier. \"I'd rather you go and succeed than stay and regret it,\" he said. \"We'll get used to video calls.\"\n\nCarlos accepted. The first winter was brutal; he vowed to buy a better coat after the first week. But he went on to lead the most profitable region in the company. He now endeavors to visit his parents every month, and he admits he has even begun to enjoy ice fishing.",
      "ru": "Когда Карлосу Мендесу предложили повышение до регионального менеджера, он не пришёл в восторг. Это означало переезд из Сан-Диего в Миннеаполис, расставание с друзьями и зимы, которые он едва мог себе представить. Он всегда очень не любил принимать решения в спешке, поэтому попросил две недели на раздумья.\n\nЖена была в восторге. Она давно мечтала работать в большем городе и не могла не заметить, что в Миннеаполисе сильная медицинская отрасль — идеально для её карьеры медсестры. Карлос же с ужасом думал, как скажет пожилым родителям. Его возмущало и давление компании. Начальница постоянно писала ему, что с нетерпением ждёт ответа «в скором времени».\n\nОн проводил вечера, взвешивая за и против. Он не мог представить себя расчищающим снег, но и не мог смириться с мыслью провести ещё пять лет на той же должности. Нет смысла жаловаться на застой, если отказываешься от каждой возможности.\n\nВ конце концов решение облегчил отец. «Я лучше хочу, чтобы ты уехал и преуспел, чем остался и жалел, — сказал он. — Привыкнем к видеозвонкам».\n\nКарлос согласился. Первая зима была жестокой; уже через неделю он поклялся купить пальто получше. Но впоследствии он возглавил самый прибыльный регион компании. Теперь он старается навещать родителей каждый месяц и признаётся, что даже начал получать удовольствие от подлёдной рыбалки."
-    }
+    },
+    "tags": [
+     "gerund-infinitive"
+    ],
+    "extra": [
+     [
+      "I [dread] to think what might happen.",
+      "Мне страшно подумать, что может случиться.",
+      "dread to think — устойчивое выражение."
+     ],
+     [
+      "I can't help [laughing] at his jokes.",
+      "Не могу не смеяться над его шутками.",
+      "can't help + -ing."
+     ],
+     [
+      "She can't help but [notice] the mess.",
+      "Она не может не заметить беспорядок.",
+      "can't help but + голый инфинитив."
+     ],
+     [
+      "He resents [having] to work weekends.",
+      "Его возмущает необходимость работать по выходным.",
+      "resent + -ing."
+     ],
+     [
+      "I don't relish [spending] hours in traffic.",
+      "Мне совсем не нравится проводить часы в пробках.",
+      "relish + -ing."
+     ],
+     [
+      "She went on [to become] a famous surgeon.",
+      "Впоследствии она стала известным хирургом.",
+      "go on to do — следующий этап."
+     ]
+    ]
    },
    {
     "id": "c1u31l4",
@@ -1199,7 +1481,42 @@ addUnits("c1", [
     "text": {
      "en": "Every comedian I've interviewed says the same thing: what makes a joke work isn't the words, it's the timing. But after spending a month with stand-up comics in New York, I realized it's something even simpler. What they really master is emphasis.\n\nTake Jamal, a thirty-year-old comic who performs five nights a week in Greenwich Village. Much as he loves writing, he insists that the page is only half the job. \"It's the pause that gets the laugh,\" he told me. \"Not the punchline.\" He demonstrated with a line about his mother. Said flatly, it was mildly amusing. Said with a tiny pause and a stress on one word, it was hilarious.\n\nThe thing is, English speakers rely on stress far more than most learners realize. \"I didn't say she stole the money\" changes meaning depending on which word you hit. Comedians exploit this constantly. All they need is one unexpected stress, and the audience's brain does the rest.\n\nJamal's mentor, a veteran named Rita, refused point-blank to give me any formula. \"There's no secret whatsoever,\" she said. \"You do have to fail a thousand times, though.\" It was Rita who taught Jamal to record every set and listen to the silences.\n\nStrange as it may seem, the best comics are utterly obsessed with grammar, even if they never call it that. What looks like spontaneity is, by no means, an accident. It's sheer craft.",
      "ru": "Каждый комик, у которого я брал интервью, говорит одно и то же: шутку делает смешной не слова, а тайминг. Но проведя месяц со стендап-комиками в Нью-Йорке, я понял, что дело в чём-то ещё более простом. Что они действительно осваивают, так это акцент.\n\nВозьмём Джамала, тридцатилетнего комика, который выступает пять вечеров в неделю в Гринвич-Виллидж. Как бы он ни любил писать, он настаивает, что текст — лишь половина работы. «Смех вызывает пауза, — сказал он мне. — А не панчлайн». Он показал на примере шутки о своей матери. Произнесённая ровно, она была слегка забавной. С крошечной паузой и ударением на одном слове — уморительной.\n\nДело в том, что носители английского полагаются на ударение гораздо больше, чем думает большинство изучающих. «I didn't say she stole the money» меняет смысл в зависимости от того, какое слово выделить. Комики постоянно этим пользуются. Всё, что им нужно, — одно неожиданное ударение, а остальное сделает мозг зрителя.\n\nНаставница Джамала, ветеран по имени Рита, наотрез отказалась давать мне какую-либо формулу. «Никакого секрета вообще нет, — сказала она. — Хотя провалиться тысячу раз придётся». Именно Рита научила Джамала записывать каждое выступление и слушать паузы.\n\nКак ни странно, лучшие комики совершенно одержимы грамматикой, даже если так её не называют. То, что выглядит спонтанностью, отнюдь не случайность. Это чистое мастерство."
-    }
+    },
+    "tags": [
+     "emphasis-cleft"
+    ],
+    "extra": [
+     [
+      "[What] annoys me is his attitude.",
+      "Что меня раздражает, так это его отношение.",
+      "Псевдорасщеплённое предложение с What."
+     ],
+     [
+      "It was in Paris [that] they first met.",
+      "Именно в Париже они впервые встретились.",
+      "It was ... that — выделение обстоятельства."
+     ],
+     [
+      "I [do] like your new haircut.",
+      "Мне правда нравится твоя новая стрижка.",
+      "Эмфатическое do."
+     ],
+     [
+      "She [did] call you; you just didn't answer.",
+      "Она же звонила тебе, ты просто не ответил.",
+      "Эмфатическое did для возражения."
+     ],
+     [
+      "[All] I want is a quiet evening.",
+      "Всё, чего я хочу, — тихий вечер.",
+      "All I want is — выделение."
+     ],
+     [
+      "The reason I called is [that] I need advice.",
+      "Я позвонил потому, что мне нужен совет.",
+      "The reason ... is that — выделение причины."
+     ]
+    ]
    },
    {
     "id": "c1u31l5",
@@ -1336,7 +1653,42 @@ addUnits("c1", [
     "text": {
      "en": "Subject: Q3 product launch, next steps\n\nHi team,\n\nThanks for a productive meeting yesterday. I want to spell out where we stand so nobody is confused heading into the weekend.\n\nFirst, the good news. Finance has finally signed off on the marketing budget. It took longer than expected, and I know the back-and-forth dragged on for weeks, but we now have the green light. Rachel, could you flesh out the social media plan by Wednesday? A rough outline is fine; we can iron out the details together.\n\nSecond, the timeline. Engineering has pushed back on the original release date. They need two more weeks to fix the payment integration, and honestly, I'd rather launch late than launch broken. So the launch is pushed back to September 15. I'll loop in the sales team today so they can adjust their calls with clients.\n\nThird, a less pleasant topic. As you know, we're winding down support for the old desktop app. Some customers are unhappy, and I expect complaints. If you get any, please don't argue; just escalate to me.\n\nFinally, a personal note. Last quarter we made a lot of promises and didn't always follow through. This time, I want every owner to report progress every Friday, even if it's just one line.\n\nLet's circle back on Monday at ten. If anything comes up before then, my phone is on.\n\nBest,\nMichael",
      "ru": "Тема: запуск продукта в 3-м квартале, дальнейшие шаги\n\nПривет, команда!\n\nСпасибо за продуктивную встречу вчера. Хочу чётко изложить, где мы находимся, чтобы никто не путался перед выходными.\n\nСначала хорошие новости. Финансы наконец утвердили маркетинговый бюджет. Это заняло больше времени, чем ожидалось, и я знаю, что переписка затянулась на недели, но теперь у нас зелёный свет. Рэйчел, можешь проработать план по соцсетям к среде? Черновой набросок подойдёт, детали уладим вместе.\n\nВо-вторых, сроки. Разработчики возразили против исходной даты релиза. Им нужно ещё две недели, чтобы починить интеграцию платежей, и, честно говоря, я лучше запущусь позже, чем со сломанным продуктом. Так что запуск переносится на 15 сентября. Сегодня я подключу отдел продаж, чтобы они скорректировали звонки клиентам.\n\nВ-третьих, тема менее приятная. Как вы знаете, мы сворачиваем поддержку старого десктопного приложения. Некоторые клиенты недовольны, и я ожидаю жалоб. Если получите — пожалуйста, не спорьте, просто передавайте мне.\n\nИ наконец, личное. В прошлом квартале мы дали много обещаний и не всегда доводили их до конца. На этот раз я хочу, чтобы каждый ответственный отчитывался о прогрессе каждую пятницу, даже одной строкой.\n\nВернёмся к этому в понедельник в десять. Если что-то случится до этого — телефон у меня включён.\n\nВсего доброго,\nМайкл"
-    }
+    },
+    "tags": [
+     "phrasal-verbs"
+    ],
+    "extra": [
+     [
+      "The company is [winding down] its operations in Europe.",
+      "Компания сворачивает деятельность в Европе.",
+      "wind down — постепенно сворачивать."
+     ],
+     [
+      "You need to [follow through] on your promises.",
+      "Нужно доводить обещания до конца.",
+      "follow through — выполнить до конца."
+     ],
+     [
+      "Let's [touch base] next week.",
+      "Давай свяжемся на следующей неделе.",
+      "touch base — кратко связаться."
+     ],
+     [
+      "The project [fell through] due to lack of funds.",
+      "Проект сорвался из-за нехватки средств.",
+      "fall through — сорваться."
+     ],
+     [
+      "Could you [take over] while I'm away?",
+      "Можешь подменить меня, пока меня нет?",
+      "take over — взять на себя."
+     ],
+     [
+      "We had to [scale back] our plans.",
+      "Нам пришлось урезать планы.",
+      "scale back — сократить масштаб."
+     ]
+    ]
    }
   ]
  },
@@ -1477,7 +1829,42 @@ addUnits("c1", [
     "text": {
      "en": "Jake and Tyler had been best friends since middle school in Atlanta. They played on the same basketball team, went to the same college, and, at twenty-five, decided to open a craft brewery together. Everyone thought it was a brilliant idea, until it wasn't.\n\nThe problems started with money. Tyler's uncle had promised to invest fifty thousand dollars, but three weeks before the lease was signed, he backed out. Jake wanted to delay the opening; Tyler wanted to borrow from a bank. They argued for days, and eventually they fell out completely. For almost a year, they didn't speak.\n\nJake moved to Nashville and took a job in marketing. Tyler stayed and kept mulling over the brewery idea, unable to let it go. Mutual friends tried to talk them into meeting, but both were too proud. Like many friends, they simply drifted apart.\n\nWhat changed things was a wedding. At their old coach's ceremony, a drunk guest started mocking Tyler's failed business. To Tyler's surprise, Jake stood up for him in front of everyone. Later that night, sitting on the hotel steps, they finally patched things up.\n\nJake admits it took him a while to come around to the brewery plan again. This time, they held out for a fair bank loan instead of relying on relatives. Their brewery opened last spring. Both partners can opt out after five years, but neither expects to. \"We've already had our worst fight,\" Tyler jokes.",
      "ru": "Джейк и Тайлер были лучшими друзьями со средней школы в Атланте. Они играли в одной баскетбольной команде, учились в одном колледже и в двадцать пять решили вместе открыть крафтовую пивоварню. Все считали идею блестящей — пока она такой не перестала быть.\n\nПроблемы начались с денег. Дядя Тайлера обещал вложить пятьдесят тысяч долларов, но за три недели до подписания аренды отказался. Джейк хотел отложить открытие, Тайлер — взять кредит в банке. Они спорили несколько дней и в итоге окончательно рассорились. Почти год они не разговаривали.\n\nДжейк переехал в Нэшвилл и устроился в маркетинг. Тайлер остался и всё обдумывал идею пивоварни, не в силах от неё отказаться. Общие друзья пытались уговорить их встретиться, но оба были слишком гордыми. Как и многие друзья, они просто отдалились.\n\nВсё изменила свадьба. На церемонии их бывшего тренера пьяный гость начал насмехаться над провалившимся бизнесом Тайлера. К удивлению Тайлера, Джейк заступился за него при всех. Позже той ночью, сидя на ступенях отеля, они наконец помирились.\n\nДжейк признаётся, что ему потребовалось время, чтобы снова согласиться на план с пивоварней. На этот раз они добились справедливого банковского кредита, а не полагались на родственников. Пивоварня открылась прошлой весной. Оба партнёра могут выйти из дела через пять лет, но ни один этого не ожидает. «Худшую ссору мы уже пережили», — шутит Тайлер."
-    }
+    },
+    "tags": [
+     "phrasal-verbs"
+    ],
+    "extra": [
+     [
+      "Let me [mull over] your offer.",
+      "Дай мне обдумать твоё предложение.",
+      "mull over — тщательно обдумать."
+     ],
+     [
+      "He [backed out] of the deal at the last minute.",
+      "Он вышел из сделки в последний момент.",
+      "back out — отказаться от обязательства."
+     ],
+     [
+      "They [split up] after ten years together.",
+      "Они расстались после десяти лет вместе.",
+      "split up — расстаться."
+     ],
+     [
+      "I finally [made up my mind] to move.",
+      "Я наконец решился переехать.",
+      "make up one's mind — решиться."
+     ],
+     [
+      "She [stood by] him through the trial.",
+      "Она поддерживала его на протяжении суда.",
+      "stand by — поддерживать."
+     ],
+     [
+      "Don't let me [down] this time.",
+      "Не подведи меня на этот раз.",
+      "let somebody down — подвести."
+     ]
+    ]
    },
    {
     "id": "c1u32l2",
@@ -1612,7 +1999,42 @@ addUnits("c1", [
     "text": {
      "en": "When Priya joined a mid-sized logistics company in Dallas, her first meeting felt like a foreign language class. Within ten minutes, her new manager had asked for a ballpark figure, suggested picking the low-hanging fruit first, and promised to touch base with everyone by Friday. Priya nodded politely and wrote everything down to look up later.\n\nThe company had a problem. Deliveries were late, customers were angry, and the bottom line was shrinking. The previous team had tried to fix things by cutting corners: cheaper trucks, fewer inspections, temporary drivers. It hadn't moved the needle at all. In fact, complaints had doubled.\n\nPriya was asked to get the ball rolling on a new plan. She started by making sure everyone was on the same page. It turned out that the warehouse and the drivers were using two different tracking systems that didn't talk to each other. Nobody had dropped the ball intentionally; the problem had simply fallen between departments.\n\nHer first proposal, an expensive software overhaul, was rejected by the CFO. So it was back to the drawing board. This time she thought outside the box: instead of buying new software, she hired a college intern to build a simple bridge between the two existing systems. It cost almost nothing.\n\nThe result was a game changer. Late deliveries fell by sixty percent in three months. Priya's manager now jokes that she speaks corporate better than he does, though she still refuses to say \"synergy.\"",
      "ru": "Когда Прия пришла в логистическую компанию среднего размера в Далласе, первая встреча показалась ей уроком иностранного языка. За десять минут новый менеджер попросил примерную цифру, предложил сначала собрать лёгкие победы и пообещал связаться со всеми к пятнице. Прия вежливо кивала и записывала всё, чтобы потом посмотреть.\n\nУ компании была проблема. Доставки опаздывали, клиенты злились, прибыль сокращалась. Предыдущая команда пыталась всё исправить, экономя на качестве: дешёвые грузовики, меньше проверок, временные водители. Заметного эффекта это не дало. Наоборот, жалоб стало вдвое больше.\n\nПрию попросили запустить новый план. Она начала с того, что убедилась, что все понимают ситуацию одинаково. Оказалось, что склад и водители пользовались двумя разными системами отслеживания, которые не связаны между собой. Никто не облажался намеренно — проблема просто провалилась между отделами.\n\nЕё первое предложение, дорогую переделку софта, финансовый директор отверг. Так что пришлось начинать заново. На этот раз она мыслила нестандартно: вместо покупки нового софта наняла студента-стажёра, чтобы тот сделал простой мост между двумя существующими системами. Это почти ничего не стоило.\n\nРезультат всё изменил. За три месяца опоздания доставок сократились на шестьдесят процентов. Менеджер Прии теперь шутит, что она говорит на корпоративном лучше него, хотя она по-прежнему отказывается произносить слово «синергия»."
-    }
+    },
+    "tags": [
+     "idioms"
+    ],
+    "extra": [
+     [
+      "Let's [circle] back to this later.",
+      "Давай вернёмся к этому позже.",
+      "circle back — вернуться к вопросу позже."
+     ],
+     [
+      "We need to think outside the [box].",
+      "Нам нужно мыслить нестандартно.",
+      "think outside the box — нестандартно."
+     ],
+     [
+      "The deal is [in the bag].",
+      "Сделка у нас в кармане.",
+      "in the bag — гарантирован."
+     ],
+     [
+      "Let's not [reinvent] the wheel.",
+      "Не будем изобретать велосипед.",
+      "reinvent the wheel — изобретать велосипед."
+     ],
+     [
+      "Can we get the [ball] rolling?",
+      "Можем начать?",
+      "get the ball rolling — запустить процесс."
+     ],
+     [
+      "That's a bit [above] my pay grade.",
+      "Это не моего уровня решение.",
+      "above my pay grade — вне моих полномочий."
+     ]
+    ]
    },
    {
     "id": "c1u32l3",
@@ -1741,7 +2163,42 @@ addUnits("c1", [
     "text": {
      "en": "In most American workplaces, open conflict is avoided at all costs. People smile, say \"no worries,\" and complain later in private messages. But sometimes tensions build until something breaks.\n\nThat's what happened at a design agency in Austin last year. The creative director, Mia, and the head of sales, Derek, had been at loggerheads for months. The main bone of contention was deadlines. Derek kept promising clients delivery dates without consulting the design team, and Mia felt he was stepping on her toes. His habit of saying \"just a quick tweak\" rubbed her the wrong way every single time.\n\nOne Monday, Derek told a major client that a full rebrand would be ready in a week. Mia flew off the handle in the middle of the open office. Derek, instead of apologizing, added fuel to the fire by suggesting her team was simply slow. Half the staff pretended to look at their screens.\n\nThe CEO wisely stepped in. Rather than taking sides, she invited both of them to lunch and asked them to clear the air honestly. It turned out that Derek was under pressure from his own targets, and Mia had never explained how long design actually takes.\n\nThey didn't become best friends. On some topics, they simply agreed to disagree. But they buried the hatchet professionally and created a shared calendar for client promises. Complaints dropped, and the office became noticeably quieter, which, according to one designer, was \"almost suspicious.\"",
      "ru": "В большинстве американских компаний открытого конфликта избегают любой ценой. Люди улыбаются, говорят «no worries», а потом жалуются в личных сообщениях. Но иногда напряжение копится, пока что-то не сломается.\n\nИменно так случилось в дизайн-агентстве в Остине в прошлом году. Креативный директор Миа и глава продаж Дерек месяцами были на ножах. Главным яблоком раздора были сроки. Дерек постоянно обещал клиентам даты сдачи, не советуясь с дизайнерами, и Миа чувствовала, что он лезет на её территорию. Его привычка говорить «просто небольшая правка» раздражала её каждый раз.\n\nВ один понедельник Дерек сказал крупному клиенту, что полный ребрендинг будет готов через неделю. Миа вспылила посреди открытого офиса. Дерек, вместо того чтобы извиниться, подлил масла в огонь, намекнув, что её команда просто медленная. Половина сотрудников делала вид, что смотрит в экраны.\n\nГендиректор мудро вмешалась. Не принимая ничью сторону, она пригласила обоих на обед и попросила честно объясниться. Оказалось, что на Дерека давили его собственные планы, а Миа никогда не объясняла, сколько на самом деле занимает дизайн.\n\nЛучшими друзьями они не стали. По некоторым вопросам они просто остались каждый при своём. Но профессионально они зарыли топор войны и завели общий календарь обещаний клиентам. Жалоб стало меньше, а в офисе стало заметно тише, что, по словам одного дизайнера, было «почти подозрительно»."
-    }
+    },
+    "tags": [
+     "idioms"
+    ],
+    "extra": [
+     [
+      "The brothers finally [buried] the hatchet.",
+      "Братья наконец помирились.",
+      "bury the hatchet — помириться."
+     ],
+     [
+      "The two parties are at [loggerheads] over taxes.",
+      "Две партии на ножах из-за налогов.",
+      "at loggerheads — в остром конфликте."
+     ],
+     [
+      "His comments only added fuel to the [fire].",
+      "Его комментарии лишь подлили масла в огонь.",
+      "add fuel to the fire."
+     ],
+     [
+      "Let's clear the [air] before we continue.",
+      "Давайте проясним ситуацию, прежде чем продолжать.",
+      "clear the air — снять напряжение."
+     ],
+     [
+      "We don't [see] eye to eye on politics.",
+      "Мы не сходимся во взглядах на политику.",
+      "see eye to eye — соглашаться."
+     ],
+     [
+      "She gave him the cold [shoulder].",
+      "Она демонстративно его игнорировала.",
+      "give the cold shoulder — игнорировать."
+     ]
+    ]
    },
    {
     "id": "c1u32l4",
@@ -1876,7 +2333,42 @@ addUnits("c1", [
     "text": {
      "en": "Silicon Valley loves a rags-to-riches story. The college dropout who builds a billion-dollar company in a garage is practically a national myth. But behind every founder who hits the jackpot, there are hundreds whose startups quietly go belly up.\n\nConsider Elena, who moved from Kyiv to San Francisco at twenty-three with two suitcases and an idea for a language-learning app. Investors told her it was a long shot; the market was crowded, and her English was still shaky. Her first pitch fell flat. Nobody laughed at her carefully prepared joke, and she left the room convinced she had missed the boat.\n\nShe didn't give up. She rewrote the pitch dozens of times, practiced with friends, and applied to a famous startup accelerator. Out of three thousand applicants, only forty made the cut. Elena was one of them. On demo day, she knocked it out of the park, and two investors made offers on the spot.\n\nThe next two years were brutal. Her main competitor raised ten times more money, and at one point her team ran out of cash. They were back to square one, working from her apartment. Many people assumed her early success had been a flash in the pan.\n\nYet somehow she pulled it off. A partnership with a major airline brought millions of new users. Today, Elena mentors young founders and repeats one piece of advice: \"Everybody tells you the sky's the limit. Nobody tells you the ground is very hard.\"",
      "ru": "Кремниевая долина обожает истории «из грязи в князи». Бросивший колледж студент, который строит в гараже компанию на миллиард, — практически национальный миф. Но за каждым основателем, сорвавшим куш, стоят сотни, чьи стартапы тихо прогорают.\n\nВозьмём Елену, которая переехала из Киева в Сан-Франциско в двадцать три года с двумя чемоданами и идеей приложения для изучения языков. Инвесторы говорили, что шансов мало: рынок переполнен, а её английский ещё неуверенный. Её первый питч провалился. Никто не засмеялся над тщательно подготовленной шуткой, и она ушла, уверенная, что упустила свой шанс.\n\nОна не сдалась. Она переписывала питч десятки раз, репетировала с друзьями и подала заявку в знаменитый стартап-акселератор. Из трёх тысяч кандидатов отбор прошли только сорок. Елена была одной из них. На демо-дне она выступила блестяще, и два инвестора сделали предложения на месте.\n\nСледующие два года были жестокими. Главный конкурент привлёк в десять раз больше денег, и в какой-то момент у её команды закончились деньги. Они вернулись к исходной точке и работали из её квартиры. Многие решили, что её ранний успех был разовым.\n\nИ всё же ей каким-то образом удалось. Партнёрство с крупной авиакомпанией принесло миллионы новых пользователей. Сегодня Елена наставляет молодых основателей и повторяет один совет: «Все говорят, что пределов нет. Никто не говорит, что земля очень твёрдая»."
-    }
+    },
+    "tags": [
+     "idioms"
+    ],
+    "extra": [
+     [
+      "The restaurant went belly [up] after a year.",
+      "Ресторан разорился через год.",
+      "go belly up — обанкротиться."
+     ],
+     [
+      "Her first novel was a [smash] hit.",
+      "Её первый роман стал оглушительным хитом.",
+      "smash hit — огромный успех."
+     ],
+     [
+      "The plan [backfired] badly.",
+      "План обернулся против нас.",
+      "backfire — дать обратный эффект."
+     ],
+     [
+      "He finally [made it] big in Hollywood.",
+      "Он наконец добился большого успеха в Голливуде.",
+      "make it big — прославиться."
+     ],
+     [
+      "The launch was a total [flop].",
+      "Запуск полностью провалился.",
+      "flop — провал."
+     ],
+     [
+      "We're finally on the right [track].",
+      "Мы наконец на верном пути.",
+      "on the right track."
+     ]
+    ]
    },
    {
     "id": "c1u32l5",
@@ -2010,7 +2502,42 @@ addUnits("c1", [
     "text": {
      "en": "Russian speakers who move to the United States often say the hardest thing isn't grammar; it's figuring out what Americans actually mean. Anna, a software engineer from Novosibirsk now living in Seattle, learned this the hard way.\n\nIn her first performance review, her manager spent twenty minutes praising her work. Anna left happy. A month later, she heard through the grapevine that she might not get a raise. Confused, she asked a colleague for a heart-to-heart. \"You got the wrong end of the stick,\" he explained. \"When he said your code was 'solid but could be more collaborative,' that was the real message.\" Anna hadn't learned to read between the lines.\n\nThe opposite problem also happened. In Russia, Anna was used to speaking her mind. In meetings she would cut to the chase: \"This plan won't work.\" Her American teammates found this shocking. To them, she wasn't being efficient; she was being rude. Ironically, they thought she should beat around the bush a little more.\n\nThings improved when she found a mentor, an older engineer named Gary, who was on the same wavelength. Gary could talk your ear off about hiking, but he gave very practical advice: start with agreement, then add your concern as a question. \"Have we considered what happens if the server load doubles?\" works far better than \"You're wrong.\"\n\nA year later, Gary put in a good word for her, and she was promoted. She still finds the indirectness exhausting, but now she can play the game.",
      "ru": "Русскоязычные, переехавшие в США, часто говорят, что самое трудное — не грамматика, а понять, что американцы на самом деле имеют в виду. Анна, инженер-программист из Новосибирска, живущая теперь в Сиэтле, усвоила это на собственном горьком опыте.\n\nНа первой оценке эффективности менеджер двадцать минут хвалил её работу. Анна ушла довольной. Через месяц она узнала по сарафанному радио, что повышения зарплаты может не быть. Растерянная, она попросила коллегу поговорить по душам. «Ты поняла неправильно, — объяснил он. — Когда он сказал, что твой код „надёжный, но мог бы быть более командным“, это и было главное сообщение». Анна ещё не научилась читать между строк.\n\nСлучалась и обратная проблема. В России Анна привыкла говорить прямо. На встречах она сразу переходила к сути: «Этот план не сработает». Американских коллег это шокировало. Для них она была не эффективной, а грубой. По иронии, они считали, что ей стоило бы чуть больше ходить вокруг да около.\n\nВсё наладилось, когда у неё появился наставник — пожилой инженер Гэри, с которым они были на одной волне. Гэри мог заговорить до смерти о походах, но давал очень практичные советы: начинай с согласия, а потом добавляй сомнение в виде вопроса. «Мы подумали, что будет, если нагрузка на сервер удвоится?» работает гораздо лучше, чем «Вы неправы».\n\nЧерез год Гэри замолвил за неё словечко, и её повысили. Ей всё ещё утомительна эта непрямота, но теперь она умеет играть по правилам."
-    }
+    },
+    "tags": [
+     "idioms"
+    ],
+    "extra": [
+     [
+      "I think you got the wrong end of the [stick].",
+      "Думаю, ты неправильно понял.",
+      "get the wrong end of the stick — понять превратно."
+     ],
+     [
+      "Let me [run] it by my boss first.",
+      "Сначала согласую это с начальником.",
+      "run something by somebody — обсудить."
+     ],
+     [
+      "We're not on the same [page].",
+      "Мы не понимаем друг друга.",
+      "on the same page — одинаково понимать."
+     ],
+     [
+      "He tends to [talk] down to people.",
+      "Он склонен разговаривать с людьми свысока.",
+      "talk down to — снисходительно."
+     ],
+     [
+      "Can I [pick] your brain about this?",
+      "Можно с тобой посоветоваться?",
+      "pick somebody's brain — посоветоваться."
+     ],
+     [
+      "She doesn't mince her [words].",
+      "Она не стесняется в выражениях.",
+      "not mince words — говорить прямо."
+     ]
+    ]
    }
   ]
  }

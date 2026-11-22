@@ -139,6 +139,42 @@ addUnits("c1", [
      "From the other side / By other hand / In other side — кальки и неверные предлоги; правильно только on the other hand.",
      "defends one side from the start — это аргументативное эссе; tells a personal story — нарратив; describes a graph — описание данных.",
      "in the first sentence — сначала излагают обе стороны; nowhere ever — сбалансированный вывод обязателен; in every paragraph — абзацы посвящены отдельным сторонам."
+    ],
+    "tags": [
+     "writing",
+     "linking-discourse"
+    ],
+    "extra": [
+     [
+      "[On the other hand], cars cause pollution.",
+      "С другой стороны, машины загрязняют воздух.",
+      "On the other hand — пара к On the one hand."
+     ],
+     [
+      "[On balance], the benefits outweigh the drawbacks.",
+      "В целом плюсы перевешивают минусы.",
+      "On balance — взвешенный итог в заключении."
+     ],
+     [
+      "[Opponents] claim the plan is too expensive.",
+      "Противники утверждают, что план слишком дорогой.",
+      "Opponents/critics — антоним proponents."
+     ],
+     [
+      "It is often [argued] that homework is pointless.",
+      "Часто утверждают, что домашние задания бессмысленны.",
+      "It is argued that — безличная подача мнения."
+     ],
+     [
+      "[Furthermore], remote work saves commuting time.",
+      "Кроме того, удалённая работа экономит время на дорогу.",
+      "Furthermore — добавляет аргумент."
+     ],
+     [
+      "[Nevertheless], some risks remain.",
+      "Тем не менее некоторые риски остаются.",
+      "Nevertheless — вводит контраст."
+     ]
     ]
    },
    {
@@ -274,6 +310,42 @@ addUnits("c1", [
      "topic sentence only — главная мысль абзаца, а не всего эссе; hook — «крючок» в начале; citation — ссылка на источник.",
      "concession — признание чужого довода, а не опровержение; summary — краткое изложение; hedge — смягчение.",
      "Moreover / Furthermore — добавляют довод, а нужен контраст; Similarly — сходство."
+    ],
+    "tags": [
+     "writing",
+     "linking-discourse"
+    ],
+    "extra": [
+     [
+      "A strong [rebuttal] shows why the opposing view fails.",
+      "Сильное опровержение показывает, почему противоположная позиция несостоятельна.",
+      "rebuttal — ответ на контраргумент."
+     ],
+     [
+      "Each paragraph should begin with a clear [topic] sentence.",
+      "Каждый абзац должен начинаться с чёткого ключевого предложения.",
+      "topic sentence — главная мысль абзаца."
+     ],
+     [
+      "[Admittedly], the policy is costly.",
+      "Правда, эта политика дорогая.",
+      "Admittedly — признание контраргумента перед опровержением."
+     ],
+     [
+      "Back up every claim with solid [evidence].",
+      "Подкрепляйте каждое утверждение весомыми доказательствами.",
+      "back up with evidence — обосновывать."
+     ],
+     [
+      "[However], this argument ignores the long-term costs.",
+      "Однако этот аргумент игнорирует долгосрочные издержки.",
+      "However — переход к опровержению."
+     ],
+     [
+      "Restate your [thesis] in the conclusion.",
+      "Повторите тезис в заключении.",
+      "Заключение перефразирует тезис."
+     ]
     ]
    },
    {
@@ -409,6 +481,42 @@ addUnits("c1", [
      "hear — после предлога to нужна -ing форма; heard — причастие не подходит; be hearing — неграмматично после to-предлога.",
      "Kisses / Cheers / Bye — неформальные прощания, неуместны в деловом письме.",
      "Остальные варианты — нейтральные формальные фразы, уместные в жалобе."
+    ],
+    "tags": [
+     "writing",
+     "register"
+    ],
+    "extra": [
+     [
+      "I look forward to your prompt [reply].",
+      "Жду вашего скорого ответа.",
+      "Формальная концовка письма."
+     ],
+     [
+      "Please find the receipt [attached].",
+      "Квитанция прилагается.",
+      "Please find attached — формальная формула вложения."
+     ],
+     [
+      "The product arrived [damaged].",
+      "Товар прибыл повреждённым.",
+      "arrive damaged — типичная формулировка жалобы."
+     ],
+     [
+      "I would [appreciate] it if you could respond quickly.",
+      "Я был бы признателен за быстрый ответ.",
+      "I would appreciate it if — вежливая просьба."
+     ],
+     [
+      "[Despite] several calls, the issue remains unresolved.",
+      "Несмотря на несколько звонков, проблема не решена.",
+      "Despite + существительное."
+     ],
+     [
+      "I expect the matter to be [resolved] within ten days.",
+      "Я ожидаю, что вопрос будет решён в течение десяти дней.",
+      "be resolved — формальный пассив."
+     ]
     ]
    },
    {
@@ -543,6 +651,42 @@ addUnits("c1", [
      "of — a rise of + величина (a rise of 5%), а не область; on / at — не сочетаются с rise в этом значении.",
      "peak at — достичь пика; plunge — резко упасть; surge — резко вырасти.",
      "account on / take for — несуществующие сочетания; consist — требует of и означает «состоять из»."
+    ],
+    "tags": [
+     "writing",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Sales [accounted for] 40% of total revenue.",
+      "Продажи составили 40% общей выручки.",
+      "account for — составлять долю."
+     ],
+     [
+      "There was a [steady] decline in membership.",
+      "Наблюдалось устойчивое снижение числа членов.",
+      "steady decline — плавное постоянное снижение."
+     ],
+     [
+      "Prices [fluctuated] throughout the year.",
+      "Цены колебались в течение всего года.",
+      "fluctuate — колебаться."
+     ],
+     [
+      "The figure [doubled] between 2010 and 2020.",
+      "Показатель удвоился с 2010 по 2020 год.",
+      "double — удвоиться."
+     ],
+     [
+      "Profits [dropped] sharply in March.",
+      "В марте прибыль резко упала.",
+      "drop sharply — резкое падение."
+     ],
+     [
+      "The chart [illustrates] changes in energy use.",
+      "График иллюстрирует изменения в потреблении энергии.",
+      "illustrate — стандартный глагол для описания графика."
+     ]
     ]
    },
    {
@@ -683,6 +827,42 @@ addUnits("c1", [
      "hours — часы; notes of agenda — неестественное сочетание; protocol — ложный друг, это дипломатический этикет.",
      "Shut up, please / You are wrong / That's stupid — грубые и недипломатичные реплики.",
      "agenda points — пункты повестки (до встречи); minutes — протокол; bullets — пункты списка."
+    ],
+    "tags": [
+     "speaking",
+     "collocations"
+    ],
+    "extra": [
+     [
+      "Let's [get down to] business.",
+      "Давайте перейдём к делу.",
+      "get down to business — начать по существу."
+     ],
+     [
+      "Can we [stick to] the agenda, please?",
+      "Можем ли мы придерживаться повестки?",
+      "stick to — придерживаться."
+     ],
+     [
+      "I'd like to [take] the minutes today.",
+      "Сегодня я бы хотел вести протокол.",
+      "take the minutes — протоколировать."
+     ],
+     [
+      "Let's [wrap up] with a quick summary.",
+      "Давайте закончим кратким резюме.",
+      "wrap up — завершить."
+     ],
+     [
+      "Sorry to [interrupt], but I have a question.",
+      "Извините, что перебиваю, но у меня вопрос.",
+      "Вежливый способ вмешаться."
+     ],
+     [
+      "Shall we [table] this until next week?",
+      "Отложим это до следующей недели?",
+      "В AmE table — отложить обсуждение."
+     ]
     ]
    }
   ]
@@ -823,6 +1003,42 @@ addUnits("c1", [
      "ABC — не модель ответа на собеседовании; SWOT — анализ сильных/слабых сторон; KPI — показатели эффективности.",
      "I was responsible for / Revenue was my duty — описание обязанностей без результата; We did some things — расплывчато.",
      "background check — проверка биографии; CV gap — пробел в резюме; record track — неверный порядок слов."
+    ],
+    "tags": [
+     "speaking",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "I always try to [lead by example].",
+      "Я всегда стараюсь подавать личный пример.",
+      "lead by example — руководить личным примером."
+     ],
+     [
+      "Stakeholder [management] is a key part of my role.",
+      "Работа со стейкхолдерами — ключевая часть моей роли.",
+      "stakeholder management — устойчивое понятие."
+     ],
+     [
+      "I [oversaw] a team of forty engineers.",
+      "Я руководил командой из сорока инженеров.",
+      "oversee — курировать (oversaw — прошедшее)."
+     ],
+     [
+      "We [exceeded] our targets three years running.",
+      "Мы превышали цели три года подряд.",
+      "exceed targets — превышать план."
+     ],
+     [
+      "My greatest [strength] is strategic thinking.",
+      "Моя главная сильная сторона — стратегическое мышление.",
+      "strength — сильная сторона."
+     ],
+     [
+      "I had to [make] some tough calls last year.",
+      "В прошлом году мне пришлось принять несколько трудных решений.",
+      "make a tough call — принять трудное решение."
+     ]
     ]
    },
    {
@@ -956,6 +1172,42 @@ addUnits("c1", [
      "to — apply to + компания, а не должность; on / at — не употребляются с apply в этом значении.",
      "specific achievements / knowledge of the company / a clear request for an interview — всё это как раз нужно включать.",
      "I am a great leader / hard-working / I like people — голословные заявления без доказательств."
+    ],
+    "tags": [
+     "writing",
+     "register"
+    ],
+    "extra": [
+     [
+      "I would [welcome] the opportunity to discuss my application.",
+      "Я был бы рад возможности обсудить мою кандидатуру.",
+      "welcome the opportunity — формальная фраза."
+     ],
+     [
+      "My experience makes me an ideal [fit] for this role.",
+      "Мой опыт делает меня идеальным кандидатом на эту роль.",
+      "a fit for — подходящий для."
+     ],
+     [
+      "I am [particularly] drawn to your company's mission.",
+      "Меня особенно привлекает миссия вашей компании.",
+      "particularly — усиливает интерес."
+     ],
+     [
+      "Please find my résumé [enclosed].",
+      "Прилагаю своё резюме.",
+      "enclosed/attached — о вложении."
+     ],
+     [
+      "Thank you for your [consideration].",
+      "Благодарю за рассмотрение моей кандидатуры.",
+      "Стандартная концовка сопроводительного письма."
+     ],
+     [
+      "I am confident I could [contribute] to your team's success.",
+      "Уверен, что мог бы внести вклад в успех вашей команды.",
+      "contribute to — внести вклад."
+     ]
     ]
    },
    {
@@ -1088,6 +1340,42 @@ addUnits("c1", [
      "This is wrong / You failed / Bad work — прямая и резкая критика без смягчения.",
      "talk about yesterday — время не прошедшее по смыслу; show anger / give orders — наоборот, форма смягчает просьбу.",
      "tactful / diplomatic / considerate — все означают вежливость и такт."
+    ],
+    "tags": [
+     "pragmatics",
+     "hedging"
+    ],
+    "extra": [
+     [
+      "[I wonder if] we might revisit the timeline.",
+      "Интересно, не могли бы мы пересмотреть сроки.",
+      "I wonder if — очень мягкое предложение."
+     ],
+     [
+      "It might be [worth] considering a different layout.",
+      "Возможно, стоит рассмотреть другую компоновку.",
+      "It might be worth + -ing — дипломатичный совет."
+     ],
+     [
+      "The report is [slightly] longer than we need.",
+      "Отчёт немного длиннее, чем нужно.",
+      "slightly смягчает критику."
+     ],
+     [
+      "Have you [considered] asking the client first?",
+      "Ты не думал сначала спросить клиента?",
+      "Вопрос вместо прямого указания."
+     ],
+     [
+      "I'm not [entirely] convinced by this argument.",
+      "Меня этот аргумент не вполне убеждает.",
+      "not entirely — вежливое несогласие."
+     ],
+     [
+      "Perhaps we could [tweak] the opening a little.",
+      "Возможно, нам стоит немного подправить начало.",
+      "tweak — слегка подправить."
+     ]
     ]
    },
    {
@@ -1224,6 +1512,42 @@ addUnits("c1", [
      "reviews — после recommended that нужна базовая форма без -s; reviewed — прошедшее не используется; will review — будущее в subjunctive не ставится.",
      "rhetorical questions / personal anecdotes / dramatic openings — приёмы эссе или рассказа, а не отчёта.",
      "feeble — слабый; fallible — способный ошибаться; flexible — гибкий."
+    ],
+    "tags": [
+     "writing",
+     "register"
+    ],
+    "extra": [
+     [
+      "It is [recommended] that the policy be reviewed.",
+      "Рекомендуется пересмотреть политику.",
+      "It is recommended that + сослагательное be."
+     ],
+     [
+      "The report is [based] on a survey of 200 staff.",
+      "Отчёт основан на опросе 200 сотрудников.",
+      "be based on — основываться на."
+     ],
+     [
+      "[In conclusion], urgent action is needed.",
+      "В заключение: требуются срочные меры.",
+      "In conclusion — вводит вывод отчёта."
+     ],
+     [
+      "A [majority] of respondents favored flexible hours.",
+      "Большинство респондентов выступили за гибкий график.",
+      "a majority of — большинство."
+     ],
+     [
+      "The following [findings] emerged from the survey.",
+      "Из опроса вытекают следующие выводы.",
+      "findings — результаты исследования."
+     ],
+     [
+      "Several issues were [identified] during the review.",
+      "В ходе проверки был выявлен ряд проблем.",
+      "identify — выявить (формально)."
+     ]
     ]
    },
    {
@@ -1356,6 +1680,42 @@ addUnits("c1", [
      "double will — will не ставится в if-части; would double — would не ставится после if; doubles — Present Simple даёт 1-й тип, а главная часть с would.",
      "selling point — преимущество товара; turning point — поворотный момент; standpoint — точка зрения.",
      "zero-sum — выигрыш одного = проигрыш другого; lose-lose — плохо для обоих; one-sided — выгодно одной стороне."
+    ],
+    "tags": [
+     "speaking",
+     "idioms"
+    ],
+    "extra": [
+     [
+      "I'm [prepared to] lower the price by five percent.",
+      "Я готов снизить цену на пять процентов.",
+      "I'm prepared to — сигнал уступки."
+     ],
+     [
+      "That's our [bottom line]; we can't go lower.",
+      "Это наш предел, ниже мы не можем.",
+      "bottom line — крайнее условие."
+     ],
+     [
+      "Let's try to find a [win-win] solution.",
+      "Давайте найдём взаимовыгодное решение.",
+      "win-win — выгодно обеим сторонам."
+     ],
+     [
+      "We might [consider] a longer contract.",
+      "Мы могли бы рассмотреть более длительный контракт.",
+      "might consider — мягкое предложение."
+     ],
+     [
+      "Delivery dates are [non-negotiable].",
+      "Сроки поставки не обсуждаются.",
+      "non-negotiable — не подлежит обсуждению."
+     ],
+     [
+      "What if we [threw in] free installation?",
+      "А что если мы добавим бесплатную установку?",
+      "throw in — добавить бонусом."
+     ]
     ]
    }
   ]

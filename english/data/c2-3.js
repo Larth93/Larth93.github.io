@@ -144,7 +144,47 @@ addUnits("c2", [
     "text": {
      "en": "Few things are more useful to an advanced learner than a working knowledge of classical roots. Consider the word «circumlocution». Even if you have never met it, you can dismantle it: «circum» means around, as in circumference, and «locut» means speak, as in elocution. Someone guilty of circumlocution, then, talks around the point instead of reaching it. The same method unlocks hundreds of words that rarely appear in conversation but saturate newspapers, legal documents and academic prose. A journalist may describe a regime as a kleptocracy, rule by thieves, or a gerontocracy, rule by the elderly; a critic may dismiss a novel as an anachronism or praise its author as a voracious reader of history. Yet roots are a compass, not a map. Sanguine comes from the Latin for blood, but it describes a cheerful, confident temperament, not a violent one, because medieval physicians believed that an abundance of blood made people optimistic. Similarly, a pathetic performance is not moving but embarrassingly inadequate. Russian speakers have a double advantage here, since their own language borrowed heavily from Greek and Latin, but they also face a double danger: false friends that look reassuringly familiar. The wisest strategy is to use etymology to form a hypothesis and the dictionary to confirm it. Over time, the hypotheses become more accurate, and reading dense English stops feeling like decoding and starts feeling like recognition. That shift, from guessing to knowing, is precisely what distinguishes C1 comprehension from genuine mastery.",
      "ru": "Мало что так полезно продвинутому ученику, как практическое знание классических корней. Возьмём слово «circumlocution». Даже если вы его никогда не встречали, его можно разобрать: «circum» значит «вокруг», как в circumference, а «locut» — «говорить», как в elocution. Значит, тот, кто грешит circumlocution, говорит вокруг сути, не доходя до неё. Тот же метод открывает сотни слов, редко звучащих в разговоре, но насыщающих газеты, юридические документы и академическую прозу. Журналист может назвать режим клептократией — властью воров — или геронтократией — властью стариков; критик может отмахнуться от романа как от анахронизма или похвалить автора как ненасытного читателя исторических книг. Но корни — это компас, а не карта. Sanguine происходит от латинского слова «кровь», однако описывает бодрый, уверенный темперамент, а не жестокий, потому что средневековые врачи считали, что избыток крови делает людей оптимистами. Точно так же pathetic performance — не трогательное выступление, а позорно слабое. У русскоязычных здесь двойное преимущество, ведь их язык много заимствовал из греческого и латыни, но и двойная опасность: ложные друзья, которые выглядят обманчиво знакомо. Мудрее всего использовать этимологию для гипотезы, а словарь — для её проверки. Со временем гипотезы становятся точнее, и чтение плотного английского текста перестаёт быть расшифровкой и становится узнаванием. Именно этот сдвиг — от догадки к знанию — отличает понимание уровня C1 от подлинного мастерства."
-    }
+    },
+    "tags": [
+     "word-formation"
+    ],
+    "extra": [
+     [
+      "He's a known [Anglophile].",
+      "Он известный англофил.",
+      "-phile — любитель."
+     ],
+     [
+      "The [benefactor] donated a million dollars.",
+      "Благотворитель пожертвовал миллион долларов.",
+      "Bene- — добро."
+     ],
+     [
+      "The book has a strict [chronological] order.",
+      "В книге строгий хронологический порядок.",
+      "Chron- — время."
+     ],
+     [
+      "Car fumes are [malodorous].",
+      "Выхлопы машин зловонны.",
+      "Mal- — плохо."
+     ],
+     [
+      "Ancient Athens was a [democracy].",
+      "Древние Афины были демократией.",
+      "-cracy — власть."
+     ],
+     [
+      "The patient suffers from [chronic] pain.",
+      "Пациент страдает хронической болью.",
+      "Chronic — длительный."
+     ],
+     [
+      "Officials suspected [malfeasance].",
+      "Чиновники заподозрили должностное преступление.",
+      "Mal- + feasance — злоупотребление."
+     ]
+    ]
    },
    {
     "id": "c2u20l2",
@@ -275,7 +315,47 @@ addUnits("c2", [
     "text": {
      "en": "Editors often say that the right word is not the longest word but the one that does the most work. Consider a hotel review that reads: «The receptionist checked our booking in a quick, careless way, as if he only wanted to get rid of us, while the manager kept bowing and praising us far too much.» It is clear, but flabby. A writer with a richer vocabulary could compress it: «The receptionist gave our booking a perfunctory glance; the manager, meanwhile, was almost comically obsequious.» Two precise adjectives replace twenty vague words, and the tone becomes sharper and more amusing. This is the real value of low-frequency vocabulary. Words such as laconic, fastidious, surreptitious and ephemeral are not decorations; they are compressed descriptions, each carrying a small story. A laconic colleague is not merely quiet but economical with words in a way that may be admirable or unnerving. A fastidious guest is not simply clean but particular to the point of fussiness. However, precision has a price. Readers who encounter mendacious, recalcitrant and ubiquitous in a single sentence will suspect that the writer is performing rather than communicating. The test is simple: does the rare word say something the common word cannot? If perfunctory captures an attitude that careless misses, use it. If it merely sounds impressive, choose the plainer option. Mastery lies not in owning an enormous vocabulary but in knowing exactly when to spend it, like a careful investor rather than a lottery winner.",
      "ru": "Редакторы часто говорят, что правильное слово — не самое длинное, а то, которое выполняет больше всего работы. Возьмём отзыв об отеле: «Администратор проверил нашу бронь быстро и небрежно, как будто хотел от нас поскорее избавиться, а управляющий всё кланялся и расхваливал нас сверх меры». Понятно, но рыхло. Автор с более богатым словарём мог бы сжать это: «Администратор удостоил нашу бронь беглым взглядом; управляющий же был почти комически подобострастен». Два точных прилагательных заменяют двадцать расплывчатых слов, а тон становится острее и забавнее. В этом подлинная ценность низкочастотной лексики. Такие слова, как laconic, fastidious, surreptitious и ephemeral, не украшения, а сжатые описания, каждое из которых несёт маленькую историю. Немногословный коллега не просто тих, а экономен в словах так, что это может восхищать или настораживать. Привередливый гость не просто чистоплотен, а придирчив до суетливости. Однако у точности есть цена. Читатель, встретивший mendacious, recalcitrant и ubiquitous в одном предложении, заподозрит, что автор красуется, а не общается. Проверка проста: говорит ли редкое слово то, чего не может сказать обычное? Если perfunctory передаёт отношение, которое ускользает от careless, — используйте его. Если оно лишь звучит внушительно, выберите слово попроще. Мастерство не в огромном словаре, а в точном понимании, когда его тратить, — как осторожный инвестор, а не победитель лотереи."
-    }
+    },
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Our boss is [laconic]; his emails are three words long.",
+      "Начальник немногословен: в письмах три слова.",
+      "Laconic — лаконичный."
+     ],
+     [
+      "The [obsequious] waiter kept bowing.",
+      "Подобострастный официант всё кланялся.",
+      "Obsequious — угодливый."
+     ],
+     [
+      "Her [meticulous] notes saved the project.",
+      "Её скрупулёзные записи спасли проект.",
+      "Meticulous — тщательный."
+     ],
+     [
+      "The politician gave an [evasive] answer.",
+      "Политик дал уклончивый ответ.",
+      "Evasive — уклончивый."
+     ],
+     [
+      "Fame is [ephemeral].",
+      "Слава мимолётна.",
+      "Ephemeral — недолговечный."
+     ],
+     [
+      "His [candid] review surprised us.",
+      "Его откровенный отзыв удивил нас.",
+      "Candid — откровенный."
+     ],
+     [
+      "The rules seemed [arbitrary].",
+      "Правила казались произвольными.",
+      "Arbitrary — произвольный."
+     ]
+    ]
    },
    {
     "id": "c2u20l3",
@@ -404,7 +484,47 @@ addUnits("c2", [
     "text": {
      "en": "Imagine two essays arguing the same point. The first says: «The new policy made a lot of problems for poor families, and many people strongly said they did not agree. Officials tried to calm people's worries, but the problems continued.» The second says: «The new policy wreaked havoc on low-income households, and opposition was vehement. Officials tried to allay public fears, but they could not stem the tide of complaints.» Both are grammatical, and both convey roughly the same information. Yet a CPE examiner would place them at least two levels apart. The difference is collocation, the habitual pairing of words that native speakers absorb over years of reading. Collocations are rarely logical. There is no reason why we wreak havoc but cause damage, or why poverty is abject while a review is scathing. These pairings are conventions, like the side of the road a country drives on. For Russian speakers, the risk lies in literal translation. «Сильная бедность» becomes strong poverty, «глубоко разочарован» becomes deeply disappointed, which is acceptable, while bitterly disappointed sounds more idiomatic. The solution is to notice collocations actively rather than words in isolation. When you read a quality newspaper, underline not single words but chunks: harbor doubts, curry favor, inextricably linked. Record them in phrases, review them in context, and reuse them deliberately in your writing. Gradually, these chunks become automatic, and your prose acquires the effortless texture that examiners describe as a wide range of vocabulary used with precision.",
      "ru": "Представьте два эссе, доказывающих одно и то же. Первое гласит: «Новая политика создала много проблем бедным семьям, и многие люди сильно говорили, что не согласны. Чиновники пытались успокоить тревоги людей, но проблемы продолжились». Второе: «Новая политика опустошила семьи с низким доходом, а сопротивление было яростным. Чиновники пытались развеять опасения общества, но не смогли остановить поток жалоб». Оба текста грамматичны и передают примерно одну информацию. Но экзаменатор CPE развёл бы их минимум на два уровня. Разница — в коллокациях, привычных сочетаниях слов, которые носители впитывают годами чтения. Коллокации редко логичны. Нет причин, почему мы wreak havoc, но cause damage, или почему бедность abject, а рецензия scathing. Эти пары — условности, как сторона дороги, по которой ездят в стране. Для русскоязычных риск — в буквальном переводе. «Сильная бедность» превращается в strong poverty, «глубоко разочарован» — в deeply disappointed, что допустимо, хотя bitterly disappointed звучит идиоматичнее. Решение — активно замечать сочетания, а не отдельные слова. Читая качественную газету, подчёркивайте не слова, а блоки: harbor doubts, curry favor, inextricably linked. Записывайте их фразами, повторяйте в контексте и сознательно используйте в письме. Постепенно эти блоки станут автоматическими, и ваша проза обретёт ту непринуждённую фактуру, которую экзаменаторы описывают как «широкий словарный запас, используемый точно»."
-    }
+    },
+    "tags": [
+     "collocations"
+    ],
+    "extra": [
+     [
+      "Millions live in [abject] poverty.",
+      "Миллионы живут в крайней нищете.",
+      "Abject poverty — устойчивое сочетание."
+     ],
+     [
+      "She has a [vested] interest in the deal.",
+      "У неё личная заинтересованность в сделке.",
+      "Vested interest."
+     ],
+     [
+      "The plan met with [fierce] opposition.",
+      "План встретил яростное сопротивление.",
+      "Fierce opposition."
+     ],
+     [
+      "He [harbors] doubts about the plan.",
+      "Он таит сомнения насчёт плана.",
+      "Harbor doubts."
+     ],
+     [
+      "They reached a [tentative] agreement.",
+      "Они достигли предварительного соглашения.",
+      "Tentative agreement."
+     ],
+     [
+      "The scandal [tarnished] her reputation.",
+      "Скандал запятнал её репутацию.",
+      "Tarnish a reputation."
+     ],
+     [
+      "It was a [blatant] lie.",
+      "Это была наглая ложь.",
+      "Blatant lie."
+     ]
+    ]
    },
    {
     "id": "c2u20l4",
@@ -536,7 +656,48 @@ addUnits("c2", [
     "text": {
      "en": "English is full of word pairs that behave like fossils. You can say that something is part and parcel of a job, that a contract is null and void, or that your progress came by leaps and bounds, but you cannot reverse the order without sounding strange. Linguists call these irreversible binomials, and their history is surprisingly revealing. After the Norman Conquest in 1066, England's courts operated in a mixture of French, Latin and English. To make sure everyone understood a legal obligation, drafters often placed a native word beside its French equivalent. The habit outlived its purpose, and modern contracts still demand that a party cease and desist or that goods be free and clear of debts. Other binomials arose from rhythm rather than law. Speakers instinctively prefer a short word before a long one, as in odds and ends, or a pattern of alliteration, as in safe and sound. Some pairs gained figurative meanings that are hard to guess. Touch and go, originally a nautical term for a ship scraping the seabed and moving on, now describes any outcome that hangs in the balance. Wear and tear began in property law and now applies to bodies and relationships too. For learners, binomials are valuable because they sound unmistakably native and occur across registers, from tabloid headlines to Supreme Court opinions. Learn them as single units, notice their fixed order, and you will avoid the subtle errors that betray a non-native writer even when the grammar is flawless.",
      "ru": "Английский полон пар слов, ведущих себя как окаменелости. Можно сказать, что что-то — part and parcel работы, что контракт null and void, или что вы продвинулись by leaps and bounds, но нельзя поменять порядок, не прозвучав странно. Лингвисты называют их необратимыми биномами, и их история удивительно показательна. После нормандского завоевания 1066 года суды Англии работали на смеси французского, латыни и английского. Чтобы все понимали юридическое обязательство, составители часто ставили родное слово рядом с его французским эквивалентом. Привычка пережила свою цель, и современные контракты всё ещё требуют, чтобы сторона cease and desist или чтобы товары были free and clear от долгов. Другие биномы возникли из ритма, а не из права. Говорящие инстинктивно предпочитают короткое слово перед длинным, как в odds and ends, или аллитерацию, как в safe and sound. Некоторые пары обрели переносные значения, которые трудно угадать. Touch and go, изначально морской термин о судне, задевшем дно и двинувшемся дальше, теперь описывает любой исход, висящий на волоске. Wear and tear возник в имущественном праве, а теперь относится и к телу, и к отношениям. Для учащихся биномы ценны тем, что звучат безошибочно «родными» и встречаются во всех регистрах, от таблоидных заголовков до решений Верховного суда. Учите их как цельные единицы, замечайте фиксированный порядок — и избежите тонких ошибок, выдающих неносителя даже при безупречной грамматике."
-    }
+    },
+    "tags": [
+     "collocations",
+     "idioms"
+    ],
+    "extra": [
+     [
+      "Stress is part and [parcel] of the job.",
+      "Стресс — неотъемлемая часть работы.",
+      "Part and parcel."
+     ],
+     [
+      "We tried [time] and again.",
+      "Мы пытались снова и снова.",
+      "Time and again."
+     ],
+     [
+      "I'm sick and [tired] of excuses.",
+      "Мне до смерти надоели отговорки.",
+      "Sick and tired."
+     ],
+     [
+      "The rules are [cut] and dried.",
+      "Правила чёткие и однозначные.",
+      "Cut and dried."
+     ],
+     [
+      "She's up and [running] after surgery.",
+      "Она снова на ногах после операции.",
+      "Up and running."
+     ],
+     [
+      "We found the house [safe] and sound.",
+      "Мы нашли дом целым и невредимым.",
+      "Safe and sound."
+     ],
+     [
+      "Prices go up by leaps and [bounds].",
+      "Цены растут семимильными шагами.",
+      "By leaps and bounds."
+     ]
+    ]
    },
    {
     "id": "c2u20l5",
@@ -658,7 +819,47 @@ addUnits("c2", [
     "text": {
      "en": "Proverbs might seem like relics of a rural past, but they are thriving in modern English, just rarely in their complete form. Few Americans would say, in full, «A bird in the hand is worth two in the bush.» They are far more likely to shrug and say, «Well, a bird in the hand,» trusting the listener to complete the thought. This compression is a mark of shared culture: the speaker signals that the wisdom is so familiar it need not be spelled out. Headline writers exploit the same familiarity in the opposite direction, twisting proverbs to create surprise. A business story about a failed merger might be titled «Too Many Cooks», while a piece on unpaid interns might ask whether the early bird really gets the worm or just the coffee order. Linguists call these playful distortions anti-proverbs, and they depend entirely on the reader recognizing the original. Some proverbs have even reversed their meanings over time. «The proof is in the pudding» is a garbled version of «the proof of the pudding is in the eating», meaning that something must be tested in practice; the shortened form makes little literal sense, yet it is now standard. Others carry cultural assumptions worth noticing. «The squeaky wheel gets the grease» reflects an American acceptance of complaint as a strategy, whereas the Japanese saying about the nail that sticks out being hammered down expresses the opposite value. For advanced learners, knowing proverbs is less about reciting them than about catching their echoes in jokes, advertisements and political speeches.",
      "ru": "Пословицы могут казаться реликтами сельского прошлого, но в современном английском они процветают — просто редко в полном виде. Мало кто из американцев скажет целиком: «A bird in the hand is worth two in the bush». Гораздо вероятнее, что он пожмёт плечами и скажет: «Ну, синица в руках», рассчитывая, что собеседник закончит мысль. Такое сжатие — признак общей культуры: говорящий показывает, что мудрость настолько знакома, что её не нужно проговаривать. Авторы заголовков используют ту же узнаваемость в обратную сторону, переворачивая пословицы ради неожиданности. Статья о провалившемся слиянии может называться «Too Many Cooks», а материал о неоплачиваемых стажёрах — спрашивать, достаётся ли ранней пташке червяк или только заказ кофе для всех. Лингвисты называют такие игривые искажения антипословицами, и они полностью зависят от того, узнает ли читатель оригинал. Некоторые пословицы со временем даже исказились по смыслу. «The proof is in the pudding» — искажённая версия «the proof of the pudding is in the eating», то есть что-то нужно проверить на практике; сокращённая форма буквально почти бессмысленна, но теперь стандартна. Другие несут культурные установки, которые стоит заметить. «The squeaky wheel gets the grease» отражает американское принятие жалобы как стратегии, тогда как японская поговорка о торчащем гвозде, который забивают, выражает противоположную ценность. Для продвинутых учащихся знание пословиц — не столько умение их декламировать, сколько способность уловить их отголоски в шутках, рекламе и политических речах."
-    }
+    },
+    "tags": [
+     "idioms"
+    ],
+    "extra": [
+     [
+      "A bird in the hand is worth two in the [bush].",
+      "Лучше синица в руках.",
+      "Пословица о надёжном."
+     ],
+     [
+      "The [proof] of the pudding is in the eating.",
+      "Всё познаётся на практике.",
+      "Проверка делом."
+     ],
+     [
+      "Don't put all your eggs in one [basket].",
+      "Не клади все яйца в одну корзину.",
+      "Распределяй риски."
+     ],
+     [
+      "When in Rome, do as the [Romans] do.",
+      "В чужой монастырь со своим уставом не ходят.",
+      "Подстраивайся под обычаи."
+     ],
+     [
+      "The early bird catches the [worm].",
+      "Кто рано встаёт, тому бог подаёт.",
+      "Ранним везёт."
+     ],
+     [
+      "Every cloud has a silver [lining].",
+      "Нет худа без добра.",
+      "Silver lining — светлая сторона."
+     ],
+     [
+      "Too many cooks spoil the [broth].",
+      "У семи нянек дитя без глаза.",
+      "Много руководителей — плохо."
+     ]
+    ]
    }
   ]
  },
@@ -790,7 +991,48 @@ addUnits("c2", [
     "text": {
      "en": "Every language softens what it fears, and English is especially inventive. Nobody dies in a hospital press release; patients pass away or are lost after a long battle. Workers are rarely fired; they are let go, released or affected by a restructuring. Some euphemisms are acts of kindness. When you tell a grieving friend that you are sorry for their loss, you choose gentleness over clinical precision, and that choice is entirely appropriate. Other euphemisms, however, are designed not to comfort but to conceal. In 1946 George Orwell warned that political language «is designed to make lies sound truthful and murder respectable». His examples now seem almost quaint compared with modern inventions. Military briefings refer to civilian deaths as collateral damage, a phrase that turns grieving families into an accounting entry. Torture was rebranded as enhanced interrogation. Corporations announce rightsizing, a word implying that the previous size was somehow wrong, rather than admitting that hundreds of people have lost their income. Politicians who are caught lying claim to have misspoken. The key question for a critical reader is whose comfort the euphemism serves. If it protects the vulnerable, such as a bereaved family or a patient receiving bad news, it is usually tact. If it protects the powerful from accountability, it is closer to what Orwell called doublespeak. Advanced learners need both skills: the social grace to choose a gentle word at a funeral and the critical alertness to translate an official statement back into plain English.",
      "ru": "Каждый язык смягчает то, чего боится, и английский особенно изобретателен. В больничных пресс-релизах никто не умирает: пациенты «уходят из жизни» или «проигрывают долгую борьбу». Работников редко увольняют: их «отпускают», «освобождают» или они «затронуты реструктуризацией». Некоторые эвфемизмы — проявление доброты. Когда вы говорите скорбящему другу, что сожалеете о его утрате, вы выбираете мягкость вместо клинической точности, и этот выбор вполне уместен. Другие же эвфемизмы созданы не утешать, а скрывать. В 1946 году Джордж Оруэлл предупреждал, что политический язык «создан, чтобы ложь звучала правдиво, а убийство — респектабельно». Его примеры сейчас кажутся почти безобидными по сравнению с современными изобретениями. Военные брифинги называют гибель мирных жителей сопутствующим ущербом — фразой, превращающей скорбящие семьи в бухгалтерскую запись. Пытки переименовали в «усиленный допрос». Корпорации объявляют об «оптимизации численности» — слове, подразумевающем, что прежний размер был почему-то неправильным, — вместо того чтобы признать, что сотни людей лишились дохода. Политики, пойманные на лжи, заявляют, что «оговорились». Ключевой вопрос для критического читателя: чьему комфорту служит эвфемизм? Если он защищает уязвимых, например семью в трауре или пациента, получающего плохие новости, это обычно такт. Если он защищает сильных от ответственности, это ближе к тому, что Оруэлл назвал двоемыслием. Продвинутым учащимся нужны оба навыка: светская деликатность, чтобы выбрать мягкое слово на похоронах, и критическая бдительность, чтобы перевести официальное заявление обратно на простой английский."
-    }
+    },
+    "tags": [
+     "register",
+     "pragmatics"
+    ],
+    "extra": [
+     [
+      "He was [let] go last month.",
+      "Его уволили в прошлом месяце.",
+      "Let go — мягко «уволен»."
+     ],
+     [
+      "She's [expecting] in June.",
+      "Она ждёт ребёнка в июне.",
+      "Expecting — беременна."
+     ],
+     [
+      "The company is [restructuring].",
+      "Компания проходит реструктуризацию.",
+      "Эвфемизм сокращений."
+     ],
+     [
+      "Civilians became [collateral] damage.",
+      "Мирные жители стали сопутствующими потерями.",
+      "Военный эвфемизм."
+     ],
+     [
+      "He's a bit [economical] with the truth.",
+      "Он немного скуп на правду.",
+      "Эвфемизм лжи."
+     ],
+     [
+      "Where's the [restroom]?",
+      "Где уборная?",
+      "Restroom — вежливо «туалет»."
+     ],
+     [
+      "Our dog was [put] to sleep.",
+      "Нашего пса усыпили.",
+      "Put to sleep — эвтаназия."
+     ]
+    ]
    },
    {
     "id": "c2u21l2",
@@ -916,7 +1158,48 @@ addUnits("c2", [
     "text": {
      "en": "For learners arriving in an American workplace, the vocabulary of inclusion can feel like a minefield. Words that seemed perfectly neutral in a textbook, such as chairman or mankind, may draw polite corrections, and a colleague may introduce herself with her pronouns in a meeting. Understanding the logic behind these conventions makes them far easier to navigate. The central idea is that language should describe people without reducing them to a single trait. Saying a person with a disability or a person experiencing homelessness places the individual first and the circumstance second. Job titles such as firefighter and police officer acknowledge that these professions are no longer exclusively male. Singular they, once condemned by grammarians, is now endorsed by major style guides, partly because it neatly avoids the clumsy he or she and partly because some people do not identify as either. Not everyone accepts these changes. Critics argue that some terms are euphemisms that blur reality, and they dismiss certain public statements as virtue signaling, a display of correct opinions designed to win approval rather than change anything. The debate itself is part of contemporary American culture, and words like woke have become political weapons. A sophisticated speaker does not need to take sides in every argument, but should recognize that word choice in the United States often signals an ideological position. In professional writing, the safest course is to follow the organization's style guide, observe how respected colleagues speak, and, when unsure, simply ask how people prefer to be described.",
      "ru": "Для учащихся, попадающих в американский офис, лексика инклюзивности может казаться минным полем. Слова, казавшиеся в учебнике совершенно нейтральными, вроде chairman или mankind, могут вызвать вежливые поправки, а коллега может представиться на совещании, назвав свои местоимения. Понимание логики этих норм делает ориентирование в них гораздо проще. Главная идея — язык должен описывать людей, не сводя их к одной черте. Фразы «человек с инвалидностью» или «человек, оказавшийся без жилья» ставят личность на первое место, а обстоятельство — на второе. Названия профессий вроде firefighter и police officer признают, что эти профессии больше не исключительно мужские. Singular they, некогда осуждаемое грамматистами, теперь одобрено ведущими стилистическими справочниками — отчасти потому, что изящно избегает неуклюжего he or she, отчасти потому, что некоторые люди не относят себя ни к одному из вариантов. Не все принимают эти перемены. Критики утверждают, что некоторые термины — эвфемизмы, размывающие реальность, и отмахиваются от ряда публичных заявлений как от «демонстрации добродетели» — показа правильных взглядов ради одобрения, а не ради перемен. Сам этот спор — часть современной американской культуры, и слова вроде woke стали политическим оружием. Искушённому собеседнику не нужно занимать сторону в каждом споре, но следует понимать, что выбор слов в США часто сигнализирует идеологическую позицию. В профессиональных текстах надёжнее всего следовать стилистическому руководству организации, наблюдать, как говорят уважаемые коллеги, и, если сомневаетесь, просто спросить, как люди предпочитают, чтобы их называли."
-    }
+    },
+    "tags": [
+     "register",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "She uses a [wheelchair].",
+      "Она пользуется инвалидной коляской.",
+      "Не «прикована к коляске»."
+     ],
+     [
+      "Ask a [server] for the menu.",
+      "Попроси меню у официанта.",
+      "Нейтральное по роду слово."
+     ],
+     [
+      "The [firefighters] arrived quickly.",
+      "Пожарные быстро приехали.",
+      "Вместо firemen."
+     ],
+     [
+      "He is a person with [autism].",
+      "Он человек с аутизмом.",
+      "Person-first язык."
+     ],
+     [
+      "Each student should bring [their] laptop.",
+      "Каждый студент должен принести ноутбук.",
+      "Singular they."
+     ],
+     [
+      "Our [flight attendant] was very kind.",
+      "Бортпроводник был очень любезен.",
+      "Вместо stewardess."
+     ],
+     [
+      "Shelters help people [experiencing] homelessness.",
+      "Приюты помогают людям без жилья.",
+      "Инклюзивная формулировка."
+     ]
+    ]
    },
    {
     "id": "c2u21l3",
@@ -1047,7 +1330,47 @@ addUnits("c2", [
     "text": {
      "en": "Few documents intimidate newcomers as much as an American lease. A typical clause might read: «Notwithstanding anything to the contrary herein, Tenant shall indemnify and hold harmless Landlord from any and all claims arising out of or in connection with Tenant's use of the Premises.» To a learner, this looks like deliberate obscurity, and sometimes it is. Yet legal English follows its own logic, and once that logic is clear, the text becomes far less threatening. First, the modal verbs carry precise meanings. Shall imposes an obligation, may grants a right, and must, increasingly used in modern drafting, does the same as shall but more plainly. Second, the repetitive pairs such as indemnify and hold harmless or any and all are inherited habits, designed to close every possible loophole. A court cannot later argue that a claim was excluded because it was not mentioned. Third, the archaic here- and there- words simply point to parts of the document itself: herein means in this agreement, and thereof means of that thing. Latin phrases such as inter alia or bona fide survive because they have centuries of judicial interpretation behind them. Since the Plain Writing Act of 2010, federal agencies have been required to communicate clearly, and many firms now draft contracts in plainer language. Nonetheless, the traditional style persists, particularly in real estate, employment and software licenses. For anyone relocating to the United States, the practical lesson is to read slowly, translate each clause into ordinary words and, when the stakes are high, consult a lawyer before signing.",
      "ru": "Мало какие документы пугают новичков так, как американский договор аренды. Типичный пункт может звучать так: «Несмотря на любые противоречащие положения настоящего документа, Арендатор обязуется возместить ущерб и оградить Арендодателя от любых и всех претензий, возникающих из или в связи с использованием Арендатором Помещения». Учащемуся это кажется намеренной запутанностью, и иногда так и есть. Но юридический английский следует своей логике, и когда она ясна, текст становится гораздо менее угрожающим. Во-первых, модальные глаголы несут точные значения. Shall налагает обязанность, may даёт право, а must, всё чаще используемый в современных документах, делает то же, что shall, но проще. Во-вторых, повторяющиеся пары вроде indemnify and hold harmless или any and all — унаследованные привычки, призванные закрыть любую лазейку. Суд не сможет позже утверждать, что претензия исключена, потому что не была упомянута. В-третьих, архаичные слова на here- и there- просто указывают на части самого документа: herein значит «в настоящем соглашении», а thereof — «этого». Латинские выражения вроде inter alia или bona fide выживают, потому что за ними века судебного толкования. С момента принятия Plain Writing Act в 2010 году федеральные ведомства обязаны изъясняться понятно, и многие фирмы теперь составляют договоры более простым языком. Тем не менее традиционный стиль сохраняется, особенно в недвижимости, трудовых отношениях и лицензиях на ПО. Для всех, кто переезжает в США, практический урок таков: читать медленно, переводить каждый пункт на обычный язык и, когда ставки высоки, консультироваться с юристом перед подписанием."
-    }
+    },
+    "tags": [
+     "register"
+    ],
+    "extra": [
+     [
+      "[Notwithstanding] the above, fees remain due.",
+      "Несмотря на вышеизложенное, оплата остаётся обязательной.",
+      "Notwithstanding — юридическое «несмотря на»."
+     ],
+     [
+      "[Pursuant] to Section 4, the lease ends.",
+      "Согласно разделу 4, аренда прекращается.",
+      "Pursuant to — согласно."
+     ],
+     [
+      "The Buyer [shall] pay within 30 days.",
+      "Покупатель обязан оплатить в течение 30 дней.",
+      "Shall — обязанность."
+     ],
+     [
+      "The parties agree as set out [herein].",
+      "Стороны соглашаются с изложенным здесь.",
+      "Herein — в настоящем документе."
+     ],
+     [
+      "This agreement is legally [binding].",
+      "Это соглашение юридически обязательно.",
+      "Binding — обязательный."
+     ],
+     [
+      "The tenant must give [written] notice.",
+      "Арендатор должен дать письменное уведомление.",
+      "Written notice — письменное."
+     ],
+     [
+      "Any [breach] will end the contract.",
+      "Любое нарушение расторгнет договор.",
+      "Breach — нарушение договора."
+     ]
+    ]
    },
    {
     "id": "c2u21l4",
@@ -1179,7 +1502,49 @@ addUnits("c2", [
     "text": {
      "en": "Academic English is often described as cold, but a better word might be cautious. Scholars write for skeptical readers who will test every claim, so they hedge their statements with remarkable care. Instead of declaring that social media causes anxiety, a researcher will write that the evidence suggests a correlation between heavy use and self-reported anxiety, while noting that causality cannot be established. This is not timidity; it is intellectual honesty encoded in grammar. Modal verbs such as may and might, verbs like appear and tend, and phrases such as it could be argued allow writers to calibrate exactly how confident they are. A second hallmark is nominalization, the conversion of actions into nouns. Rather than saying that the government changed the law and unemployment fell, an economist might write that the legislative reform coincided with a reduction in unemployment. Nominalization packs information densely and lets writers treat processes as objects that can be measured and compared. Taken too far, however, it produces impenetrable prose in which nobody seems to do anything. For this reason, modern style guides such as APA encourage researchers to use active verbs and even the first person when appropriate. Russian speakers, trained in a tradition that often equates difficulty with seriousness, may need to resist the urge to pile up abstract nouns. The goal is not to sound erudite but to be precise, measured and transparent about uncertainty. Clear academic writing, paradoxically, demands more thought than obscure writing, because it leaves the reasoning exposed to scrutiny.",
      "ru": "Академический английский часто называют холодным, но точнее было бы сказать — осторожным. Учёные пишут для скептичных читателей, которые проверят каждое утверждение, поэтому они хеджируют свои высказывания с удивительной тщательностью. Вместо того чтобы заявить, что соцсети вызывают тревожность, исследователь напишет, что данные указывают на корреляцию между интенсивным использованием и тревожностью по самоотчётам, отметив, что причинность установить нельзя. Это не робость, а интеллектуальная честность, закодированная в грамматике. Модальные глаголы may и might, глаголы вроде appear и tend, фразы вроде it could be argued позволяют авторам точно откалибровать степень уверенности. Второй отличительный признак — номинализация, превращение действий в существительные. Вместо «правительство изменило закон, и безработица упала» экономист может написать, что законодательная реформа совпала со снижением безработицы. Номинализация плотно упаковывает информацию и позволяет рассматривать процессы как объекты, которые можно измерять и сравнивать. Но если перестараться, получается непроницаемая проза, в которой, кажется, никто ничего не делает. Поэтому современные руководства вроде APA поощряют активные глаголы и даже первое лицо, когда это уместно. Русскоязычным, воспитанным в традиции, часто приравнивающей сложность к серьёзности, возможно, придётся сопротивляться желанию нагромождать абстрактные существительные. Цель — не звучать эрудированно, а быть точным, взвешенным и открытым в отношении неопределённости. Ясное академическое письмо, как ни парадоксально, требует больше мысли, чем туманное, потому что оставляет рассуждение открытым для проверки."
-    }
+    },
+    "tags": [
+     "hedging",
+     "nominalisation",
+     "register"
+    ],
+    "extra": [
+     [
+      "It [could] be argued that prices are too high.",
+      "Можно утверждать, что цены слишком высоки.",
+      "It could be argued — хедж."
+     ],
+     [
+      "The data [suggest] a strong link.",
+      "Данные указывают на сильную связь.",
+      "Suggest — осторожнее, чем prove."
+     ],
+     [
+      "The [implementation] of the policy was slow.",
+      "Внедрение политики шло медленно.",
+      "Номинализация от implement."
+     ],
+     [
+      "Results [tend] to vary by region.",
+      "Результаты, как правило, различаются по регионам.",
+      "Tend to — хедж."
+     ],
+     [
+      "This is [arguably] the best study.",
+      "Это, пожалуй, лучшее исследование.",
+      "Arguably — осторожная оценка."
+     ],
+     [
+      "Further research is [warranted].",
+      "Требуются дальнейшие исследования.",
+      "Warranted — академическое «оправдано»."
+     ],
+     [
+      "The [findings] are preliminary.",
+      "Выводы предварительные.",
+      "Findings — результаты."
+     ]
+    ]
    },
    {
     "id": "c2u21l5",
@@ -1312,7 +1677,48 @@ addUnits("c2", [
     "text": {
      "en": "Read a tabloid headline and a sonnet on the same morning, and you might wonder whether they are written in the same language. The tabloid shouts: «Love Rat Star Axed In Bombshell Probe Row.» Every word is short, punchy and emotionally loaded. Nobody criticizes anything; they slam or blast it. Investigations become probes, attempts become bids, and disputes become rows or feuds. This vocabulary evolved partly for practical reasons, since narrow newspaper columns rewarded brevity, and partly for commercial ones, because outrage sells. The style has migrated online, where clickbait headlines rely on the same verbs of violence and excitement. At the opposite extreme lies the poetic register, which luxuriates in rare, musical words. A poet might describe a gossamer mist, an evanescent dawn or the ineffable sorrow of a crepuscular hour. Such words are prized for their sound as much as their meaning; crepuscular, with its soft consonants, seems to dim the light as you say it. Archaic forms such as ere, oft and yonder still appear in hymns, fantasy novels and deliberately elevated prose. Mastery of English at C2 means being able to recognize and produce both extremes, and, more importantly, knowing that they rarely belong together. A job application that announces your ineffable passion for logistics will sound absurd, and a condolence letter that says the deceased was axed by cancer will sound brutal. Yet skilled writers occasionally collide the registers on purpose. Describing a celebrity scandal in the language of Shakespeare, or a sunset in the language of tabloids, can create wonderful comic effects.",
      "ru": "Прочитайте утром таблоидный заголовок и сонет — и вы задумаетесь, написаны ли они на одном языке. Таблоид кричит: «Звезду-изменщика уволили на фоне скандала с сенсационным расследованием». Каждое слово короткое, хлёсткое и эмоционально заряженное. Никто ничего не критикует — все громят и разносят. Расследования становятся probes, попытки — bids, споры — rows или feuds. Эта лексика сложилась отчасти по практическим причинам, ведь узкие газетные колонки поощряли краткость, а отчасти по коммерческим, ведь возмущение продаётся. Стиль переселился в интернет, где кликбейтные заголовки опираются на те же глаголы насилия и возбуждения. На противоположном полюсе — поэтический регистр, наслаждающийся редкими, музыкальными словами. Поэт может описать паутинный туман, тающий рассвет или невыразимую печаль сумеречного часа. Эти слова ценят за звучание не меньше, чем за смысл: crepuscular с его мягкими согласными словно приглушает свет, пока вы его произносите. Архаичные формы вроде ere, oft и yonder всё ещё встречаются в гимнах, фэнтези и нарочито возвышенной прозе. Владение английским на C2 означает умение распознавать и создавать обе крайности и, главное, понимать, что вместе они встречаются редко. Сопроводительное письмо, объявляющее о вашей невыразимой страсти к логистике, прозвучит абсурдно, а соболезнование, где сказано, что покойного «уволил» рак, — жестоко. Но искусные авторы порой сталкивают регистры намеренно. Описание скандала со знаменитостью языком Шекспира или заката языком таблоидов может дать чудесный комический эффект."
-    }
+    },
+    "tags": [
+     "register",
+     "style-rhetoric"
+    ],
+    "extra": [
+     [
+      "Minister [quits] in shame.",
+      "Министр позорно уходит.",
+      "Таблоидный глагол."
+     ],
+     [
+      "Love [rat] caught cheating again.",
+      "Изменщика снова поймали.",
+      "Love rat — таблоидное «изменник»."
+     ],
+     [
+      "Fans [blast] new movie ending.",
+      "Фанаты разносят концовку фильма.",
+      "Blast — резко критиковать."
+     ],
+     [
+      "Budget [axed] for school lunches.",
+      "Бюджет на школьные обеды урезан.",
+      "Axe — сократить."
+     ],
+     [
+      "A [gossamer] veil of mist hung there.",
+      "Там висела паутинка тумана.",
+      "Поэтическое «тончайший»."
+     ],
+     [
+      "Her joy was [ineffable].",
+      "Её радость была невыразимой.",
+      "Ineffable — невыразимый."
+     ],
+     [
+      "The [lambent] flame danced softly.",
+      "Мерцающее пламя тихо плясало.",
+      "Lambent — поэтическое «мерцающий»."
+     ]
+    ]
    }
   ]
  },
@@ -1443,7 +1849,48 @@ addUnits("c2", [
     "text": {
      "en": "Most people think of metaphor as something poets do, a decorative flourish reserved for love sonnets and political speeches. In 1980, the linguist George Lakoff and the philosopher Mark Johnson argued the opposite. In their book Metaphors We Live By, they showed that ordinary language is saturated with metaphor, and that these metaphors shape the way we think. Consider how we talk about arguments. We attack a weak point, defend our position, shoot down an opponent's claim and, if all goes well, win the debate. Nothing in the nature of disagreement requires this military vocabulary; we could just as easily imagine arguments as dances, in which partners move together toward a graceful conclusion. Yet the war metaphor is so deeply embedded that it is hard to discuss disagreement without it, and it may encourage us to treat conversations as contests. Time, similarly, is treated as money. We spend it, waste it, save it and invest it, and we resent people who steal it. Ideas are food: we digest information, chew on a problem and reject half-baked proposals. For language learners, these patterns are a gift. Once you recognize the underlying concept, dozens of expressions become predictable, and you can even generate new ones that native speakers will understand instantly. The danger lies in mixing metaphors carelessly. A manager who says that a project is a sinking ship that needs to take off will provoke smiles rather than confidence. Skilled writers keep their images consistent, or mix them deliberately for comic effect.",
      "ru": "Большинство людей считают метафору делом поэтов — декоративным украшением, приберегаемым для любовных сонетов и политических речей. В 1980 году лингвист Джордж Лакофф и философ Марк Джонсон утверждали обратное. В книге «Метафоры, которыми мы живём» они показали, что обычный язык пропитан метафорами и что эти метафоры формируют наше мышление. Посмотрите, как мы говорим о спорах. Мы атакуем слабое место, защищаем позицию, сбиваем утверждение оппонента и, если всё идёт хорошо, выигрываем дебаты. Ничто в природе разногласий не требует этой военной лексики; мы могли бы с тем же успехом представлять споры как танец, в котором партнёры вместе движутся к изящному завершению. Но военная метафора укоренилась так глубоко, что без неё трудно обсуждать разногласия, и она, возможно, побуждает нас воспринимать разговоры как состязания. Время так же трактуется как деньги. Мы его тратим, теряем, экономим и инвестируем, и мы злимся на тех, кто его крадёт. Идеи — это еда: мы перевариваем информацию, «пережёвываем» проблему и отвергаем недопечённые предложения. Для изучающих язык эти закономерности — подарок. Распознав лежащий в основе концепт, вы обнаружите, что десятки выражений становятся предсказуемыми, и сможете даже создавать новые, которые носители поймут мгновенно. Опасность — в небрежном смешении метафор. Менеджер, который говорит, что проект — тонущий корабль, которому нужно взлететь, вызовет улыбки, а не уверенность. Искусные авторы сохраняют образы последовательными или смешивают их намеренно ради комического эффекта."
-    }
+    },
+    "tags": [
+     "idioms",
+     "collocations"
+    ],
+    "extra": [
+     [
+      "Don't [waste] my time.",
+      "Не трать моё время.",
+      "Time is money."
+     ],
+     [
+      "She [attacked] every point I made.",
+      "Она атаковала каждый мой довод.",
+      "Argument is war."
+     ],
+     [
+      "I [can't] buy that excuse.",
+      "Не могу купить эту отговорку.",
+      "Buy — принять идею."
+     ],
+     [
+      "Prices [skyrocketed] last year.",
+      "Цены взлетели в прошлом году.",
+      "More is up."
+     ],
+     [
+      "We're at a [crossroads] in our relationship.",
+      "Наши отношения на распутье.",
+      "Life is a journey."
+     ],
+     [
+      "That idea is half-[baked].",
+      "Эта идея сырая.",
+      "Ideas are food."
+     ],
+     [
+      "He's feeling [down] today.",
+      "Ему сегодня грустно.",
+      "Sad is down."
+     ]
+    ]
    },
    {
     "id": "c2u22l2",
@@ -1567,7 +2014,48 @@ addUnits("c2", [
     "text": {
      "en": "English speakers rarely notice how much of their language is built on sound rather than sense. Brand names offer the clearest evidence. Coca-Cola, Dunkin' Donuts, Best Buy and PayPal all rely on alliteration, the repetition of initial consonants, because such names are easier to remember and pleasant to say. Political slogans follow the same principle: «Build Back Better» lodges in the mind far more firmly than «Reconstruct the Economy More Effectively». Poets, of course, have exploited these effects for centuries. Assonance, the echo of vowel sounds, can slow a line down and lend it a dreamy quality, while harsh consonants can make it bristle with tension. Onomatopoeia, words that imitate the sounds they describe, adds vividness to even the plainest prose. Compare «the bacon cooked» with «the bacon sizzled», or «the door closed» with «the door slammed shut with a thud». More subtle are phonesthemes, clusters of sounds that seem to carry meaning without being true roots. Many English words beginning with gl- relate to light: glow, gleam, glitter, glint, glimmer. Words starting with sl- often suggest something wet, slippery or disreputable: slime, slush, sly, sloppy. No rule forces this, yet the associations are strong enough that invented brand names exploit them. For an advanced writer, sound devices are tools to use sparingly. A single well-placed alliteration can make a conclusion memorable; a paragraph crowded with them sounds like a tongue twister. The trick is to read your writing aloud and let your ear, not only your eye, judge whether the rhythm and music support the meaning.",
      "ru": "Англоговорящие редко замечают, насколько их язык построен на звуке, а не на смысле. Нагляднее всего это видно в названиях брендов. Coca-Cola, Dunkin' Donuts, Best Buy и PayPal опираются на аллитерацию — повтор начальных согласных, — потому что такие названия легче запомнить и приятно произносить. Политические лозунги следуют тому же принципу: «Build Back Better» застревает в голове гораздо прочнее, чем «Восстановим экономику эффективнее». Поэты, конечно, использовали эти эффекты веками. Ассонанс, перекличка гласных, может замедлить строку и придать ей мечтательность, а резкие согласные — наполнить её напряжением. Ономатопея, слова, подражающие описываемым звукам, добавляет живости даже самой простой прозе. Сравните «бекон готовился» и «бекон шипел» или «дверь закрылась» и «дверь захлопнулась с глухим стуком». Тоньше — фонестемы, звукосочетания, которые словно несут смысл, не будучи настоящими корнями. Многие английские слова на gl- связаны со светом: glow, gleam, glitter, glint, glimmer. Слова на sl- часто намекают на мокрое, скользкое или сомнительное: slime, slush, sly, sloppy. Никакое правило этого не требует, но ассоциации настолько сильны, что придуманные названия брендов их используют. Для продвинутого автора звуковые приёмы — инструменты, которые надо применять скупо. Одна удачная аллитерация сделает вывод запоминающимся; абзац, переполненный ими, звучит как скороговорка. Секрет в том, чтобы читать текст вслух и позволить уху, а не только глазу, судить, поддерживают ли ритм и музыка смысл."
-    }
+    },
+    "tags": [
+     "sounds",
+     "style-rhetoric"
+    ],
+    "extra": [
+     [
+      "The bacon [crackled] in the pan.",
+      "Бекон трещал на сковороде.",
+      "Ономатопея."
+     ],
+     [
+      "Leaves [rustled] in the wind.",
+      "Листья шелестели на ветру.",
+      "Rustle — звукоподражание."
+     ],
+     [
+      "\"Peter Piper picked peppers\" shows [alliteration].",
+      "«Peter Piper picked peppers» — аллитерация.",
+      "Повтор начальных согласных."
+     ],
+     [
+      "\"Fleet feet sweep\" shows [assonance].",
+      "«Fleet feet sweep» — ассонанс.",
+      "Повтор гласных."
+     ],
+     [
+      "The door [creaked] open.",
+      "Дверь со скрипом открылась.",
+      "Creak — скрип."
+     ],
+     [
+      "The bees [buzzed] around the flowers.",
+      "Пчёлы жужжали вокруг цветов.",
+      "Buzz — жужжание."
+     ],
+     [
+      "The balloon burst with a loud [pop].",
+      "Шарик лопнул с громким хлопком.",
+      "Pop — хлопок."
+     ]
+    ]
    },
    {
     "id": "c2u22l3",
@@ -1688,7 +2176,48 @@ addUnits("c2", [
     "text": {
      "en": "English is unusually hospitable to puns. Its enormous vocabulary, borrowed from dozens of languages, has produced thousands of homophones and words with multiple meanings, and its relatively fixed word order allows a single sentence to be parsed in two ways. The classic example, often attributed to Groucho Marx, is «Time flies like an arrow; fruit flies like a banana.» The first half seems straightforward, but the second forces the reader to reinterpret both flies and like. Shakespeare packed his plays with puns, some of them bawdy double entendres that modern audiences miss entirely. In Romeo and Juliet, the dying Mercutio jokes that tomorrow you will find him «a grave man», punning on serious and buried. Today, puns survive mainly in headlines, advertising and the so-called dad joke, the deliberately groan-inducing wordplay that fathers inflict on their teenage children. A bakery called «Bread Pitt» or a hair salon named «Curl Up and Dye» belongs to this tradition. Related forms of wordplay deserve attention too. A malapropism, named after Mrs. Malaprop in Sheridan's 1775 comedy, replaces a word with a similar-sounding but wrong one, as when someone says «for all intensive purposes». A zeugma uses one verb in two senses at once: she lost her luggage and her composure. For learners, puns are both a test and a reward. Understanding them requires knowing several meanings of a word and recognizing cultural references. But once you start catching them, and especially once you invent one that makes a native speaker groan, you will know that your English has moved beyond correctness into play.",
      "ru": "Английский необычайно гостеприимен к каламбурам. Его огромный словарь, заимствованный из десятков языков, породил тысячи омофонов и многозначных слов, а относительно фиксированный порядок слов позволяет прочесть одно предложение двояко. Классический пример, часто приписываемый Граучо Марксу: «Time flies like an arrow; fruit flies like a banana». Первая половина кажется простой, но вторая заставляет переосмыслить и flies, и like. Шекспир насыщал пьесы каламбурами, порой непристойными двусмысленностями, которые современный зритель совершенно упускает. В «Ромео и Джульетте» умирающий Меркуцио шутит, что завтра его найдут «a grave man», играя на значениях «серьёзный» и «в могиле». Сегодня каламбуры живут в основном в заголовках, рекламе и так называемых «папиных шутках» — нарочито стонобудительной игре слов, которой отцы мучают детей-подростков. Пекарня «Bread Pitt» или салон «Curl Up and Dye» принадлежат этой традиции. Заслуживают внимания и родственные формы игры слов. Малапропизм, названный в честь миссис Малапроп из комедии Шеридана 1775 года, заменяет слово похожим по звучанию, но неверным, как когда кто-то говорит «for all intensive purposes». Зевгма использует один глагол сразу в двух смыслах: она потеряла багаж и самообладание. Для учащихся каламбуры — и испытание, и награда. Чтобы их понимать, нужно знать несколько значений слова и распознавать культурные отсылки. Но когда вы начнёте их ловить, а особенно когда придумаете такой, от которого носитель застонет, вы поймёте, что ваш английский вышел за пределы правильности в область игры."
-    }
+    },
+    "tags": [
+     "style-rhetoric",
+     "idioms"
+    ],
+    "extra": [
+     [
+      "He said \"for all intensive purposes\" — a classic [malapropism].",
+      "Он сказал «for all intensive purposes» — классический малапропизм.",
+      "Ошибка похожим словом."
+     ],
+     [
+      "The title is a clever [double entendre].",
+      "Название — хитрая двусмысленность.",
+      "Двойной смысл."
+     ],
+     [
+      "I used to be a banker, but I lost [interest].",
+      "Я был банкиром, но потерял интерес.",
+      "Каламбур: interest — проценты и интерес."
+     ],
+     [
+      "Time flies like an [arrow].",
+      "Время летит как стрела.",
+      "Классическая двусмысленная фраза."
+     ],
+     [
+      "That joke was so [punny].",
+      "Шутка была полна каламбуров.",
+      "Punny — каламбурный."
+     ],
+     [
+      "The baker quit because he was tired of the [dough].",
+      "Пекарь ушёл: устал от теста.",
+      "Dough — тесто и деньги."
+     ],
+     [
+      "A good pun is its own [reword].",
+      "Хороший каламбур сам себе награда.",
+      "Игра reword/reward."
+     ]
+    ]
    },
    {
     "id": "c2u22l4",
@@ -1808,7 +2337,48 @@ addUnits("c2", [
     "text": {
      "en": "American headline writers work under brutal constraints. They must summarize a story in a handful of words, attract attention in a crowded feed and, ideally, make readers smile. The result is a distinctive dialect that linguists call headlinese. Articles and forms of be disappear, so that «The mayor is ready to quit» becomes «Mayor Ready To Quit». The simple present describes past events, as in «Senator Resigns», and the infinitive signals the future, as in «President To Visit Tokyo». These compressions save space but invite ambiguity, sometimes hilarious. When a newspaper ran «Violinist Linked to JAL Crash Blossoms», readers puzzled over what crash blossoms might be, until they realized that the violinist's career was blossoming. The phrase crash blossom now names any headline that can be misread. Deliberate wordplay is even more common. Editors twist film titles, song lyrics and proverbs: a story about a lottery winner might be headlined «Gone with the Windfall», while a report on rising rents could ask «To Buy or Not to Buy?» Such reusable templates, known as snowclones, include «X is the new Y» and the suffix -gate, which has attached itself to scandals ever since Watergate. Portmanteau words such as Brexit and staycation offer another shortcut, fusing two ideas into one memorable unit. For learners, headlines are a demanding but rewarding exercise. Decoding them requires grammatical awareness, cultural knowledge and a sense of humor. If a headline seems nonsensical, assume an allusion is hidden inside it, search for the original, and enjoy the small click of recognition when the joke finally lands.",
      "ru": "Американские авторы заголовков работают в жёстких рамках. Им нужно уложить историю в горстку слов, привлечь внимание в переполненной ленте и, в идеале, вызвать улыбку. Результат — особый диалект, который лингвисты называют headlinese. Артикли и формы be исчезают, и «The mayor is ready to quit» превращается в «Mayor Ready To Quit». Простое настоящее описывает прошлые события, как в «Senator Resigns», а инфинитив обозначает будущее, как в «President To Visit Tokyo». Эти сжатия экономят место, но порождают двусмысленность, иногда уморительную. Когда газета напечатала «Violinist Linked to JAL Crash Blossoms», читатели ломали голову, что такое «crash blossoms», пока не поняли, что расцветала карьера скрипачки. Выражение crash blossom теперь обозначает любой заголовок, который можно прочесть неверно. Намеренная игра слов встречается ещё чаще. Редакторы переделывают названия фильмов, строчки песен и пословицы: статью о победителе лотереи могут озаглавить «Gone with the Windfall», а материал о росте аренды — спросить «To Buy or Not to Buy?» Такие многоразовые шаблоны, называемые snowclones, включают «X is the new Y» и суффикс -gate, который прилипает к скандалам со времён Уотергейта. Слова-гибриды вроде Brexit и staycation дают ещё один короткий путь, сплавляя две идеи в одну запоминающуюся единицу. Для учащихся заголовки — трудное, но благодарное упражнение. Их расшифровка требует грамматической чуткости, культурных знаний и чувства юмора. Если заголовок кажется бессмысленным, предположите, что в нём спрятана аллюзия, найдите оригинал и насладитесь маленьким щелчком узнавания, когда шутка наконец доходит."
-    }
+    },
+    "tags": [
+     "style-rhetoric",
+     "word-formation"
+    ],
+    "extra": [
+     [
+      "\"Smog\" is a [portmanteau] of smoke and fog.",
+      "«Smog» — слияние smoke и fog.",
+      "Portmanteau."
+     ],
+     [
+      "\"X is the new black\" is a famous [snowclone].",
+      "«X is the new black» — известный сноуклон.",
+      "Шаблонная фраза."
+     ],
+     [
+      "\"Squad Helps Dog Bite Victim\" is a [crash blossom].",
+      "Это заголовок-двусмысленность.",
+      "Crash blossom."
+     ],
+     [
+      "The scandal was quickly dubbed \"Partygate\" with the [suffix] -gate.",
+      "Скандал прозвали «Partygate» с суффиксом -gate.",
+      "-gate для скандалов."
+     ],
+     [
+      "The ad uses a catchy [slogan].",
+      "Реклама использует цепкий слоган.",
+      "Slogan."
+     ],
+     [
+      "\"Netflix and chill\" became a viral [catchphrase].",
+      "«Netflix and chill» стал вирусной фразой.",
+      "Catchphrase."
+     ],
+     [
+      "\"Sharknado\" is a silly [blend].",
+      "«Sharknado» — забавное словослияние.",
+      "Blend."
+     ]
+    ]
    }
   ]
  }

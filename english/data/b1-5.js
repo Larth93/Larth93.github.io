@@ -112,7 +112,42 @@ addUnits("b1", [
     "text": {
      "en": "When I first moved to the US, articles drove me crazy. In Russian, we just say \"I bought car\" and everyone understands. My American coworker gave me a simple trick. Ask yourself: does the other person know which one I mean? If not, use \"a.\" If yes, use \"the.\" So I say, \"I bought a car. The car is blue.\" The first time it's new information; the second time it's shared information. For things in general, I use no article at all: \"Cars are expensive here.\" Of course, there are fixed phrases you just have to memorize, like \"go to bed,\" \"at night,\" or \"on the radio.\" After a few months of listening to podcasts, I started to hear articles everywhere. Now when I forget one, it actually sounds wrong to me, which is a good sign.",
      "ru": "Когда я переехал в США, артикли сводили меня с ума. По-русски мы говорим «я купил машину», и все понимают. Американский коллега дал мне простой приём. Спроси себя: знает ли собеседник, что именно я имею в виду? Если нет — «a». Если да — «the». Поэтому я говорю: «Я купил машину. Машина синяя». В первый раз это новая информация, во второй — общая. Для вещей вообще я не ставлю артикль: «Машины здесь дорогие». Конечно, есть устойчивые фразы, которые надо просто запомнить: «ложиться спать», «ночью», «по радио». Через несколько месяцев подкастов я начал слышать артикли повсюду. Теперь, когда я забываю один, это звучит для меня неправильно — и это хороший знак."
-    }
+    },
+    "tags": [
+     "articles"
+    ],
+    "extra": [
+     [
+      "He plays [the] guitar in a band.",
+      "Он играет на гитаре в группе.",
+      "The с музыкальными инструментами."
+     ],
+     [
+      "I usually have coffee for [breakfast].",
+      "Я обычно пью кофе на завтрак.",
+      "Без артикля с приёмами пищи."
+     ],
+     [
+      "She lives near [the] Pacific Ocean.",
+      "Она живёт у Тихого океана.",
+      "The с названиями океанов."
+     ],
+     [
+      "It took [an] hour to get there.",
+      "Дорога заняла час.",
+      "An перед гласным звуком: hour."
+     ],
+     [
+      "[The] sun is really strong today.",
+      "Сегодня солнце очень сильное.",
+      "The с единственными в своём роде объектами."
+     ],
+     [
+      "I love [dogs], especially big ones.",
+      "Я люблю собак, особенно больших.",
+      "Без артикля с обобщением во мн. числе."
+     ]
+    ]
    },
    {
     "id": "b1u30l2",
@@ -225,7 +260,42 @@ addUnits("b1", [
     "text": {
      "en": "Planning a road trip with friends sounds easy until you start counting. We had plenty of enthusiasm but very little money. Each of us had a different idea. Mike wanted to visit several national parks, while Jen just wanted a few days on the beach. We didn't have much time either: only a week. So we made a list. How many miles could we drive per day? How much gas would we need? A number of websites gave us tips, but few of them were realistic for a tight budget. In the end, we chose two parks and one beach. Every night we stayed in cheap motels, and hardly any of them had good Wi-Fi. None of us complained, though. Sometimes having less makes the trip more memorable.",
      "ru": "Планировать поездку с друзьями легко, пока не начнёшь считать. Энтузиазма у нас было полно, а денег очень мало. У каждого была своя идея. Майк хотел посетить несколько национальных парков, а Джен — просто несколько дней на пляже. Времени тоже было немного: всего неделя. Поэтому мы составили список. Сколько миль можно проезжать в день? Сколько бензина нужно? Ряд сайтов давал советы, но мало какие были реалистичны для скромного бюджета. В итоге выбрали два парка и один пляж. Каждую ночь мы останавливались в дешёвых мотелях, и почти ни в одном не было хорошего Wi-Fi. Но никто не жаловался. Иногда, имея меньше, поездку запоминаешь лучше."
-    }
+    },
+    "tags": [
+     "quantifiers"
+    ],
+    "extra": [
+     [
+      "How [many] people are coming tonight?",
+      "Сколько людей придёт сегодня вечером?",
+      "Many с исчисляемыми."
+     ],
+     [
+      "There's very [little] milk left.",
+      "Молока осталось очень мало.",
+      "Little с неисчисляемыми — мало."
+     ],
+     [
+      "I have [a few] friends in Boston.",
+      "У меня есть несколько друзей в Бостоне.",
+      "A few — несколько (позитивно)."
+     ],
+     [
+      "[Every] room has a TV.",
+      "В каждой комнате есть телевизор.",
+      "Every + ед. число."
+     ],
+     [
+      "We have [plenty of] time before the movie.",
+      "У нас полно времени до фильма.",
+      "Plenty of — много, достаточно."
+     ],
+     [
+      "[Each] student gets a laptop.",
+      "Каждый студент получает ноутбук.",
+      "Each — каждый по отдельности."
+     ]
+    ]
    },
    {
     "id": "b1u30l3",
@@ -336,7 +406,43 @@ addUnits("b1", [
     "text": {
      "en": "My roommate and I are very different, but we get along. Both of us work from home, so we share the living room during the day. Neither of us likes noise, which helps a lot. On weekends, though, we have a classic problem: what to watch. She likes either reality shows or cooking competitions. I prefer sci-fi or documentaries. Neither option makes both of us happy. Last Friday she said, \"I don't want to watch aliens again.\" I said, \"And I don't want to watch people baking cakes either.\" So we made a rule: each week, one person chooses. Either way, we order the same pizza, because we both love pepperoni. Me neither, I'm not a fan of compromise, but it works.",
      "ru": "Мы с соседкой очень разные, но ладим. Мы оба работаем из дома, поэтому днём делим гостиную. Никто из нас не любит шум, и это очень помогает. Но по выходным у нас классическая проблема: что смотреть. Она любит или реалити-шоу, или кулинарные конкурсы. Я предпочитаю фантастику или документалки. Ни один вариант не радует обоих. В прошлую пятницу она сказала: «Не хочу опять смотреть про пришельцев». Я ответил: «А я тоже не хочу смотреть, как люди пекут торты». И мы ввели правило: каждую неделю выбирает один. В любом случае мы заказываем одну и ту же пиццу, потому что оба любим пепперони. Я тоже не фанат компромиссов, но это работает."
-    }
+    },
+    "tags": [
+     "quantifiers",
+     "conjunctions"
+    ],
+    "extra": [
+     [
+      "[Neither] option is perfect.",
+      "Ни один вариант не идеален.",
+      "Neither + ед. число — ни один из двух."
+     ],
+     [
+      "We can meet on [either] day.",
+      "Мы можем встретиться в любой из двух дней.",
+      "Either — любой из двух."
+     ],
+     [
+      "I like [both] of them.",
+      "Мне нравятся оба.",
+      "Both of them — оба."
+     ],
+     [
+      "Neither Tom [nor] Lisa came.",
+      "Ни Том, ни Лиза не пришли.",
+      "Neither... nor — ни... ни."
+     ],
+     [
+      "I don't like it either. — Me [neither].",
+      "Мне тоже не нравится. — Мне тоже.",
+      "Me neither — согласие с отрицанием."
+     ],
+     [
+      "[Both] the hotel and the beach were great.",
+      "И отель, и пляж были отличные.",
+      "Both... and — и... и."
+     ]
+    ]
    },
    {
     "id": "b1u30l4",
@@ -447,7 +553,42 @@ addUnits("b1", [
     "text": {
      "en": "Last year I decided to learn English seriously in order to find a remote job. Although I had studied it at school, I couldn't understand real conversations. Because of that, I felt nervous in every interview. So I changed my approach. I started watching YouTube without subtitles so that my ears would get used to natural speech. Despite feeling lost at first, I kept going every day. Even though it took months, the results were worth it. I also joined an online speaking club to practice with native speakers. However, the biggest change came from playing co-op games with Americans, because I had to react fast and couldn't translate in my head. Now I have a job with a US company, so all that effort paid off.",
      "ru": "В прошлом году я решил серьёзно выучить английский, чтобы найти удалённую работу. Хотя я учил его в школе, я не понимал живых разговоров. Из-за этого я нервничал на каждом собеседовании. Поэтому я сменил подход. Я начал смотреть YouTube без субтитров, чтобы уши привыкли к естественной речи. Несмотря на то, что сначала я терялся, я продолжал каждый день. Хотя на это ушли месяцы, результат того стоил. Я также вступил в онлайн-разговорный клуб, чтобы практиковаться с носителями. Однако самое большое изменение принесли кооперативные игры с американцами, потому что приходилось реагировать быстро и нельзя было переводить в голове. Теперь у меня работа в американской компании, так что все усилия окупились."
-    }
+    },
+    "tags": [
+     "conjunctions"
+    ],
+    "extra": [
+     [
+      "I left early [in order to] catch the bus.",
+      "Я ушёл рано, чтобы успеть на автобус.",
+      "In order to + глагол — цель."
+     ],
+     [
+      "[Despite] the rain, we went hiking.",
+      "Несмотря на дождь, мы пошли в поход.",
+      "Despite + существительное."
+     ],
+     [
+      "I'm tired [because] I worked late.",
+      "Я устал, потому что работал допоздна.",
+      "Because + предложение."
+     ],
+     [
+      "Speak louder [so that] everyone can hear.",
+      "Говори громче, чтобы все слышали.",
+      "So that + подлежащее + can."
+     ],
+     [
+      "[Even though] it was late, she called me.",
+      "Хотя было поздно, она мне позвонила.",
+      "Even though — хотя (усиленно)."
+     ],
+     [
+      "It was cold, [so] we stayed inside.",
+      "Было холодно, поэтому мы остались внутри.",
+      "So — следствие."
+     ]
+    ]
    }
   ]
  },
@@ -567,7 +708,42 @@ addUnits("b1", [
     "text": {
      "en": "I've always hated getting up early, but last month I decided to try a new routine. A friend suggested going to bed at ten and avoiding screens after nine. At first I couldn't stand lying in bed without my phone. I kept thinking about messages I was missing. But I managed to stick with it for a week. Then I started to notice changes. I stopped feeling tired at lunch, and I finally had time to practice speaking English in the morning. I even remember waking up once before my alarm, which never happened before. Now I'm considering joining a 6 a.m. gym class. I'm not promising to keep it up forever, but I'm looking forward to seeing how far I can go.",
      "ru": "Я всегда ненавидел рано вставать, но в прошлом месяце решил попробовать новый режим. Друг предложил ложиться в десять и избегать экранов после девяти. Сначала я не выносил лежать в постели без телефона. Всё думал о сообщениях, которые пропускаю. Но мне удалось продержаться неделю. Потом я начал замечать изменения. Я перестал чувствовать усталость в обед и наконец нашёл время по утрам практиковать разговорный английский. Я даже помню, как однажды проснулся раньше будильника, чего никогда не бывало. Теперь подумываю записаться на тренировку в 6 утра. Не обещаю, что буду держаться вечно, но с нетерпением жду, как далеко смогу зайти."
-    }
+    },
+    "tags": [
+     "gerund-infinitive"
+    ],
+    "extra": [
+     [
+      "I [stopped] smoking two years ago.",
+      "Я бросил курить два года назад.",
+      "Stop + -ing — прекратить делать."
+     ],
+     [
+      "She [promised] to call me.",
+      "Она пообещала мне позвонить.",
+      "Promise + to-инфинитив."
+     ],
+     [
+      "Do you mind [opening] the window?",
+      "Не против открыть окно?",
+      "Mind + -ing."
+     ],
+     [
+      "I remember [meeting] him at a party.",
+      "Я помню, как встретил его на вечеринке.",
+      "Remember + -ing — помнить прошлое."
+     ],
+     [
+      "Try [restarting] your computer.",
+      "Попробуй перезагрузить компьютер.",
+      "Try + -ing — попробовать как способ."
+     ],
+     [
+      "We hope [to see] you soon.",
+      "Надеемся скоро увидеть тебя.",
+      "Hope + to-инфинитив."
+     ]
+    ]
    },
    {
     "id": "b1u31l2",
@@ -676,7 +852,42 @@ addUnits("b1", [
     "text": {
      "en": "When I started my first job in an American company, I was nervous about everything. I wasn't familiar with the software, and I was afraid of making mistakes in emails. My manager, Dana, was very kind to me. She said, \"Don't worry, nobody expects you to be good at everything in week one.\" She made me responsible for one small project so I could learn step by step. I was surprised at how relaxed the team was. People were proud of their work but never angry with someone for asking questions. After a few months, I got tired of being the quiet one and started speaking up in meetings. Now I'm really happy with my progress, and I'm interested in leading a project myself next year.",
      "ru": "Когда я начал работать в американской компании, я нервничал из-за всего. Я не был знаком с программами и боялся ошибиться в письмах. Мой менеджер Дана была очень добра ко мне. Она сказала: «Не переживай, никто не ждёт, что ты будешь хорош во всём в первую неделю». Она поручила мне один небольшой проект, чтобы я учился шаг за шагом. Я удивился, насколько расслабленной была команда. Люди гордились своей работой, но никогда не злились на кого-то за вопросы. Через несколько месяцев мне надоело быть тихоней, и я начал высказываться на встречах. Теперь я очень доволен прогрессом и хочу сам руководить проектом в следующем году."
-    }
+    },
+    "tags": [
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "I'm proud [of] you.",
+      "Я горжусь тобой.",
+      "Proud of — гордиться."
+     ],
+     [
+      "She's married [to] a doctor.",
+      "Она замужем за врачом.",
+      "Married to."
+     ],
+     [
+      "He's good [at] math.",
+      "Он хорошо разбирается в математике.",
+      "Good at — хорош в чём-то."
+     ],
+     [
+      "I'm tired [of] waiting.",
+      "Я устал ждать.",
+      "Tired of + -ing."
+     ],
+     [
+      "This town is famous [for] its pizza.",
+      "Этот город славится пиццей.",
+      "Famous for."
+     ],
+     [
+      "Are you aware [of] the risks?",
+      "Ты знаешь о рисках?",
+      "Aware of — осведомлён о."
+     ]
+    ]
    },
    {
     "id": "b1u31l3",
@@ -786,7 +997,42 @@ addUnits("b1", [
     "text": {
      "en": "Applying for a job abroad taught me a lot about patience. First I had to look for companies that sponsor visas. Then I spent weeks waiting for answers. Most of them never replied, and I started to worry about my chances. My friend told me to stop complaining about it and focus on improving my resume. She insisted on reading every cover letter herself. We discussed each one, and she explained the American style to me: short, confident, results first. Two months later, a company in Austin called me. The interview went well, although it all depended on one final test. I passed! The lesson? Success doesn't belong to the luckiest people. It belongs to the people who keep trying and know who they can rely on.",
      "ru": "Поиск работы за границей многому научил меня в плане терпения. Сначала надо было искать компании, которые спонсируют визы. Потом я неделями ждал ответов. Большинство не отвечали, и я начал беспокоиться о шансах. Подруга сказала перестать жаловаться и сосредоточиться на резюме. Она настояла на том, чтобы сама читать каждое сопроводительное письмо. Мы обсуждали каждое, и она объяснила мне американский стиль: коротко, уверенно, результаты в начале. Через два месяца мне позвонила компания из Остина. Собеседование прошло хорошо, хотя всё зависело от финального теста. Я сдал! Урок? Успех принадлежит не самым удачливым. Он принадлежит тем, кто продолжает пытаться и знает, на кого можно положиться."
-    }
+    },
+    "tags": [
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "I'm listening [to] a podcast.",
+      "Я слушаю подкаст.",
+      "Listen to."
+     ],
+     [
+      "Can you look [at] this for me?",
+      "Можешь посмотреть на это?",
+      "Look at."
+     ],
+     [
+      "We talked [about] the trip.",
+      "Мы поговорили о поездке.",
+      "Talk about."
+     ],
+     [
+      "I don't believe [in] luck.",
+      "Я не верю в удачу.",
+      "Believe in."
+     ],
+     [
+      "Thanks for paying [for] lunch.",
+      "Спасибо, что заплатил за обед.",
+      "Pay for."
+     ],
+     [
+      "She complained [about] the noise.",
+      "Она пожаловалась на шум.",
+      "Complain about."
+     ]
+    ]
    },
    {
     "id": "b1u31l4",
@@ -899,7 +1145,43 @@ addUnits("b1", [
     "text": {
      "en": "Last weekend I went back to the town I grew up in. It's the kind of place where everybody knows everybody. I visited the school I used to hate, the park we played soccer in, and the diner where my dad took us every Sunday. I even ran into Mrs. Carter, the teacher whose class made me love English. She asked about the job I'd moved away for, and I told her about the company I work for now and the people I work with. She smiled and said, \"You were always the kid who asked too many questions.\" Then she showed me the old library, which I had completely forgotten about. It's funny how the places you spend your childhood in stay with you forever.",
      "ru": "В прошлые выходные я вернулся в город, где вырос. Это такое место, где все знают всех. Я зашёл в школу, которую раньше ненавидел, в парк, где мы играли в футбол, и в закусочную, куда папа водил нас каждое воскресенье. Я даже встретил миссис Картер — учительницу, чьи уроки заставили меня полюбить английский. Она спросила о работе, ради которой я уехал, и я рассказал о компании, где работаю сейчас, и о людях, с которыми работаю. Она улыбнулась: «Ты всегда был ребёнком, который задаёт слишком много вопросов». Потом она показала мне старую библиотеку, о которой я совсем забыл. Забавно, как места, где ты провёл детство, остаются с тобой навсегда."
-    }
+    },
+    "tags": [
+     "relative-clauses",
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "That's the guy I told you [about].",
+      "Это тот парень, о котором я тебе рассказывал.",
+      "Предлог в конце придаточного."
+     ],
+     [
+      "She's the person I rely [on].",
+      "Она человек, на которого я полагаюсь.",
+      "Rely on — предлог остаётся в конце."
+     ],
+     [
+      "This is the house I grew up [in].",
+      "Это дом, в котором я вырос.",
+      "Grow up in — предлог в конце."
+     ],
+     [
+      "Who's the girl you were talking [to]?",
+      "Кто та девушка, с которой ты говорил?",
+      "Talk to — предлог в конце."
+     ],
+     [
+      "The job I applied [for] was filled.",
+      "Вакансию, на которую я подавался, закрыли.",
+      "Apply for."
+     ],
+     [
+      "It's a topic I know little [about].",
+      "Это тема, о которой я мало знаю.",
+      "Know about."
+     ]
+    ]
    },
    {
     "id": "b1u31l5",
@@ -1011,7 +1293,42 @@ addUnits("b1", [
     "text": {
      "en": "Moving into a new apartment in the US involves a lot of paperwork and a lot of services. Before I arrived, I had the internet connected so I could work from day one. I got a couch delivered on the first weekend, but the delivery guy dropped it, so I had to have it replaced. The landlord had the locks changed for safety, which I appreciated. My car needed attention too, so I got the oil changed and had the tires checked. The funniest part was my haircut: I tried to explain what I wanted, but I ended up having it cut way too short. Lesson learned: show a photo. By the end of the month, I had everything done, and I could finally relax.",
      "ru": "Переезд в новую квартиру в США — это много бумаг и много услуг. До приезда я подключил интернет, чтобы работать с первого дня. В первые выходные мне привезли диван, но доставщик его уронил, и пришлось его заменить. Арендодатель поменял замки для безопасности, что я оценил. Машине тоже нужно было внимание: я поменял масло и проверил шины. Самой смешной была стрижка: я пытался объяснить, что хочу, но в итоге меня подстригли слишком коротко. Урок: показывайте фото. К концу месяца всё было сделано, и я наконец смог расслабиться."
-    }
+    },
+    "tags": [
+     "causative"
+    ],
+    "extra": [
+     [
+      "I had my hair [cut] yesterday.",
+      "Вчера я подстригся.",
+      "Have + объект + 3-я форма."
+     ],
+     [
+      "We need to get the car [washed].",
+      "Нам нужно помыть машину (в мойке).",
+      "Get + объект + причастие."
+     ],
+     [
+      "She's having her house [painted].",
+      "Ей красят дом.",
+      "Continuous в каузативе."
+     ],
+     [
+      "Where do you get your suits [cleaned]?",
+      "Где ты чистишь костюмы?",
+      "Get something done в вопросе."
+     ],
+     [
+      "I'm going to get my eyes [checked].",
+      "Я собираюсь проверить зрение.",
+      "Get + eyes + checked."
+     ],
+     [
+      "He had his phone [stolen] on the subway.",
+      "У него украли телефон в метро.",
+      "Have something done — о неприятностях."
+     ]
+    ]
    }
   ]
  },
@@ -1127,7 +1444,43 @@ addUnits("b1", [
     "text": {
      "en": "Here's my plan for the move. As soon as I get my visa, I'll book a flight to Denver. Before I leave, I'll sell my furniture and say goodbye to my friends. When I land, my cousin will pick me up at the airport. I'll stay with her until I find my own place. Once I've signed a lease, I'll buy a bed and some basic stuff. While I'm looking for an apartment, I'll keep working remotely for my current company. During the first month, I want to explore the city and find a good gym. By the time winter comes, I hope I'll feel at home. Of course, plans change, but having one makes me feel calmer.",
      "ru": "Вот мой план переезда. Как только получу визу, забронирую рейс в Денвер. Перед отъездом продам мебель и попрощаюсь с друзьями. Когда приземлюсь, кузина встретит меня в аэропорту. Поживу у неё, пока не найду своё жильё. Как только подпишу договор аренды, куплю кровать и самое необходимое. Пока ищу квартиру, продолжу удалённо работать на нынешнюю компанию. В первый месяц хочу изучить город и найти хороший спортзал. К тому времени, как придёт зима, надеюсь, буду чувствовать себя как дома. Конечно, планы меняются, но когда план есть, мне спокойнее."
-    }
+    },
+    "tags": [
+     "future",
+     "conjunctions"
+    ],
+    "extra": [
+     [
+      "Call me when you [get] home.",
+      "Позвони, когда доберёшься домой.",
+      "После when — Present Simple вместо will."
+     ],
+     [
+      "I'll stay until the movie [ends].",
+      "Я останусь, пока фильм не закончится.",
+      "Until + Present Simple."
+     ],
+     [
+      "After we [eat], let's go for a walk.",
+      "Когда поедим, пойдём погуляем.",
+      "After + Present Simple."
+     ],
+     [
+      "As soon as I [hear] anything, I'll tell you.",
+      "Как только что-то узнаю, скажу тебе.",
+      "As soon as + Present."
+     ],
+     [
+      "Don't leave [until] I come back.",
+      "Не уходи, пока я не вернусь.",
+      "Until — до тех пор, пока."
+     ],
+     [
+      "[Before] you sign, read the contract.",
+      "Прежде чем подписать, прочитай договор.",
+      "Before — прежде чем."
+     ]
+    ]
    },
    {
     "id": "b1u32l2",
@@ -1237,7 +1590,42 @@ addUnits("b1", [
     "text": {
      "en": "My week is already full. On Monday I'm having a video interview with a company in Seattle. I'm going to prepare tonight, because I want to sound confident. My flight to New York leaves on Wednesday at 7 a.m., so I'll probably sleep on the plane. This time on Thursday, I'll be walking around Manhattan with my friend Leo. We're seeing a Broadway show on Friday night. I think it'll be amazing, although the tickets cost a fortune. By the weekend, I'll have spent most of my savings, but that's okay. Oh, and Leo just texted that it's going to snow. I guess I'll buy a warmer jacket when I get there.",
      "ru": "Моя неделя уже забита. В понедельник у меня видеособеседование с компанией из Сиэтла. Собираюсь подготовиться сегодня вечером, потому что хочу звучать уверенно. Мой рейс в Нью-Йорк вылетает в среду в 7 утра, так что, наверное, посплю в самолёте. В четверг в это время я буду гулять по Манхэттену с другом Лео. В пятницу вечером мы идём на бродвейское шоу. Думаю, будет потрясающе, хотя билеты стоят целое состояние. К выходным я потрачу большую часть сбережений, но ничего. А, и Лео только что написал, что пойдёт снег. Видимо, куплю куртку потеплее, когда доберусь."
-    }
+    },
+    "tags": [
+     "future"
+    ],
+    "extra": [
+     [
+      "The train [leaves] at 6:40.",
+      "Поезд отправляется в 6:40.",
+      "Present Simple для расписаний."
+     ],
+     [
+      "Look at those clouds! It's [going to] rain.",
+      "Посмотри на тучи! Сейчас пойдёт дождь.",
+      "Going to — прогноз по признакам."
+     ],
+     [
+      "I think she'[ll] love the gift.",
+      "Думаю, ей понравится подарок.",
+      "Will после I think."
+     ],
+     [
+      "We're [flying] to Miami on Friday.",
+      "В пятницу мы летим в Майами.",
+      "Present Continuous для договорённостей."
+     ],
+     [
+      "I'm [going to] learn to drive this year.",
+      "Я собираюсь научиться водить в этом году.",
+      "Going to — намерение."
+     ],
+     [
+      "The phone's ringing. — I'[ll] get it.",
+      "Телефон звонит. — Я возьму.",
+      "Will — спонтанное решение."
+     ]
+    ]
    },
    {
     "id": "b1u32l3",
@@ -1350,7 +1738,42 @@ addUnits("b1", [
     "text": {
      "en": "Driving in the US for the first time, I learned a lot about rules. In most states you have to carry your license at all times. You mustn't text while driving; you can get a big fine. At a four-way stop, you're supposed to let the first car go first, which confused me at the beginning. You don't have to pay for parking on Sundays in many cities, but you should always read the signs. My friend got a ticket and said, \"I should have checked the sign.\" When a police car is behind you with lights on, you'd better pull over immediately. One night I saw a car driving very slowly in the left lane. The driver must have been lost, or he might have been tired. Either way, it was a reminder: be patient.",
      "ru": "Впервые водя машину в США, я многое узнал о правилах. В большинстве штатов нужно всегда иметь при себе права. Нельзя переписываться за рулём — можно получить большой штраф. На перекрёстке с четырьмя знаками «стоп» нужно пропустить того, кто подъехал первым, что меня поначалу путало. Во многих городах по воскресеньям можно не платить за парковку, но знаки всегда стоит читать. Друг получил штраф и сказал: «Надо было проверить знак». Если за вами полицейская машина с мигалками, лучше сразу остановиться. Однажды ночью я видел машину, очень медленно ехавшую в левом ряду. Водитель, наверное, заблудился, или, может, устал. В любом случае это было напоминание: будь терпелив."
-    }
+    },
+    "tags": [
+     "modals"
+    ],
+    "extra": [
+     [
+      "You [should] see a doctor.",
+      "Тебе стоит сходить к врачу.",
+      "Should — совет."
+     ],
+     [
+      "She [might] be late today.",
+      "Она, возможно, сегодня опоздает.",
+      "Might — возможность."
+     ],
+     [
+      "That [can't] be true!",
+      "Не может быть!",
+      "Can't — уверенность в невозможности."
+     ],
+     [
+      "You [needn't] bring anything.",
+      "Можешь ничего не приносить.",
+      "Needn't — нет необходимости."
+     ],
+     [
+      "All passengers [must] wear seat belts.",
+      "Все пассажиры должны пристегнуться.",
+      "Must — правило."
+     ],
+     [
+      "I [had to] wait two hours yesterday.",
+      "Вчера мне пришлось ждать два часа.",
+      "Had to — прошедшее от have to."
+     ]
+    ]
    },
    {
     "id": "b1u32l4",
@@ -1459,7 +1882,43 @@ addUnits("b1", [
     "text": {
      "en": "I've been learning English for about six years, but my relationship with it has changed a lot. At school, I studied grammar rules and memorized lists. I didn't enjoy it at all. Then, when I was nineteen, I discovered online games. I was playing with a team from Texas when I realized I couldn't understand half of what they were saying. That night I decided to change everything. Since then, I've watched hundreds of hours of videos without subtitles. Lately I've been reading novels too. Next year I'm moving to Toronto for work, and by the time I arrive, I'll have practiced speaking every day for a year. I usually say that English isn't a subject for me anymore. It's just part of my life.",
      "ru": "Я учу английский уже около шести лет, но мои отношения с ним сильно изменились. В школе я учил правила и зубрил списки. Мне это совсем не нравилось. Потом, в девятнадцать, я открыл онлайн-игры. Я играл с командой из Техаса, когда понял, что не понимаю половину их слов. В ту ночь я решил всё поменять. С тех пор я посмотрел сотни часов видео без субтитров. В последнее время ещё и читаю романы. В следующем году переезжаю в Торонто по работе, и к моменту приезда буду практиковать разговор каждый день уже год. Я обычно говорю, что английский для меня больше не предмет. Это просто часть моей жизни."
-    }
+    },
+    "tags": [
+     "present-perfect",
+     "past-simple"
+    ],
+    "extra": [
+     [
+      "I [lost] my keys yesterday.",
+      "Я вчера потерял ключи.",
+      "Yesterday — Past Simple."
+     ],
+     [
+      "Have you ever [been] to Canada?",
+      "Ты когда-нибудь был в Канаде?",
+      "Ever — Present Perfect."
+     ],
+     [
+      "She [is] cooking dinner right now.",
+      "Она сейчас готовит ужин.",
+      "Right now — Present Continuous."
+     ],
+     [
+      "He usually [walks] to work.",
+      "Он обычно ходит на работу пешком.",
+      "Usually — Present Simple."
+     ],
+     [
+      "By the time we arrived, they [had] left.",
+      "К тому времени, как мы приехали, они уже ушли.",
+      "Past Perfect — раньше другого прошлого."
+     ],
+     [
+      "I've been [waiting] for an hour.",
+      "Я жду уже час.",
+      "Present Perfect Continuous — длительность."
+     ]
+    ]
    }
   ]
  }

@@ -167,6 +167,42 @@ addUnits("a2", [
      "have worked — период закрыт (2018–2020), нужен Past Simple; work — настоящее время; was work — неверная форма.",
      "communicate — после предлога at нужна -ing форма; to communicate — инфинитив после предлога невозможен; communication with — нет дополнения после with.",
      "apply to job — apply to + компания, и нет артикля; apply on — неверный предлог; ask a job — так не говорят (ask for a job — просить работу)."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "I'm interested [in] this position.",
+      "Меня интересует эта вакансия.",
+      "interested in — интересоваться."
+     ],
+     [
+      "I have experience [in] customer service.",
+      "У меня есть опыт в обслуживании клиентов.",
+      "experience in — опыт в сфере."
+     ],
+     [
+      "I [graduated] from college in 2021.",
+      "Я окончил колледж в 2021 году.",
+      "graduate from — окончить учебное заведение."
+     ],
+     [
+      "I'm good [at] working in a team.",
+      "Я хорошо работаю в команде.",
+      "good at + -ing."
+     ],
+     [
+      "Please find my [resume] attached.",
+      "Моё резюме во вложении.",
+      "resume — резюме (амер.)."
+     ],
+     [
+      "I speak English and Russian [fluently].",
+      "Я свободно говорю по-английски и по-русски.",
+      "fluently — наречие, свободно."
+     ]
     ]
    },
    {
@@ -326,6 +362,42 @@ addUnits("a2", [
      "get on to — «связаться с, переключиться на»; go along — «идти вместе, соглашаться»; get with along — неверный порядок слов.",
      "mustn't — это запрет, а костюм можно, просто не обязательно; haven't — haven't wear невозможно; not have — нет вспомогательного do.",
      "coleague — орфографическая ошибка (colleague) и это не разговорный вариант; partner job — так не говорят; workman — рабочий, мастер."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "modals"
+    ],
+    "extra": [
+     [
+      "Your desk is [next] to the window.",
+      "Ваш стол у окна.",
+      "next to — рядом с."
+     ],
+     [
+      "You [don't] have to wear a tie here.",
+      "Здесь не обязательно носить галстук.",
+      "don't have to — не обязательно."
+     ],
+     [
+      "This is Anna, she's your [manager].",
+      "Это Анна, она ваш руководитель.",
+      "manager — руководитель."
+     ],
+     [
+      "Lunch break is [from] twelve to one.",
+      "Обеденный перерыв с двенадцати до часу.",
+      "from ... to — с ... до."
+     ],
+     [
+      "Let me [introduce] you to the team.",
+      "Позвольте представить вас команде.",
+      "introduce to — представить кому-то."
+     ],
+     [
+      "Feel free to [ask] me anything.",
+      "Не стесняйтесь спрашивать меня о чём угодно.",
+      "feel free to + глагол."
+     ]
     ]
    },
    {
@@ -481,6 +553,42 @@ addUnits("a2", [
      "be there wait, before the week, back to work — выдуманные расшифровки, BTW = by the way.",
      "get on to you — «связаться, придираться»; go back you — грамматически неверно; get you back — «отомстить тебе».",
      "Yours faithfully, Dear Sir, Respectfully — официальные формулы, а не дружеская концовка."
+    ],
+    "tags": [
+     "writing",
+     "register"
+    ],
+    "extra": [
+     [
+      "Thanks [for] the birthday message!",
+      "Спасибо за поздравление с днём рождения!",
+      "thanks for — спасибо за."
+     ],
+     [
+      "Hope you're [doing] well!",
+      "Надеюсь, у тебя всё хорошо!",
+      "Hope you're doing well — частое начало письма."
+     ],
+     [
+      "Can't [wait] to see you!",
+      "Не могу дождаться встречи!",
+      "Can't wait — с нетерпением жду."
+     ],
+     [
+      "Text me when you get [home].",
+      "Напиши, когда доберёшься домой.",
+      "get home — без предлога to."
+     ],
+     [
+      "Talk to you [soon]!",
+      "Скоро созвонимся!",
+      "Talk soon — неформальное прощание."
+     ],
+     [
+      "Just [checking] in to see how you are.",
+      "Просто хотел узнать, как ты.",
+      "check in — справиться, как дела."
+     ]
     ]
    },
    {
@@ -642,6 +750,42 @@ addUnits("a2", [
      "to take — после Let's to не ставится; taking — нужна начальная форма; takes — -s после Let's невозможно.",
      "call up — «позвонить»; call back — «перезвонить»; put on — «надеть, включить».",
      "No. I don't want. — грубо и неполно (нужно to); I won't, busy. — грубо и неграмматично; Not, thanks you. — грамматические ошибки (No, thank you)."
+    ],
+    "tags": [
+     "speaking",
+     "gerund-infinitive"
+    ],
+    "extra": [
+     [
+      "I'd love to, but I'm [busy] on Friday.",
+      "С удовольствием, но в пятницу я занят.",
+      "Вежливый отказ: I'd love to, but..."
+     ],
+     [
+      "Do you want to [grab] a coffee later?",
+      "Хочешь выпить кофе попозже?",
+      "grab a coffee — разг. выпить кофе."
+     ],
+     [
+      "What about [meeting] on Saturday?",
+      "Как насчёт встречи в субботу?",
+      "What about + -ing."
+     ],
+     [
+      "Sounds [great]! See you there.",
+      "Звучит отлично! Увидимся там.",
+      "Sounds great — согласие."
+     ],
+     [
+      "Maybe [another] time.",
+      "Может, в другой раз.",
+      "another time — в другой раз."
+     ],
+     [
+      "Are you [free] tomorrow night?",
+      "Ты свободен завтра вечером?",
+      "free — свободный."
+     ]
     ]
    },
    {
@@ -798,6 +942,42 @@ addUnits("a2", [
      "sleep over — «переночевать у кого-то»; outsleep, sleep out — не значат «проспать».",
      "to — apologize to + человек, а не причина; about of — два предлога подряд; — — предлог for обязателен.",
      "ran off money — run off = «убежать»; My money run — неверная форма и смысл; I out of money ran — неверный порядок слов."
+    ],
+    "tags": [
+     "speaking",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "I'm so sorry I [missed] your call.",
+      "Прости, что пропустил твой звонок.",
+      "miss a call — пропустить звонок."
+     ],
+     [
+      "My alarm didn't [go] off.",
+      "Мой будильник не зазвонил.",
+      "go off — сработать (о будильнике)."
+     ],
+     [
+      "Sorry, I [forgot] about our meeting.",
+      "Извини, я забыл о нашей встрече.",
+      "forget — forgot."
+     ],
+     [
+      "The bus was [late] again.",
+      "Автобус опять опоздал.",
+      "late — опоздавший."
+     ],
+     [
+      "It won't [happen] again.",
+      "Такого больше не повторится.",
+      "won't happen again — обещание."
+     ],
+     [
+      "Sorry for not [replying] sooner.",
+      "Извини, что не ответил раньше.",
+      "for not + -ing."
+     ]
     ]
    },
    {
@@ -960,6 +1140,42 @@ addUnits("a2", [
      "check never — наречие частоты ставится перед смысловым глаголом; never am check — смешаны be и check; am never checking always — бессмыслица.",
      "look after — «заботиться»; look out — «быть осторожным»; look for up — две частицы подряд.",
      "died off out — лишние частицы; is killed — «убита», не о батарее; is sleeping — «спит», так не говорят."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "phrasal-verbs"
+    ],
+    "extra": [
+     [
+      "My battery is [dead].",
+      "У меня сел телефон.",
+      "dead — разряжен."
+     ],
+     [
+      "I [scrolled] through Instagram for an hour.",
+      "Я листал Инстаграм целый час.",
+      "scroll through — листать."
+     ],
+     [
+      "Can you [send] me the link?",
+      "Можешь прислать мне ссылку?",
+      "send someone something."
+     ],
+     [
+      "She has over ten thousand [followers].",
+      "У неё больше десяти тысяч подписчиков.",
+      "followers — подписчики."
+     ],
+     [
+      "Don't forget to [like] my new post!",
+      "Не забудь лайкнуть мой новый пост!",
+      "like a post — лайкнуть."
+     ],
+     [
+      "I [deleted] the app last week.",
+      "Я удалил приложение на прошлой неделе.",
+      "delete — удалить."
+     ]
     ]
    }
   ]
@@ -1125,6 +1341,42 @@ addUnits("a2", [
      "cooker — это плита; cooking — процесс готовки; cookman — такого слова нет.",
      "Past Simple, Present Perfect, Future — в рецептах инструкции даются в повелительном наклонении.",
      "boil — варить; fry — жарить; stir — помешивать."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "present-simple"
+    ],
+    "extra": [
+     [
+      "[Slice] the tomatoes thinly.",
+      "Тонко нарежьте помидоры.",
+      "slice — резать ломтиками."
+     ],
+     [
+      "[Preheat] the oven to 350 degrees.",
+      "Разогрейте духовку до 350 градусов.",
+      "preheat — разогреть заранее."
+     ],
+     [
+      "Stir the sauce [until] it thickens.",
+      "Помешивайте соус, пока он не загустеет.",
+      "until — пока не."
+     ],
+     [
+      "[Mix] the flour and sugar in a bowl.",
+      "Смешайте муку и сахар в миске.",
+      "mix — смешивать."
+     ],
+     [
+      "Bake the cake [for] forty minutes.",
+      "Выпекайте торт сорок минут.",
+      "for + время."
+     ],
+     [
+      "You'll need two cups [of] milk.",
+      "Вам понадобится две чашки молока.",
+      "cups of — чашки чего-то."
+     ]
     ]
    },
    {
@@ -1282,6 +1534,42 @@ addUnits("a2", [
      "do — с -ing занятиями используется go; play — для игр с мячом; make — не со спортом.",
      "give in out — бессмыслица; take up — «начать заниматься», противоположное; give off — «испускать (запах, тепло)».",
      "football — в США это американский футбол; footbal game — ошибка в написании; ball — просто «мяч»."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "collocations"
+    ],
+    "extra": [
+     [
+      "My brother [goes] swimming every Saturday.",
+      "Мой брат ходит плавать каждую субботу.",
+      "go + -ing для видов спорта."
+     ],
+     [
+      "Do you [play] tennis?",
+      "Ты играешь в теннис?",
+      "play + игры с мячом."
+     ],
+     [
+      "I [do] karate twice a week.",
+      "Я занимаюсь карате два раза в неделю.",
+      "do + единоборства."
+     ],
+     [
+      "She [went] running this morning.",
+      "Она бегала сегодня утром.",
+      "go — went."
+     ],
+     [
+      "I try to work out [at] least three times a week.",
+      "Я стараюсь заниматься хотя бы три раза в неделю.",
+      "at least — хотя бы."
+     ],
+     [
+      "He [lifts] weights at the gym.",
+      "Он поднимает штангу в спортзале.",
+      "lift weights — тягать железо."
+     ]
     ]
    },
    {
@@ -1445,6 +1733,42 @@ addUnits("a2", [
      "confused — это чувство человека, а сюжет вызывает чувство (-ing); confuse — глагол; confusedly — наречие.",
      "go out — «выйти, погаснуть»; get out — «выбраться»; turn up — «появиться».",
      "turn up to — «прийти на»; come over — «зайти в гости»; work out — «тренироваться, получиться»."
+    ],
+    "tags": [
+     "adjectives-adverbs",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "The ending was really [surprising].",
+      "Концовка была очень неожиданной.",
+      "-ing — описывает вещь."
+     ],
+     [
+      "I was [surprised] by the ending.",
+      "Я был удивлён концовкой.",
+      "-ed — описывает чувства человека."
+     ],
+     [
+      "The show is [about] two detectives.",
+      "Сериал о двух детективах.",
+      "be about — быть о чём-то."
+     ],
+     [
+      "Have you watched the new [season]?",
+      "Ты смотрел новый сезон?",
+      "season — сезон сериала."
+     ],
+     [
+      "The special effects were [amazing].",
+      "Спецэффекты были потрясающими.",
+      "amazing — потрясающий."
+     ],
+     [
+      "I wouldn't [recommend] this movie.",
+      "Я бы не советовал этот фильм.",
+      "recommend — рекомендовать."
+     ]
     ]
    },
    {
@@ -1598,6 +1922,42 @@ addUnits("a2", [
      "will find — после if будущее время не ставится; found — прошедшее время; finding — нет сказуемого.",
      "beat — V2 = beat, но после have нужна V3 beaten; beating — -ing после have невозможно; beated — beat неправильный глагол.",
      "team on — неверная частица; group out, join off — таких выражений нет."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "slang-colloquial"
+    ],
+    "extra": [
+     [
+      "I [saved] my game before the boss fight.",
+      "Я сохранил игру перед битвой с боссом.",
+      "save a game — сохранить игру."
+     ],
+     [
+      "This level is too [hard].",
+      "Этот уровень слишком сложный.",
+      "hard — трудный."
+     ],
+     [
+      "We [won] the match in overtime.",
+      "Мы выиграли матч в овертайме.",
+      "win — won."
+     ],
+     [
+      "Let's play [online] tonight.",
+      "Давай поиграем онлайн сегодня вечером.",
+      "online — по сети."
+     ],
+     [
+      "I [lost] all my lives on level five.",
+      "Я потерял все жизни на пятом уровне.",
+      "lose — lost."
+     ],
+     [
+      "He's been [stuck] on the same level for days.",
+      "Он несколько дней застрял на одном уровне.",
+      "be stuck — застрять."
+     ]
     ]
    },
    {
@@ -1760,6 +2120,42 @@ addUnits("a2", [
      "use — в утверждении нужно used to; was used — was used to + V-ing значит «был привычен»; am used — «я привык», и нужен -ing.",
      "much — для неисчисляемых, а snacks исчисляемое; more — too more невозможно; enough — too enough невозможно.",
      "stay on — «остаться (на работе, в должности)»; get up — «вставать»; sit out — «пропустить, пересидеть»."
+    ],
+    "tags": [
+     "modals",
+     "phrasal-verbs"
+    ],
+    "extra": [
+     [
+      "You should [drink] more water.",
+      "Тебе стоит пить больше воды.",
+      "should + инфинитив без to."
+     ],
+     [
+      "I'm trying to cut [back] on coffee.",
+      "Я стараюсь пить меньше кофе.",
+      "cut back on — сократить."
+     ],
+     [
+      "I [used] to eat a lot of fast food.",
+      "Раньше я ел много фастфуда.",
+      "used to — привычка в прошлом."
+     ],
+     [
+      "You [should] get at least eight hours of sleep.",
+      "Тебе нужно спать хотя бы восемь часов.",
+      "should — совет."
+     ],
+     [
+      "He gave [up] smoking last year.",
+      "Он бросил курить в прошлом году.",
+      "give up — бросить."
+     ],
+     [
+      "I go to bed [early] on weeknights.",
+      "По будням я ложусь рано.",
+      "early — рано."
+     ]
     ]
    }
   ]

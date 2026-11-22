@@ -151,6 +151,42 @@ addUnits("b2", [
      "am going to — настоящее, а намерение было в прошлом; will — не передаёт прошлый план; would have — нужно would have called, и смысл другой.",
      "going — нужно going to, и смысл «вот-вот» теряется; to about — неверный порядок; near to — не образует такой конструкции.",
      "He was gonna become president — разговорное, а не книжное; He would became — после would нужна V1; He will become president then — будущее, не взгляд из прошлого."
+    ],
+    "tags": [
+     "future",
+     "reported-speech"
+    ],
+    "extra": [
+     [
+      "I thought it [would] rain, so I took an umbrella.",
+      "Я думал, что пойдёт дождь, поэтому взял зонт.",
+      "Предсказание из прошлого: will → would."
+     ],
+     [
+      "She [was going to] quit, but they gave her a raise.",
+      "Она собиралась уволиться, но ей повысили зарплату.",
+      "Несбывшийся план в прошлом — was going to."
+     ],
+     [
+      "The train [was about to] leave when we jumped on.",
+      "Поезд вот-вот должен был отойти, когда мы запрыгнули.",
+      "was about to — «вот-вот должно было случиться»."
+     ],
+     [
+      "He promised he [would] never be late again.",
+      "Он пообещал, что больше никогда не опоздает.",
+      "Обещание в прошлом передаётся через would."
+     ],
+     [
+      "They met in 2010, and later they [were to] marry.",
+      "Они познакомились в 2010-м, а позже им суждено было пожениться.",
+      "was/were to — судьба, книжный стиль."
+     ],
+     [
+      "We [were going to] watch a movie, but the power went out.",
+      "Мы собирались посмотреть фильм, но отключили свет.",
+      "Намерение, которое не осуществилось."
+     ]
     ]
    },
    {
@@ -294,6 +330,41 @@ addUnits("b2", [
      "who — после предлога of нужен объектный падеж whom; them — создаёт два независимых предложения без союза (ошибка); which — о предметах, а не о людях.",
      "that — в non-defining (с запятыми) нельзя; без первой запятой придаточное оформлено неверно; без which нет относительного местоимения.",
      "to who — после предлога нужен whom; to that — that не ставится после предлога; whom to — неверный порядок."
+    ],
+    "tags": [
+     "relative-clauses"
+    ],
+    "extra": [
+     [
+      "That's the guy [whose] dog bit my brother.",
+      "Это тот парень, чья собака укусила моего брата.",
+      "whose — «чей», принадлежность."
+     ],
+     [
+      "She passed the test, [which] surprised everyone.",
+      "Она сдала тест, что всех удивило.",
+      "which относится ко всему предложению."
+     ],
+     [
+      "I have three cousins, two [of whom] live in Texas.",
+      "У меня три кузена, двое из которых живут в Техасе.",
+      "После of о людях — whom."
+     ],
+     [
+      "This is the house [in which] I grew up.",
+      "Это дом, в котором я вырос.",
+      "Предлог + which — формальный вариант."
+     ],
+     [
+      "He bought ten books, none [of which] he has read.",
+      "Он купил десять книг, ни одну из которых не прочитал.",
+      "none of which — о вещах."
+     ],
+     [
+      "The company [whose] app crashed apologized to users.",
+      "Компания, чьё приложение упало, извинилась перед пользователями.",
+      "whose возможно и для неодушевлённых."
+     ]
     ]
    },
    {
@@ -442,6 +513,42 @@ addUnits("b2", [
      "will do — в придаточном с -ever will не ставят; would do — условное, не к месту; did do — прошедшее эмфатическое, не подходит.",
      "Whatever — о вещах, а позвонил человек; Who ever that — бессмыслица; Anyone — нужно Anyone who called.",
      "whatever I go — whatever не про место; however I go — «как бы я ни шёл», не «куда»; whenever I go where — лишнее where, смысл времени."
+    ],
+    "tags": [
+     "conjunctions",
+     "relative-clauses"
+    ],
+    "extra": [
+     [
+      "[Wherever] you go, I'll follow you.",
+      "Куда бы ты ни пошёл, я пойду за тобой.",
+      "wherever — «где/куда бы ни»."
+     ],
+     [
+      "Call me [whenever] you need help.",
+      "Звони мне всякий раз, когда нужна помощь.",
+      "whenever — «когда бы ни, всякий раз»."
+     ],
+     [
+      "[No matter how] hard I try, I can't sleep.",
+      "Как бы я ни старался, не могу заснуть.",
+      "no matter how + прилагательное/наречие."
+     ],
+     [
+      "You can invite [whoever] you like.",
+      "Можешь пригласить кого угодно.",
+      "whoever — «кто бы ни, любой, кто»."
+     ],
+     [
+      "Take [whichever] seat is free.",
+      "Садись на любое свободное место.",
+      "whichever — выбор из ограниченного набора."
+     ],
+     [
+      "[However] much it costs, I'm buying it.",
+      "Сколько бы это ни стоило, я это куплю.",
+      "however much — «сколько бы ни»."
+     ]
     ]
    },
    {
@@ -587,6 +694,42 @@ addUnits("b2", [
      "unless — «если не», смысл ломается; provided — условие-разрешение, а не предосторожность; otherwise — «иначе», не соединяет так предложения.",
      "unless — «если не вернёшься», противоположный смысл; in case — предосторожность; otherwise — «иначе», не подходит.",
      "Unless you study, you'll fail — правильно; If you don't study, you'll fail — правильно; As long as you study, you'll pass — правильно (ошибка только в варианте с unless + don't)."
+    ],
+    "tags": [
+     "conditionals",
+     "conjunctions"
+    ],
+    "extra": [
+     [
+      "Take a jacket [in case] it gets cold.",
+      "Возьми куртку на случай, если похолодает.",
+      "in case — предосторожность, а не условие."
+     ],
+     [
+      "Hurry up, [otherwise] we'll miss the bus.",
+      "Поторопись, иначе мы опоздаем на автобус.",
+      "otherwise — «иначе»."
+     ],
+     [
+      "You won't pass [unless] you study harder.",
+      "Ты не сдашь, если не будешь заниматься усерднее.",
+      "unless = if not."
+     ],
+     [
+      "[Suppose] you won the lottery, what would you do?",
+      "Предположим, ты выиграл в лотерею — что бы ты сделал?",
+      "suppose вводит гипотетическое условие."
+     ],
+     [
+      "I'll lend you my car [as long as] you drive carefully.",
+      "Я одолжу тебе машину, если будешь водить аккуратно.",
+      "as long as — «при условии, что»."
+     ],
+     [
+      "We'll go hiking, [provided] the weather is good.",
+      "Мы пойдём в поход при условии хорошей погоды.",
+      "provided (that) — формальное «при условии»."
+     ]
     ]
    },
    {
@@ -742,6 +885,42 @@ addUnits("b2", [
      "enough old — enough должен стоять после прилагательного; too old — противоположный смысл; so old — нужен that-результат.",
      "to carry it — после too ... to дополнение не повторяют; carrying — после too нужен инфинитив; that I carry — неверная конструкция.",
      "so many — noise неисчисляемое; such — нужно such a lot of; too many — для исчисляемых и без that."
+    ],
+    "tags": [
+     "quantifiers",
+     "adjectives-adverbs"
+    ],
+    "extra": [
+     [
+      "The soup is [too] hot to eat.",
+      "Суп слишком горячий, чтобы его есть.",
+      "too + прил. + to — избыток."
+     ],
+     [
+      "He isn't old [enough] to drive.",
+      "Он недостаточно взрослый, чтобы водить.",
+      "enough ставится после прилагательного."
+     ],
+     [
+      "It was [such] a good party that nobody left.",
+      "Вечеринка была такой хорошей, что никто не ушёл.",
+      "such a + прил. + существительное."
+     ],
+     [
+      "There were [so] many people that we couldn't move.",
+      "Людей было так много, что мы не могли двигаться.",
+      "so many + исчисляемые."
+     ],
+     [
+      "I've eaten [so] much that I feel sick.",
+      "Я так много съел, что меня тошнит.",
+      "so much — с неисчисляемым или как наречие."
+     ],
+     [
+      "Do we have [enough] chairs for everyone?",
+      "У нас хватит стульев на всех?",
+      "enough стоит перед существительным."
+     ]
     ]
    }
   ]
@@ -896,6 +1075,41 @@ addUnits("b2", [
      "did finished — после did нужна V1; does finish — настоящее время, а речь о yesterday; finished did — неверный порядок.",
      "Does — повелительное образуется только с Do; Did — прошедшее, не повелительное; Be — be help неграмматично.",
      "was — was seem неграмматично; has — has seem неграмматично; do — с he и в прошлом нужно did."
+    ],
+    "tags": [
+     "emphasis-cleft"
+    ],
+    "extra": [
+     [
+      "I [do] remember locking the door.",
+      "Я точно помню, что запер дверь.",
+      "do усиливает утверждение."
+     ],
+     [
+      "She [does] work hard, believe me.",
+      "Она правда много работает, поверь мне.",
+      "В 3-м лице — does + инфинитив."
+     ],
+     [
+      "We [did] warn you about the traffic.",
+      "Мы ведь предупреждали тебя о пробках.",
+      "В прошлом — did + инфинитив."
+     ],
+     [
+      "[Do] help yourself to some cake.",
+      "Угощайтесь тортом, пожалуйста.",
+      "Do перед повелительным — вежливое настояние."
+     ],
+     [
+      "I don't play much, but I [do] enjoy watching.",
+      "Я мало играю, но смотреть мне очень нравится.",
+      "Эмфатическое do для контраста."
+     ],
+     [
+      "He [did] say he'd come, didn't he?",
+      "Он ведь говорил, что придёт?",
+      "did say — подчёркивает факт."
+     ]
     ]
    },
    {
@@ -1040,6 +1254,42 @@ addUnits("b2", [
      "like as — двойной союз, ошибка; as — as we'll stay home не значит «похоже, что»; such as — вводит примеры.",
      "as — она не рыба, это сравнение; as if — требует придаточное; such — не вводит сравнение.",
      "Like — значило бы «подобно врачу» (не являясь им); Such as — вводит примеры; As if — требует придаточное."
+    ],
+    "tags": [
+     "confusing-words",
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "He looks [like] his father.",
+      "Он похож на своего отца.",
+      "like — сходство, «как, похожий на»."
+     ],
+     [
+      "She talks [as if] she knows everything.",
+      "Она говорит так, будто всё знает.",
+      "as if — «как будто»."
+     ],
+     [
+      "I use my phone [as] an alarm clock.",
+      "Я использую телефон как будильник.",
+      "as — в качестве, функция."
+     ],
+     [
+      "I love fruits [such as] mangoes and kiwis.",
+      "Я люблю фрукты, такие как манго и киви.",
+      "such as — для примеров."
+     ],
+     [
+      "[As] I said, the meeting is canceled.",
+      "Как я сказал, встреча отменена.",
+      "as + предложение: «как»."
+     ],
+     [
+      "It smells [like] burnt toast in here.",
+      "Здесь пахнет подгоревшим тостом.",
+      "smell like + существительное."
+     ]
     ]
    },
    {
@@ -1192,6 +1442,41 @@ addUnits("b2", [
      "to visit — после worth нужен герундий; visit — голый глагол невозможен; to visiting — лишнее to.",
      "laugh — после can't help нужен герундий; to laugh — инфинитив не используется; laughed — прошедшее время не подходит.",
      "to argue — после no use нужен герундий; argue — голый глагол невозможен; argued — прошедшее не подходит."
+    ],
+    "tags": [
+     "gerund-infinitive"
+    ],
+    "extra": [
+     [
+      "It's not worth [buying] the expensive model.",
+      "Не стоит покупать дорогую модель.",
+      "worth + V-ing."
+     ],
+     [
+      "I couldn't help [laughing] at his joke.",
+      "Я не мог не рассмеяться над его шуткой.",
+      "can't help + V-ing — «не могу не»."
+     ],
+     [
+      "It's a waste of time [arguing] with him.",
+      "Спорить с ним — пустая трата времени.",
+      "a waste of time + V-ing."
+     ],
+     [
+      "There's no point [calling] — she's asleep.",
+      "Звонить бесполезно — она спит.",
+      "There's no point + V-ing."
+     ],
+     [
+      "It's no use [crying] over spilled milk.",
+      "Что толку плакать о пролитом молоке.",
+      "It's no use + V-ing."
+     ],
+     [
+      "This museum is well worth [visiting].",
+      "Этот музей определённо стоит посетить.",
+      "well worth + V-ing."
+     ]
     ]
    },
    {
@@ -1343,6 +1628,42 @@ addUnits("b2", [
      "get — после be used to нужен герундий; got — прошедшее не подходит; have got — неверная форма после to.",
      "used to — после did пишется без -d; would — did would невозможно; get used to — меняет смысл на «привыкать».",
      "I used to have a dog — верно; We would play in the yard — верно (действие); We used to play in the yard — верно."
+    ],
+    "tags": [
+     "past-simple",
+     "gerund-infinitive"
+    ],
+    "extra": [
+     [
+      "We [used to] live in Chicago.",
+      "Раньше мы жили в Чикаго.",
+      "Состояние в прошлом — только used to, не would."
+     ],
+     [
+      "I'm not [used to] waking up so early.",
+      "Я не привык вставать так рано.",
+      "be used to + V-ing — «привык»."
+     ],
+     [
+      "You'll soon [get used to] the cold.",
+      "Ты скоро привыкнешь к холоду.",
+      "get used to — процесс привыкания."
+     ],
+     [
+      "Did you [use to] play the piano?",
+      "Ты раньше играл на пианино?",
+      "В вопросе с did — use to без -d."
+     ],
+     [
+      "After dinner, Dad [would] tell us stories.",
+      "После ужина папа, бывало, рассказывал нам истории.",
+      "would — повторяющееся действие в прошлом."
+     ],
+     [
+      "She [didn't use to] like coffee.",
+      "Раньше она не любила кофе.",
+      "Отрицание: didn't use to."
+     ]
     ]
    },
    {
@@ -1490,6 +1811,41 @@ addUnits("b2", [
      "very — не сочетается со сравнительной степенью; more — more better — двойное сравнение; most — превосходная степень.",
      "The more I read books — существительное должно идти вместе с the more; More books — без the; The most books — превосходная степень.",
      "more and more high — у high сравнительная форма higher; high and high — нужна сравнительная степень; the higher — без второй части нет смысла."
+    ],
+    "tags": [
+     "comparatives"
+    ],
+    "extra": [
+     [
+      "[The sooner] we leave, the better.",
+      "Чем скорее выйдем, тем лучше.",
+      "The + сравнительная, the + сравнительная."
+     ],
+     [
+      "The more you practice, [the] easier it gets.",
+      "Чем больше практикуешься, тем легче.",
+      "Артикль the нужен в обеих частях."
+     ],
+     [
+      "This phone is [much] faster than my old one.",
+      "Этот телефон гораздо быстрее моего старого.",
+      "much усиливает сравнительную степень."
+     ],
+     [
+      "The test was [a bit] harder than I expected.",
+      "Тест был немного сложнее, чем я ожидал.",
+      "a bit — «немного» перед сравнительной."
+     ],
+     [
+      "It's not [nearly] as cold as yesterday.",
+      "Сегодня далеко не так холодно, как вчера.",
+      "not nearly as — «далеко не так»."
+     ],
+     [
+      "Prices are getting higher [and higher].",
+      "Цены становятся всё выше и выше.",
+      "Повтор сравнительной — постепенное изменение."
+     ]
     ]
    },
    {
@@ -1642,6 +1998,41 @@ addUnits("b2", [
      "use — после allow нужно to; using — герундий в этой конструкции не используется; used — прошедшее не подходит.",
      "He suggested me to go — suggest не используется с объект + to V; He suggested me going — нужно my going или просто going; He suggested to me go — неграмматично.",
      "to not touching — после to нужна V1, и not ставят перед to; don't touch — повелительное без косвенной конструкции; not touch — пропущено to."
+    ],
+    "tags": [
+     "gerund-infinitive"
+    ],
+    "extra": [
+     [
+      "My parents let me [stay] up late.",
+      "Родители разрешили мне не ложиться допоздна.",
+      "let + объект + инфинитив без to."
+     ],
+     [
+      "She asked me [to help] her move.",
+      "Она попросила меня помочь ей с переездом.",
+      "ask sb to do."
+     ],
+     [
+      "Can you help me [carry] these boxes?",
+      "Поможешь мне донести эти коробки?",
+      "help sb (to) do — to можно опустить."
+     ],
+     [
+      "I finally got him [to clean] his room.",
+      "Я наконец уговорил его убрать в комнате.",
+      "get sb to do — с to."
+     ],
+     [
+      "The teacher made us [rewrite] the essay.",
+      "Учитель заставил нас переписать эссе.",
+      "make sb do — без to."
+     ],
+     [
+      "I'd like [you to] meet my boss.",
+      "Я хотел бы, чтобы ты познакомился с моим начальником.",
+      "would like + объект + to."
+     ]
     ]
    }
   ]

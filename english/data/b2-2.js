@@ -149,7 +149,48 @@ addUnits("b2", [
     "text": {
      "en": "Every year, around ten million hectares of forest disappear from our planet, mostly because of farming and logging. Although many governments have promised to stop deforestation, progress has been slow. In Brazil, for example, the destruction of the Amazon decreased sharply in the 2000s; however, it rose again in later years when environmental controls became weaker. Despite strict laws, illegal logging continues in many regions, because local people often have few other ways to earn money. Some experts argue that the solution is economic rather than legal. Whereas fines and bans only punish people, programs that pay farmers to protect trees give them a real reason to care. Costa Rica is a famous success story. In the 1980s, it had one of the highest deforestation rates in the world. Nevertheless, by paying landowners to restore forests, it managed to double its forest cover in thirty years. Of course, such programs are expensive, and not every country can afford them. On the other hand, the cost of losing biodiversity and clean water may be much higher in the long run.",
      "ru": "Каждый год с нашей планеты исчезает около десяти миллионов гектаров леса, в основном из-за сельского хозяйства и вырубки. Хотя многие правительства обещали остановить уничтожение лесов, прогресс медленный. В Бразилии, например, разрушение Амазонии резко сократилось в 2000-х; однако в последующие годы оно снова выросло, когда экологический контроль ослаб. Несмотря на строгие законы, незаконная вырубка продолжается во многих регионах, потому что у местных жителей часто мало других способов заработать. Некоторые эксперты считают, что решение скорее экономическое, чем правовое. Тогда как штрафы и запреты только наказывают людей, программы, которые платят фермерам за защиту деревьев, дают им реальную причину заботиться о лесе. Коста-Рика — известная история успеха. В 1980-х у неё был один из самых высоких темпов вырубки в мире. Тем не менее, платя землевладельцам за восстановление лесов, она смогла за тридцать лет удвоить лесной покров. Конечно, такие программы дороги, и не каждая страна может их себе позволить. С другой стороны, цена потери биоразнообразия и чистой воды в долгосрочной перспективе может быть гораздо выше."
-    }
+    },
+    "tags": [
+     "linking-discourse",
+     "conjunctions"
+    ],
+    "extra": [
+     [
+      "[Although] she was tired, she kept working.",
+      "Хотя она устала, она продолжала работать.",
+      "Although + полное предложение."
+     ],
+     [
+      "[Despite] feeling sick, he went to work.",
+      "Несмотря на плохое самочувствие, он пошёл на работу.",
+      "Despite + V-ing, без of."
+     ],
+     [
+      "The test was hard. [However], everyone passed.",
+      "Тест был трудным. Однако все сдали.",
+      "However в начале предложения с запятой."
+     ],
+     [
+      "Tom loves coffee, [whereas] his wife prefers tea.",
+      "Том любит кофе, а его жена предпочитает чай.",
+      "Whereas противопоставляет два факта."
+     ],
+     [
+      "In spite [of] the cost, we bought the tickets.",
+      "Несмотря на цену, мы купили билеты.",
+      "In spite of — с предлогом of."
+     ],
+     [
+      "[Even though] it was late, the shop was open.",
+      "Хотя было поздно, магазин работал.",
+      "Even though усиливает контраст."
+     ],
+     [
+      "He's rich. [Nevertheless], he lives simply.",
+      "Он богат. Тем не менее он живёт скромно.",
+      "Nevertheless — формальное «тем не менее»."
+     ]
+    ]
    },
    {
     "id": "b2u4l2",
@@ -277,7 +318,47 @@ addUnits("b2", [
     "text": {
      "en": "Venice has around fifty thousand residents, yet it receives more than twenty million visitors every year. As a result, the historic center often feels more like a theme park than a living city. Rents have risen sharply because many apartments are now rented to tourists. Consequently, young families have moved to the mainland, and the local population keeps shrinking. Moreover, huge cruise ships used to sail right past St. Mark's Square, damaging the foundations of old buildings. In 2021, the government finally banned the largest ships from the city center. In addition, Venice introduced an entrance fee for day-trippers in 2024, which was the first such fee in the world. Critics say it is unfair, since a city is not a museum. On the contrary, supporters argue, the fee helps protect a unique heritage site and pays for cleaning and services. As for the locals, opinions are mixed. Some feel the measures came too late; others say they are a good start. Overall, Venice has become a test case for every popular destination struggling with overtourism.",
      "ru": "В Венеции около пятидесяти тысяч жителей, но ежегодно её посещают более двадцати миллионов человек. В результате исторический центр часто больше похож на тематический парк, чем на живой город. Аренда резко выросла, потому что многие квартиры теперь сдаются туристам. Следовательно, молодые семьи переехали на материк, и местное население продолжает сокращаться. Более того, огромные круизные лайнеры раньше проплывали прямо мимо площади Сан-Марко, повреждая фундаменты старых зданий. В 2021 году правительство наконец запретило самым крупным судам заходить в центр города. Кроме того, в 2024 году Венеция ввела входную плату для однодневных туристов — первую подобную плату в мире. Критики говорят, что это несправедливо, ведь город — не музей. Наоборот, возражают сторонники, плата помогает защитить уникальный объект наследия и оплачивает уборку и услуги. Что касается местных жителей, их мнения разделились. Одни считают, что меры запоздали, другие — что это хорошее начало. В целом Венеция стала проверочным случаем для каждого популярного направления, страдающего от чрезмерного туризма."
-    }
+    },
+    "tags": [
+     "linking-discourse"
+    ],
+    "extra": [
+     [
+      "The roads were icy. [As a result], schools closed.",
+      "Дороги обледенели. В результате школы закрыли.",
+      "As a result вводит следствие."
+     ],
+     [
+      "[Moreover], the plan is cheaper to run.",
+      "Более того, план дешевле в реализации.",
+      "Moreover добавляет довод."
+     ],
+     [
+      "I thought it was easy. [In fact], it was very hard.",
+      "Я думал, это легко. На самом деле было очень трудно.",
+      "In fact уточняет или опровергает."
+     ],
+     [
+      "[On the other hand], cities offer more jobs.",
+      "С другой стороны, в городах больше работы.",
+      "Вводит противоположную точку зрения."
+     ],
+     [
+      "[As far as] I know, the store opens at nine.",
+      "Насколько я знаю, магазин открывается в девять.",
+      "As far as I know — ограничение знания."
+     ],
+     [
+      "[In addition], the hotel has a free gym.",
+      "Кроме того, в отеле есть бесплатный спортзал.",
+      "In addition добавляет информацию."
+     ],
+     [
+      "[To sum up], the benefits outweigh the costs.",
+      "Подводя итог, выгоды перевешивают затраты.",
+      "Маркер заключения."
+     ]
+    ]
    },
    {
     "id": "b2u4l3",
@@ -418,7 +499,47 @@ addUnits("b2", [
     "text": {
      "en": "When Sara and her co-founder started their software company, they made almost every beginner's mistake. They underestimated the costs, overestimated their first-year sales, and hired too quickly. \"We were enthusiastic but completely inexperienced,\" Sara remembers. There were frequent misunderstandings in the team, partly because nobody's responsibilities were clearly defined. At one point, two employees spent a month building the same feature without knowing it. The turning point came when a more experienced investor joined the board. His advice was simple: rethink everything, simplify the product, and focus on reliability rather than endless new features. They redesigned the app and reorganized the team into smaller groups, each with clear leadership. Sara also learned that being an employer is very different from being a colleague. \"You have to be patient but decisive, friendly but not careless,\" she explains. Within two years, the company became profitable. Today it employs eighty people in three countries. Sara calls this her proudest achievement, but she insists that the failures were just as valuable as the successes. \"Mistakes are only useless if you repeat them.\"",
      "ru": "Когда Сара и её сооснователь открыли компанию по разработке ПО, они совершили почти все ошибки новичков. Они недооценили расходы, переоценили продажи первого года и слишком быстро нанимали людей. «Мы были полны энтузиазма, но совершенно неопытны», — вспоминает Сара. В команде часто возникали недопонимания, отчасти потому, что ничьи обязанности не были чётко определены. Однажды два сотрудника месяц создавали одну и ту же функцию, не зная об этом. Переломный момент наступил, когда в совет директоров вошёл более опытный инвестор. Его совет был прост: всё переосмыслить, упростить продукт и сосредоточиться на надёжности, а не на бесконечных новых функциях. Они переработали приложение и реорганизовали команду в небольшие группы, у каждой из которых было чёткое руководство. Сара также поняла, что быть работодателем совсем не то же самое, что быть коллегой. «Нужно быть терпеливой, но решительной, дружелюбной, но не беспечной», — объясняет она. За два года компания стала прибыльной. Сегодня в ней работают восемьдесят человек в трёх странах. Сара называет это своим главным достижением, но настаивает, что неудачи были так же ценны, как и успехи. «Ошибки бесполезны, только если их повторять»."
-    }
+    },
+    "tags": [
+     "word-formation"
+    ],
+    "extra": [
+     [
+      "Her [kindness] surprised everyone.",
+      "Её доброта всех удивила.",
+      "Kind + -ness → существительное."
+     ],
+     [
+      "I [misunderstood] the instructions.",
+      "Я неправильно понял инструкцию.",
+      "Mis- = неправильно."
+     ],
+     [
+      "The movie was [predictable].",
+      "Фильм был предсказуемым.",
+      "Predict + -able."
+     ],
+     [
+      "Don't [overcook] the pasta.",
+      "Не переваривай макароны.",
+      "Over- = слишком."
+     ],
+     [
+      "She is very [creative].",
+      "Она очень креативная.",
+      "Create + -ive."
+     ],
+     [
+      "The answer was [incorrect].",
+      "Ответ был неверным.",
+      "In- — отрицательная приставка."
+     ],
+     [
+      "We need better [management].",
+      "Нам нужно лучшее управление.",
+      "Manage + -ment."
+     ]
+    ]
    },
    {
     "id": "b2u4l4",
@@ -554,7 +675,47 @@ addUnits("b2", [
     "text": {
      "en": "Read these two messages, which say almost the same thing. The first one is to a friend: \"Hey Jake! Sorry I couldn't make it on Saturday, something came up at work. Can we put it off till next week? Let me know what works for you. Cheers, Tom.\" The second is to a hotel manager: \"Dear Ms. Carter, I am writing regarding my reservation for March 12th. Unfortunately, due to unexpected work commitments, I am unable to travel on the planned date. I would be grateful if you could postpone my booking until March 19th. Please let me know whether any additional payment is required. I apologize for any inconvenience this may cause. Sincerely, Thomas Reed.\" Notice the differences. The formal letter has no contractions, uses words like regarding, require and postpone instead of phrasal verbs, and is longer and more indirect. The informal one is short, friendly and uses everyday expressions such as something came up. Neither style is better; each is right in its context. The real skill is knowing when to switch between them.",
      "ru": "Прочитайте два сообщения, в которых говорится почти одно и то же. Первое — другу: «Привет, Джейк! Извини, что не смог прийти в субботу, на работе кое-что случилось. Можем перенести на следующую неделю? Скажи, когда тебе удобно. Пока, Том». Второе — менеджеру отеля: «Уважаемая госпожа Картер, пишу касательно моего бронирования на 12 марта. К сожалению, в связи с непредвиденными рабочими обязательствами я не могу приехать в запланированную дату. Буду признателен, если вы сможете перенести моё бронирование на 19 марта. Пожалуйста, сообщите, требуется ли дополнительная оплата. Приношу извинения за возможные неудобства. С уважением, Томас Рид». Обратите внимание на различия. В формальном письме нет сокращений, используются слова regarding, require и postpone вместо фразовых глаголов, и оно длиннее и менее прямолинейно. Неформальное — короткое, дружелюбное и содержит повседневные выражения вроде something came up. Ни один стиль не лучше другого: каждый уместен в своём контексте. Настоящий навык — знать, когда переключаться между ними."
-    }
+    },
+    "tags": [
+     "register"
+    ],
+    "extra": [
+     [
+      "We would like to [inform] you of a change.",
+      "Мы хотели бы сообщить вам об изменении.",
+      "Inform — формальный вариант tell."
+     ],
+     [
+      "Please [contact] us if you have questions.",
+      "Пожалуйста, свяжитесь с нами, если есть вопросы.",
+      "Contact вместо get in touch."
+     ],
+     [
+      "Visitors must [obtain] a permit.",
+      "Посетители должны получить разрешение.",
+      "Obtain — формальное get."
+     ],
+     [
+      "I [apologize] for any inconvenience.",
+      "Приношу извинения за неудобства.",
+      "Формальное извинение вместо sorry."
+     ],
+     [
+      "The event was [canceled] due to weather.",
+      "Мероприятие отменено из-за погоды.",
+      "Due to — формальное because of."
+     ],
+     [
+      "We [regret] that we cannot attend.",
+      "К сожалению, мы не можем присутствовать.",
+      "Regret — формальное sorry."
+     ],
+     [
+      "Could you [assist] me with this form?",
+      "Не могли бы вы помочь мне с этой формой?",
+      "Assist — формальное help."
+     ]
+    ]
    }
   ]
  },
@@ -693,7 +854,48 @@ addUnits("b2", [
     "text": {
      "en": "The video game industry has had a difficult few years. After a boom during the pandemic, when millions of people stayed home and played more than ever, many studios took on hundreds of new employees. But when sales slowed down, the same companies started laying people off. In 2023 and 2024 alone, more than twenty thousand jobs disappeared across the industry. Several well-known executives stepped down, and some studios that had been set up only a few years earlier were closed completely. Workers say the problem is not new. For years, developers have talked about \"crunch,\" the long periods of extreme overtime before a game's release. Many young designers burn out before they turn thirty. Some studios are now trying to come up with healthier ways of working. One Swedish company, for example, carried out an experiment with a four-day week and found that productivity actually went up. Unions are also becoming more common. Industry experts are following up on these trends closely, hoping the next boom will not end the same way.",
      "ru": "Индустрия видеоигр пережила несколько трудных лет. После бума во время пандемии, когда миллионы людей сидели дома и играли больше, чем когда-либо, многие студии наняли сотни новых сотрудников. Но когда продажи замедлились, те же компании начали сокращать людей. Только в 2023 и 2024 годах в индустрии исчезло более двадцати тысяч рабочих мест. Несколько известных руководителей ушли со своих постов, а некоторые студии, основанные всего несколько лет назад, полностью закрылись. Работники говорят, что проблема не нова. Годами разработчики говорили о «кранче» — долгих периодах экстремальных переработок перед релизом игры. Многие молодые дизайнеры выгорают, не дожив до тридцати. Некоторые студии теперь пытаются придумать более здоровые способы работы. Одна шведская компания, например, провела эксперимент с четырёхдневной рабочей неделей и обнаружила, что продуктивность даже выросла. Профсоюзы тоже становятся всё более распространёнными. Отраслевые эксперты внимательно следят за этими тенденциями, надеясь, что следующий бум не закончится так же."
-    }
+    },
+    "tags": [
+     "phrasal-verbs",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "The team [carried out] a customer survey.",
+      "Команда провела опрос клиентов.",
+      "Carry out = выполнить, провести."
+     ],
+     [
+      "He [burned out] after months of overtime.",
+      "Он выгорел после месяцев переработок.",
+      "Burn out = выгореть."
+     ],
+     [
+      "I've [taken on] too many projects.",
+      "Я взял на себя слишком много проектов.",
+      "Take on = взять на себя."
+     ],
+     [
+      "The factory [laid off] 200 workers.",
+      "Фабрика уволила 200 рабочих.",
+      "Lay off = сократить."
+     ],
+     [
+      "She [stepped down] as chair last month.",
+      "Она ушла с поста председателя в прошлом месяце.",
+      "Step down = уйти с должности."
+     ],
+     [
+      "Let's [follow up] on this next week.",
+      "Вернёмся к этому на следующей неделе.",
+      "Follow up = вернуться к вопросу."
+     ],
+     [
+      "He [filled in] for his boss on Monday.",
+      "В понедельник он подменял начальника.",
+      "Fill in for = замещать."
+     ]
+    ]
    },
    {
     "id": "b2u5l2",
@@ -834,7 +1036,48 @@ addUnits("b2", [
     "text": {
      "en": "When Mia started her new job at a design agency, she didn't get off to a good start with her team leader, Chris. On her first day, she accidentally deleted one of his files, and he was clearly annoyed. \"We definitely got off on the wrong foot,\" she says. For the first few weeks, they didn't see eye to eye on anything, from fonts to deadlines. Mia felt that Chris didn't trust her, and she started to dread their meetings. Things changed during a team trip to the mountains. On the long bus ride, a colleague suggested a silly quiz game to break the ice, and Mia and Chris ended up on the same team. They won, mostly because they both knew far too much about old science fiction films. They hit it off immediately. Later that evening, Chris opened up about the stress he had been under and apologized for being cold. Since then, they have become good friends. \"We still argue about design,\" Mia laughs, \"but now I know he has my back. And honestly, I look up to him.\"",
      "ru": "Когда Мия начала работать в дизайнерском агентстве, у неё не сложились отношения с тимлидом Крисом. В первый же день она случайно удалила один из его файлов, и он был явно раздражён. «Мы определённо начали не с той ноты», — говорит она. Первые несколько недель они ни в чём не сходились — от шрифтов до сроков. Мии казалось, что Крис ей не доверяет, и она начала бояться их встреч. Всё изменилось во время командной поездки в горы. В долгой поездке на автобусе коллега предложил глупую игру-викторину, чтобы растопить лёд, и Мия с Крисом оказались в одной команде. Они победили — в основном потому, что оба знали слишком много о старых научно-фантастических фильмах. Они сразу нашли общий язык. Позже вечером Крис откровенно рассказал о стрессе, в котором находился, и извинился за свою холодность. С тех пор они стали хорошими друзьями. «Мы до сих пор спорим о дизайне, — смеётся Мия, — но теперь я знаю, что он меня поддержит. И, честно говоря, я на него равняюсь»."
-    }
+    },
+    "tags": [
+     "idioms",
+     "phrasal-verbs"
+    ],
+    "extra": [
+     [
+      "We need to be [on the same page] before the meeting.",
+      "Нам нужно договориться до встречи.",
+      "On the same page = одинаково понимать."
+     ],
+     [
+      "A joke helped [break] the ice.",
+      "Шутка помогла растопить лёд.",
+      "Break the ice = снять напряжение."
+     ],
+     [
+      "My sister and I [fell out] last year.",
+      "Мы с сестрой поссорились в прошлом году.",
+      "Fall out = поссориться."
+     ],
+     [
+      "They [broke up] after five years.",
+      "Они расстались через пять лет.",
+      "Break up = расстаться."
+     ],
+     [
+      "I [hit it off] with her right away.",
+      "Мы с ней сразу нашли общий язык.",
+      "Hit it off = сразу поладить."
+     ],
+     [
+      "Can you [count on] your friends?",
+      "Ты можешь положиться на своих друзей?",
+      "Count on = полагаться."
+     ],
+     [
+      "He always [lets] me down.",
+      "Он всегда меня подводит.",
+      "Let down = подвести."
+     ]
+    ]
    },
    {
     "id": "b2u5l3",
@@ -967,7 +1210,47 @@ addUnits("b2", [
     "text": {
      "en": "Some people believe that working from home is better for employees, while others think offices are essential. Discuss both views and give your opinion. Here is a model answer. Since the pandemic, remote work has become normal for millions of people, and there is a growing debate about whether this trend should continue. On the one hand, working from home offers clear benefits. Employees save time and money on commuting, and many report a better work-life balance. For instance, a parent can take children to school and still start work on time. On the other hand, opponents argue that offices are important for teamwork and learning. Young employees, in particular, may miss the chance to learn from experienced colleagues simply by listening to them. Moreover, some people feel isolated when they rarely see others. In my view, the best solution is a hybrid model. Spending two or three days a week in the office allows people to collaborate face to face while keeping some flexibility. On balance, I believe that companies which offer this choice will attract the most talented workers.",
      "ru": "Некоторые считают, что работа из дома лучше для сотрудников, другие думают, что офисы необходимы. Обсудите обе точки зрения и выскажите своё мнение. Вот образец ответа. После пандемии удалённая работа стала нормой для миллионов людей, и растёт спор о том, должна ли эта тенденция продолжаться. С одной стороны, работа из дома даёт явные преимущества. Сотрудники экономят время и деньги на дороге, и многие отмечают лучший баланс работы и жизни. Например, родитель может отвести детей в школу и всё равно вовремя начать работу. С другой стороны, противники утверждают, что офисы важны для командной работы и обучения. Молодые сотрудники в особенности могут упустить возможность учиться у опытных коллег, просто слушая их. Более того, некоторые чувствуют себя изолированными, когда редко видят других. На мой взгляд, лучшее решение — гибридная модель. Два-три дня в неделю в офисе позволяют людям сотрудничать лично, сохраняя некоторую гибкость. Взвесив всё, я считаю, что компании, предлагающие такой выбор, привлекут самых талантливых работников."
-    }
+    },
+    "tags": [
+     "writing"
+    ],
+    "extra": [
+     [
+      "[Firstly], remote work saves time.",
+      "Во-первых, удалённая работа экономит время.",
+      "Маркер первого аргумента."
+     ],
+     [
+      "In [conclusion], the benefits are clear.",
+      "В заключение, преимущества очевидны.",
+      "Стандартное начало вывода."
+     ],
+     [
+      "Please find [attached] my CV.",
+      "Прилагаю своё резюме.",
+      "Формула для вложения."
+     ],
+     [
+      "I am writing [regarding] your recent order.",
+      "Пишу по поводу вашего недавнего заказа.",
+      "Regarding = по поводу (формально)."
+     ],
+     [
+      "Dear Sir or [Madam],",
+      "Уважаемый господин или госпожа,",
+      "Обращение, если имя неизвестно."
+     ],
+     [
+      "On the [other] hand, it can be lonely.",
+      "С другой стороны, это может быть одиноко.",
+      "Вводит контраргумент."
+     ],
+     [
+      "I would [appreciate] a prompt reply.",
+      "Буду признателен за быстрый ответ.",
+      "Вежливая формула просьбы."
+     ]
+    ]
    },
    {
     "id": "b2u5l4",
@@ -1095,7 +1378,47 @@ addUnits("b2", [
     "text": {
      "en": "Examiner: Do you think video games are a waste of time? Candidate: That's an interesting question. I suppose it depends on how you play them. Personally, I'd say they can be quite beneficial. For example, I learned a lot of my English from role-playing games, because I had to read long dialogues and make decisions. Of course, if someone plays for ten hours a day, that's a different story. Examiner: How has gaming changed compared to the past? Candidate: Well, compared to when I was a child, it's much more social now. These days people tend to play online with friends from all over the world, whereas in the past you usually played alone or with your brother on the sofa. Games have also become more like films, in the sense that the stories are very complex. Examiner: What will games be like in the future? Candidate: It's hard to say, but I'd imagine virtual reality will become much more common. There's a good chance that schools will use games for teaching, too. In the long run, I think the line between films and games will almost disappear.",
      "ru": "Экзаменатор: Как вы думаете, видеоигры — это пустая трата времени? Кандидат: Интересный вопрос. Полагаю, это зависит от того, как в них играть. Лично я бы сказал, что они могут быть весьма полезны. Например, я выучил значительную часть английского благодаря ролевым играм, потому что приходилось читать длинные диалоги и принимать решения. Конечно, если человек играет по десять часов в день, это совсем другая история. Экзаменатор: Как изменились игры по сравнению с прошлым? Кандидат: Ну, по сравнению с моим детством, сейчас они гораздо более социальные. В наши дни люди обычно играют онлайн с друзьями со всего мира, тогда как раньше играли в одиночку или с братом на диване. Игры также стали больше похожи на фильмы в том смысле, что сюжеты очень сложные. Экзаменатор: Какими будут игры в будущем? Кандидат: Сложно сказать, но полагаю, что виртуальная реальность станет гораздо более распространённой. Есть большая вероятность, что школы тоже будут использовать игры для обучения. В долгосрочной перспективе, думаю, граница между фильмами и играми почти исчезнет."
-    }
+    },
+    "tags": [
+     "speaking"
+    ],
+    "extra": [
+     [
+      "That's a [tricky] question.",
+      "Это непростой вопрос.",
+      "Фраза, чтобы выиграть время."
+     ],
+     [
+      "[Personally], I prefer living in the city.",
+      "Лично я предпочитаю жить в городе.",
+      "Вводит личное мнение."
+     ],
+     [
+      "I'd [say] it's about fifty percent.",
+      "Я бы сказал, примерно пятьдесят процентов.",
+      "I'd say смягчает оценку."
+     ],
+     [
+      "It [might] be because of social media.",
+      "Возможно, дело в соцсетях.",
+      "Might для предположения."
+     ],
+     [
+      "[Unlike] my brother, I hate sports.",
+      "В отличие от брата, я ненавижу спорт.",
+      "Unlike для сравнения."
+     ],
+     [
+      "I've never really [thought] about that.",
+      "Я никогда особо об этом не задумывался.",
+      "Честный способ начать ответ."
+     ],
+     [
+      "On the [whole], people are friendlier there.",
+      "В целом люди там дружелюбнее.",
+      "On the whole = в целом."
+     ]
+    ]
    }
   ]
  }

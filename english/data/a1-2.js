@@ -163,6 +163,46 @@ addUnits("a1", [
      "studys — после согласной y меняется на ies; study — нет окончания; studyes — y должна стать i.",
      "lives — с they окончание -s не ставится; living — без be нельзя; is live — лишний is.",
      "действия прямо сейчас — это Present Continuous; прошлое — Past Simple; будущие планы — going to / Continuous."
+    ],
+    "tags": [
+     "present-simple"
+    ],
+    "extra": [
+     [
+      "He [drives] to work.",
+      "Он ездит на работу на машине.",
+      "he → глагол + -s."
+     ],
+     [
+      "I [get up] at seven.",
+      "Я встаю в семь.",
+      "I → базовая форма."
+     ],
+     [
+      "She [watches] TV every night.",
+      "Она смотрит телевизор каждый вечер.",
+      "После ch → -es."
+     ],
+     [
+      "My dad [works] in a bank.",
+      "Мой папа работает в банке.",
+      "3-е лицо ед. ч. → -s."
+     ],
+     [
+      "They [live] in Ohio.",
+      "Они живут в Огайо.",
+      "they → без -s."
+     ],
+     [
+      "The store [opens] at nine.",
+      "Магазин открывается в девять.",
+      "Расписание — Present Simple, -s."
+     ],
+     [
+      "She [studies] English.",
+      "Она учит английский.",
+      "Согласная + y → -ies."
+     ]
     ]
    },
    {
@@ -328,6 +368,47 @@ addUnits("a1", [
      "No, I not — нет вспомогательного глагола; No, I doesn't — с I используется don't; No, I'm not — вопрос был с do, а не с be.",
      "I not understand — нет don't; I doesn't — с I используется don't; I no understand — no не отрицает глагол.",
      "does — parents во мн. ч. (= they); are / is — live — смысловой глагол, нужен do."
+    ],
+    "tags": [
+     "present-simple",
+     "questions"
+    ],
+    "extra": [
+     [
+      "[Does] he speak Spanish?",
+      "Он говорит по-испански?",
+      "he → Does в вопросе."
+     ],
+     [
+      "I [don't] eat meat.",
+      "Я не ем мясо.",
+      "I → don't."
+     ],
+     [
+      "She [doesn't] like coffee.",
+      "Она не любит кофе.",
+      "she → doesn't + базовая форма."
+     ],
+     [
+      "[Do] you work on weekends?",
+      "Ты работаешь по выходным?",
+      "you → Do."
+     ],
+     [
+      "Where does she [live]?",
+      "Где она живёт?",
+      "После does — без -s."
+     ],
+     [
+      "Do they have kids? — Yes, they [do].",
+      "У них есть дети? — Да.",
+      "Краткий ответ: Yes, they do."
+     ],
+     [
+      "We [don't] watch TV.",
+      "Мы не смотрим телевизор.",
+      "we → don't."
+     ]
     ]
    },
    {
@@ -486,6 +567,47 @@ addUnits("a1", [
      "I don't never smoke — двойное отрицание; I never don't smoke — тоже; I not never smoke — нет вспомогательного, двойное отрицание.",
      "rarely — означает «редко»; одинаково / зависит — often всегда чаще rarely.",
      "перед глаголом / после be — так ставятся однословные наречия (always, never); в середине слова — бессмыслица."
+    ],
+    "tags": [
+     "present-simple",
+     "word-order"
+    ],
+    "extra": [
+     [
+      "I [always] drink coffee in the morning.",
+      "Я всегда пью кофе утром.",
+      "Наречие частоты — перед смысловым глаголом."
+     ],
+     [
+      "She is [never] late.",
+      "Она никогда не опаздывает.",
+      "После be — never."
+     ],
+     [
+      "We [usually] eat at home.",
+      "Мы обычно едим дома.",
+      "usually — перед глаголом."
+     ],
+     [
+      "He [sometimes] works from home.",
+      "Он иногда работает из дома.",
+      "sometimes — перед глаголом."
+     ],
+     [
+      "Do you [often] go to the gym?",
+      "Ты часто ходишь в спортзал?",
+      "В вопросе — после подлежащего."
+     ],
+     [
+      "They are [usually] busy on Mondays.",
+      "По понедельникам они обычно заняты.",
+      "После be."
+     ],
+     [
+      "I [rarely] eat fast food.",
+      "Я редко ем фастфуд.",
+      "rarely — редко."
+     ]
     ]
    },
    {
@@ -645,6 +767,46 @@ addUnits("a1", [
      "Who does live here? — who подлежащее, do не нужен (кроме эмфазы); Who do lives — do с -s после него неверно; Who living — нет глагола.",
      "Who — «кто», не «чей»; Who's = who is; Which — «который».",
      "What are you? — вопрос о профессии/сути; Who are you? — «кто вы?»; Why are you? — бессмысленно."
+    ],
+    "tags": [
+     "questions"
+    ],
+    "extra": [
+     [
+      "[Where] do you live?",
+      "Где ты живёшь?",
+      "Место → where."
+     ],
+     [
+      "[What] time is it?",
+      "Который час?",
+      "what time — который час."
+     ],
+     [
+      "[Who] is your teacher?",
+      "Кто твой учитель?",
+      "Человек → who."
+     ],
+     [
+      "[When] does the bus come?",
+      "Когда приходит автобус?",
+      "Время → when."
+     ],
+     [
+      "[Why] are you sad?",
+      "Почему ты грустишь?",
+      "Причина → why."
+     ],
+     [
+      "[How] old are you?",
+      "Сколько тебе лет?",
+      "Возраст: how old."
+     ],
+     [
+      "[How] much is this shirt?",
+      "Сколько стоит эта рубашка?",
+      "Цена: how much."
+     ]
     ]
    },
    {
@@ -810,6 +972,46 @@ addUnits("a1", [
      "makeing — немая e выпадает; makking — удвоения нет; maked — это не -ing и не реальная форма.",
      "I like a coffee — значит «мне нравится кофе», а не просьба; I like coffee now — то же; I liking — нет вспомогательного глагола.",
      "get up — после mind нужна -ing; to getting up — лишнее to; gets up — нужна форма -ing."
+    ],
+    "tags": [
+     "gerund-infinitive"
+    ],
+    "extra": [
+     [
+      "I like [swimming].",
+      "Я люблю плавать.",
+      "like + -ing."
+     ],
+     [
+      "She loves [reading] books.",
+      "Она обожает читать книги.",
+      "love + -ing."
+     ],
+     [
+      "He hates [getting up] early.",
+      "Он ненавидит рано вставать.",
+      "hate + -ing."
+     ],
+     [
+      "Do you enjoy [cooking]?",
+      "Тебе нравится готовить?",
+      "enjoy — только + -ing."
+     ],
+     [
+      "I don't like [running].",
+      "Я не люблю бегать.",
+      "run → running (удвоение n)."
+     ],
+     [
+      "We love [dancing].",
+      "Мы обожаем танцевать.",
+      "dance → dancing (e исчезает)."
+     ],
+     [
+      "They don't mind [waiting].",
+      "Они не против подождать.",
+      "mind + -ing."
+     ]
     ]
    }
   ]
@@ -972,6 +1174,46 @@ addUnits("a1", [
      "Open the window — резкий приказ; You open the window? — грубо и неграмматично для просьбы; Can open window? — нет подлежащего и артикля.",
      "[kən] — это слабая форма утвердительного can; [kɑnt] — британское; [kʌnt] — неверное и грубое по звучанию.",
      "You don't can — can не требует do; You not can — неверный порядок; You can't to — лишнее to."
+    ],
+    "tags": [
+     "modals"
+    ],
+    "extra": [
+     [
+      "I [can] speak two languages.",
+      "Я говорю на двух языках.",
+      "Умение → can."
+     ],
+     [
+      "She [can't] drive.",
+      "Она не умеет водить.",
+      "can't — не умеет."
+     ],
+     [
+      "[Can] you help me, please?",
+      "Можешь мне помочь, пожалуйста?",
+      "Просьба: Can you…?"
+     ],
+     [
+      "Can he swim? — Yes, he [can].",
+      "Он умеет плавать? — Да.",
+      "Краткий ответ: Yes, he can."
+     ],
+     [
+      "We can [see] the ocean from here.",
+      "Отсюда видно океан.",
+      "После can — базовая форма без to."
+     ],
+     [
+      "[Can] I sit here?",
+      "Можно мне здесь сесть?",
+      "Разрешение: Can I…?"
+     ],
+     [
+      "You [can't] park here.",
+      "Здесь нельзя парковаться.",
+      "can't — запрет."
+     ]
     ]
    },
    {
@@ -1109,6 +1351,47 @@ addUnits("a1", [
      "Give order — калька «давай»; Let order — нужно Let's (let us); We order pizza let — неверный порядок.",
      "Close door! — резко и без артикля; You close the door — звучит как утверждение или приказ; Closing the door — не просьба.",
      "Go direct — неестественно; Walk right — «иди направо»; Go forward right — бессмыслица."
+    ],
+    "tags": [
+     "modals",
+     "speaking"
+    ],
+    "extra": [
+     [
+      "[Open] the window, please.",
+      "Открой окно, пожалуйста.",
+      "Повелительное — базовая форма."
+     ],
+     [
+      "[Don't] touch that!",
+      "Не трогай это!",
+      "Запрет: Don't + глагол."
+     ],
+     [
+      "[Let's] go to the beach.",
+      "Пойдём на пляж.",
+      "Предложение: Let's + глагол."
+     ],
+     [
+      "[Take] the second right.",
+      "Поверни на второй направо.",
+      "Указание пути — базовая форма."
+     ],
+     [
+      "Don't [be] late.",
+      "Не опаздывай.",
+      "Don't be + прилагательное."
+     ],
+     [
+      "Please [sit] down.",
+      "Садитесь, пожалуйста.",
+      "please смягчает приказ."
+     ],
+     [
+      "Let's [not] wait.",
+      "Давай не будем ждать.",
+      "Отрицание: Let's not."
+     ]
     ]
    },
    {
@@ -1265,6 +1548,46 @@ addUnits("a1", [
      "on — для автобуса/поезда; at — точка; by — способ передвижения (by taxi), не местоположение.",
      "in — для машины/такси; at — точка; by — способ (by train), а не «в поезде».",
      "next to — «рядом»; behind — «позади»; between — «между»."
+    ],
+    "tags": [
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "The keys are [on] the table.",
+      "Ключи на столе.",
+      "На поверхности → on."
+     ],
+     [
+      "She's [in] the kitchen.",
+      "Она на кухне.",
+      "Внутри помещения → in."
+     ],
+     [
+      "I'm [at] the airport.",
+      "Я в аэропорту.",
+      "Точка/место назначения → at."
+     ],
+     [
+      "The bank is [next to] the cafe.",
+      "Банк рядом с кафе.",
+      "next to — рядом с."
+     ],
+     [
+      "The pharmacy is [between] the bank and the school.",
+      "Аптека между банком и школой.",
+      "between — между двумя."
+     ],
+     [
+      "The park is [across from] my house.",
+      "Парк напротив моего дома.",
+      "across from — напротив (AmE)."
+     ],
+     [
+      "The cat is [under] the bed.",
+      "Кошка под кроватью.",
+      "under — под."
+     ]
     ]
    },
    {
@@ -1421,6 +1744,46 @@ addUnits("a1", [
      "at — at night, но не at the morning; on — для дней; by — «к».",
      "in, on, at — перед next предлог не ставится.",
      "in — in the night звучит неестественно в значении «ночью»; on — для дней; by — «к»."
+    ],
+    "tags": [
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "I was born [in] 1995.",
+      "Я родился в 1995 году.",
+      "Год → in."
+     ],
+     [
+      "See you [on] Friday.",
+      "Увидимся в пятницу.",
+      "День недели → on."
+     ],
+     [
+      "The class starts [at] noon.",
+      "Урок начинается в полдень.",
+      "at noon, at night."
+     ],
+     [
+      "We go skiing [in] winter.",
+      "Зимой мы катаемся на лыжах.",
+      "Время года → in."
+     ],
+     [
+      "I work [on] weekends.",
+      "Я работаю по выходным.",
+      "AmE: on weekends."
+     ],
+     [
+      "I read [in] the evening.",
+      "Я читаю вечером.",
+      "in the morning/evening."
+     ],
+     [
+      "Her birthday is [on] July 4th.",
+      "Её день рождения 4 июля.",
+      "Дата → on."
+     ]
     ]
    }
   ]

@@ -146,6 +146,47 @@ addUnits("b1", [
      "By, On, At — не сочетаются с opinion в этом значении.",
      "because — требует придаточного с глаголом; since — тоже союз перед предложением; so — следствие, а не причина.",
      "As far as I know — о знании фактов; As long as — «пока/при условии»; As soon as — «как только»."
+    ],
+    "tags": [
+     "speaking",
+     "linking-discourse"
+    ],
+    "extra": [
+     [
+      "[Personally], I prefer living in a small town.",
+      "Лично я предпочитаю жить в маленьком городе.",
+      "Personally в начале подчёркивает личное мнение."
+     ],
+     [
+      "It [seems] to me that prices keep going up.",
+      "Мне кажется, что цены продолжают расти.",
+      "It seems to me that — мягкий способ выразить мнение."
+     ],
+     [
+      "I [believe] public transport should be free.",
+      "Я считаю, что общественный транспорт должен быть бесплатным.",
+      "I believe — нейтральная фраза для мнения."
+     ],
+     [
+      "We should stay home [because of] the storm.",
+      "Нам стоит остаться дома из-за шторма.",
+      "Because of + существительное, because + предложение."
+     ],
+     [
+      "For one thing, it's cheap; for [another], it's fast.",
+      "Во-первых, это дёшево; во-вторых, быстро.",
+      "Пара for one thing... for another перечисляет доводы."
+     ],
+     [
+      "The main reason [is] that we don't have time.",
+      "Главная причина в том, что у нас нет времени.",
+      "The main reason is that... — стандартное обоснование."
+     ],
+     [
+      "In my [view], the movie was too long.",
+      "На мой взгляд, фильм был слишком длинным.",
+      "In my view — синоним in my opinion, чуть формальнее."
+     ]
     ]
    },
    {
@@ -285,6 +326,42 @@ addUnits("b1", [
      "не согласен, не могу согласиться — буквальный перевод, смысл обратный; почти согласен — неверно, это максимальное согласие.",
      "You're wrong, No, it's not true — прямолинейно, без смягчения; That's stupid — грубо.",
      "So do I — для согласия с утверждением; Me neither don't — двойное отрицание; So don't I — неграмматично."
+    ],
+    "tags": [
+     "speaking",
+     "pragmatics"
+    ],
+    "extra": [
+     [
+      "I see your [point], but I'm not sure.",
+      "Я понимаю твою мысль, но не уверен.",
+      "See your point — вежливое признание перед несогласием."
+     ],
+     [
+      "That's [exactly] what I was thinking.",
+      "Это именно то, о чём я думал.",
+      "Exactly усиливает согласие."
+     ],
+     [
+      "I'm [afraid] I don't agree with that.",
+      "Боюсь, я с этим не согласен.",
+      "I'm afraid смягчает несогласие."
+     ],
+     [
+      "I [partly] agree with you.",
+      "Я частично с тобой согласен.",
+      "Partly — частичное согласие."
+     ],
+     [
+      "That's a fair [point].",
+      "Справедливое замечание.",
+      "Fair point — признание довода собеседника."
+     ],
+     [
+      "I'm not [sure] that's true.",
+      "Я не уверен, что это правда.",
+      "I'm not sure — мягкая форма несогласия."
+     ]
     ]
    },
    {
@@ -428,6 +505,41 @@ addUnits("b1", [
      "a news, one news — news неисчисляемое; a new — прилагательное «новый».",
      "on — для сайтов, не для газеты; at, by — не про место в газете.",
      "reliable — надёжный; viral — вирусный; accurate — точный."
+    ],
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Did you see the [headline] this morning?",
+      "Ты видел заголовок сегодня утром?",
+      "Headline — заголовок новости."
+     ],
+     [
+      "That story turned out to be fake [news].",
+      "Эта история оказалась фейком.",
+      "Fake news — ложные новости; news — неисчисляемое."
+     ],
+     [
+      "The president gave an [interview] on CNN.",
+      "Президент дал интервью на CNN.",
+      "Give an interview — дать интервью."
+     ],
+     [
+      "I get most of my news [from] podcasts.",
+      "Большую часть новостей я узнаю из подкастов.",
+      "Get news from — узнавать новости из источника."
+     ],
+     [
+      "The story spread [quickly] on social media.",
+      "История быстро распространилась в соцсетях.",
+      "Quickly — наречие, описывает глагол spread."
+     ],
+     [
+      "This newspaper is known for its [biased] reporting.",
+      "Эта газета известна предвзятыми материалами.",
+      "Biased — предвзятый."
+     ]
     ]
    },
    {
@@ -566,6 +678,41 @@ addUnits("b1", [
      "take — после persuade нужно to; taking — не та форма; that take — неграмматично.",
      "catchy — запоминающийся; eye-catching — привлекающий внимание; reliable — надёжный.",
      "advertisement — одно объявление; advertise — глагол; an ad — одна реклама, не индустрия."
+    ],
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Our target [audience] is college students.",
+      "Наша целевая аудитория — студенты.",
+      "Target audience — целевая аудитория."
+     ],
+     [
+      "The ad tries to [persuade] you to buy more.",
+      "Реклама пытается убедить тебя покупать больше.",
+      "Persuade — убеждать."
+     ],
+     [
+      "They spent millions on the [campaign].",
+      "Они потратили миллионы на кампанию.",
+      "Advertising campaign — рекламная кампания."
+     ],
+     [
+      "Influencers often [promote] products on Instagram.",
+      "Блогеры часто продвигают товары в Instagram.",
+      "Promote — продвигать, рекламировать."
+     ],
+     [
+      "I clicked on a pop-up [ad] by mistake.",
+      "Я случайно кликнул на всплывающую рекламу.",
+      "Ad — сокращение от advertisement."
+     ],
+     [
+      "This brand has a really clever [slogan].",
+      "У этого бренда очень удачный слоган.",
+      "Slogan — рекламный лозунг."
+     ]
     ]
    },
    {
@@ -709,6 +856,41 @@ addUnits("b1", [
      "in — graduate in = по специальности; at, of — не используются с graduate.",
      "scholarship — стипендия; fee loan — не термин; salary — зарплата.",
      "on, at, with — major сочетается только с in."
+    ],
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "What's your [major]?",
+      "Какая у тебя специальность?",
+      "Major — основная специальность в американском вузе."
+     ],
+     [
+      "She got a [scholarship] to study at Yale.",
+      "Она получила стипендию на учёбу в Йеле.",
+      "Scholarship — стипендия, грант на обучение."
+     ],
+     [
+      "He [graduated] from college in 2020.",
+      "Он окончил колледж в 2020 году.",
+      "Graduate from — оканчивать учебное заведение."
+     ],
+     [
+      "I took out a student [loan].",
+      "Я взял студенческий кредит.",
+      "Student loan — кредит на обучение."
+     ],
+     [
+      "I'm a [freshman] at Ohio State.",
+      "Я первокурсник в Университете Огайо.",
+      "Freshman — студент первого курса."
+     ],
+     [
+      "She has a bachelor's [degree] in biology.",
+      "У неё степень бакалавра по биологии.",
+      "Bachelor's degree — степень бакалавра."
+     ]
     ]
    }
   ]
@@ -859,6 +1041,41 @@ addUnits("b1", [
      "was refused to — лишнее to; was declined me — неграмматично; didn't approve — актив без подлежащего.",
      "visa card — банковская карта; white card, resident pass — не термины США.",
      "paperworks, a paperwork — неисчисляемое, без -s и a; many paperwork — many с исчисляемыми."
+    ],
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "My visa [expires] next month.",
+      "Моя виза истекает в следующем месяце.",
+      "Expire — истекать (о сроке действия)."
+     ],
+     [
+      "He finally got his green [card].",
+      "Он наконец получил грин-карту.",
+      "Green card — вид на жительство в США."
+     ],
+     [
+      "You need to [renew] your passport.",
+      "Тебе нужно продлить паспорт.",
+      "Renew — продлевать документ."
+     ],
+     [
+      "Fill [out] this form, please.",
+      "Заполните, пожалуйста, эту форму.",
+      "Fill out a form — заполнить форму (AmE)."
+     ],
+     [
+      "My application was [denied].",
+      "Моё заявление отклонили.",
+      "Deny an application — отказать в заявлении."
+     ],
+     [
+      "I have an [appointment] at the embassy.",
+      "У меня запись в посольство.",
+      "Appointment — назначенная встреча, запись."
+     ]
     ]
    },
    {
@@ -998,6 +1215,41 @@ addUnits("b1", [
      "take off cash — take off = снимать одежду/взлетать; pull cash, remove cash — не говорят.",
      "debit card — карта; PIN — код; receipt — чек.",
      "I want open account — нет to и артикля; Give me account — грубо и без артикля; I will to — после will без to."
+    ],
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "My credit [score] is pretty good.",
+      "У меня довольно хороший кредитный рейтинг.",
+      "Credit score — кредитный рейтинг."
+     ],
+     [
+      "I'd like to [deposit] this check.",
+      "Я хочу внести этот чек на счёт.",
+      "Deposit — вносить деньги на счёт."
+     ],
+     [
+      "Is there an [ATM] near here?",
+      "Здесь рядом есть банкомат?",
+      "ATM — банкомат."
+     ],
+     [
+      "I opened a savings [account] last week.",
+      "На прошлой неделе я открыл сберегательный счёт.",
+      "Savings account — сберегательный счёт."
+     ],
+     [
+      "My card was [declined] at the store.",
+      "Мою карту отклонили в магазине.",
+      "Declined — отклонена (о платеже)."
+     ],
+     [
+      "You can [transfer] money with the app.",
+      "Деньги можно переводить через приложение.",
+      "Transfer money — переводить деньги."
+     ]
     ]
    },
    {
@@ -1137,6 +1389,41 @@ addUnits("b1", [
      "stop a lease — не говорят; cancel a rent — rent = плата; quit a landlord — бессмыслица.",
      "one-bedroom — с отдельной спальней; townhouse — таунхаус; condo — квартира в собственности.",
      "allowing — актив, питомцы не разрешают; allow — нужна V3 после be; permit — тоже нужна V3 (permitted)."
+    ],
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "The [landlord] fixed the sink yesterday.",
+      "Арендодатель вчера починил раковину.",
+      "Landlord — арендодатель."
+     ],
+     [
+      "We paid a security [deposit] of one month's rent.",
+      "Мы внесли залог в размере месячной аренды.",
+      "Security deposit — залог при аренде."
+     ],
+     [
+      "Is the apartment [furnished]?",
+      "Квартира с мебелью?",
+      "Furnished — меблированный."
+     ],
+     [
+      "My [roommate] pays half the rent.",
+      "Мой сосед по квартире платит половину аренды.",
+      "Roommate — сосед по квартире."
+     ],
+     [
+      "Our lease [ends] in June.",
+      "Наш договор аренды заканчивается в июне.",
+      "Lease ends — договор истекает."
+     ],
+     [
+      "Are pets [allowed] in this building?",
+      "В этом доме можно держать животных?",
+      "Be allowed — быть разрешённым."
+     ]
     ]
    },
    {
@@ -1277,6 +1564,42 @@ addUnits("b1", [
      "0%, 5% — слишком мало, это невежливо; 50% — нереально много.",
      "suppose, supposing, supposes — в конструкции нужна V3: be supposed to.",
      "salary, religion, weight — личные/чувствительные темы."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "pragmatics"
+    ],
+    "extra": [
+     [
+      "In the US, people usually tip [about] twenty percent.",
+      "В США обычно оставляют чаевые около двадцати процентов.",
+      "About — примерно, около."
+     ],
+     [
+      "Americans value their personal [space].",
+      "Американцы ценят личное пространство.",
+      "Personal space — личное пространство."
+     ],
+     [
+      "It's [polite] to say thank you to the driver.",
+      "Вежливо поблагодарить водителя.",
+      "Polite — вежливый."
+     ],
+     [
+      "You're not supposed to [ask] about salary.",
+      "Не принято спрашивать о зарплате.",
+      "Not supposed to — не принято."
+     ],
+     [
+      "People here [usually] smile at strangers.",
+      "Здесь люди обычно улыбаются незнакомцам.",
+      "Usually — наречие частоты перед глаголом."
+     ],
+     [
+      "Don't take it [personally], it's just a custom.",
+      "Не принимай на свой счёт, это просто обычай.",
+      "Take it personally — принимать на свой счёт."
+     ]
     ]
    },
    {
@@ -1421,6 +1744,42 @@ addUnits("b1", [
      "lost — терять, не опоздать; late my connection — late не глагол; skipped my transfer — пропустить намеренно.",
      "Put me… — приказ; You must… — требование; I want… now — грубо.",
      "voucher — ваучер; receipt — чек; fee — плата."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "speaking"
+    ],
+    "extra": [
+     [
+      "Our flight was [canceled] because of the snow.",
+      "Наш рейс отменили из-за снега.",
+      "Canceled — отменён (AmE, одна l)."
+     ],
+     [
+      "Is there a later [flight] tonight?",
+      "Есть ли более поздний рейс сегодня вечером?",
+      "Flight — рейс."
+     ],
+     [
+      "Can you [rebook] me on the next flight?",
+      "Можете перебронировать меня на следующий рейс?",
+      "Rebook — перебронировать."
+     ],
+     [
+      "I'd like to file a [complaint].",
+      "Я хочу подать жалобу.",
+      "File a complaint — подать жалобу."
+     ],
+     [
+      "The airline gave us a meal [voucher].",
+      "Авиакомпания дала нам талон на питание.",
+      "Voucher — ваучер, талон."
+     ],
+     [
+      "My bag got [lost] in Chicago.",
+      "Мой багаж потерялся в Чикаго.",
+      "Get lost — потеряться."
+     ]
     ]
    }
   ]
@@ -1570,6 +1929,42 @@ addUnits("b1", [
      "work — Present Simple не с since; am working — нет связи с прошлым; worked — завершённое прошлое.",
      "We did some things, The team was good — расплывчато и не от себя; I tried maybe to help — неуверенно и неграмматично.",
      "on, for, at — increase сочетается с by для величины изменения."
+    ],
+    "tags": [
+     "speaking",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Why do you want to work [here]?",
+      "Почему вы хотите работать здесь?",
+      "Стандартный вопрос на собеседовании."
+     ],
+     [
+      "My biggest [weakness] is public speaking.",
+      "Моя главная слабость — публичные выступления.",
+      "Weakness — слабая сторона."
+     ],
+     [
+      "Where do you see yourself in five [years]?",
+      "Кем вы видите себя через пять лет?",
+      "Типичный вопрос о планах."
+     ],
+     [
+      "I'm a fast [learner].",
+      "Я быстро учусь.",
+      "Fast learner — человек, быстро осваивающий новое."
+     ],
+     [
+      "I [led] a team of six developers.",
+      "Я руководил командой из шести разработчиков.",
+      "Led — прошедшее время от lead."
+     ],
+     [
+      "Do you have any questions [for] us?",
+      "У вас есть вопросы к нам?",
+      "Questions for someone — вопросы к кому-то."
+     ]
     ]
    },
    {
@@ -1712,6 +2107,42 @@ addUnits("b1", [
      "Stop talking, Wait, wrong, Listen to me — грубо, без смягчения.",
      "wrap in — завернуть во что-то; close off — перекрыть; end over — не существует.",
      "agenda points — пункты повестки (до встречи); minutes — протокол; follow-ups items — неграмматично."
+    ],
+    "tags": [
+     "speaking",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Let's get [started], everyone.",
+      "Давайте начнём, все.",
+      "Let's get started — начнём."
+     ],
+     [
+      "Sorry, can you [repeat] that?",
+      "Извините, можете повторить?",
+      "Просьба повторить на встрече."
+     ],
+     [
+      "Let's [circle] back to this next week.",
+      "Давайте вернёмся к этому на следующей неделе.",
+      "Circle back — вернуться к вопросу позже."
+     ],
+     [
+      "Who's taking [notes]?",
+      "Кто ведёт заметки?",
+      "Take notes — записывать."
+     ],
+     [
+      "Can we [move] on to the next item?",
+      "Можем перейти к следующему пункту?",
+      "Move on — переходить дальше."
+     ],
+     [
+      "I'll [send] out the summary after the call.",
+      "Я разошлю итоги после звонка.",
+      "Send out — рассылать."
+     ]
     ]
    },
    {
@@ -1853,6 +2284,42 @@ addUnits("b1", [
      "Why didn't you answer?, Answer me ASAP!!!, You forgot — обвиняюще и грубо.",
      "every other day, email or document, end of discussion — не расшифровки EOD.",
      "Dear Madam Sarah — слишком формально и неверно; Hello, dear colleague! — калька; Sarah! — резко."
+    ],
+    "tags": [
+     "writing",
+     "register"
+    ],
+    "extra": [
+     [
+      "Quick [question] about the deadline.",
+      "Быстрый вопрос по дедлайну.",
+      "Quick question — типичное начало в Slack."
+     ],
+     [
+      "[FYI], the meeting moved to three.",
+      "К сведению, встреча перенесена на три.",
+      "FYI — for your information."
+     ],
+     [
+      "Can you [loop] me in on that thread?",
+      "Можешь добавить меня в эту переписку?",
+      "Loop someone in — включить в обсуждение."
+     ],
+     [
+      "Please see the [attached] file.",
+      "Пожалуйста, посмотрите приложенный файл.",
+      "Attached — приложенный."
+     ],
+     [
+      "Let me [know] if you have questions.",
+      "Дайте знать, если будут вопросы.",
+      "Let me know — стандартная концовка письма."
+     ],
+     [
+      "Sorry for the late [reply].",
+      "Извините за поздний ответ.",
+      "Reply — ответ."
+     ]
     ]
    },
    {
@@ -2000,6 +2467,41 @@ addUnits("b1", [
      "borrow — брать, а не давать; owe — быть должным; rent — сдавать/снимать.",
      "/debt/, /dept/, /debit/ — b в debt не читается, произношение /det/.",
      "buying, buy, for buy — afford сочетается с to + глагол."
+    ],
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "We need to stick to our [budget].",
+      "Нам нужно придерживаться бюджета.",
+      "Stick to a budget — укладываться в бюджет."
+     ],
+     [
+      "I [spent] too much money last month.",
+      "В прошлом месяце я потратил слишком много.",
+      "Spend — тратить, spent — прошедшее."
+     ],
+     [
+      "Can you [lend] me twenty bucks?",
+      "Можешь одолжить мне двадцать баксов?",
+      "Lend — давать в долг."
+     ],
+     [
+      "It's way too [expensive] for me.",
+      "Это слишком дорого для меня.",
+      "Expensive — дорогой."
+     ],
+     [
+      "We're trying to [cut] back on eating out.",
+      "Мы стараемся меньше есть вне дома.",
+      "Cut back on — сокращать."
+     ],
+     [
+      "I [owe] my brother fifty dollars.",
+      "Я должен брату пятьдесят долларов.",
+      "Owe — быть должным."
+     ]
     ]
    }
   ]

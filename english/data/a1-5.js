@@ -130,6 +130,43 @@ addUnits("a1", [
      "I want tea / Give me tea — звучит грубо; Tea me — неграмматично.",
      "the bill of paper — бессмыслица; the count — «подсчёт»; the score — «счёт» в игре.",
      "a / an — sugar неисчисляемое; many — только с исчисляемыми."
+    ],
+    "tags": [
+     "speaking",
+     "modals",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Can I [get] a small coffee, please?",
+      "Можно маленький кофе?",
+      "Can I get...? — типичный заказ в США."
+     ],
+     [
+      "Is that for here or [to] go?",
+      "Здесь или с собой?",
+      "To go — с собой."
+     ],
+     [
+      "I'll [have] a muffin, too.",
+      "Я ещё возьму маффин.",
+      "I'll have — я возьму."
+     ],
+     [
+      "Could I get that [with] oat milk?",
+      "Можно с овсяным молоком?",
+      "With — с."
+     ],
+     [
+      "What [size] would you like?",
+      "Какой размер вы хотите?",
+      "Size — размер напитка."
+     ],
+     [
+      "Can I have a [glass] of water?",
+      "Можно стакан воды?",
+      "A glass of — стакан чего-то."
+     ]
     ]
    },
    {
@@ -258,6 +295,43 @@ addUnits("a1", [
      "loaf — для хлеба; dozen — для штучных (яйца); piece — для твёрдых кусков, не для молока.",
      "many — water неисчисляемое; lot — How lot не бывает; few — для исчисляемых и не после How.",
      "for sale — «выставлено на продажу»; in sale / at sale — неверный предлог."
+    ],
+    "tags": [
+     "speaking",
+     "vocabulary-topic",
+     "quantifiers"
+    ],
+    "extra": [
+     [
+      "Where can I [find] the rice?",
+      "Где найти рис?",
+      "Where can I find...? — вопрос в магазине."
+     ],
+     [
+      "Paper or [plastic]?",
+      "Бумажный или пластиковый?",
+      "Вопрос о пакете."
+     ],
+     [
+      "It's in aisle [five].",
+      "Это в пятом ряду.",
+      "Aisle + номер."
+     ],
+     [
+      "I need a [bottle] of milk.",
+      "Мне нужна бутылка молока.",
+      "A bottle of — бутылка."
+     ],
+     [
+      "Do you have [any] fresh bread?",
+      "У вас есть свежий хлеб?",
+      "Any — в вопросах."
+     ],
+     [
+      "Can I get a [bag], please?",
+      "Можно пакет?",
+      "Bag — пакет."
+     ]
     ]
    },
    {
@@ -391,6 +465,43 @@ addUnits("a1", [
      "try on it — местоимение должно стоять между try и on; on try it — неверный порядок; try it — без on значит «попробовать».",
      "is — pants всегда мн. число; am — только с I; be — нужно спрягать.",
      "very much / so much expensive — much перед прилагательным не ставят; expensiver — у длинных прилагательных more expensive."
+    ],
+    "tags": [
+     "speaking",
+     "vocabulary-topic",
+     "modals"
+    ],
+    "extra": [
+     [
+      "Can I [try] this on?",
+      "Можно примерить?",
+      "Try on — примерить."
+     ],
+     [
+      "Do you have it [in] a large?",
+      "Есть такой размер L?",
+      "In + размер."
+     ],
+     [
+      "Where's the [fitting] room?",
+      "Где примерочная?",
+      "Fitting room — примерочная."
+     ],
+     [
+      "These jeans are too [tight].",
+      "Эти джинсы слишком тесные.",
+      "Tight — тесный."
+     ],
+     [
+      "Do you have this in [black]?",
+      "Есть такое в чёрном?",
+      "In + цвет."
+     ],
+     [
+      "It [fits] perfectly.",
+      "Сидит идеально.",
+      "Fit — подходить по размеру; it — окончание -s."
+     ]
     ]
    },
    {
@@ -523,6 +634,43 @@ addUnits("a1", [
      "is — shoes во мн. числе; do / does — с How much + существительным используется be.",
      "three point seventy-five — так читают десятичные числа, не цены; three and seventy-five dollars cents — бессмыслица; thirty-seven five — неверно.",
      "rest — «отдых, остаток»; delivery — «доставка»; money back card — бессмыслица."
+    ],
+    "tags": [
+     "speaking",
+     "questions",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "How much [is] this shirt?",
+      "Сколько стоит эта рубашка?",
+      "Shirt — ед. ч., значит is."
+     ],
+     [
+      "How much [are] these shoes?",
+      "Сколько стоят эти туфли?",
+      "Shoes — мн. ч., значит are."
+     ],
+     [
+      "Can I pay [by] card?",
+      "Можно картой?",
+      "Pay by card — платить картой."
+     ],
+     [
+      "Do you take [cash]?",
+      "Вы принимаете наличные?",
+      "Cash — наличные."
+     ],
+     [
+      "Can I get a [receipt]?",
+      "Можно чек?",
+      "Receipt — чек; p не читается."
+     ],
+     [
+      "That'll be twenty [dollars], please.",
+      "С вас двадцать долларов.",
+      "После числа — мн. ч."
+     ]
     ]
    },
    {
@@ -655,6 +803,43 @@ addUnits("a1", [
      "Is cold / Cold is — нет подлежащего it; It cold — пропущен глагол is.",
      "It snows now — Simple не для процесса в момент речи; It snowing — пропущен is; Is snow — нет подлежащего.",
      "70°C — это кипяток; 7°C — около 45°F; 35°C — около 95°F."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "to-be",
+     "present-continuous"
+    ],
+    "extra": [
+     [
+      "It's [raining] again.",
+      "Снова идёт дождь.",
+      "Present Continuous — происходит сейчас."
+     ],
+     [
+      "It's really [windy] today.",
+      "Сегодня очень ветрено.",
+      "Windy — ветреный."
+     ],
+     [
+      "It's 80 [degrees] outside.",
+      "На улице 80 градусов.",
+      "Degrees — градусы (по Фаренгейту в США)."
+     ],
+     [
+      "What's the weather [like] today?",
+      "Какая сегодня погода?",
+      "What's the weather like? — устойчивый вопрос."
+     ],
+     [
+      "It [snows] a lot in Chicago.",
+      "В Чикаго много снега.",
+      "Регулярность — Present Simple."
+     ],
+     [
+      "It's [cloudy] this morning.",
+      "Сегодня утром облачно.",
+      "Cloudy — облачный."
+     ]
     ]
    }
   ]
@@ -796,6 +981,43 @@ addUnits("a1", [
      "Are there — balcony в ед. числе; Has it — так о наличии не спрашивают; There is — это утверждение, не вопрос.",
      "many furnitures / a lot of furnitures / much furnitures — furniture неисчисляемое, без -s.",
      "in the balcony — балкон — открытая площадка, нужно on; at / into balcony — неверный предлог и нет артикля."
+    ],
+    "tags": [
+     "there-is",
+     "vocabulary-topic",
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "There [is] a big window in the kitchen.",
+      "В кухне большое окно.",
+      "Ед. ч. — there is."
+     ],
+     [
+      "There [are] two bathrooms.",
+      "Там две ванные.",
+      "Мн. ч. — there are."
+     ],
+     [
+      "The couch is [in] the living room.",
+      "Диван в гостиной.",
+      "In — внутри комнаты."
+     ],
+     [
+      "Is there a washer [in] the building?",
+      "В доме есть стиральная машина?",
+      "In the building — в здании."
+     ],
+     [
+      "My apartment is small [but] cozy.",
+      "Моя квартира маленькая, но уютная.",
+      "But — противопоставление."
+     ],
+     [
+      "There [isn't] a balcony.",
+      "Балкона нет.",
+      "Отрицание ед. ч. — there isn't."
+     ]
     ]
    },
    {
@@ -926,6 +1148,43 @@ addUnits("a1", [
      "I cook often dinner — наречие не ставят между глаголом и дополнением; Often … always / often always — два противоречащих наречия.",
      "get to home — с home предлог to не нужен; come to the home — лишние to и the; go at home — неверный предлог.",
      "get — she требует -s; getting — нет is; is get — be и Simple не смешивают."
+    ],
+    "tags": [
+     "present-simple",
+     "linking-discourse",
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "I usually [get] up at seven.",
+      "Я обычно встаю в семь.",
+      "Get up — вставать."
+     ],
+     [
+      "Then I [take] a shower.",
+      "Потом я принимаю душ.",
+      "Take a shower — устойчивое сочетание."
+     ],
+     [
+      "She [leaves] for work at eight.",
+      "Она уходит на работу в восемь.",
+      "She — окончание -s."
+     ],
+     [
+      "I have lunch [at] noon.",
+      "Я обедаю в полдень.",
+      "At + время."
+     ],
+     [
+      "After work, I [go] to the gym.",
+      "После работы я хожу в спортзал.",
+      "Go to the gym — ходить в зал."
+     ],
+     [
+      "I [never] watch TV in the morning.",
+      "Я никогда не смотрю ТВ утром.",
+      "Наречие частоты перед глаголом."
+     ]
     ]
    },
    {
@@ -1060,6 +1319,43 @@ addUnits("a1", [
      "play — для игр и инструментов; do — для йоги, каратэ; make — «изготавливать».",
      "goes — для -ing активностей (go swimming); does — для yoga и т.п.; makes — «делать, изготавливать».",
      "to watching — после enjoy не ставится to; watch — нужна -ing форма; watched — прошедшее время."
+    ],
+    "tags": [
+     "gerund-infinitive",
+     "vocabulary-topic",
+     "present-simple"
+    ],
+    "extra": [
+     [
+      "I'm really into [hiking].",
+      "Я очень увлекаюсь походами.",
+      "После into — форма -ing."
+     ],
+     [
+      "She plays [the] piano.",
+      "Она играет на пианино.",
+      "С инструментами — the."
+     ],
+     [
+      "We play [soccer] on weekends.",
+      "Мы играем в футбол по выходным.",
+      "Soccer — футбол в США; без артикля."
+     ],
+     [
+      "Do you like [reading]?",
+      "Ты любишь читать?",
+      "Like + -ing."
+     ],
+     [
+      "In my free time, I [watch] movies.",
+      "В свободное время я смотрю фильмы.",
+      "Present Simple — привычка."
+     ],
+     [
+      "He goes [fishing] every summer.",
+      "Он ездит на рыбалку каждое лето.",
+      "Go + -ing для занятий."
+     ]
     ]
    },
    {
@@ -1194,6 +1490,42 @@ addUnits("a1", [
      "on — для дней и дат; at — для времени суток; без предлога — с месяцем предлог in обязателен.",
      "on / in / at next Monday — с next предлог не используется.",
      "August 3rd / 3 августа — так прочитали бы в Европе; «8 марта не бывает» — бывает, именно это и значит 03/08 в США."
+    ],
+    "tags": [
+     "prepositions",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "See you [on] Monday.",
+      "Увидимся в понедельник.",
+      "On + день недели."
+     ],
+     [
+      "My birthday is [in] July.",
+      "Мой день рождения в июле.",
+      "In + месяц."
+     ],
+     [
+      "We go skiing [in] winter.",
+      "Мы катаемся на лыжах зимой.",
+      "In + время года."
+     ],
+     [
+      "The party is [on] June 5th.",
+      "Вечеринка 5 июня.",
+      "On + дата."
+     ],
+     [
+      "I don't work [on] weekends.",
+      "Я не работаю по выходным.",
+      "On weekends — американский вариант."
+     ],
+     [
+      "School starts [in] September.",
+      "Школа начинается в сентябре.",
+      "In + месяц."
+     ]
     ]
    }
   ]
@@ -1339,6 +1671,43 @@ addUnits("a1", [
      "My head is pain — pain не прилагательное; I have headache pain me — бессмыслица; Me head hurts — нужно my.",
      "hurts — eyes мн. число; is hurt — «ранен»; hurting — без are.",
      "a cool — «прохладный»; a cough — кашель; a fever — температура."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "have",
+     "speaking"
+    ],
+    "extra": [
+     [
+      "I have a [headache].",
+      "У меня болит голова.",
+      "Have a headache — устойчиво."
+     ],
+     [
+      "My back [hurts].",
+      "У меня болит спина.",
+      "Back — ед. ч., hurts."
+     ],
+     [
+      "I [feel] sick today.",
+      "Мне сегодня плохо.",
+      "Feel sick — плохо себя чувствовать."
+     ],
+     [
+      "She has a [sore] throat.",
+      "У неё болит горло.",
+      "Sore throat — боль в горле."
+     ],
+     [
+      "My feet [hurt].",
+      "У меня болят ноги.",
+      "Feet — мн. ч., hurt."
+     ],
+     [
+      "What's [wrong]?",
+      "Что случилось?",
+      "What's wrong? — о самочувствии."
+     ]
     ]
    },
    {
@@ -1468,6 +1837,43 @@ addUnits("a1", [
      "against cough — «от» болезни по-английски for; from cough — неверный предлог; to cough — «чтобы кашлять».",
      "drink / eat / do medicine — лекарство «принимают»: take.",
      "on / for / with — после allergic используется только to."
+    ],
+    "tags": [
+     "speaking",
+     "vocabulary-topic",
+     "modals"
+    ],
+    "extra": [
+     [
+      "Do you have something [for] a cough?",
+      "У вас есть что-нибудь от кашля?",
+      "For — от болезни."
+     ],
+     [
+      "Take two pills [twice] a day.",
+      "Принимайте две таблетки два раза в день.",
+      "Twice — дважды."
+     ],
+     [
+      "Do I need a [prescription]?",
+      "Нужен ли рецепт?",
+      "Prescription — рецепт."
+     ],
+     [
+      "Is this okay [for] kids?",
+      "Это подходит детям?",
+      "For — для."
+     ],
+     [
+      "I'm [allergic] to aspirin.",
+      "У меня аллергия на аспирин.",
+      "Allergic to — аллергия на."
+     ],
+     [
+      "Take it [with] food.",
+      "Принимайте во время еды.",
+      "With food — с едой."
+     ]
     ]
    },
    {
@@ -1597,6 +2003,43 @@ addUnits("a1", [
      "I lost — «я потерял» (нужно дополнение); I'm losing — «я проигрываю/теряю»; I lose me — неграмматично.",
      "steal — настоящее время; stealed — steal неправильный; stolen — причастие, без has нельзя.",
      "112 — европейский номер; 01 — старый российский номер пожарных; 999 — британский номер."
+    ],
+    "tags": [
+     "speaking",
+     "vocabulary-topic",
+     "past-simple"
+    ],
+    "extra": [
+     [
+      "[Call] 911!",
+      "Звоните 911!",
+      "Повелительное — глагол без подлежащего."
+     ],
+     [
+      "I [lost] my wallet.",
+      "Я потерял кошелёк.",
+      "Lose — lost, неправильный глагол."
+     ],
+     [
+      "Someone [stole] my phone.",
+      "Кто-то украл мой телефон.",
+      "Steal — stole."
+     ],
+     [
+      "Where is the nearest [hospital]?",
+      "Где ближайшая больница?",
+      "Hospital — больница."
+     ],
+     [
+      "Please call an [ambulance].",
+      "Вызовите скорую.",
+      "An перед гласным звуком."
+     ],
+     [
+      "I need [help] right now!",
+      "Мне нужна помощь срочно!",
+      "Help — помощь, без артикля."
+     ]
     ]
    }
   ]

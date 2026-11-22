@@ -147,6 +147,42 @@ addUnits("c1", [
      "shoes store — определение обычно в ед. ч.; store of shoes — неестественно; shoe's store — притяжательный падеж здесь неуместен.",
      "lived — пассивное/прошедшее причастие не передаёт активное who live; living people — меняет смысл («живые люди»); to live — инфинитив означает цель/будущее.",
      "Остальные варианты нарушают порядок прилагательных: мнение → возраст → материал."
+    ],
+    "tags": [
+     "adjectives-adverbs",
+     "word-order"
+    ],
+    "extra": [
+     [
+      "They live in a [beautiful old] stone house.",
+      "Они живут в красивом старом каменном доме.",
+      "Порядок: мнение → возраст → материал."
+     ],
+     [
+      "He gave a [well-prepared] presentation.",
+      "Он провёл хорошо подготовленную презентацию.",
+      "Наречие + причастие через дефис перед существительным."
+     ],
+     [
+      "We stayed in a [five-star] hotel.",
+      "Мы остановились в пятизвёздочном отеле.",
+      "В составном прилагательном star без -s."
+     ],
+     [
+      "She bought a [small round] wooden table.",
+      "Она купила маленький круглый деревянный стол.",
+      "Размер → форма → материал."
+     ],
+     [
+      "It's a [two-hour] drive to the coast.",
+      "До побережья два часа езды.",
+      "two-hour — единственное число в составном."
+     ],
+     [
+      "The city opened a [newly built] sports center.",
+      "Город открыл недавно построенный спорткомплекс.",
+      "newly built — без дефиса после -ly."
+     ]
     ]
    },
    {
@@ -298,6 +334,41 @@ addUnits("c1", [
      "That / Which — не начинают wh-cleft со значением «то, что»; It — тогда нужна другая структура (It is ... that).",
      "like / so / that — в уступительной конструкции после прилагательного используется только as (или though).",
      "As it was cold — «так как было холодно» (причина); It was cold as we swam — «было холодно, когда мы плавали»; As cold — неграмматично."
+    ],
+    "tags": [
+     "emphasis-cleft"
+    ],
+    "extra": [
+     [
+      "[What] annoys me is his attitude.",
+      "Что меня раздражает, так это его отношение.",
+      "Псевдо-расщеплённое предложение с what."
+     ],
+     [
+      "It was in Paris [that] they first met.",
+      "Именно в Париже они впервые встретились.",
+      "It was ... that выделяет обстоятельство."
+     ],
+     [
+      "[All] I want is some peace and quiet.",
+      "Всё, чего я хочу, — немного тишины.",
+      "All I want is — «всё, что мне нужно»."
+     ],
+     [
+      "This kind of behavior I simply [won't] tolerate.",
+      "Такое поведение я просто не потерплю.",
+      "Фронтинг: дополнение в начале для выделения."
+     ],
+     [
+      "The reason I called [is] that I need help.",
+      "Я позвонил потому, что мне нужна помощь.",
+      "The reason ... is that."
+     ],
+     [
+      "What she did [was] call the police.",
+      "Она сделала вот что — вызвала полицию.",
+      "What ... did was + инфинитив."
+     ]
     ]
    },
    {
@@ -464,6 +535,41 @@ addUnits("c1", [
      "rise — непереходный глагол, не берёт дополнение; lift / grow — не сочетаются с awareness.",
      "heavily / highly — не сочетаются с disagree; deeply — встречается редко, стандарт — strongly.",
      "strongly very — неграмматичное сочетание двух наречий; heavily / bitterly — не сочетаются с recommended."
+    ],
+    "tags": [
+     "collocations"
+    ],
+    "extra": [
+     [
+      "I [deeply] regret what I said.",
+      "Я глубоко сожалею о сказанном.",
+      "deeply regret — устойчивая коллокация."
+     ],
+     [
+      "Smoking carries a [high] risk of cancer.",
+      "Курение несёт высокий риск рака.",
+      "high risk, не big risk."
+     ],
+     [
+      "I need a cup of [strong] coffee.",
+      "Мне нужна чашка крепкого кофе.",
+      "strong coffee, не powerful."
+     ],
+     [
+      "He's a [heavy] smoker.",
+      "Он заядлый курильщик.",
+      "heavy smoker/drinker."
+     ],
+     [
+      "She made a [serious] mistake.",
+      "Она совершила серьёзную ошибку.",
+      "serious/big mistake, make a mistake."
+     ],
+     [
+      "We have a [strong] chance of winning.",
+      "У нас хорошие шансы на победу.",
+      "strong chance — высокая вероятность."
+     ]
     ]
    },
    {
@@ -623,6 +729,42 @@ addUnits("c1", [
      "Он случайно грубит — смешение с come across (наткнуться); Он перестал грубить — нет такого смысла; Он встретил грубияна — буквальное прочтение.",
      "the elephant in the room — замалчиваемая проблема; on the fence — в нерешительности; cut corners — халтурить.",
      "picked out — выбрал; made out — разглядел/понял; put off — отложил."
+    ],
+    "tags": [
+     "phrasal-verbs",
+     "idioms"
+    ],
+    "extra": [
+     [
+      "Let's not plan anything and just play it by [ear].",
+      "Давай ничего не планировать и действовать по обстоятельствам.",
+      "play it by ear — по ситуации."
+     ],
+     [
+      "I [came across] an old photo of us.",
+      "Я случайно наткнулся на нашу старую фотографию.",
+      "come across — случайно найти."
+     ],
+     [
+      "Stop [putting off] your homework.",
+      "Хватит откладывать домашнее задание.",
+      "put off — откладывать."
+     ],
+     [
+      "She takes [after] her mother.",
+      "Она пошла в мать.",
+      "take after — быть похожим на родственника."
+     ],
+     [
+      "Don't beat around the [bush] — just tell me.",
+      "Не ходи вокруг да около — просто скажи.",
+      "beat around the bush — ходить вокруг да около."
+     ],
+     [
+      "The meeting was [called off] at the last minute.",
+      "Встречу отменили в последний момент.",
+      "call off — отменить."
+     ]
     ]
    }
   ]
@@ -783,6 +925,42 @@ addUnits("c1", [
      "overweigh / outweight — несуществующие формы; overcome — преодолевать.",
      "Granted, it's cheap — уступка, а не вывод; Critics may argue that... — контраргумент; Firstly — начало аргументации.",
      "введения тезиса / примера / вывода — фраза указывает на недостаток чужого аргумента, а не на эти функции."
+    ],
+    "tags": [
+     "linking-discourse",
+     "writing"
+    ],
+    "extra": [
+     [
+      "[While] it is true that cars pollute, they are essential.",
+      "Хотя машины и загрязняют воздух, они необходимы.",
+      "While it is true that — уступка."
+     ],
+     [
+      "It stands to [reason] that prices will rise.",
+      "Само собой разумеется, что цены вырастут.",
+      "It stands to reason — логично."
+     ],
+     [
+      "[Admittedly], the plan has some weaknesses.",
+      "Надо признать, у плана есть слабые места.",
+      "admittedly — признание контраргумента."
+     ],
+     [
+      "[Nevertheless], I believe we should proceed.",
+      "Тем не менее я считаю, что нам следует продолжить.",
+      "nevertheless — контраст после уступки."
+     ],
+     [
+      "There is no [denying] that technology helps.",
+      "Нельзя отрицать, что технологии помогают.",
+      "There is no denying that — бесспорно."
+     ],
+     [
+      "[On] balance, the advantages seem greater.",
+      "В целом преимущества кажутся больше.",
+      "on balance — взвесив всё."
+     ]
     ]
    },
    {
@@ -933,6 +1111,41 @@ addUnits("c1", [
      "kick off / get going — разговорные; begin up — несуществующее сочетание.",
      "Dear Sir, I demand — слишком официально и грубо; Mark, send file now — резко и без артиклей; Respected Mark, I humbly request — калька, звучит неестественно.",
      "a lot of stuff / tons of problems / loads of issues — разговорные количественные выражения."
+    ],
+    "tags": [
+     "register"
+    ],
+    "extra": [
+     [
+      "We would like to [inform] you of a change.",
+      "Мы хотели бы сообщить вам об изменении.",
+      "inform — формальный аналог tell."
+     ],
+     [
+      "Please [contact] us for further details.",
+      "Пожалуйста, свяжитесь с нами для подробностей.",
+      "contact — формальнее, чем get in touch."
+     ],
+     [
+      "Your order has been [dispatched].",
+      "Ваш заказ отправлен.",
+      "dispatched — официальное «отправлен»."
+     ],
+     [
+      "We [apologize] for any inconvenience caused.",
+      "Приносим извинения за доставленные неудобства.",
+      "Формальная формула извинения."
+     ],
+     [
+      "Hey, I [can't] make it tonight, sorry!",
+      "Слушай, не смогу сегодня, прости!",
+      "Разговорный регистр: can't make it."
+     ],
+     [
+      "Kindly [refrain] from smoking.",
+      "Просьба воздержаться от курения.",
+      "refrain from — формальное «не делать»."
+     ]
     ]
    },
    {
@@ -1084,6 +1297,42 @@ addUnits("c1", [
      "In the modern world... — клише для начала эссе; The aim of this paper is... — вводит цель; Hence — связка следствия, а не перехода.",
      "В заключении / в середине — слишком поздно; не формулировать явно — противоречит нормам англ. эссе.",
      "whereas — противопоставление; conversely — наоборот; moreover — кроме того."
+    ],
+    "tags": [
+     "writing",
+     "speaking"
+    ],
+    "extra": [
+     [
+      "This study [aims] to explore user behavior.",
+      "Целью данного исследования является изучение поведения пользователей.",
+      "aim to — типичная академическая формула."
+     ],
+     [
+      "Let me draw your [attention] to this chart.",
+      "Позвольте обратить ваше внимание на этот график.",
+      "draw attention to — в презентациях."
+     ],
+     [
+      "[In] conclusion, the evidence is clear.",
+      "В заключение, доказательства очевидны.",
+      "in conclusion — завершение."
+     ],
+     [
+      "The findings [indicate] a clear trend.",
+      "Результаты указывают на явную тенденцию.",
+      "indicate — академический глагол."
+     ],
+     [
+      "As you can [see] from the graph, sales doubled.",
+      "Как видно из графика, продажи удвоились.",
+      "Комментирование визуала."
+     ],
+     [
+      "[Furthermore], the costs were lower than expected.",
+      "Более того, расходы оказались ниже ожидаемых.",
+      "furthermore — добавление аргумента."
+     ]
     ]
    },
    {
@@ -1243,6 +1492,42 @@ addUnits("c1", [
      "«wa-ter» с чётким t и «wat-ter» — британское/нетипичное произношение; «wa-cher» — такого звука нет.",
      "should of — ошибка из-за слабой формы have; shoulda — только разговорная запись; should've of — лишнее of.",
      "What did you want, dude? / Where do you want to go? / What are you doing? — не совпадают с whaddya wanna do по составу слов."
+    ],
+    "tags": [
+     "listening",
+     "pronunciation"
+    ],
+    "extra": [
+     [
+      "I [wanna] try that new place downtown.",
+      "Хочу сходить в то новое место в центре.",
+      "wanna = want to."
+     ],
+     [
+      "She's [kinda] busy right now.",
+      "Она сейчас вроде как занята.",
+      "kinda = kind of."
+     ],
+     [
+      "[Didja] see the game last night?",
+      "Ты видел вчерашнюю игру?",
+      "didja = did you."
+     ],
+     [
+      "We [hafta] leave by six.",
+      "Нам надо выйти к шести.",
+      "hafta = have to."
+     ],
+     [
+      "I [shoulda] called you earlier.",
+      "Мне следовало позвонить тебе раньше.",
+      "shoulda = should have."
+     ],
+     [
+      "It's [sorta] hard to explain.",
+      "Это сложновато объяснить.",
+      "sorta = sort of."
+     ]
     ]
    }
   ]

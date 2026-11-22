@@ -158,7 +158,48 @@ addUnits("c2", [
     "text": {
      "en": "Consider how differently two journalists might describe the same person. Here is the first version: \"Margaret Hale, the city's frugal and determined mayor, has spent the past four years carefully reviewing every line of the budget. Confident and direct, she rarely backs down from a fight, and her curiosity about the details of city contracts has uncovered several cases of waste. Supporters call her a renowned reformer with a youthful energy unusual in local politics.\" And here is the second: \"Margaret Hale, the city's stingy and stubborn mayor, has spent the past four years obsessively picking apart every line of the budget. Arrogant and blunt, she refuses to compromise, and her nosy interference in city contracts has alienated many longtime partners. Critics call her a notorious meddler with a childish need for attention.\" Not a single fact has changed. The mayor reviews the budget, does not compromise easily, examines contracts closely, and is famous. Yet the reader comes away with two completely different impressions. This is the power of connotation. Native speakers absorb these shades of meaning without thinking, which is why a learner who uses \"stubborn\" to praise a colleague or \"cheap\" to compliment a friend's budgeting skills may cause real offense. At advanced levels, the question is no longer whether a word is correct, but what attitude it reveals. Every time you choose between near-synonyms, you are taking a side, whether you intend to or not.",
      "ru": "Посмотрите, как по-разному два журналиста могут описать одного человека. Вот первый вариант: «Маргарет Хейл, бережливый и целеустремлённый мэр города, последние четыре года тщательно проверяла каждую строку бюджета. Уверенная и прямая, она редко отступает от борьбы, а её интерес к деталям городских контрактов вскрыл несколько случаев растраты. Сторонники называют её прославленным реформатором с молодой энергией, необычной для местной политики». А вот второй: «Маргарет Хейл, скупой и упрямый мэр города, последние четыре года одержимо выискивала изъяны в каждой строке бюджета. Высокомерная и резкая, она отказывается от компромиссов, а её назойливое вмешательство в городские контракты оттолкнуло многих давних партнёров. Критики называют её печально известной интриганкой с инфантильной жаждой внимания». Ни один факт не изменился. Мэр проверяет бюджет, неохотно идёт на компромиссы, внимательно изучает контракты и знаменита. Но у читателя складываются два совершенно разных впечатления. В этом сила коннотации. Носители усваивают эти оттенки не задумываясь, поэтому ученик, похваливший коллегу словом «stubborn» или сделавший комплимент экономности друга словом «cheap», может по-настоящему обидеть. На продвинутом уровне вопрос уже не в том, правильно ли слово, а в том, какое отношение оно выдаёт. Каждый раз, выбирая между синонимами, вы занимаете сторону — хотите вы того или нет."
-    }
+    },
+    "tags": [
+     "confusing-words",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "She's [slender], with long elegant fingers.",
+      "Она стройная, с длинными изящными пальцами.",
+      "Slender — комплимент: изящная худоба."
+     ],
+     [
+      "Stop being so [nosy] about my love life.",
+      "Хватит совать нос в мою личную жизнь.",
+      "Nosy — негативное «любопытный»: лезет не в своё дело."
+     ],
+     [
+      "He's [assertive] in meetings but never rude.",
+      "На совещаниях он напорист, но никогда не груб.",
+      "Assertive — позитивная уверенность, в отличие от arrogant."
+     ],
+     [
+      "The kitchen was filled with the [aroma] of fresh bread.",
+      "Кухня наполнилась ароматом свежего хлеба.",
+      "Aroma — приятный запах еды; odor было бы негативно."
+     ],
+     [
+      "That stray dog looks so [scrawny].",
+      "Эта бродячая собака такая тощая.",
+      "Scrawny — негативно: болезненно худой."
+     ],
+     [
+      "Her [childish] tantrums embarrassed everyone.",
+      "Её детские истерики смутили всех.",
+      "Childish — негатив о взрослом; childlike было бы нейтрально-мило."
+     ],
+     [
+      "A [stench] of rotten fish hit us at the dock.",
+      "На причале нас ударила вонь тухлой рыбы.",
+      "Stench — сильный отвратительный запах."
+     ]
+    ]
    },
    {
     "id": "c2u1l2",
@@ -290,7 +331,47 @@ addUnits("c2", [
     "text": {
      "en": "When the new CEO arrived at our company, she promised to \"steady the ship.\" For a few months, it seemed to work. Then came the restructuring. At the first town hall meeting, someone asked whether layoffs were planned, and you could feel the room hold its breath. She tried to sidestep the question, but that only opened a can of worms. Rumors spread like wildfire. Within a week, three senior managers had jumped ship, and the remaining staff were walking on eggshells. My own manager, Greg, clearly had a lot on his plate. He was caught between a rock and a hard place: loyal to his team but under pressure from above to cut costs. When a key project went off the rails, the vice president threw him under the bus in front of the entire department. Greg took it on the chin, but we all knew it wasn't his fault. The leadership kept moving the goalposts, changing targets every quarter, and morale hit rock bottom. Eventually, the board read the writing on the wall. The CEO left \"to pursue other opportunities,\" which everyone understood as corporate code for being shown the door. Her replacement took a different approach. On her first day, she said, \"I won't sugarcoat it: we're in deep water. But we're in it together.\" It was a breath of fresh air. Honesty, it turned out, was a double-edged sword, but it was the only one worth carrying.",
      "ru": "Когда в нашу компанию пришла новая гендиректор, она пообещала «выровнять корабль». Несколько месяцев казалось, что это работает. Потом началась реструктуризация. На первом общем собрании кто-то спросил, планируются ли сокращения, и было слышно, как зал затаил дыхание. Она попыталась уйти от вопроса, но это лишь разворошило осиное гнездо. Слухи распространились как лесной пожар. За неделю трое старших менеджеров сбежали с корабля, а оставшиеся ходили на цыпочках. Мой руководитель Грег явно был завален делами. Он оказался между молотом и наковальней: верен команде, но под давлением сверху сократить расходы. Когда ключевой проект пошёл вразнос, вице-президент подставил его перед всем отделом. Грег стойко это перенёс, но мы все знали, что он не виноват. Руководство постоянно меняло правила игры, каждый квартал новые цели, и моральный дух упал ниже плинтуса. В итоге совет директоров увидел, к чему всё идёт. Гендиректор ушла «искать другие возможности», что все поняли как корпоративный код для «её выставили за дверь». Её сменщица выбрала другой подход. В первый день она сказала: «Не буду приукрашивать: мы в глубокой воде. Но мы в ней вместе». Это был глоток свежего воздуха. Честность, как оказалось, — палка о двух концах, но только её и стоило нести."
-    }
+    },
+    "tags": [
+     "idioms"
+    ],
+    "extra": [
+     [
+      "I'm [swamped] with work right now.",
+      "Я сейчас завален работой.",
+      "Swamped — образно «затоплен» делами."
+     ],
+     [
+      "Let's not beat around the [bush].",
+      "Давай не будем ходить вокруг да около.",
+      "Идиома beat around the bush — уходить от сути."
+     ],
+     [
+      "Winning the lottery was a [blessing] in disguise.",
+      "Выигрыш в лотерею оказался скрытым благословением.",
+      "A blessing in disguise — неожиданная польза."
+     ],
+     [
+      "She spilled the [beans] about the surprise party.",
+      "Она проболталась о вечеринке-сюрпризе.",
+      "Spill the beans — выдать секрет."
+     ],
+     [
+      "That project is a real [hot potato].",
+      "Этот проект — настоящая горячая картофелина.",
+      "Hot potato — щекотливый вопрос, который все избегают."
+     ],
+     [
+      "He's skating on thin [ice] with his boss.",
+      "Он ходит по тонкому льду с начальником.",
+      "Skate on thin ice — рисковать."
+     ],
+     [
+      "Don't [bite] off more than you can chew.",
+      "Не берись за больше, чем осилишь.",
+      "Bite off more than you can chew — переоценить силы."
+     ]
+    ]
    },
    {
     "id": "c2u1l3",
@@ -424,7 +505,48 @@ addUnits("c2", [
     "text": {
      "en": "My first winter in Minneapolis taught me more about American humor than any textbook. On my second day, the temperature dropped to minus twenty-five degrees Fahrenheit. I walked into the office shaking, my eyelashes frozen, and my coworker Dave looked up from his computer and said, completely deadpan, \"Bit nippy out there, huh?\" I stared at him, unsure if he was serious. Then he grinned. That was my introduction to Midwestern understatement. Over the following months, I collected examples. A blizzard that shut down the entire city was \"not ideal.\" When our team's major software launch crashed on the first day, our manager announced, \"Well, that didn't go exactly as planned,\" and then ordered pizza for everyone. When I proudly showed Dave a presentation I had worked on all weekend, he said, \"Huh. Not bad.\" I was disappointed until a colleague explained that from Dave, \"not bad\" was the equivalent of a standing ovation. Sarcasm took me longer to recognize. When I mentioned I had locked my keys in the car during a snowstorm, someone said, \"Oh, perfect timing,\" and I actually thanked her. The hardest part was learning to joke back. My first attempt, saying \"Lovely weather today\" during a hailstorm, landed well. By spring, I was a pro. When the temperature finally rose above freezing, I walked in wearing sunglasses and announced, \"Beach day, everybody.\" Dave nodded slowly. \"Not bad,\" he said.",
      "ru": "Первая зима в Миннеаполисе научила меня американскому юмору больше, чем любой учебник. На второй день температура упала до минус двадцати пяти по Фаренгейту. Я вошёл в офис дрожа, с замёрзшими ресницами, а мой коллега Дейв поднял глаза от компьютера и с абсолютно невозмутимым лицом сказал: «Прохладненько сегодня, да?» Я уставился на него, не понимая, серьёзно ли он. Потом он усмехнулся. Так я познакомился со среднезападным преуменьшением. В следующие месяцы я собирал примеры. Метель, парализовавшая весь город, была «не идеальной». Когда запуск крупного продукта нашей команды рухнул в первый же день, менеджер объявил: «Ну, всё пошло не совсем по плану» — и заказал всем пиццу. Когда я гордо показал Дейву презентацию, над которой работал все выходные, он сказал: «Хм. Неплохо». Я расстроился, пока коллега не объяснил, что от Дейва «неплохо» равносильно овациям стоя. Сарказм я научился распознавать дольше. Когда я рассказал, что захлопнул ключи в машине во время снежной бури, кто-то сказал: «О, как вовремя», — и я её искренне поблагодарил. Труднее всего было научиться шутить в ответ. Моя первая попытка — «Чудесная погодка сегодня» во время града — удалась. К весне я был профи. Когда температура наконец поднялась выше нуля, я вошёл в тёмных очках и объявил: «Пляжный день, народ». Дейв медленно кивнул. «Неплохо», — сказал он."
-    }
+    },
+    "tags": [
+     "pragmatics",
+     "style-rhetoric"
+    ],
+    "extra": [
+     [
+      "Losing your passport abroad is [hardly] ideal.",
+      "Потерять паспорт за границей — едва ли идеально.",
+      "Hardly ideal — британско-американское преуменьшение: «ужасно»."
+     ],
+     [
+      "Oh, [brilliant], I locked my keys in the car.",
+      "О, блестяще, я запер ключи в машине.",
+      "Сарказм: позитивное слово для неудачи."
+     ],
+     [
+      "He said it with a completely [straight] face.",
+      "Он сказал это с абсолютно серьёзным лицом.",
+      "Straight face — невозмутимое лицо при шутке (deadpan)."
+     ],
+     [
+      "The hurricane caused [some] damage to the town.",
+      "Ураган причинил городу «некоторый» ущерб.",
+      "Some здесь — ироничное преуменьшение разрушений."
+     ],
+     [
+      "Her reply dripped with [sarcasm].",
+      "Её ответ сочился сарказмом.",
+      "Drip with sarcasm — устойчивое сочетание."
+     ],
+     [
+      "Running a marathon is [no] walk in the park.",
+      "Пробежать марафон — не прогулка в парке.",
+      "Литота: отрицание противоположного усиливает смысл."
+     ],
+     [
+      "Well, [that] went well, didn't it?",
+      "Ну, это прошло просто отлично, правда?",
+      "Ироничная фраза после провала."
+     ]
+    ]
    },
    {
     "id": "c2u1l4",
@@ -548,7 +670,47 @@ addUnits("c2", [
     "text": {
      "en": "In the early 2000s, few people predicted that streaming would dismantle the traditional television industry. Cable companies, after all, controlled both the content and the means of delivering it. That said, the warning signs were there for anyone willing to look. Internet speeds were improving rapidly, and younger viewers were already growing impatient with fixed schedules. This impatience, combined with the rising cost of cable packages, created an opening that Netflix was quick to exploit. The company's early strategy was modest, or rather, deliberately unambitious: it licensed older films and shows that studios considered of little value. By the same token, studios saw Netflix not as a rival but as a convenient source of extra revenue. This miscalculation would prove costly. As subscribers multiplied, Netflix gained the data and the capital to produce original content, thereby transforming itself from a distributor into a studio. Its rivals, in turn, were forced to launch their own platforms, often years too late. Two strategies emerged: some companies bundled everything into a single service, while others launched multiple niche apps. The former proved more successful, since the latter frustrated viewers with endless subscriptions. Such fragmentation, ironically, began to resemble the very cable model streaming had promised to replace. Be that as it may, there is no going back. At any rate, the lesson is clear: industries rarely collapse overnight; they erode quietly, one overlooked trend at a time, until the change seems sudden only to those who were not paying attention.",
      "ru": "В начале 2000-х мало кто предсказывал, что стриминг разрушит традиционную телеиндустрию. Кабельные компании, в конце концов, контролировали и контент, и способы его доставки. При этом тревожные знаки были видны каждому, кто хотел их видеть. Скорость интернета быстро росла, а молодые зрители уже теряли терпение из-за фиксированной сетки вещания. Это нетерпение в сочетании с ростом цен на кабельные пакеты создало брешь, которой Netflix быстро воспользовался. Ранняя стратегия компании была скромной, вернее нарочито неамбициозной: она лицензировала старые фильмы и сериалы, которые студии считали малоценными. По той же логике студии видели в Netflix не соперника, а удобный источник дополнительного дохода. Этот просчёт дорого обошёлся. По мере роста числа подписчиков Netflix получил данные и капитал для производства собственного контента, тем самым превратившись из дистрибьютора в студию. Конкуренты, в свою очередь, были вынуждены запускать свои платформы, часто с опозданием на годы. Возникли две стратегии: одни компании объединили всё в один сервис, другие запустили несколько нишевых приложений. Первая оказалась успешнее, поскольку вторая раздражала зрителей бесконечными подписками. Такая фрагментация, по иронии, стала напоминать ту самую кабельную модель, которую стриминг обещал заменить. Как бы то ни было, пути назад нет. Во всяком случае, урок ясен: отрасли редко рушатся за ночь; они тихо разрушаются, одна упущенная тенденция за другой, пока перемена не покажется внезапной лишь тем, кто не обращал внимания."
-    }
+    },
+    "tags": [
+     "linking-discourse"
+    ],
+    "extra": [
+     [
+      "[By the same token], we should cut other costs too.",
+      "По той же логике нам стоит сократить и другие расходы.",
+      "By the same token — по аналогии."
+     ],
+     [
+      "Which [brings] us to our final point.",
+      "Что подводит нас к последнему пункту.",
+      "Which brings us to... — переход к следующей теме."
+     ],
+     [
+      "Paris and Rome are lovely; the [former] is pricier.",
+      "Париж и Рим прекрасны; первый дороже.",
+      "The former — первый из двух упомянутых."
+     ],
+     [
+      "[Be that as it may], we still need a decision.",
+      "Как бы то ни было, решение нам всё равно нужно.",
+      "Be that as it may — уступка с возвратом к сути."
+     ],
+     [
+      "[Conversely], lower prices may attract more buyers.",
+      "И наоборот, более низкие цены могут привлечь покупателей.",
+      "Conversely — обратная зависимость."
+     ],
+     [
+      "[Needless to say], the plan failed.",
+      "Само собой, план провалился.",
+      "Needless to say — очевидный вывод."
+     ],
+     [
+      "[Incidentally], have you met our new manager?",
+      "Кстати, ты знаком с нашим новым менеджером?",
+      "Incidentally — попутная смена темы."
+     ]
+    ]
    }
   ]
  },
@@ -696,7 +858,48 @@ addUnits("c2", [
     "text": {
      "en": "Few things reveal the creativity of English as clearly as its constant reinvention of words. Consider how quickly a brand name can become a verb: nobody says \"search for it on the internet\" anymore; we simply google it. In much the same way, nouns are converted into verbs at a startling pace in corporate America, where managers \"action\" items, \"calendar\" meetings, and ask what the \"spend\" will be. Purists find this counterproductive, even Kafkaesque, arguing that it obscures meaning rather than clarifying it. Yet the process is centuries old. Shakespeare himself turned nouns into verbs with abandon, so much so as to make modern editors blush. Blending is another productive mechanism. A \"staycation\" combines \"stay\" and \"vacation\"; \"hangry\" captures the irritability of hunger in a single syllable. Such coinages often begin as jokes, but the more widely they circulate, the more legitimate they become, until dictionaries are forced to admit them. Prefixes, too, carry subtle power. To \"outlive\" a rival is not merely to live longer but to triumph through survival; to be \"overrated\" implies a public mistake in judgment. Even suffixes like \"-ish\" have broken free of their grammatical role: asked whether he was ready, a teenager might answer simply, \"Ish.\" Were a Victorian grammarian to hear this, he would likely despair. However unsettling the change may seem, though, it is a sign of vitality. A language that stops inventing, be it through wordplay or necessity, is a language that has begun to die.",
      "ru": "Немногое так ярко показывает творческую силу английского, как постоянное переизобретение слов. Посмотрите, как быстро название бренда становится глаголом: никто уже не говорит «поищи это в интернете» — мы просто «гуглим». Точно так же существительные с поразительной скоростью превращаются в глаголы в корпоративной Америке, где менеджеры «экшенят» задачи, «календарят» встречи и спрашивают, каким будет «спенд». Пуристы считают это контрпродуктивным, даже кафкианским, утверждая, что это скорее затемняет смысл, чем проясняет. Однако процессу века. Сам Шекспир превращал существительные в глаголы без удержу — настолько, что современные редакторы краснеют. Слияние слов — ещё один продуктивный механизм. «Staycation» объединяет «stay» и «vacation»; «hangry» передаёт раздражительность от голода в одном слове. Такие неологизмы часто начинаются как шутки, но чем шире они расходятся, тем легитимнее становятся, пока словари не вынуждены их принять. Префиксы тоже несут тонкую силу. «Outlive» соперника — не просто прожить дольше, а победить, выжив; быть «overrated» подразумевает коллективную ошибку в оценке. Даже суффиксы вроде «-ish» вырвались из своей грамматической роли: на вопрос, готов ли он, подросток может ответить просто: «Ish» («типа того»). Услышь это грамматист викторианской эпохи, он бы пришёл в отчаяние. Однако какими бы тревожными ни казались перемены, это признак жизнеспособности. Язык, который перестаёт изобретать, будь то ради игры или из необходимости, — язык, который начал умирать."
-    }
+    },
+    "tags": [
+     "word-formation",
+     "inversion"
+    ],
+    "extra": [
+     [
+      "They [mislabeled] the boxes during the move.",
+      "Они неправильно подписали коробки при переезде.",
+      "Префикс mis- — «ошибочно»."
+     ],
+     [
+      "Could you [simplify] the instructions?",
+      "Ты можешь упростить инструкцию?",
+      "Суффикс -ify образует глагол от прилагательного."
+     ],
+     [
+      "[Were] he to resign, the board would panic.",
+      "Если бы он ушёл в отставку, совет запаниковал бы.",
+      "Инверсия were + подлежащее вместо if he were."
+     ],
+     [
+      "All staff, [be] they full-time or part-time, get bonuses.",
+      "Все сотрудники, будь то штатные или совместители, получают премии.",
+      "Be they... — формальная уступка."
+     ],
+     [
+      "The more you practice, the [better] you get.",
+      "Чем больше практикуешься, тем лучше получается.",
+      "Конструкция the more..., the better..."
+     ],
+     [
+      "Please [email] me the report tonight.",
+      "Пожалуйста, пришли мне отчёт по почте сегодня.",
+      "Конверсия: существительное email как глагол."
+     ],
+     [
+      "Don't [overcook] the pasta.",
+      "Не переваривай пасту.",
+      "Префикс over- — «чрезмерно»."
+     ]
+    ]
    },
    {
     "id": "c2u2l2",
@@ -834,7 +1037,49 @@ addUnits("c2", [
     "text": {
      "en": "TECH GIANT AXES 2,000 JOBS AMID AI PUSH\n\nSAN FRANCISCO — Nexora Inc. announced Tuesday that it will cut roughly 2,000 positions, or about eight percent of its global workforce, as the company redirects resources toward artificial intelligence. The layoffs, which follow a disappointing quarter, will primarily affect customer support and marketing teams, according to an internal memo obtained by reporters. CEO Daniel Marsh vowed that the company would \"emerge stronger,\" but labor advocates slammed the decision, calling it \"a cynical bid to boost the stock price.\"\n\n---\n\nMaria read the headline twice on her phone, standing in the kitchen while the coffee machine hissed behind her. Eight percent. She did the math without wanting to. Customer support. That was her floor, her team, her desk by the window with the dying succulent. Her husband was still asleep upstairs. Should she wake him? No. Not yet. Not until she knew. She scrolled down, searching for something, anything, that might suggest she was safe. Sources familiar with the matter said the cuts would be announced to employees by Friday. Friday. Three days of pretending. The coffee machine beeped. She didn't move. Outside, a garbage truck groaned its way down the street, and somewhere a dog was barking at nothing. Eleven years, she thought. Eleven years of answering angry emails at midnight, of training new hires, of being told she was \"the backbone of the department.\" She poured the coffee. Her hands, she noticed, were perfectly steady. That surprised her most of all.",
      "ru": "ТЕХГИГАНТ СОКРАЩАЕТ 2000 РАБОЧИХ МЕСТ НА ФОНЕ РЫВКА В ИИ\n\nСАН-ФРАНЦИСКО — Компания Nexora Inc. объявила во вторник, что сократит около 2000 должностей, или примерно восемь процентов своего мирового штата, перенаправляя ресурсы на искусственный интеллект. Увольнения, последовавшие за разочаровывающим кварталом, затронут в первую очередь отделы поддержки клиентов и маркетинга, согласно внутренней записке, оказавшейся в распоряжении журналистов. Гендиректор Дэниел Марш пообещал, что компания «выйдет из этого сильнее», однако защитники прав трудящихся резко раскритиковали решение, назвав его «циничной попыткой поднять курс акций».\n\n---\n\nМария дважды перечитала заголовок на телефоне, стоя на кухне, пока за спиной шипела кофемашина. Восемь процентов. Она посчитала, не желая того. Поддержка клиентов. Это её этаж, её команда, её стол у окна с умирающим суккулентом. Муж ещё спал наверху. Разбудить его? Нет. Пока нет. Пока она не узнает. Она листала вниз, ища хоть что-то, что намекнуло бы, что она в безопасности. Источники, знакомые с ситуацией, сообщили, что о сокращениях объявят сотрудникам до пятницы. Пятница. Три дня притворства. Кофемашина пискнула. Она не двинулась. На улице мусоровоз со стоном полз по улице, где-то собака лаяла в пустоту. Одиннадцать лет, подумала она. Одиннадцать лет ответов на гневные письма в полночь, обучения новичков, слов о том, что она «опора отдела». Она налила кофе. Руки, заметила она, были совершенно спокойны. Это удивило её больше всего."
-    }
+    },
+    "tags": [
+     "writing",
+     "register",
+     "style-rhetoric"
+    ],
+    "extra": [
+     [
+      "Mayor [Vows] to Fix Potholes",
+      "Мэр клянётся заделать ямы",
+      "Headlinese: vow вместо promise, Present Simple."
+     ],
+     [
+      "Storm [Batters] East Coast",
+      "Шторм обрушился на Восточное побережье",
+      "Короткий яркий глагол в заголовке."
+     ],
+     [
+      "CEO [Quits] After Data Scandal",
+      "Гендиректор уходит после скандала с данными",
+      "Quit — короткий синоним resign в заголовках."
+     ],
+     [
+      "Her hands [trembled] as she opened the letter.",
+      "Её руки дрожали, когда она открывала письмо.",
+      "Show, don't tell: показать страх через действие."
+     ],
+     [
+      "Rain again. Would it [never] stop?",
+      "Опять дождь. Неужели он никогда не кончится?",
+      "Несобственно-прямая речь передаёт мысли героя."
+     ],
+     [
+      "Officials [Eye] New Tax on Sugar",
+      "Чиновники присматриваются к новому налогу на сахар",
+      "Eye — «рассматривать» в заголовках."
+     ],
+     [
+      "Police [Hunt] Escaped Prisoner",
+      "Полиция разыскивает сбежавшего заключённого",
+      "Hunt — краткий глагол для «разыскивать»."
+     ]
+    ]
    },
    {
     "id": "c2u2l3",
@@ -985,7 +1230,47 @@ addUnits("c2", [
     "text": {
      "en": "Here's a group chat between four college friends in Texas, planning a Friday night.\n\nJake: yo who's down for game night friday\nPriya: lowkey yes, this week has been brutal. I'm so beat\nMarcus: bet. my place? my roommate's out of town so we can be loud\nTyler: I'm in but no cap if we play that racing game again and Jake picks the purple car I'm leaving. that thing is so OP\nJake: lmao you're just salty cuz you lost like six times\nTyler: I lost because of lag. it's legit unplayable on Marcus's wifi\nMarcus: my wifi is fine, you're just bad 💀\nPriya: ok but can we play something co-op this time? last week was a whole war\nJake: fine. the zombie one? Marcus carried us so hard last time\nMarcus: clutch moments only 😎\nTyler: ok but who's bringing food. last time Jake \"forgot\" and we ate cereal\nJake: my bad!! I'll bring pizza this time fr\nPriya: you said that last time. kinda sus ngl\nJake: I SWEAR. two large ones\nTyler: if Jake flakes I'm making him wash dishes\nMarcus: lol fair\nPriya: also can I crash at yours after Marcus? I don't wanna drive back at 3am\nMarcus: yeah for sure\nTyler: ok it's giving productive weekend 😂\nJake: GG everyone. see y'all friday\n\nTranslation for the uninitiated: \"down for\" means interested in, \"fr\" is \"for real,\" \"ngl\" is \"not gonna lie,\" and the skull emoji means something is so funny that the writer has metaphorically died laughing.",
      "ru": "Вот групповой чат четырёх друзей-студентов из Техаса, планирующих вечер пятницы.\n\nДжейк: йо, кто за игровой вечер в пятницу\nПрия: втайне да, неделя была жёсткая. я вымотана\nМаркус: договорились. у меня? сосед уехал, можно шуметь\nТайлер: я в деле, но честно, если опять гонки и Джейк возьмёт фиолетовую тачку — я ухожу. она слишком имбовая\nДжейк: ахах ты просто дуешься, потому что проиграл раз шесть\nТайлер: я проиграл из-за лагов. на вайфае Маркуса реально невозможно играть\nМаркус: вайфай нормальный, ты просто плохо играешь 💀\nПрия: ок, а можно в этот раз что-то кооперативное? на прошлой неделе была целая война\nДжейк: ладно. ту, с зомби? Маркус нас тогда так тащил\nМаркус: только решающие моменты 😎\nТайлер: ок, а кто несёт еду. в прошлый раз Джейк «забыл», и мы ели хлопья\nДжейк: моя вина!! в этот раз принесу пиццу, правда\nПрия: ты так и в прошлый раз говорил. подозрительно, не буду врать\nДжейк: КЛЯНУСЬ. две большие\nТайлер: если Джейк сольётся, заставлю мыть посуду\nМаркус: лол справедливо\nПрия: а можно у тебя переночевать, Маркус? не хочу ехать обратно в 3 ночи\nМаркус: да, конечно\nТайлер: ок, вайб продуктивных выходных 😂\nДжейк: всем GG. до пятницы\n\nПеревод для непосвящённых: «down for» — заинтересован, «fr» — «for real» (правда), «ngl» — «not gonna lie» (не буду врать), а эмодзи с черепом означает, что что-то настолько смешно, что автор метафорически умер от смеха."
-    }
+    },
+    "tags": [
+     "slang-colloquial"
+    ],
+    "extra": [
+     [
+      "Those sneakers are [fire].",
+      "Эти кроссовки — огонь.",
+      "Fire — «очень круто»."
+     ],
+     [
+      "He got [salty] after losing the game.",
+      "Он надулся после проигрыша.",
+      "Salty — обиженный, раздражённый."
+     ],
+     [
+      "Your outfit? It's [giving] main character.",
+      "Твой образ? Прям главный герой.",
+      "It's giving... — «производит впечатление...»."
+     ],
+     [
+      "That party was a total [vibe].",
+      "Та вечеринка была атмосферной.",
+      "Vibe — классная атмосфера."
+     ],
+     [
+      "She [ghosted] me after two dates.",
+      "Она пропала после двух свиданий.",
+      "Ghost — внезапно прекратить общение."
+     ],
+     [
+      "I'm [dead], that meme is hilarious.",
+      "Я умер со смеху, мем уморительный.",
+      "I'm dead — очень смешно."
+     ],
+     [
+      "That's [sus], he was alone in the room.",
+      "Подозрительно, он был в комнате один.",
+      "Sus — suspicious, подозрительный."
+     ]
+    ]
    }
   ]
  }

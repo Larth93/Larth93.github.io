@@ -120,7 +120,43 @@ addUnits("b1", [
     "text": {
      "en": "Host 1: Hey everybody, welcome back to Morning Coffee, I'm Jake. Host 2: And I'm Priya. So, Jake, you wanna tell them what happened this week? Host 1: Oh man. Okay, so, I was, like, at the airport, right? And my flight got canceled. Like, totally canceled. Host 2: No way. Host 1: Yeah, and I'm kinda freaking out, because I have a wedding the next day. Host 2: Whose wedding? Host 1: My cousin's. I'm the best man! So I'm, you know, running around, talking to everybody. Host 2: Did you make it? Host 1: Basically, I rented a car and drove nine hours. Host 2: That's insane. Okay, we gotta take a quick break, but after that we're talking about travel nightmares. Send us yours!",
      "ru": "Ведущий 1: Всем привет, с возвращением в «Утренний кофе», я Джейк. Ведущая 2: А я Прия. Итак, Джейк, хочешь рассказать, что случилось на этой неделе? Ведущий 1: О, боже. Короче, я, типа, в аэропорту, да? И мой рейс отменили. Прям полностью. Ведущая 2: Да ладно. Ведущий 1: Ага, и я слегка паникую, потому что на следующий день свадьба. Ведущая 2: Чья свадьба? Ведущий 1: Кузена. Я шафер! И я, ну, бегаю, говорю со всеми. Ведущая 2: Ты успел? Ведущий 1: В общем, я арендовал машину и ехал девять часов. Ведущая 2: Безумие. Так, нам нужен короткий перерыв, а потом поговорим о кошмарах в путешествиях. Присылайте свои!"
-    }
+    },
+    "tags": [
+     "listening",
+     "slang-colloquial"
+    ],
+    "extra": [
+     [
+      "Thanks for [having] me on the show.",
+      "Спасибо, что пригласили меня на шоу.",
+      "Have someone on — пригласить гостя."
+     ],
+     [
+      "So, [like], it was a crazy year.",
+      "Ну, типа, это был безумный год.",
+      "Like — слово-паразит в разговорной речи."
+     ],
+     [
+      "Let's take a quick [break] and come back.",
+      "Давайте сделаем короткий перерыв и вернёмся.",
+      "Take a break — перерыв в выпуске."
+     ],
+     [
+      "I [wanna] talk about something personal.",
+      "Я хочу поговорить о личном.",
+      "Wanna = want to."
+     ],
+     [
+      "That's it for this [episode].",
+      "На этом всё в этом выпуске.",
+      "Episode — выпуск."
+     ],
+     [
+      "Make sure to [subscribe] wherever you listen.",
+      "Обязательно подпишитесь, где бы вы ни слушали.",
+      "Subscribe — подписаться."
+     ]
+    ]
    },
    {
     "id": "b1u33l2",
@@ -238,7 +274,43 @@ addUnits("b1", [
     "text": {
      "en": "Hey guys, what's up, welcome back to the channel! So today we're doing something a little different. I just moved to Portland, and I'm gonna show you my first week here. Before we get into it, make sure to hit subscribe if you're new. Okay, so, day one. I wake up, there's no furniture, I'm sleeping on an air mattress, and honestly it's kind of fun. I find this tiny coffee shop around the corner, and not gonna lie, it's the best latte I've ever had. I'm lowkey obsessed now. Day three, it rains. All day. Portland people warned me, but wow. Anyway, let me know in the comments what places I should visit, and I'll see you in the next one. Bye!",
      "ru": "Привет всем, как дела, с возвращением на канал! Сегодня мы делаем кое-что немного другое. Я только переехала в Портленд и покажу вам свою первую неделю здесь. Прежде чем начнём, подпишитесь, если вы новенькие. Итак, первый день. Просыпаюсь, мебели нет, сплю на надувном матрасе, и честно, это даже весело. Нахожу крошечную кофейню за углом, и не буду врать — это лучший латте в моей жизни. Я теперь слегка на нём помешана. Третий день — дождь. Весь день. Местные предупреждали, но вау. В общем, напишите в комментариях, какие места мне посетить, и увидимся в следующем видео. Пока!"
-    }
+    },
+    "tags": [
+     "listening",
+     "slang-colloquial"
+    ],
+    "extra": [
+     [
+      "Don't forget to [smash] that like button.",
+      "Не забудьте жмякнуть лайк.",
+      "Smash the like button — штамп блогеров."
+     ],
+     [
+      "Let me know in the [comments] below.",
+      "Напишите в комментариях ниже.",
+      "Comments below — призыв к комментариям."
+     ],
+     [
+      "This video is [sponsored] by a VPN company.",
+      "Это видео спонсирует VPN-компания.",
+      "Sponsored by — спонсировано."
+     ],
+     [
+      "[See] you guys in the next one!",
+      "Увидимся в следующем видео!",
+      "Типичная концовка видео."
+     ],
+     [
+      "Okay, let's [get] into it.",
+      "Окей, переходим к делу.",
+      "Get into it — перейти к сути."
+     ],
+     [
+      "I [hit] a hundred thousand subscribers!",
+      "У меня сто тысяч подписчиков!",
+      "Hit — достичь отметки."
+     ]
+    ]
    },
    {
     "id": "b1u33l3",
@@ -356,7 +428,43 @@ addUnits("b1", [
     "text": {
      "en": "Mia: Hey, you okay? You look weird. Sam: I'm fine. Totally fine. Mia: Seriously? You've been staring at your phone for ten minutes. Sam: Okay, so, remember Josh? Mia: Josh from the coffee place? Your crush? Sam: He's not my crush. Mia: Uh-huh. Sam: Anyway, he just texted me. He asked if I wanna hang out on Saturday. Mia: No way! He asked you out? Sam: I don't know if it's a date. Maybe he just wants to hang out. Mia: Who texts someone at midnight to \"just hang out\"? Sam: Oh great, now I'm even more nervous. Thanks a lot. Mia: You're welcome. So what are you gonna wear? Sam: Mia! Mia: What? It's a big deal!",
      "ru": "Миа: Эй, ты в порядке? Выглядишь странно. Сэм: Нормально. Всё абсолютно нормально. Миа: Серьёзно? Ты десять минут пялишься в телефон. Сэм: Ладно, помнишь Джоша? Миа: Джоша из кофейни? Твоя симпатия? Сэм: Он не моя симпатия. Миа: Ага. Сэм: В общем, он только что написал. Спросил, хочу ли я потусоваться в субботу. Миа: Да ладно! Он пригласил тебя на свидание? Сэм: Не знаю, свидание ли это. Может, он просто хочет потусоваться. Миа: Кто пишет в полночь, чтобы «просто потусоваться»? Сэм: Отлично, теперь я нервничаю ещё больше. Спасибо огромное. Миа: Пожалуйста. Так что наденешь? Сэм: Миа! Миа: Что? Это же важно!"
-    }
+    },
+    "tags": [
+     "listening",
+     "slang-colloquial"
+    ],
+    "extra": [
+     [
+      "I can't [believe] you did that!",
+      "Не могу поверить, что ты это сделал!",
+      "Восклицание удивления."
+     ],
+     [
+      "Are you [kidding] me?",
+      "Ты издеваешься?",
+      "Are you kidding me — удивление, возмущение."
+     ],
+     [
+      "Dude, you [totally] forgot my birthday.",
+      "Чувак, ты совсем забыл про мой день рождения.",
+      "Totally — усилитель в разговорной речи."
+     ],
+     [
+      "We need to [talk].",
+      "Нам надо поговорить.",
+      "Классическая фраза из сериалов."
+     ],
+     [
+      "I'm so [over] him.",
+      "Он мне больше не интересен.",
+      "Be over someone — пережить, забыть."
+     ],
+     [
+      "She's been [ghosting] me all week.",
+      "Она игнорирует меня всю неделю.",
+      "Ghost — внезапно перестать отвечать."
+     ]
+    ]
    },
    {
     "id": "b1u33l4",
@@ -472,7 +580,43 @@ addUnits("b1", [
     "text": {
      "en": "Waiting in line at a coffee shop in Chicago, I learned how small talk works. The guy behind me said, \"Long line today, huh?\" I said, \"Yeah, tell me about it.\" He smiled and asked, \"You from around here?\" I explained that I had just moved for work. \"No kidding! What do you do?\" I told him I was a software developer. He said his sister works in tech too. Then we talked about the weather, because Chicago winters are a favorite topic. \"Just wait until January,\" he laughed. When I got my coffee, he said, \"Well, welcome to the city. Have a good one!\" The whole conversation took three minutes, but it made my morning. Back home, I would have just looked at my phone.",
      "ru": "Стоя в очереди в кофейне в Чикаго, я понял, как работает small talk. Парень позади сказал: «Длинная очередь сегодня, да?» Я ответил: «Ага, и не говори». Он улыбнулся и спросил: «Ты местный?» Я объяснил, что только переехал по работе. «Да ну! А чем занимаешься?» Я сказал, что я разработчик. Он сказал, что его сестра тоже в IT. Потом мы поговорили о погоде, потому что чикагские зимы — любимая тема. «Подожди до января», — засмеялся он. Когда я получил кофе, он сказал: «Ну, добро пожаловать в город. Хорошего дня!» Весь разговор занял три минуты, но поднял мне настроение. Дома я бы просто смотрел в телефон."
-    }
+    },
+    "tags": [
+     "speaking",
+     "pragmatics"
+    ],
+    "extra": [
+     [
+      "Pretty [good], thanks. How about you?",
+      "Неплохо, спасибо. А у тебя?",
+      "Стандартный ответ на How are you."
+     ],
+     [
+      "Crazy [weather] we're having, huh?",
+      "Ну и погодка у нас, да?",
+      "Погода — классическая тема для small talk."
+     ],
+     [
+      "Where are you [from] originally?",
+      "Ты откуда родом?",
+      "Originally — изначально."
+     ],
+     [
+      "Do you have any plans for the [weekend]?",
+      "Есть планы на выходные?",
+      "Типичный вопрос в small talk."
+     ],
+     [
+      "It was nice [meeting] you.",
+      "Приятно было познакомиться.",
+      "Nice meeting you — при прощании."
+     ],
+     [
+      "What do you do for [fun]?",
+      "Чем ты увлекаешься?",
+      "For fun — для удовольствия."
+     ]
+    ]
    },
    {
     "id": "b1u33l5",
@@ -594,7 +738,42 @@ addUnits("b1", [
     "text": {
      "en": "My first month in California was a crash course in slang. On Friday my coworker asked, \"You down for tacos after work?\" I didn't understand, so I said, \"I'm fine, thanks.\" He laughed and explained. The taco place was legit amazing, no cap. Later, a guy at the next table tried to sell us something, and my friend whispered, \"Dude, that's sketchy.\" On Saturday we planned a hike, but Ryan bailed because he was beat from a party. \"Bummer,\" said Kayla. Ryan felt bad and texted, \"My bad, next time for sure.\" When I beat Kayla at pool later, she got a little salty. By Sunday night, I was finally able to just chill and understand almost everything.",
      "ru": "Первый месяц в Калифорнии стал ускоренным курсом сленга. В пятницу коллега спросил: «Ты за тако после работы?» Я не понял и ответил: «У меня всё хорошо, спасибо». Он засмеялся и объяснил. Такерия была реально потрясающей, без шуток. Позже парень за соседним столом пытался нам что-то продать, и подруга прошептала: «Чувак, это подозрительно». В субботу мы планировали поход, но Райан слился, потому что вымотался на вечеринке. «Облом», — сказала Кайла. Райану было неловко, и он написал: «Моя вина, в следующий раз точно». Когда я обыграл Кайлу в бильярд, она немного обиделась. К вечеру воскресенья я наконец мог просто расслабиться и понимать почти всё."
-    }
+    },
+    "tags": [
+     "slang-colloquial"
+    ],
+    "extra": [
+     [
+      "Let's just [chill] at home tonight.",
+      "Давай просто отдохнём дома сегодня.",
+      "Chill — расслабляться."
+     ],
+     [
+      "Is this deal [legit]?",
+      "Эта сделка настоящая?",
+      "Legit — легальный, настоящий."
+     ],
+     [
+      "That concert was [lit]!",
+      "Концерт был огонь!",
+      "Lit — классный, зажигательный."
+     ],
+     [
+      "He [bailed] on us at the last minute.",
+      "Он слился в последний момент.",
+      "Bail on — подвести, не прийти."
+     ],
+     [
+      "I'm [down] for pizza.",
+      "Я за пиццу.",
+      "Be down for — быть не против."
+     ],
+     [
+      "My bad, I [forgot] to text you.",
+      "Моя вина, я забыл тебе написать.",
+      "My bad — моя ошибка."
+     ]
+    ]
    }
   ]
  },
@@ -718,7 +897,43 @@ addUnits("b1", [
     "text": {
      "en": "Alex: Okay, team, we push on three. One, two, three, go! Kim: Enemy on the roof, left side! Alex: I see him. Cover me, I'm reloading. Dan: Got you. Two more coming from the bridge. Kim: I'm low, I need to heal. Alex: Fall back behind the truck. Dan, hold this spot. Dan: Holding. Whoa, they're flanking us from the right! Kim: I'm down! I'm down! Somebody revive me! Alex: On my way. Dan, watch my six. Dan: You're good. Nice shot, Alex! Alex: Thanks. Kim, you're up. Kim: Thanks for the rez. I'm out of ammo though. Dan: Here, take some. Alex: Okay, regroup at the gate. Last fight. Dan: Let's go! ... GG, guys, that was close. Kim: GG!",
      "ru": "Алекс: Так, команда, наступаем на три. Раз, два, три, вперёд! Ким: Враг на крыше, слева! Алекс: Вижу. Прикрой, перезаряжаюсь. Дэн: Прикрыл. Ещё двое идут с моста. Ким: У меня мало здоровья, надо лечиться. Алекс: Отходи за грузовик. Дэн, держи позицию. Дэн: Держу. Ого, обходят справа! Ким: Меня вырубили! Кто-нибудь, поднимите! Алекс: Иду. Дэн, следи за тылом. Дэн: Чисто. Отличный выстрел, Алекс! Алекс: Спасибо. Ким, ты на ногах. Ким: Спасибо, что поднял. Но патронов нет. Дэн: На, держи. Алекс: Так, собираемся у ворот. Последний бой. Дэн: Погнали! ... GG, ребята, было близко. Ким: GG!"
-    }
+    },
+    "tags": [
+     "slang-colloquial",
+     "speaking"
+    ],
+    "extra": [
+     [
+      "Enemy [behind] you!",
+      "Враг сзади!",
+      "Behind — позади."
+     ],
+     [
+      "I'm [down], someone revive me!",
+      "Я упал, кто-нибудь поднимите!",
+      "Down — выведен из строя."
+     ],
+     [
+      "Fall [back], there are too many!",
+      "Отступаем, их слишком много!",
+      "Fall back — отступать."
+     ],
+     [
+      "Nice [shot], you got him!",
+      "Отличный выстрел, ты его снял!",
+      "Nice shot — похвала."
+     ],
+     [
+      "Wait for my [signal].",
+      "Ждите моего сигнала.",
+      "Signal — сигнал."
+     ],
+     [
+      "I'm low [on] health.",
+      "У меня мало здоровья.",
+      "Be low on — заканчивается."
+     ]
+    ]
    },
    {
     "id": "b1u34l2",
@@ -837,7 +1052,42 @@ addUnits("b1", [
     "text": {
      "en": "How to beat the Frost Giant: a quick guide. First, make sure you're at least level 25. If you're playing solo, I'd recommend a ranged build, because his melee attacks hit really hard. Before the fight, head to the village and buy fire potions; they're worth every coin. Once you enter the arena, stay behind the pillars. In phase one, the giant swings his club slowly, so just dodge and shoot. When his health drops to half, phase two begins. He starts throwing ice rocks, and small enemies spawn from the walls. Don't bother fighting them; focus on the boss. Use your special ability as soon as the cooldown ends. If you die, don't worry: the checkpoint is right outside. Finally, grab your loot. He usually drops a frost sword. Good luck!",
      "ru": "Как победить Ледяного великана: краткий гайд. Сначала убедитесь, что у вас минимум 25 уровень. Если играете соло, советую сборку дальнего боя, потому что его ближние атаки бьют очень сильно. Перед боем идите в деревню и купите огненные зелья — они стоят каждой монеты. Войдя на арену, держитесь за колоннами. В первой фазе великан медленно машет дубиной, просто уклоняйтесь и стреляйте. Когда его здоровье падает до половины, начинается вторая фаза. Он бросает ледяные камни, а из стен появляются мелкие враги. Не тратьте на них время, сосредоточьтесь на боссе. Используйте особую способность, как только кончится перезарядка. Если умрёте, не переживайте: контрольная точка прямо у входа. Наконец, заберите добычу. Обычно с него падает ледяной меч. Удачи!"
-    }
+    },
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Make sure you [save] before the boss fight.",
+      "Обязательно сохранись перед боссом.",
+      "Save — сохранить игру."
+     ],
+     [
+      "Dodge his attacks and [wait] for an opening.",
+      "Уклоняйся от атак и жди момента.",
+      "Wait for an opening — ждать шанса."
+     ],
+     [
+      "You'll [unlock] a new skill after this level.",
+      "После этого уровня откроется новый навык.",
+      "Unlock — открыть."
+     ],
+     [
+      "Avoid the traps [on] the left side.",
+      "Избегай ловушек слева.",
+      "On the left side — слева."
+     ],
+     [
+      "This weapon is totally [worth] it.",
+      "Это оружие того стоит.",
+      "Be worth it — стоить того."
+     ],
+     [
+      "Once you [beat] him, grab the key.",
+      "Как только победишь его, возьми ключ.",
+      "Beat — победить."
+     ]
+    ]
    },
    {
     "id": "b1u34l3",
@@ -957,7 +1207,43 @@ addUnits("b1", [
     "text": {
      "en": "After losing three rounds in a row, our team finally talked strategy. Leo said, \"Okay, what if we split up? Two of us take A, two take B.\" Nina wasn't convinced. \"I see your point, but we're weak when we're separated. Last time we got wiped.\" Then Tom, a random player, started trash talking. \"You guys are trash. I'm carrying this whole team.\" Nina just said, \"Chill, man. Let's focus.\" When he kept going, Leo muted him. Leo admitted, \"We should've waited for my ult before pushing.\" Nina agreed: \"And I could've called out the sniper earlier.\" So we tried a new plan: stay together, use abilities first, then push. We won the next two rounds. Tom rage quit before the end, which honestly helped.",
      "ru": "Проиграв три раунда подряд, наша команда наконец обсудила стратегию. Лео сказал: «Так, а что если разделимся? Двое на A, двое на B». Нина не была убеждена: «Понимаю, но по отдельности мы слабые. В прошлый раз нас всех вынесли». Тут Том, случайный игрок, начал оскорблять: «Вы мусор. Я тащу всю команду». Нина просто сказала: «Остынь, чувак. Давай сосредоточимся». Когда он продолжил, Лео его заглушил. Лео признал: «Надо было дождаться моей ульты перед атакой». Нина согласилась: «А я могла раньше сообщить про снайпера». И мы попробовали новый план: держаться вместе, сначала умения, потом атака. Мы выиграли два следующих раунда. Том вышел в ярости до конца, что, честно говоря, помогло."
-    }
+    },
+    "tags": [
+     "speaking",
+     "modals"
+    ],
+    "extra": [
+     [
+      "Why don't we [attack] from the back?",
+      "Почему бы нам не атаковать с тыла?",
+      "Why don't we — предложение."
+     ],
+     [
+      "Let's [stick] together this time.",
+      "Давай в этот раз держаться вместе.",
+      "Stick together — держаться вместе."
+     ],
+     [
+      "I'm not [sure] that's a good idea.",
+      "Не уверен, что это хорошая идея.",
+      "Мягкое несогласие."
+     ],
+     [
+      "We [shouldn't] have rushed in.",
+      "Не стоило нам врываться.",
+      "Shouldn't have — сожаление."
+     ],
+     [
+      "What if we [try] a different route?",
+      "А что если попробовать другой маршрут?",
+      "What if — предложение варианта."
+     ],
+     [
+      "Okay, you [take] the lead.",
+      "Ладно, ты веди.",
+      "Take the lead — вести, руководить."
+     ]
+    ]
    },
    {
     "id": "b1u34l4",
@@ -1076,7 +1362,43 @@ addUnits("b1", [
     "text": {
      "en": "I joined a Discord server for a survival game I love. At first I just read the chat, because I was nervous about my English. Then one evening someone posted, \"lfg, need one more for a raid.\" I wrote, \"Hey, new here, but I'm up for it!\" They pinged me in the voice channel, and we played for three hours. Halfway through, one guy typed \"brb\" and went afk for twenty minutes, lol. Tbh, nobody cared about my accent. When I didn't understand something, I just asked, \"Sorry, what does that mean?\" and they explained. Now I'm one of the regulars. Last week a mod asked me to help new players. Imo, online communities are one of the best places to practice real English.",
      "ru": "Я вступил в Discord-сервер по любимой игре на выживание. Сначала просто читал чат, потому что стеснялся своего английского. Однажды вечером кто-то написал: «ищу группу, нужен ещё один на рейд». Я ответил: «Привет, я новенький, но я за!» Меня тегнули в голосовом канале, и мы играли три часа. На середине один парень написал «сейчас вернусь» и отошёл на двадцать минут, лол. Честно, никого не волновал мой акцент. Когда я чего-то не понимал, просто спрашивал: «Извините, что это значит?» — и мне объясняли. Теперь я один из постоянных. На прошлой неделе модератор попросил меня помогать новичкам. По-моему, онлайн-сообщества — одно из лучших мест для практики живого английского."
-    }
+    },
+    "tags": [
+     "slang-colloquial",
+     "pragmatics"
+    ],
+    "extra": [
+     [
+      "Sorry, I was [afk] for a minute.",
+      "Извините, меня не было минуту.",
+      "AFK — away from keyboard."
+     ],
+     [
+      "[Lol], that's hilarious.",
+      "Лол, это уморительно.",
+      "LOL — laughing out loud."
+     ],
+     [
+      "Please read the [rules] before posting.",
+      "Пожалуйста, прочитайте правила перед публикацией.",
+      "Rules — правила сервера."
+     ],
+     [
+      "Can someone [ping] me when it starts?",
+      "Может кто-нибудь тегнуть меня, когда начнётся?",
+      "Ping — упомянуть, уведомить."
+     ],
+     [
+      "Welcome to the [server]!",
+      "Добро пожаловать на сервер!",
+      "Server — сообщество в Discord."
+     ],
+     [
+      "Don't [spam] the chat, please.",
+      "Не спамьте в чат, пожалуйста.",
+      "Spam — засорять сообщениями."
+     ]
+    ]
    }
   ]
  }

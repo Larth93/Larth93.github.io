@@ -132,6 +132,48 @@ addUnits("a1", [
      "What are you doing? — это «что ты делаешь сейчас»; What is your work do? — бессмысленная смесь; What you do? — пропущен do.",
      "Me too meet — неграмматично; Yes, nice — невежливо и неполно; I'm fine — ответ на How are you?",
      "a — engineer начинается с гласного звука; the — профессию так не называют; без артикля — перед профессией артикль обязателен."
+    ],
+    "tags": [
+     "speaking",
+     "to-be",
+     "pragmatics"
+    ],
+    "extra": [
+     [
+      "Hi, I'm Tom. It's nice [to meet] you.",
+      "Привет, я Том. Приятно познакомиться.",
+      "Устойчивая фраза: nice to meet you."
+     ],
+     [
+      "Where [are] you from?",
+      "Откуда ты?",
+      "С you используется форма are."
+     ],
+     [
+      "I'm [from] Kazan, in Russia.",
+      "Я из Казани, в России.",
+      "Происхождение выражается предлогом from."
+     ],
+     [
+      "Nice to meet you, [too].",
+      "Мне тоже приятно.",
+      "В ответе добавляют too — «тоже»."
+     ],
+     [
+      "What do you [do]?",
+      "Чем ты занимаешься?",
+      "What do you do? — вопрос о работе."
+     ],
+     [
+      "Good, thanks. [And] you?",
+      "Хорошо, спасибо. А ты?",
+      "And you? возвращает вопрос собеседнику."
+     ],
+     [
+      "I'm [an] engineer.",
+      "Я инженер.",
+      "Перед профессией нужен артикль; an перед гласным звуком."
+     ]
     ]
    },
    {
@@ -253,6 +295,43 @@ addUnits("a1", [
      "zero point — это «ноль целых» в десятичных дробях; null / nothing — так ноль в номерах не читают.",
      "последнее имя ребёнка / прозвище — неверный буквальный перевод; отчество — в английском его нет, это middle name лишь отчасти.",
      "[ʒiː] — такой буквы нет (G — [dʒiː]); [jot] — немецкое название; [aɪ] — это буква I."
+    ],
+    "tags": [
+     "speaking",
+     "questions",
+     "reading"
+    ],
+    "extra": [
+     [
+      "Can you [spell] your last name?",
+      "Можете продиктовать фамилию по буквам?",
+      "Spell — произносить по буквам."
+     ],
+     [
+      "My number [is] 555-0142.",
+      "Мой номер 555-0142.",
+      "Number — единственное число, поэтому is."
+     ],
+     [
+      "Sorry, can you [repeat] that?",
+      "Извините, можете повторить?",
+      "Repeat — повторить; вежливая просьба с can."
+     ],
+     [
+      "It's B as [in] boy.",
+      "B как в слове boy.",
+      "Устойчивая модель: B as in boy."
+     ],
+     [
+      "What's your [phone] number?",
+      "Какой у тебя номер телефона?",
+      "Phone number — номер телефона."
+     ],
+     [
+      "Could you speak more [slowly], please?",
+      "Не могли бы вы говорить медленнее?",
+      "После speak нужно наречие slowly."
+     ]
     ]
    },
    {
@@ -378,6 +457,43 @@ addUnits("a1", [
      "the car of my father's — неестественно; my fathers car — нет апострофа; car my father — нет притяжательной формы.",
      "niece — племянница; cousin — двоюродный брат; uncle — дядя.",
      "my parent's houses — один родитель и много домов; my parents's — после -s множественного 's не добавляют; house of parents my — неверный порядок."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "pronouns",
+     "plurals"
+    ],
+    "extra": [
+     [
+      "My sister's [husband] is a doctor.",
+      "Муж моей сестры — врач.",
+      "Husband — муж; притяжательный 's у sister."
+     ],
+     [
+      "I have two [cousins] in Ohio.",
+      "У меня два двоюродных брата в Огайо.",
+      "Two требует множественного числа."
+     ],
+     [
+      "Her [parents] live in Florida.",
+      "Её родители живут во Флориде.",
+      "Parents — родители, всегда во множественном."
+     ],
+     [
+      "He gets along well with his [in-laws].",
+      "Он хорошо ладит с родственниками жены.",
+      "In-laws — родня супруга."
+     ],
+     [
+      "My [grandmother] is eighty years old.",
+      "Моей бабушке восемьдесят лет.",
+      "Grandmother — бабушка."
+     ],
+     [
+      "Is that your brother's [wife]?",
+      "Это жена твоего брата?",
+      "Wife — жена."
+     ]
     ]
    },
    {
@@ -506,6 +622,43 @@ addUnits("a1", [
      "is / are — глаза «имеют», нужен have; have — he требует has.",
      "What does he look like? — о внешности; How is he look? / What he like? — неграмматично.",
      "black long hair — цвет должен стоять после размера; hair long black / long hair black — прилагательные идут перед существительным."
+    ],
+    "tags": [
+     "adjectives-adverbs",
+     "have",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "My brother [has] short curly hair.",
+      "У моего брата короткие кудрявые волосы.",
+      "Для he/she — has."
+     ],
+     [
+      "She's tall [and] very friendly.",
+      "Она высокая и очень дружелюбная.",
+      "And соединяет два прилагательных."
+     ],
+     [
+      "He has [blue] eyes.",
+      "У него голубые глаза.",
+      "Прилагательное стоит перед существительным."
+     ],
+     [
+      "What does your boss [look] like?",
+      "Как выглядит твой начальник?",
+      "What does ... look like? — о внешности."
+     ],
+     [
+      "My dad is quiet but very [funny].",
+      "Мой папа тихий, но очень смешной.",
+      "Funny — смешной, весёлый."
+     ],
+     [
+      "She has long [dark] hair.",
+      "У неё длинные тёмные волосы.",
+      "Порядок: длина, затем цвет."
+     ]
     ]
    },
    {
@@ -629,6 +782,43 @@ addUnits("a1", [
      "a work — work неисчисляемое; I look a job — нужно look for; I search work job — бессмысленно.",
      "like — «как, подобно», а не «в качестве»; for — с компанией; how — так не говорят.",
      "work — she требует -s; is work — be и Simple не смешивают; working — без is нельзя."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "prepositions",
+     "present-simple"
+    ],
+    "extra": [
+     [
+      "I work [as] a nurse.",
+      "Я работаю медсестрой.",
+      "Work as — работать кем-то."
+     ],
+     [
+      "She works [for] a big bank.",
+      "Она работает в большом банке.",
+      "Work for — на компанию."
+     ],
+     [
+      "He [works] from home on Fridays.",
+      "По пятницам он работает из дома.",
+      "He — окончание -s."
+     ],
+     [
+      "What does your wife [do]?",
+      "Чем занимается твоя жена?",
+      "После does глагол без -s."
+     ],
+     [
+      "I'm a teacher [at] a high school.",
+      "Я учитель в старшей школе.",
+      "At — место работы."
+     ],
+     [
+      "My son is [a] software developer.",
+      "Мой сын — разработчик ПО.",
+      "Перед профессией нужен артикль a."
+     ]
     ]
    }
   ]
@@ -764,6 +954,43 @@ addUnits("a1", [
      "in the plane — с самолётом используем on; at plane / into plane — неверный предлог и нет артикля.",
      "ticket gate — турникет; landing card — миграционная карта; check card — дебетовая карта.",
      "delayed — задержан; boarded — посадка завершена; landed — приземлился."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "speaking",
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "Where do I [check] in?",
+      "Где проходит регистрация?",
+      "Check in — регистрироваться на рейс."
+     ],
+     [
+      "Here's your [boarding] pass.",
+      "Вот ваш посадочный талон.",
+      "Boarding pass — посадочный талон."
+     ],
+     [
+      "Your flight leaves from [gate] B12.",
+      "Ваш рейс вылетает от выхода B12.",
+      "Gate — выход на посадку."
+     ],
+     [
+      "Can I take this bag [on] the plane?",
+      "Можно взять эту сумку в самолёт?",
+      "On the plane — в самолёт."
+     ],
+     [
+      "Would you like a window or an [aisle] seat?",
+      "Вам место у окна или у прохода?",
+      "Aisle — проход; s не читается."
+     ],
+     [
+      "My flight is [delayed].",
+      "Мой рейс задерживается.",
+      "Delayed — задержан."
+     ]
     ]
    },
    {
@@ -895,6 +1122,43 @@ addUnits("a1", [
      "Since — с моментом начала, а не с периодом; During — «во время чего-то»; Five days ago — «пять дней назад».",
      "custom — «обычай»; costumes — «костюмы»; passport control — паспортный контроль, а не таможня.",
      "In airport — нет артикля и не отвечает про жильё; Yes, I am — на вопрос с where не отвечают да/нет; Five nights — это ответ на How long."
+    ],
+    "tags": [
+     "speaking",
+     "questions",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "What's the [purpose] of your visit?",
+      "Какова цель вашего визита?",
+      "Purpose — цель."
+     ],
+     [
+      "I'm here [on] vacation.",
+      "Я здесь в отпуске.",
+      "On vacation — в отпуске."
+     ],
+     [
+      "How long [will] you be in the US?",
+      "Сколько вы пробудете в США?",
+      "Will — простое будущее в вопросе о сроке."
+     ],
+     [
+      "I'm staying [for] two weeks.",
+      "Я пробуду две недели.",
+      "For + период времени."
+     ],
+     [
+      "Can I see your [passport], please?",
+      "Можно ваш паспорт?",
+      "Passport — паспорт."
+     ],
+     [
+      "I'm here [on] business.",
+      "Я здесь по делам.",
+      "On business — по работе."
+     ]
     ]
    },
    {
@@ -1027,6 +1291,43 @@ addUnits("a1", [
      "on the name / for name of / by name — устойчиво только under the name.",
      "Are — pool в ед. числе; Has / Does — в конструкции there is используется be.",
      "Give me key card / I want key card now / Key card me — грубо или неграмматично, нет артикля."
+    ],
+    "tags": [
+     "speaking",
+     "vocabulary-topic",
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "I have a reservation [under] Smith.",
+      "У меня бронь на имя Смит.",
+      "Under + имя — на имя."
+     ],
+     [
+      "What time is [checkout]?",
+      "Во сколько выезд?",
+      "Checkout — время выезда."
+     ],
+     [
+      "Is breakfast [included]?",
+      "Завтрак включён?",
+      "Included — включён."
+     ],
+     [
+      "Could I have a room [with] a view?",
+      "Можно номер с видом?",
+      "With — с."
+     ],
+     [
+      "The Wi-Fi password is [on] the card.",
+      "Пароль от Wi-Fi на карточке.",
+      "On the card — на поверхности."
+     ],
+     [
+      "My room is [on] the fifth floor.",
+      "Мой номер на пятом этаже.",
+      "On the ... floor — на этаже."
+     ]
     ]
    },
    {
@@ -1154,6 +1455,43 @@ addUnits("a1", [
      "opposite of — с opposite предлог of не нужен; in front post office — «перед», а не «напротив», и нет of the; against — «против, вплотную к».",
      "Hey you, / Listen, — грубо; Sorry me — такого выражения нет.",
      "Turns — в повелительном -s не бывает; Turning / To turn — не повелительная форма."
+    ],
+    "tags": [
+     "prepositions",
+     "speaking",
+     "questions"
+    ],
+    "extra": [
+     [
+      "Excuse me, how do I [get] to the museum?",
+      "Простите, как пройти к музею?",
+      "How do I get to...? — как добраться."
+     ],
+     [
+      "Go straight and turn [left].",
+      "Идите прямо и поверните налево.",
+      "Turn left — повернуть налево."
+     ],
+     [
+      "It's [next] to the bank.",
+      "Это рядом с банком.",
+      "Next to — рядом с."
+     ],
+     [
+      "The station is [across] from the park.",
+      "Вокзал напротив парка.",
+      "Across from — напротив (амер.)."
+     ],
+     [
+      "Is it far [from] here?",
+      "Это далеко отсюда?",
+      "Far from — далеко от."
+     ],
+     [
+      "Take the second street [on] the right.",
+      "Сверните на вторую улицу справа.",
+      "On the right — справа."
+     ]
     ]
    },
    {
@@ -1285,6 +1623,43 @@ addUnits("a1", [
      "Pick me up here — «заберите меня»; Get me out here — неестественно; Fall me here — бессмыслица.",
      "many traffics — traffic неисчисляемое; big jams traffic — неверный порядок; much cars — cars исчисляемое, нужно many.",
      "get on — с автобусом, поездом, но не легковым автомобилем; sit the taxi — нет предлога; go into taxi — неестественно и нет артикля."
+    ],
+    "tags": [
+     "speaking",
+     "modals",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Can you [take] me to the airport?",
+      "Отвезёте меня в аэропорт?",
+      "Take someone to — отвезти."
+     ],
+     [
+      "Keep the [change].",
+      "Сдачи не надо.",
+      "Change — сдача."
+     ],
+     [
+      "How much is it [to] downtown?",
+      "Сколько стоит до центра?",
+      "To — направление."
+     ],
+     [
+      "Can you [stop] here, please?",
+      "Остановите здесь, пожалуйста.",
+      "Stop — остановиться."
+     ],
+     [
+      "My Uber is two minutes [away].",
+      "Мой Uber в двух минутах.",
+      "Away — на расстоянии."
+     ],
+     [
+      "Could you [open] the trunk, please?",
+      "Откройте багажник, пожалуйста.",
+      "Open — открыть; trunk — багажник (амер.)."
+     ]
     ]
    }
   ]

@@ -125,7 +125,48 @@ addUnits("b2", [
     "text": {
      "en": "When Anna received a job offer from a software company in Austin, her first instinct was to accept it immediately. The base salary was higher than what she earned at home, and the benefits looked generous. However, a mentor advised her to do some research first. Anna compared the offer with salary surveys and discovered that the market rate for her role was about twelve percent higher. She also realized she had some leverage: another company had invited her to a final interview. Instead of making demands, she wrote a polite reply. She thanked the recruiter, expressed genuine enthusiasm for the position, and explained that, based on her experience and current market data, she had been hoping for something closer to ninety-five thousand dollars. She also asked whether there was any flexibility on remote days. Two days later, the recruiter called back with a counteroffer: a slightly higher base salary, a signing bonus, and two remote days a week. Anna accepted. Looking back, she says the key was preparation. She never sounded aggressive, but she never apologized for asking either. Negotiation, she learned, is a conversation, not a battle.",
      "ru": "Когда Анна получила предложение о работе от софтверной компании в Остине, её первым порывом было сразу согласиться. Оклад был выше, чем она зарабатывала дома, а соцпакет выглядел щедрым. Однако наставник посоветовал ей сначала провести исследование. Анна сравнила предложение с обзорами зарплат и обнаружила, что рыночная ставка для её должности примерно на двенадцать процентов выше. Она также поняла, что у неё есть рычаг: другая компания пригласила её на финальное собеседование. Вместо того чтобы выдвигать требования, она написала вежливый ответ. Она поблагодарила рекрутера, выразила искренний интерес к должности и объяснила, что, исходя из её опыта и текущих рыночных данных, рассчитывала на сумму ближе к девяноста пяти тысячам долларов. Она также спросила, есть ли гибкость по удалённым дням. Через два дня рекрутер перезвонил со встречным предложением: чуть более высокий оклад, бонус при подписании и два удалённых дня в неделю. Анна согласилась. Оглядываясь назад, она говорит, что ключом была подготовка. Она никогда не звучала агрессивно, но и не извинялась за свою просьбу. Переговоры, как она поняла, — это разговор, а не битва."
-    }
+    },
+    "tags": [
+     "vocabulary-topic",
+     "speaking"
+    ],
+    "extra": [
+     [
+      "Based on my research, the market [rate] is higher.",
+      "По моим данным, рыночная ставка выше.",
+      "Market rate — рыночный уровень оплаты."
+     ],
+     [
+      "Could we [revisit] the salary figure?",
+      "Можем вернуться к цифре зарплаты?",
+      "Revisit = пересмотреть."
+     ],
+     [
+      "I was hoping for something closer [to] 90,000.",
+      "Я надеялся на что-то ближе к 90 000.",
+      "Closer to + сумма."
+     ],
+     [
+      "Is the signing [bonus] negotiable?",
+      "Бонус при подписании обсуждаем?",
+      "Signing bonus — разовая выплата."
+     ],
+     [
+      "I'd like some time to [consider] the offer.",
+      "Я бы хотел время, чтобы обдумать предложение.",
+      "Consider = обдумать."
+     ],
+     [
+      "The offer includes stock [options].",
+      "Предложение включает опционы на акции.",
+      "Stock options — опционы."
+     ],
+     [
+      "Can we meet in the [middle]?",
+      "Можем встретиться посередине?",
+      "Meet in the middle = компромисс."
+     ]
+    ]
    },
    {
     "id": "b2u20l2",
@@ -238,7 +279,47 @@ addUnits("b2", [
     "text": {
      "en": "Many employees dread their annual performance review, but it can be one of the most valuable conversations of the year if you prepare properly. Start by collecting evidence. Throughout the year, keep a simple document where you note your achievements: projects you delivered, problems you solved, and any positive feedback from clients or colleagues. Numbers are especially persuasive. Saying that you streamlined the reporting process is good; saying that you cut reporting time by thirty percent is much better. During the meeting, listen carefully to constructive feedback and avoid becoming defensive. If your manager mentions an area for improvement, ask for a specific example and discuss what success would look like. This shows maturity and a willingness to grow. It is also the right moment to set goals for the coming year. Think about which skills you want to develop and what support you need, such as training or mentoring. Finally, if you are hoping for a promotion or a raise, do not wait for your manager to bring it up. Calmly explain how you have taken ownership of key projects and exceeded expectations, and ask what steps would lead to the next level.",
      "ru": "Многие сотрудники боятся ежегодной оценки эффективности, но она может стать одним из самых ценных разговоров года, если правильно подготовиться. Начните со сбора доказательств. В течение года ведите простой документ, где отмечаете свои достижения: проекты, которые вы сдали, проблемы, которые решили, и любые положительные отзывы клиентов или коллег. Цифры особенно убедительны. Сказать, что вы оптимизировали процесс отчётности, — хорошо; сказать, что вы сократили время на отчёты на тридцать процентов, — гораздо лучше. Во время встречи внимательно выслушайте конструктивную обратную связь и не занимайте оборонительную позицию. Если руководитель упоминает зону для роста, попросите конкретный пример и обсудите, как будет выглядеть успех. Это показывает зрелость и готовность развиваться. Это также подходящий момент, чтобы поставить цели на следующий год. Подумайте, какие навыки вы хотите развить и какая поддержка вам нужна, например обучение или наставничество. Наконец, если вы надеетесь на повышение в должности или зарплате, не ждите, пока руководитель сам поднимет эту тему. Спокойно объясните, как вы взяли ответственность за ключевые проекты и превзошли ожидания, и спросите, какие шаги приведут на следующий уровень."
-    }
+    },
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "She [met] all her targets this quarter.",
+      "В этом квартале она выполнила все цели.",
+      "Meet targets — коллокация."
+     ],
+     [
+      "Let's set some clear [goals] for next year.",
+      "Давайте поставим чёткие цели на следующий год.",
+      "Set goals."
+     ],
+     [
+      "My manager gave me constructive [feedback].",
+      "Менеджер дал мне конструктивную обратную связь.",
+      "Constructive feedback."
+     ],
+     [
+      "He needs to improve his time [management].",
+      "Ему нужно улучшить тайм-менеджмент.",
+      "Time management."
+     ],
+     [
+      "I'm hoping for a [promotion] this year.",
+      "Надеюсь на повышение в этом году.",
+      "Promotion = повышение."
+     ],
+     [
+      "She went above and [beyond] on that project.",
+      "Она сделала больше, чем требовалось, на том проекте.",
+      "Go above and beyond — идиома."
+     ],
+     [
+      "We'll [review] your progress in six months.",
+      "Мы оценим ваш прогресс через полгода.",
+      "Review = оценить."
+     ]
+    ]
    },
    {
     "id": "b2u20l3",
@@ -350,7 +431,48 @@ addUnits("b2", [
     "text": {
      "en": "Good afternoon, everyone. Today I'd like to walk you through the progress of our customer portal project. I'll be covering three areas: what we have delivered so far, the challenges we faced, and our roadmap for the next quarter. Let's start with the deliverables. As you can see on this slide, we hit our first two milestones on time, and the new login system went live in September. User feedback has been very positive, and support tickets have dropped by nearly forty percent. That brings me to the challenges. Our biggest problem was integration with the old billing system, which turned out to be far more complex than we expected. We lost about three weeks, but the team worked closely with the finance department and found a workable solution. Now, let's move on to the roadmap. In the next quarter, we plan to launch the mobile version and add live chat. What's really important here is that we need approval for two additional developers. Without them, the mobile launch will slip into spring. To sum up, the key takeaway is that we are slightly ahead of schedule overall. Thank you, and I'd be happy to take any questions.",
      "ru": "Добрый день всем. Сегодня я хотел бы подробно рассказать о ходе нашего проекта клиентского портала. Я затрону три области: что мы уже сдали, с какими трудностями столкнулись и нашу дорожную карту на следующий квартал. Начнём с результатов. Как видно на этом слайде, мы вовремя прошли первые две вехи, а новая система входа заработала в сентябре. Отзывы пользователей очень положительные, а число обращений в поддержку снизилось почти на сорок процентов. Это подводит меня к трудностям. Нашей главной проблемой была интеграция со старой биллинговой системой, которая оказалась гораздо сложнее, чем мы ожидали. Мы потеряли около трёх недель, но команда тесно работала с финансовым отделом и нашла рабочее решение. Теперь перейдём к дорожной карте. В следующем квартале мы планируем запустить мобильную версию и добавить онлайн-чат. Что действительно важно — нам нужно одобрение на двух дополнительных разработчиков. Без них мобильный запуск сдвинется на весну. Подводя итог: главный вывод в том, что в целом мы немного опережаем график. Спасибо, буду рад ответить на вопросы."
-    }
+    },
+    "tags": [
+     "speaking",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Let's [move] on to the budget.",
+      "Перейдём к бюджету.",
+      "Move on to — сигнал перехода."
+     ],
+     [
+      "As you can [see] on this slide, sales doubled.",
+      "Как видно на этом слайде, продажи удвоились.",
+      "Ссылка на слайд."
+     ],
+     [
+      "To [wrap] up, we're on track.",
+      "Подводя итог, мы идём по плану.",
+      "Wrap up = завершить."
+     ],
+     [
+      "I'll be happy to take any [questions].",
+      "С радостью отвечу на вопросы.",
+      "Take questions."
+     ],
+     [
+      "We're slightly [behind] schedule.",
+      "Мы немного отстаём от графика.",
+      "Behind schedule."
+     ],
+     [
+      "Let me [give] you some background first.",
+      "Сначала немного предыстории.",
+      "Give background."
+     ],
+     [
+      "The main [takeaway] is that users want speed.",
+      "Главный вывод — пользователи хотят скорости.",
+      "Takeaway = ключевой вывод."
+     ]
+    ]
    },
    {
     "id": "b2u20l4",
@@ -466,7 +588,47 @@ addUnits("b2", [
     "text": {
      "en": "Five years ago, remote work was a perk offered by a handful of tech startups. Today, millions of professionals work remotely at least part of the week, and many companies have adopted a hybrid model. The advantages are obvious. Employees save hours that they used to spend on a long commute, and companies can hire talent from anywhere in the world. Many people report higher productivity because they face fewer interruptions than in a noisy open-plan office. However, the picture is not entirely positive. Working from home can blur the line between professional and personal life. When your laptop is always on the kitchen table, it is tempting to answer messages late at night, and this can gradually lead to burnout. Some workers, especially younger ones, also suffer from isolation and miss the informal learning that happens when you sit next to experienced colleagues. Teams spread across different time zones face another challenge: coordination. Successful remote companies tend to rely on asynchronous communication, clear documentation, and regular video calls that are short and focused. The future of work will probably not be fully remote or fully office-based, but a flexible combination of both.",
      "ru": "Пять лет назад удалённая работа была привилегией, которую предлагала горстка технологических стартапов. Сегодня миллионы специалистов работают удалённо хотя бы часть недели, и многие компании перешли на гибридную модель. Преимущества очевидны. Сотрудники экономят часы, которые раньше тратили на долгую дорогу на работу, а компании могут нанимать таланты со всего мира. Многие сообщают о более высокой продуктивности, потому что их реже отвлекают, чем в шумном опенспейсе. Однако картина не полностью положительная. Работа из дома может стирать границу между профессиональной и личной жизнью. Когда ноутбук всегда стоит на кухонном столе, возникает соблазн отвечать на сообщения поздно ночью, и это постепенно может привести к выгоранию. Некоторые работники, особенно молодые, также страдают от изоляции и скучают по неформальному обучению, которое происходит, когда сидишь рядом с опытными коллегами. Команды, разбросанные по разным часовым поясам, сталкиваются с ещё одной проблемой — координацией. Успешные удалённые компании обычно опираются на асинхронное общение, понятную документацию и регулярные видеозвонки — короткие и по делу. Будущее работы, вероятно, будет не полностью удалённым и не полностью офисным, а гибким сочетанием обоих вариантов."
-    }
+    },
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "We mostly communicate [asynchronously].",
+      "Мы в основном общаемся асинхронно.",
+      "Async — не в реальном времени."
+     ],
+     [
+      "I work from [home] on Fridays.",
+      "По пятницам я работаю из дома.",
+      "Work from home."
+     ],
+     [
+      "It's hard to [switch] off after work.",
+      "Трудно отключиться после работы.",
+      "Switch off = отключиться."
+     ],
+     [
+      "We have a quick video [call] every morning.",
+      "Каждое утро у нас короткий видеозвонок.",
+      "Video call."
+     ],
+     [
+      "My [coworkers] live in three time zones.",
+      "Мои коллеги живут в трёх часовых поясах.",
+      "Coworkers = коллеги."
+     ],
+     [
+      "Remote work gives me more [flexibility].",
+      "Удалёнка даёт мне больше гибкости.",
+      "Flexibility."
+     ],
+     [
+      "I set clear [boundaries] around my working hours.",
+      "Я чётко ограничиваю рабочие часы.",
+      "Set boundaries."
+     ]
+    ]
    },
    {
     "id": "b2u20l5",
@@ -585,7 +747,48 @@ addUnits("b2", [
     "text": {
      "en": "Dear Mr. Thompson,\n\nI am writing regarding the delivery of our order number 7781, which was scheduled to arrive on October 14. Unfortunately, as of today, we have not received the shipment, and we have had no update from your logistics department despite two previous emails.\n\nThis delay is causing serious difficulties for our company, as the equipment is required for a client installation at the end of this month. I would therefore be grateful if you could confirm the current status of the order and provide a realistic delivery date at your earliest convenience. If the goods cannot be delivered by October 28, we would like to discuss alternative options, such as a partial shipment or express delivery at no additional cost.\n\nPlease find attached a copy of the original purchase order and our correspondence for your reference. We have valued our partnership with your company for several years and hope that this matter can be resolved quickly.\n\nShould you require any further information, please do not hesitate to contact me directly by phone or email. I look forward to hearing from you.\n\nSincerely,\nElena Morozova\nProcurement Manager",
      "ru": "Уважаемый мистер Томпсон,\n\nПишу относительно доставки нашего заказа номер 7781, которая была запланирована на 14 октября. К сожалению, на сегодняшний день мы не получили груз и не получили никаких новостей от вашего отдела логистики, несмотря на два предыдущих письма.\n\nЭта задержка создаёт серьёзные трудности для нашей компании, поскольку оборудование необходимо для монтажа у клиента в конце этого месяца. Поэтому я была бы признательна, если бы вы при первой возможности подтвердили текущий статус заказа и указали реалистичную дату доставки. Если товар не может быть доставлен к 28 октября, мы хотели бы обсудить альтернативные варианты, например частичную отгрузку или экспресс-доставку без дополнительной платы.\n\nВо вложении для справки копия исходного заказа на покупку и нашей переписки. Мы ценим партнёрство с вашей компанией уже несколько лет и надеемся, что этот вопрос будет быстро решён.\n\nЕсли вам потребуется дополнительная информация, пожалуйста, без колебаний свяжитесь со мной напрямую по телефону или электронной почте. С нетерпением жду вашего ответа.\n\nС уважением,\nЕлена Морозова\nМенеджер по закупкам"
-    }
+    },
+    "tags": [
+     "writing",
+     "register"
+    ],
+    "extra": [
+     [
+      "Thank you for your [prompt] reply.",
+      "Благодарю за быстрый ответ.",
+      "Prompt = оперативный."
+     ],
+     [
+      "Please let me [know] if you need anything else.",
+      "Пожалуйста, сообщите, если нужно что-то ещё.",
+      "Стандартная заключительная фраза."
+     ],
+     [
+      "I am writing to [follow] up on our call.",
+      "Пишу по итогам нашего звонка.",
+      "Follow up on."
+     ],
+     [
+      "Kind [regards],",
+      "С уважением,",
+      "Стандартная подпись."
+     ],
+     [
+      "I would be grateful if you could [confirm] the date.",
+      "Буду благодарен, если подтвердите дату.",
+      "Confirm."
+     ],
+     [
+      "[Further] to our meeting, here is the agenda.",
+      "В дополнение к нашей встрече — вот повестка.",
+      "Further to — формальное «в продолжение»."
+     ],
+     [
+      "We apologize for the [delay] in responding.",
+      "Приносим извинения за задержку с ответом.",
+      "Delay in responding."
+     ]
+    ]
    }
   ]
  },
@@ -706,7 +909,48 @@ addUnits("b2", [
     "text": {
      "en": "The line graph compares the percentage of households in three countries that had access to high-speed internet between 2005 and 2020. Overall, access increased significantly in all three countries, although the rate of growth varied considerably. Canada consistently had the highest proportion of connected households, while Mexico remained well behind the other two throughout the period. In 2005, approximately forty percent of Canadian households had high-speed internet, compared with thirty percent in Spain and just eight percent in Mexico. Over the next ten years, the figure for Canada rose steadily, reaching eighty-five percent in 2015, after which it leveled off. Spain experienced a more dramatic increase. Its figure climbed sharply between 2008 and 2014, almost doubling, and eventually peaked at eighty-two percent in 2019 before falling slightly in the final year. Mexico, by contrast, showed only gradual growth in the first decade, with the figure fluctuating between ten and twenty percent. However, from 2016 onward, access in Mexico rose rapidly, reaching fifty-five percent by 2020. By the end of the period, Canada and Spain accounted for similar levels of access, at eighty-six and eighty percent respectively.",
      "ru": "Линейный график сравнивает процент домохозяйств в трёх странах, имевших доступ к высокоскоростному интернету в период с 2005 по 2020 год. В целом доступ значительно вырос во всех трёх странах, хотя темпы роста существенно различались. В Канаде стабильно была самая высокая доля подключённых домохозяйств, тогда как Мексика на протяжении всего периода сильно отставала от двух других стран. В 2005 году примерно сорок процентов канадских домохозяйств имели высокоскоростной интернет по сравнению с тридцатью процентами в Испании и всего восемью процентами в Мексике. За следующие десять лет показатель Канады стабильно рос, достигнув восьмидесяти пяти процентов в 2015 году, после чего стабилизировался. Испания пережила более резкий рост. Её показатель резко вырос между 2008 и 2014 годами, почти удвоившись, и в итоге достиг пика в восемьдесят два процента в 2019 году, прежде чем немного снизиться в последний год. Мексика, напротив, показывала лишь постепенный рост в первое десятилетие, при этом показатель колебался между десятью и двадцатью процентами. Однако с 2016 года доступ в Мексике быстро вырос, достигнув пятидесяти пяти процентов к 2020 году. К концу периода Канада и Испания имели схожий уровень доступа — восемьдесят шесть и восемьдесят процентов соответственно."
-    }
+    },
+    "tags": [
+     "writing",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "The number of tourists [doubled] between 2010 and 2020.",
+      "Число туристов удвоилось с 2010 по 2020 год.",
+      "Doubled — описание роста."
+     ],
+     [
+      "Sales fell [slightly] in March.",
+      "В марте продажи немного снизились.",
+      "Slightly = незначительно."
+     ],
+     [
+      "There was a [dramatic] rise in prices.",
+      "Произошёл резкий рост цен.",
+      "Dramatic rise — коллокация."
+     ],
+     [
+      "The rate remained [stable] at 5 percent.",
+      "Уровень оставался стабильным на 5 процентах.",
+      "Remain stable."
+     ],
+     [
+      "Exports reached a [peak] of 2 million.",
+      "Экспорт достиг пика в 2 миллиона.",
+      "Reach a peak."
+     ],
+     [
+      "Use [fluctuated] between 20 and 30 percent.",
+      "Использование колебалось между 20 и 30 процентами.",
+      "Fluctuate = колебаться."
+     ],
+     [
+      "The figure rose [steadily] over the decade.",
+      "Показатель стабильно рос на протяжении десятилетия.",
+      "Steadily = постепенно."
+     ]
+    ]
    },
    {
     "id": "b2u21l2",
@@ -817,7 +1061,48 @@ addUnits("b2", [
     "text": {
      "en": "Some people believe that university education should be free for all students, while others argue that students should pay at least part of the cost. In my view, although free tuition has clear benefits, a mixed system is more sustainable. On the one hand, free higher education promotes equal opportunity. When tuition fees are high, talented young people from low-income families may decide not to apply, which is detrimental both to them and to society as a whole. A case in point is Germany, where public universities charge almost no fees and access to higher education is relatively broad. It could also be argued that graduates repay society through higher taxes later in life. On the other hand, universities require enormous resources, and if the state pays for everything, the burden falls on all taxpayers, including those who never attended university. Admittedly, this concern is sometimes exaggerated, but budgets are not unlimited. A system of low fees combined with generous grants and income-based loans would address this issue more fairly. On balance, I believe that the benefits of accessible education outweigh the costs, but complete free tuition is not the only way to achieve this goal.",
      "ru": "Некоторые считают, что университетское образование должно быть бесплатным для всех студентов, тогда как другие утверждают, что студенты должны оплачивать хотя бы часть стоимости. На мой взгляд, хотя бесплатное обучение имеет явные преимущества, смешанная система более устойчива. С одной стороны, бесплатное высшее образование способствует равенству возможностей. Когда плата за обучение высокая, талантливые молодые люди из малообеспеченных семей могут решить не поступать, что вредно и для них, и для общества в целом. Показательный пример — Германия, где государственные университеты почти не берут плату, а доступ к высшему образованию относительно широкий. Можно также утверждать, что выпускники возвращают долг обществу через более высокие налоги в дальнейшем. С другой стороны, университеты требуют огромных ресурсов, и если государство платит за всё, бремя ложится на всех налогоплательщиков, включая тех, кто никогда не учился в университете. Надо признать, это опасение иногда преувеличено, но бюджеты не безграничны. Система низкой платы в сочетании со щедрыми грантами и кредитами, зависящими от дохода, решала бы эту проблему справедливее. Взвесив всё, я считаю, что преимущества доступного образования перевешивают затраты, но полностью бесплатное обучение — не единственный способ достичь этой цели."
-    }
+    },
+    "tags": [
+     "writing",
+     "linking-discourse"
+    ],
+    "extra": [
+     [
+      "It could be [argued] that tourism harms cities.",
+      "Можно утверждать, что туризм вредит городам.",
+      "It could be argued — хеджирование."
+     ],
+     [
+      "[Opponents] claim that taxes would rise.",
+      "Противники утверждают, что налоги вырастут.",
+      "Opponents = противники."
+     ],
+     [
+      "This [leads] to higher unemployment.",
+      "Это приводит к росту безработицы.",
+      "Lead to = приводить к."
+     ],
+     [
+      "[Furthermore], it reduces traffic.",
+      "Более того, это сокращает пробки.",
+      "Furthermore добавляет довод."
+     ],
+     [
+      "A good [example] of this is Japan.",
+      "Хороший пример — Япония.",
+      "Приведение примера."
+     ],
+     [
+      "This essay will [discuss] both views.",
+      "В этом эссе рассматриваются обе точки зрения.",
+      "Discuss без about."
+     ],
+     [
+      "In my [view], the government should act.",
+      "По моему мнению, правительство должно действовать.",
+      "In my view."
+     ]
+    ]
    },
    {
     "id": "b2u21l3",
@@ -925,7 +1210,47 @@ addUnits("b2", [
     "text": {
      "en": "Examiner: Describe a skill that you learned as an adult. Candidate: I'd like to talk about learning to swim properly, which I did when I was about twenty-two. To be honest, it's a little embarrassing, because most people learn as children. I could stay on the surface, but I couldn't really swim, and I always felt nervous near deep water. The turning point came when some friends invited me on a diving trip to Egypt. I didn't want to miss out, so I signed up for lessons at a local pool. My instructor was incredibly patient. In the first few weeks we focused on breathing, which sounds simple but was actually the hardest part for me. I kept panicking and swallowing water. Gradually, though, I started to relax, and after about three months I could swim a full kilometer without stopping. The trip itself was amazing. I have a really vivid memory of floating above a coral reef, surrounded by fish, and realizing I wasn't afraid anymore. So why does it matter to me? I'd say it taught me that it's never too late to start something new, and that fear usually shrinks once you face it. That lesson has really stuck with me.",
      "ru": "Экзаменатор: Опишите навык, которому вы научились во взрослом возрасте. Кандидат: Я хотел бы рассказать о том, как я научился нормально плавать — это было, когда мне было около двадцати двух. Честно говоря, это немного неловко, потому что большинство людей учатся в детстве. Я мог держаться на воде, но по-настоящему плавать не умел и всегда нервничал рядом с глубокой водой. Переломный момент наступил, когда друзья пригласили меня в дайвинг-поездку в Египет. Я не хотел пропустить её, поэтому записался на занятия в местном бассейне. Мой инструктор был невероятно терпеливым. Первые несколько недель мы сосредоточились на дыхании, что звучит просто, но на самом деле было для меня самым трудным. Я постоянно паниковал и глотал воду. Однако постепенно я начал расслабляться, и примерно через три месяца мог проплыть целый километр без остановки. Сама поездка была потрясающей. У меня очень яркое воспоминание о том, как я парил над коралловым рифом, окружённый рыбами, и понимал, что больше не боюсь. Так почему это важно для меня? Я бы сказал, это научило меня, что никогда не поздно начать что-то новое и что страх обычно уменьшается, когда смотришь ему в лицо. Этот урок мне очень запомнился."
-    }
+    },
+    "tags": [
+     "speaking"
+    ],
+    "extra": [
+     [
+      "I'm going to talk [about] a book I love.",
+      "Я расскажу о книге, которую люблю.",
+      "Начало ответа по карточке."
+     ],
+     [
+      "It must have been about five years [ago].",
+      "Это было, наверное, лет пять назад.",
+      "Ago — для прошлого."
+     ],
+     [
+      "What I really liked [was] the atmosphere.",
+      "Что мне больше всего понравилось, так это атмосфера.",
+      "What-клефт расширяет ответ."
+     ],
+     [
+      "I'm not really a morning [person].",
+      "Я не жаворонок.",
+      "Morning person — идиома."
+     ],
+     [
+      "I'd have to [say] my hometown.",
+      "Пожалуй, мой родной город.",
+      "I'd have to say — начало ответа."
+     ],
+     [
+      "It was a real [turning] point for me.",
+      "Это стало настоящим поворотным моментом для меня.",
+      "Turning point."
+     ],
+     [
+      "I [used] to play piano as a kid.",
+      "В детстве я играл на пианино.",
+      "Used to — прошлые привычки."
+     ]
+    ]
    },
    {
     "id": "b2u21l4",
@@ -1033,7 +1358,48 @@ addUnits("b2", [
     "text": {
      "en": "Examiner: Do you think people today have less free time than in the past? Candidate: That's an interesting question. Generally speaking, I'd say people feel busier, although I'm not sure they actually have less free time. Compared to my grandparents' generation, working hours in many countries have gone down, and household chores take far less time thanks to washing machines and dishwashers. However, technology is a double-edged sword. Because we carry our phones everywhere, work emails and messages follow us home, so the boundary between work and leisure has become much weaker. I'd imagine that's why so many people complain about stress. Examiner: How might this change in the future? Candidate: It's hard to predict, but I suspect we'll see more companies experimenting with a four-day week. Some trials in Europe have shown that productivity doesn't necessarily fall when people work fewer hours. In the long run, artificial intelligence might also take over routine tasks. Of course, it depends on how the benefits are shared. If automation only increases profits for companies, people might end up with less security rather than more free time. By and large, though, I'm cautiously optimistic.",
      "ru": "Экзаменатор: Как вы думаете, у людей сегодня меньше свободного времени, чем в прошлом? Кандидат: Интересный вопрос. В целом я бы сказал, что люди чувствуют себя более занятыми, хотя не уверен, что у них на самом деле меньше свободного времени. По сравнению с поколением моих бабушек и дедушек, рабочие часы во многих странах сократились, а домашние дела занимают гораздо меньше времени благодаря стиральным и посудомоечным машинам. Однако технологии — палка о двух концах. Поскольку мы везде носим телефоны, рабочие письма и сообщения следуют за нами домой, поэтому граница между работой и отдыхом стала гораздо слабее. Полагаю, поэтому так много людей жалуются на стресс. Экзаменатор: Как это может измениться в будущем? Кандидат: Трудно предсказать, но подозреваю, что всё больше компаний будут экспериментировать с четырёхдневной неделей. Некоторые эксперименты в Европе показали, что продуктивность не обязательно падает, когда люди работают меньше часов. В долгосрочной перспективе искусственный интеллект может также взять на себя рутинные задачи. Конечно, это зависит от того, как будут распределяться выгоды. Если автоматизация лишь увеличит прибыль компаний, люди могут в итоге получить меньше стабильности, а не больше свободного времени. Но по большому счёту я настроен осторожно оптимистично."
-    }
+    },
+    "tags": [
+     "speaking",
+     "hedging"
+    ],
+    "extra": [
+     [
+      "It's [hard] to say for sure.",
+      "Трудно сказать наверняка.",
+      "Хеджирование."
+     ],
+     [
+      "[In] comparison with the past, life is easier.",
+      "По сравнению с прошлым жизнь стала легче.",
+      "In comparison with."
+     ],
+     [
+      "I [suppose] young people adapt faster.",
+      "Полагаю, молодые быстрее адаптируются.",
+      "Suppose — мягкое мнение."
+     ],
+     [
+      "There are pros and [cons] to both.",
+      "У обоих есть плюсы и минусы.",
+      "Pros and cons."
+     ],
+     [
+      "It [depends] on the country.",
+      "Зависит от страны.",
+      "It depends on."
+     ],
+     [
+      "By and [large], schools are improving.",
+      "В целом школы становятся лучше.",
+      "By and large = в целом."
+     ],
+     [
+      "This trend is [likely] to continue.",
+      "Эта тенденция, вероятно, сохранится.",
+      "Be likely to."
+     ]
+    ]
    }
   ]
  },
@@ -1151,7 +1517,48 @@ addUnits("b2", [
     "text": {
      "en": "Okay, let's get started. Today we're going to look at a phenomenon that puzzled biologists for a long time: why some species of birds migrate thousands of kilometers every year, while closely related species stay in the same place. Now, the traditional hypothesis was quite simple. Birds migrate to escape cold weather. But keep in mind that many birds survive freezing winters perfectly well. Take the black-capped chickadee, for instance. It weighs about eleven grams and stays in Canada all winter. So temperature alone can't be the answer. Evidence now suggests that the key factor is food. Birds that eat insects tend to migrate, because insects disappear in winter. Birds that can switch to seeds often stay. Now, this is where it gets interesting. Recent tracking studies show that climate change is altering these patterns. Some species are arriving earlier in spring, and a few have stopped migrating altogether because winters are milder. Let me digress for a moment: these tiny tracking devices weigh less than a gram, which was impossible twenty years ago. Anyway, so what does all this mean? It means migration is not fixed. Birds are constantly adapting to their environment, sometimes within just a few generations.",
      "ru": "Итак, начнём. Сегодня мы рассмотрим явление, которое долго озадачивало биологов: почему некоторые виды птиц ежегодно мигрируют на тысячи километров, а близкородственные виды остаются на месте. Традиционная гипотеза была довольно простой: птицы мигрируют, чтобы избежать холода. Но имейте в виду, что многие птицы прекрасно переживают морозные зимы. Возьмём, например, черноголовую гаичку. Она весит около одиннадцати граммов и всю зиму остаётся в Канаде. Значит, одна лишь температура не может быть ответом. Сейчас данные указывают, что ключевой фактор — пища. Птицы, питающиеся насекомыми, как правило, мигрируют, потому что зимой насекомые исчезают. Птицы, которые могут перейти на семена, часто остаются. И вот здесь начинается самое интересное. Недавние исследования с отслеживанием показывают, что изменение климата меняет эти закономерности. Некоторые виды прилетают раньше весной, а некоторые совсем перестали мигрировать, потому что зимы стали мягче. Позвольте ненадолго отвлечься: эти крошечные трекеры весят меньше грамма, что было невозможно двадцать лет назад. Так или иначе, что всё это значит? Это значит, что миграция не фиксирована. Птицы постоянно приспосабливаются к среде, иногда всего за несколько поколений."
-    }
+    },
+    "tags": [
+     "listening",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Let's [turn] now to the second theory.",
+      "Теперь обратимся ко второй теории.",
+      "Turn to — сигнал перехода."
+     ],
+     [
+      "The [key] point here is adaptation.",
+      "Ключевой момент здесь — адаптация.",
+      "Key point."
+     ],
+     [
+      "To [illustrate], consider the honeybee.",
+      "Для иллюстрации рассмотрим медоносную пчелу.",
+      "Сигнал примера."
+     ],
+     [
+      "Scientists [initially] rejected the idea.",
+      "Учёные изначально отвергли эту идею.",
+      "Initially = сначала."
+     ],
+     [
+      "This [hypothesis] was tested in 1990.",
+      "Эту гипотезу проверили в 1990 году.",
+      "Hypothesis."
+     ],
+     [
+      "Now, getting back to my main [point]...",
+      "Итак, возвращаясь к главной мысли...",
+      "Возврат после отступления."
+     ],
+     [
+      "Take [notes] on the main ideas only.",
+      "Записывайте только главные идеи.",
+      "Take notes."
+     ]
+    ]
    },
    {
     "id": "b2u22l2",
@@ -1268,7 +1675,48 @@ addUnits("b2", [
     "text": {
      "en": "Moderator: Tonight's motion is that smartphones have done more harm than good. Speaker for: Thank you. Smartphones were supposed to connect us, yet rates of loneliness and anxiety among teenagers have risen sharply since they became widespread. Apps are deliberately designed to be addictive, and constant notifications destroy our ability to concentrate. We also pay with our privacy: our phones track where we go and what we buy, creating a level of surveillance that would have shocked previous generations. Speaker against: I take your point about addiction, but I'm not entirely convinced by the conclusion. Your argument overlooks the billions of people for whom a smartphone is the only access to banking, education, and healthcare information. In parts of Africa, mobile payments have helped millions of families escape poverty. Speaker for: Sorry to interrupt, but those benefits could be achieved without addictive design. Speaker against: That's true to some extent, and I agree that tech companies should be regulated more strictly. But that's an argument for better rules, not evidence that the technology itself is harmful. Every major invention has unintended consequences. The question is whether we manage them wisely, and I believe we can.",
      "ru": "Модератор: Тезис сегодняшнего вечера — смартфоны принесли больше вреда, чем пользы. Выступающий «за»: Спасибо. Смартфоны должны были нас объединить, однако уровень одиночества и тревожности среди подростков резко вырос с тех пор, как они получили широкое распространение. Приложения намеренно разработаны так, чтобы вызывать зависимость, а постоянные уведомления разрушают нашу способность концентрироваться. Мы также расплачиваемся конфиденциальностью: телефоны отслеживают, куда мы ходим и что покупаем, создавая уровень слежки, который шокировал бы предыдущие поколения. Выступающий «против»: Я понимаю вашу мысль о зависимости, но не совсем убеждён выводом. Ваш аргумент упускает из виду миллиарды людей, для которых смартфон — единственный доступ к банковским услугам, образованию и медицинской информации. В некоторых частях Африки мобильные платежи помогли миллионам семей выбраться из бедности. Выступающий «за»: Простите, что перебиваю, но этих преимуществ можно достичь без вызывающего зависимость дизайна. Выступающий «против»: До некоторой степени это правда, и я согласен, что технологические компании нужно регулировать строже. Но это аргумент в пользу лучших правил, а не доказательство того, что сама технология вредна. У каждого крупного изобретения есть непредвиденные последствия. Вопрос в том, мудро ли мы с ними справляемся, и я считаю, что можем."
-    }
+    },
+    "tags": [
+     "speaking",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "That's a fair [point], however...",
+      "Справедливое замечание, однако...",
+      "Признание аргумента."
+     ],
+     [
+      "Social media can be highly [addictive].",
+      "Соцсети могут сильно затягивать.",
+      "Addictive."
+     ],
+     [
+      "AI could [replace] millions of jobs.",
+      "ИИ может заменить миллионы рабочих мест.",
+      "Replace."
+     ],
+     [
+      "Data [privacy] is a major concern.",
+      "Конфиденциальность данных — серьёзная проблема.",
+      "Privacy."
+     ],
+     [
+      "I see where you're coming [from].",
+      "Я понимаю твою точку зрения.",
+      "Where you're coming from."
+     ],
+     [
+      "With all due [respect], I disagree.",
+      "При всём уважении, я не согласен.",
+      "Вежливое несогласие."
+     ],
+     [
+      "The evidence doesn't [support] that claim.",
+      "Данные не подтверждают это утверждение.",
+      "Support a claim."
+     ]
+    ]
    },
    {
     "id": "b2u22l3",
@@ -1378,7 +1826,47 @@ addUnits("b2", [
     "text": {
      "en": "Few topics generate as much debate as the purpose of school. Traditional systems, including those in much of Eastern Europe and East Asia, have long emphasized memorization and discipline. Supporters argue that rote learning builds a solid foundation: you cannot think critically about history if you do not know the basic facts. Countries with this approach often perform well in international rankings. Critics, however, claim that such systems produce students who are excellent at passing standardized tests but struggle to solve unfamiliar problems. When teachers are judged by exam results, they naturally teach to the test, and creativity is pushed aside. In a world where information is available on any phone, they argue, the curriculum should focus on critical thinking, collaboration, and communication. A third group believes the debate ignores vocational training. Not every teenager wants or needs a university degree, and well-designed apprenticeships, such as those in Switzerland and Germany, lead to stable, well-paid careers. Perhaps the most convincing view is that schools should combine these approaches. Knowledge and thinking skills are not opposites. Most importantly, schools should inspire lifelong learning, because the jobs of the future will require people to keep learning long after graduation.",
      "ru": "Мало какие темы вызывают столько споров, как цель школы. Традиционные системы, в том числе во многих странах Восточной Европы и Восточной Азии, давно делают упор на запоминание и дисциплину. Сторонники утверждают, что зубрёжка создаёт прочный фундамент: нельзя критически мыслить об истории, если не знаешь базовых фактов. Страны с таким подходом часто показывают хорошие результаты в международных рейтингах. Критики, однако, утверждают, что такие системы выпускают учеников, которые отлично сдают стандартизированные тесты, но с трудом решают незнакомые задачи. Когда учителей оценивают по результатам экзаменов, они естественным образом натаскивают на экзамен, и творчество отодвигается в сторону. В мире, где информация доступна на любом телефоне, утверждают они, учебная программа должна фокусироваться на критическом мышлении, сотрудничестве и коммуникации. Третья группа считает, что спор игнорирует профобучение. Не каждый подросток хочет или нуждается в университетском дипломе, а хорошо организованные программы ученичества, как в Швейцарии и Германии, ведут к стабильной, хорошо оплачиваемой карьере. Пожалуй, наиболее убедительна точка зрения, что школы должны сочетать эти подходы. Знания и навыки мышления — не противоположности. И самое главное — школы должны вдохновлять на обучение всю жизнь, потому что профессии будущего потребуют от людей продолжать учиться ещё долго после выпуска."
-    }
+    },
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Students should learn to think [independently].",
+      "Учащиеся должны учиться думать самостоятельно.",
+      "Independently."
+     ],
+     [
+      "Standardized [tests] put students under stress.",
+      "Стандартизированные тесты создают стресс.",
+      "Standardized tests."
+     ],
+     [
+      "Many families can't afford [tuition] fees.",
+      "Многие семьи не могут оплатить обучение.",
+      "Tuition fees."
+     ],
+     [
+      "Online learning offers more [flexibility].",
+      "Онлайн-обучение даёт больше гибкости.",
+      "Flexibility."
+     ],
+     [
+      "Class [sizes] are too large.",
+      "Классы слишком большие.",
+      "Class size."
+     ],
+     [
+      "Homework should be [optional] for young kids.",
+      "Домашка для младших должна быть необязательной.",
+      "Optional."
+     ],
+     [
+      "Schools should teach financial [literacy].",
+      "Школы должны учить финансовой грамотности.",
+      "Financial literacy."
+     ]
+    ]
    },
    {
     "id": "b2u22l4",
@@ -1494,7 +1982,47 @@ addUnits("b2", [
     "text": {
      "en": "By 2050, nearly seventy percent of the world's population is expected to live in cities. For many people, urbanization brings clear benefits. Cities offer better jobs, universities, hospitals, and cultural life, and they are often centers of innovation. Concentrating people in one place can even be environmentally efficient, since apartment dwellers who use public transport typically produce less carbon than suburban families with two cars. However, rapid growth has serious costs. In many developing countries, infrastructure cannot keep up, resulting in overcrowded slums without clean water or sanitation. In wealthy cities, the main problem is the cost of living. As young professionals move into traditionally working-class neighborhoods, cafés and galleries open, rents rise, and long-time residents are forced out. Critics of gentrification argue that cities are becoming playgrounds for the rich. Meanwhile, urban sprawl spreads into the countryside, destroying farmland and increasing traffic congestion as people commute from distant outskirts. Many of these problems stem from poor planning rather than from cities themselves. Experts recommend building more affordable housing near transport lines, protecting green spaces, and designing walkable neighborhoods where daily needs are within fifteen minutes. Cities are not the problem; badly managed growth is.",
      "ru": "Ожидается, что к 2050 году почти семьдесят процентов населения мира будет жить в городах. Для многих урбанизация приносит явные преимущества. Города предлагают лучшую работу, университеты, больницы и культурную жизнь, и они часто являются центрами инноваций. Концентрация людей в одном месте может быть даже экологически эффективной, поскольку жители квартир, пользующиеся общественным транспортом, обычно производят меньше углерода, чем пригородные семьи с двумя машинами. Однако быстрый рост имеет серьёзную цену. Во многих развивающихся странах инфраструктура не успевает, что приводит к переполненным трущобам без чистой воды и канализации. В богатых городах главная проблема — стоимость жизни. Когда молодые специалисты переезжают в традиционно рабочие районы, открываются кафе и галереи, аренда растёт, и давних жителей вынуждают уехать. Критики джентрификации утверждают, что города превращаются в площадки для богатых. Тем временем пригороды расползаются по сельской местности, уничтожая сельхозземли и увеличивая пробки, поскольку люди ездят на работу с отдалённых окраин. Многие из этих проблем происходят от плохого планирования, а не от самих городов. Эксперты рекомендуют строить больше доступного жилья рядом с транспортными линиями, защищать зелёные зоны и проектировать пешеходные районы, где всё необходимое находится в пределах пятнадцати минут. Проблема не в городах, а в плохо управляемом росте."
-    }
+    },
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Public [transportation] is overcrowded.",
+      "Общественный транспорт переполнен.",
+      "Public transportation (AmE)."
+     ],
+     [
+      "Many people [commute] from the suburbs.",
+      "Многие ездят на работу из пригородов.",
+      "Commute."
+     ],
+     [
+      "Traffic [congestion] costs billions.",
+      "Пробки обходятся в миллиарды.",
+      "Congestion."
+     ],
+     [
+      "The city needs more green [spaces].",
+      "Городу нужно больше зелёных зон.",
+      "Green spaces."
+     ],
+     [
+      "Rising rents [displace] low-income families.",
+      "Растущая аренда вытесняет малоимущие семьи.",
+      "Displace."
+     ],
+     [
+      "Young people [migrate] to big cities.",
+      "Молодёжь переезжает в крупные города.",
+      "Migrate."
+     ],
+     [
+      "The [population] has doubled since 1980.",
+      "Население удвоилось с 1980 года.",
+      "Population."
+     ]
+    ]
    },
    {
     "id": "b2u22l5",
@@ -1610,7 +2138,47 @@ addUnits("b2", [
     "text": {
      "en": "Scientists overwhelmingly agree that human activity, especially the burning of fossil fuels, is warming the planet. The consequences are already visible: more frequent heat waves, longer droughts, stronger storms, and rising sea levels that threaten coastal cities. The real debate today is not whether climate change is happening, but how to tackle it and who should pay. One side argues for rapid, ambitious action. They want governments to introduce carbon taxes, phase out coal within a decade, and invest heavily in renewable energy such as solar and wind, which has become dramatically cheaper. In their view, the cost of acting now is far smaller than the cost of disasters later. Others worry about the economic impact. Sudden changes, they argue, could raise energy prices, hurt low-income families, and eliminate jobs in mining regions. Developing countries also point out that wealthy nations produced most historical emissions and should therefore carry most of the burden. There is also a question of individual responsibility. Should people reduce their carbon footprint by flying less and eating less meat, or is that a distraction from the need for systemic change? Most experts agree that both are needed: strong policies to curb emissions, and measures to help communities adapt.",
      "ru": "Учёные в подавляющем большинстве согласны, что деятельность человека, особенно сжигание ископаемого топлива, нагревает планету. Последствия уже заметны: более частые волны жары, более долгие засухи, более сильные штормы и повышение уровня моря, угрожающее прибрежным городам. Настоящий спор сегодня не о том, происходит ли изменение климата, а о том, как с ним бороться и кто должен платить. Одна сторона выступает за быстрые и амбициозные действия. Они хотят, чтобы правительства ввели углеродные налоги, отказались от угля в течение десятилетия и вкладывали большие средства в возобновляемую энергию, такую как солнечная и ветровая, которая резко подешевела. По их мнению, цена действий сейчас гораздо меньше цены катастроф в будущем. Другие беспокоятся об экономических последствиях. Резкие изменения, утверждают они, могут поднять цены на энергию, ударить по малообеспеченным семьям и уничтожить рабочие места в шахтёрских регионах. Развивающиеся страны также указывают, что богатые страны произвели большую часть исторических выбросов и поэтому должны нести основное бремя. Есть и вопрос личной ответственности. Должны ли люди сокращать углеродный след, меньше летая и меньше потребляя мяса, или это отвлекает от необходимости системных изменений? Большинство экспертов согласны, что нужно и то, и другое: жёсткая политика по сдерживанию выбросов и меры, помогающие сообществам адаптироваться."
-    }
+    },
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Sea levels are [rising] every year.",
+      "Уровень моря растёт каждый год.",
+      "Rise — непереходный."
+     ],
+     [
+      "Wind [farms] produce clean energy.",
+      "Ветряные электростанции дают чистую энергию.",
+      "Wind farm."
+     ],
+     [
+      "Deforestation [contributes] to global warming.",
+      "Вырубка лесов способствует глобальному потеплению.",
+      "Contribute to."
+     ],
+     [
+      "We need to [switch] to electric cars.",
+      "Нам нужно перейти на электромобили.",
+      "Switch to."
+     ],
+     [
+      "Extreme [weather] is becoming more common.",
+      "Экстремальная погода случается всё чаще.",
+      "Extreme weather."
+     ],
+     [
+      "The goal is to reach net [zero] by 2050.",
+      "Цель — нулевые выбросы к 2050 году.",
+      "Net zero."
+     ],
+     [
+      "Greenhouse [gases] trap heat.",
+      "Парниковые газы удерживают тепло.",
+      "Greenhouse gases."
+     ]
+    ]
    }
   ]
  }

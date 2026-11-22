@@ -144,7 +144,42 @@ addUnits("c1", [
     "text": {
      "en": "Every year, American high school teachers collect the most common mistakes in student essays, and every year the same pairs appear at the top of the list. Even adults with college degrees confuse them, which is why editors joke that they could build a career on affect and effect alone.\n\nThe confusion has real consequences. A few years ago, a company press release claimed that a new policy would \"effect all employees.\" Journalists inferred that the company was announcing a dramatic restructuring, and the stock price dipped. In fact, the writer had simply meant that the policy would affect everyone. The effect of one wrong letter was a very stressful afternoon for the communications team.\n\nImply and infer cause similar trouble. When a senator said a rival's plan was \"interesting, to say the least,\" reporters debated what he was implying. Some inferred mild criticism; others heard open contempt. The senator later insisted he had been discreet on purpose, leaving room to negotiate.\n\nFor learners, these pairs matter more than they seem. In an exam essay or a cover letter, writing \"principle\" instead of \"principal\" may not change your meaning, but it can affect how seriously the reader takes you. Good writing should complement your ideas, not distract from them.\n\nThe solution isn't complicated. Make a short list of pairs you personally confuse, keep it next to your desk, and check every important text before you send it. It takes two minutes and ensures you look as competent as you are.",
      "ru": "Каждый год американские школьные учителя собирают самые частые ошибки в эссе учеников, и каждый год одни и те же пары оказываются в верхней части списка. Их путают даже взрослые с высшим образованием, поэтому редакторы шутят, что могли бы построить карьеру на одних affect и effect.\n\nУ путаницы бывают реальные последствия. Несколько лет назад в пресс-релизе компании говорилось, что новая политика «осуществит всех сотрудников» (effect). Журналисты сделали вывод, что компания объявляет о радикальной реструктуризации, и акции просели. На самом деле автор просто имел в виду, что политика затронет всех. Последствием одной неверной буквы стал очень нервный день для отдела коммуникаций.\n\nImply и infer доставляют похожие проблемы. Когда сенатор назвал план соперника «интересным, мягко говоря», журналисты спорили, на что он намекал. Одни увидели лёгкую критику, другие — открытое презрение. Позже сенатор настаивал, что был сдержан намеренно, оставляя пространство для переговоров.\n\nДля изучающих язык эти пары важнее, чем кажется. В экзаменационном эссе или сопроводительном письме «principle» вместо «principal» может не изменить смысл, но может повлиять на то, насколько серьёзно к вам отнесётся читатель. Хорошее письмо должно дополнять ваши идеи, а не отвлекать от них.\n\nРешение несложное. Составьте короткий список пар, которые путаете лично вы, держите его у стола и проверяйте каждый важный текст перед отправкой. Это занимает две минуты и гарантирует, что вы выглядите таким же компетентным, каким являетесь."
-    }
+    },
+    "tags": [
+     "confusing-words"
+    ],
+    "extra": [
+     [
+      "Stress can [affect] your sleep.",
+      "Стресс может влиять на сон.",
+      "affect — глагол «влиять»."
+     ],
+     [
+      "The new rules will take [effect] in May.",
+      "Новые правила вступят в силу в мае.",
+      "take effect — существительное effect."
+     ],
+     [
+      "Are you [implying] that I lied?",
+      "Ты намекаешь, что я солгал?",
+      "imply — намекать (говорящий)."
+     ],
+     [
+      "From his tone, I [inferred] he was upset.",
+      "По его тону я заключил, что он расстроен.",
+      "infer — делать вывод (слушающий)."
+     ],
+     [
+      "The manager hopes to [effect] real change.",
+      "Менеджер надеется осуществить реальные перемены.",
+      "effect как глагол — осуществить."
+     ],
+     [
+      "The film had a powerful [effect] on me.",
+      "Фильм произвёл на меня сильное впечатление.",
+      "have an effect on — существительное."
+     ]
+    ]
    },
    {
     "id": "c1u33l2",
@@ -286,7 +321,42 @@ addUnits("c1", [
     "text": {
      "en": "When the city of Detroit filed for bankruptcy in 2013, it was described as a historic moment, the largest municipal bankruptcy in American history. Historians now study it as part of a longer historical decline that began decades earlier, when the auto industry moved jobs to the suburbs and overseas.\n\nThe economic causes were complex. Detroit's population had fallen from nearly two million to about seven hundred thousand, while the city still had to maintain infrastructure designed for a much larger population. Continual budget cuts made services worse, which pushed even more residents to leave. Some neighborhoods experienced continuous decline for forty years.\n\nRecovery has been uneven but real. A group comprising foundations, local businesses, and the state government provided money to protect pensions and the city's famous art museum. Downtown, which consists largely of renovated office towers, now attracts young professionals and tech startups. Rents remain economical compared with Chicago or New York, which helps.\n\nCritics argue that the revival is mostly visible to visitors. Many longtime residents remain uninterested in the new coffee shops and skeptical of promises from developers. They point out that a credulous public has heard many such promises before. Independent, disinterested studies show that poverty in outer neighborhoods has barely changed.\n\nStill, a sensible observer can see progress. Detroit is no longer a symbol of collapse alone. It has become a test case for whether an American city can reinvent itself without leaving its own people behind.",
      "ru": "Когда Детройт в 2013 году объявил о банкротстве, это назвали историческим моментом — крупнейшее муниципальное банкротство в истории Америки. Сегодня историки изучают его как часть более долгого исторического упадка, начавшегося десятилетиями раньше, когда автоиндустрия перенесла рабочие места в пригороды и за границу.\n\nЭкономические причины были сложными. Население Детройта сократилось почти с двух миллионов примерно до семисот тысяч, а городу всё равно приходилось содержать инфраструктуру, рассчитанную на гораздо большее население. Постоянные сокращения бюджета ухудшали услуги, что вынуждало ещё больше жителей уезжать. Некоторые районы непрерывно приходили в упадок сорок лет.\n\nВосстановление неравномерное, но реальное. Группа, включавшая фонды, местный бизнес и правительство штата, выделила деньги на защиту пенсий и знаменитого художественного музея города. Центр, который состоит в основном из отремонтированных офисных башен, теперь привлекает молодых специалистов и техностартапы. Аренда остаётся недорогой по сравнению с Чикаго или Нью-Йорком, что помогает.\n\nКритики утверждают, что возрождение заметно в основном приезжим. Многие давние жители равнодушны к новым кофейням и скептически относятся к обещаниям застройщиков. Они указывают, что легковерная публика уже слышала много таких обещаний. Независимые, беспристрастные исследования показывают, что бедность в окраинных районах почти не изменилась.\n\nИ всё же здравомыслящий наблюдатель видит прогресс. Детройт больше не только символ краха. Он стал проверкой того, может ли американский город переизобрести себя, не бросив собственных жителей."
-    }
+    },
+    "tags": [
+     "confusing-words"
+    ],
+    "extra": [
+     [
+      "The committee is [composed] of five members.",
+      "Комитет состоит из пяти членов.",
+      "be composed of — состоять из."
+     ],
+     [
+      "The [continual] interruptions drove me crazy.",
+      "Постоянные (повторяющиеся) перебивания сводили меня с ума.",
+      "continual — повторяющийся с перерывами."
+     ],
+     [
+      "There was a [continuous] hum from the fridge.",
+      "Холодильник непрерывно гудел.",
+      "continuous — без перерыва."
+     ],
+     [
+      "The country faces an [economic] crisis.",
+      "Страна сталкивается с экономическим кризисом.",
+      "economic — относящийся к экономике."
+     ],
+     [
+      "This car is very [economical] on fuel.",
+      "Эта машина очень экономична по топливу.",
+      "economical — экономный."
+     ],
+     [
+      "It was a [historic] victory for the team.",
+      "Это была историческая победа команды.",
+      "historic — важный для истории; historical — относящийся к прошлому."
+     ]
+    ]
    },
    {
     "id": "c1u33l3",
@@ -428,7 +498,42 @@ addUnits("c1", [
     "text": {
      "en": "When Dmitry arrived in New York for a six-month internship at a publishing company, he was confident about his English. He had passed the IELTS with a high score and watched American TV for years. Yet within the first week, he managed to confuse almost everyone around him.\n\nOn his first morning, he told his manager that he wanted to discuss \"actual problems in the industry.\" She looked puzzled and asked which problems weren't actual. He meant current ones, of course. Later, he asked a colleague where the nearest magazine was because he needed to buy a toothbrush. The colleague, who worked at an actual magazine, pointed proudly at their own office.\n\nThe most awkward moment came at lunch. Trying to compliment a coworker's boyfriend, Dmitry said he seemed very sympathetic. The coworker thanked him, a little confused, and explained that her boyfriend was a grief counselor, so yes, sympathy was his job.\n\nBy Friday, Dmitry had made a list. He wrote that accurate means precise, not tidy, and that an accurate report can still be a mess. He noted that a cabinet in an American kitchen holds plates, while the president's cabinet holds secretaries of state.\n\nHis manager was sympathetic. She told him that every international hire made similar mistakes, and that his enthusiasm made up for them. Dmitry now jokes that the most relevant thing he learned in New York was which Russian words to avoid translating.",
      "ru": "Когда Дмитрий приехал в Нью-Йорк на шестимесячную стажировку в издательстве, он был уверен в своём английском. Он сдал IELTS на высокий балл и годами смотрел американское ТВ. Однако за первую же неделю он умудрился запутать почти всех вокруг.\n\nВ первое утро он сказал менеджеру, что хочет обсудить «actual problems in the industry». Она озадаченно спросила, какие же проблемы не являются настоящими. Он, конечно, имел в виду актуальные. Позже он спросил коллегу, где ближайший «magazine», потому что ему нужно купить зубную щётку. Коллега, который работал в настоящем журнале, гордо указал на их собственный офис.\n\nСамый неловкий момент случился за обедом. Пытаясь сделать комплимент парню коллеги, Дмитрий сказал, что тот кажется очень «sympathetic». Коллега поблагодарила его, слегка растерянно, и объяснила, что её парень — психолог, работающий с горем, так что да, сочувствие — его работа.\n\nК пятнице у Дмитрия был список. Он записал, что accurate значит «точный», а не «аккуратный», и что точный отчёт всё равно может быть неряшливым. Он отметил, что cabinet на американской кухне хранит тарелки, а кабинет президента — министров.\n\nМенеджер отнеслась с сочувствием. Она сказала, что все иностранные сотрудники делают похожие ошибки, а его энтузиазм это компенсирует. Теперь Дмитрий шутит, что самое актуальное, что он выучил в Нью-Йорке, — какие русские слова лучше не переводить."
-    }
+    },
+    "tags": [
+     "confusing-words"
+    ],
+    "extra": [
+     [
+      "My [current] job is in marketing.",
+      "Моя нынешняя работа — в маркетинге.",
+      "«Актуальный, текущий» — current, не actual."
+     ],
+     [
+      "She was very [sympathetic] when my dog died.",
+      "Она очень сочувствовала, когда умерла моя собака.",
+      "sympathetic — сочувствующий, не «симпатичный»."
+     ],
+     [
+      "He's a really [nice] guy.",
+      "Он очень симпатичный (приятный) парень.",
+      "«Симпатичный» = nice/likable."
+     ],
+     [
+      "I bought a fashion [magazine] at the airport.",
+      "Я купил модный журнал в аэропорту.",
+      "magazine — журнал, а не магазин."
+     ],
+     [
+      "Be [careful] with that knife.",
+      "Осторожно с этим ножом.",
+      "«Аккуратный» в смысле осторожный — careful, не accurate."
+     ],
+     [
+      "The weather forecast was surprisingly [accurate].",
+      "Прогноз погоды оказался удивительно точным.",
+      "accurate — точный."
+     ]
+    ]
    },
    {
     "id": "c1u33l4",
@@ -570,7 +675,42 @@ addUnits("c1", [
     "text": {
      "en": "Translators have a favorite game: collecting false friends that cause real-world disasters. A Russian engineer once told American partners that his company had \"a large fabric in Tula.\" The Americans assumed it was a textile business and sent samples of cotton. The engineer had meant a factory producing machine parts.\n\nThe classic examples are funny, but the subtle ones are more dangerous. Consider intelligent. In Russian, a person who is cultured, polite, and educated is described as intelligent, but in English the word simply means smart. You can call someone intelligent and rude at the same time without contradiction. If you want the Russian sense, try cultured, refined, or well-educated.\n\nGenial is another trap. A Russian visitor praising a professor's \"genial theory\" will confuse listeners, who hear that the theory is friendly and cheerful. The word they need is brilliant. Pathetic is even worse; it means pitiful or embarrassingly weak. Telling an American speaker that his speech was pathetic is an insult, not a compliment about emotional intensity.\n\nMedical vocabulary deserves special attention. A tourist in Miami who told a doctor she had angina was rushed to a cardiologist, because in English angina is chest pain caused by heart problems. She actually had strep throat.\n\nThe good news is that false friends become easy once you notice them. Over a decade of teaching, translators say, the prospect of mistakes never disappears completely, but every embarrassing story makes the lesson stick.",
      "ru": "У переводчиков есть любимая игра: собирать ложных друзей, которые приводят к реальным катастрофам. Один российский инженер однажды сказал американским партнёрам, что у его компании «большая fabric в Туле». Американцы решили, что это текстильный бизнес, и прислали образцы хлопка. Инженер же имел в виду завод, производящий детали машин.\n\nКлассические примеры смешны, но тонкие опаснее. Возьмём intelligent. По-русски интеллигентным называют культурного, вежливого, образованного человека, а по-английски слово просто значит «умный». Можно назвать кого-то умным и грубым одновременно без противоречия. Если нужен русский смысл, попробуйте cultured, refined или well-educated.\n\nGenial — ещё одна ловушка. Русский гость, хвалящий «genial theory» профессора, запутает слушателей: они услышат, что теория дружелюбная и жизнерадостная. Нужное слово — brilliant. Pathetic ещё хуже: оно значит «жалкий» или «позорно слабый». Сказать американскому оратору, что его речь была pathetic, — оскорбление, а не комплимент эмоциональности.\n\nМедицинская лексика заслуживает особого внимания. Туристку в Майами, сказавшую врачу, что у неё angina, срочно отправили к кардиологу, потому что по-английски angina — боль в груди из-за проблем с сердцем. На самом деле у неё была ангина (strep throat).\n\nХорошая новость: ложные друзья становятся лёгкими, как только вы их замечаете. За десятилетие преподавания, говорят переводчики, вероятность ошибок никогда полностью не исчезает, но каждая неловкая история помогает урок запомнить."
-    }
+    },
+    "tags": [
+     "confusing-words"
+    ],
+    "extra": [
+     [
+      "The 1990s was a [decade] of rapid change.",
+      "1990-е были десятилетием быстрых перемен.",
+      "decade — десять лет, не «декада»."
+     ],
+     [
+      "She's a talented [actress].",
+      "Она талантливая актриса.",
+      "«Артист(ка)» о театре/кино — actor/actress, не artist."
+     ],
+     [
+      "The job offers excellent career [prospects].",
+      "Работа даёт отличные карьерные перспективы.",
+      "prospects — перспективы, не «проспект»."
+     ],
+     [
+      "They walked down the main [avenue].",
+      "Они шли по главному проспекту.",
+      "«Проспект» = avenue."
+     ],
+     [
+      "He comes from a very [cultured] family.",
+      "Он из очень интеллигентной семьи.",
+      "«Интеллигентный» — cultured/educated; intelligent = умный."
+     ],
+     [
+      "Dolphins are highly [intelligent] animals.",
+      "Дельфины — очень умные животные.",
+      "intelligent — умный."
+     ]
+    ]
    },
    {
     "id": "c1u33l5",
@@ -712,7 +852,43 @@ addUnits("c1", [
     "text": {
      "en": "At Harvard's annual intercollegiate debate tournament, the motion this year was provocative: \"This house believes that social media has done more harm than good.\" The final pitted a team from Texas against a team from California, and the room was packed.\n\nThe Texas team opened strongly. Admittedly, they said, social media connects families and gives a voice to the marginalized. But the evidence on teenage mental health, misinformation, and political polarization was overwhelming. The harms, they argued, clearly outweighed the benefits.\n\nThe California side responded with a clever move. Instead of denying the problems, they steelmanned the opposition, restating the case even more convincingly than Texas had. Then they attacked its core assumption. Correlation, they pointed out, is not causation. Teen depression rose during the same period as smartphone use, but so did economic anxiety and school shootings. The burden of proof, they said, was on the side making the stronger claim.\n\nThings got heated during rebuttals. One Texas speaker accused California of whataboutism, and a California speaker replied that calling something a fallacy is not the same as refuting it. When a Texas debater suggested that regulating platforms was a slippery slope toward censorship, the judges noted that this undermined his own team's position.\n\nIn the end, California won by a narrow margin. The head judge explained that both teams had been excellent, but California had conceded small points gracefully and never resorted to ad hominem attacks. \"Winning a debate,\" she said, \"is about being fair while being ruthless.\"",
      "ru": "На ежегодном межуниверситетском турнире по дебатам в Гарварде тема в этом году была провокационной: «Палата считает, что социальные сети принесли больше вреда, чем пользы». В финале сошлись команды из Техаса и Калифорнии, и зал был забит.\n\nТехасцы начали сильно. Надо признать, сказали они, соцсети связывают семьи и дают голос маргинализированным. Но доказательства о психическом здоровье подростков, дезинформации и политической поляризации неопровержимы. Вред, утверждали они, явно перевешивает пользу.\n\nКалифорнийцы ответили хитрым ходом. Вместо того чтобы отрицать проблемы, они изложили позицию оппонентов в самой сильной форме, ещё убедительнее, чем сам Техас. Затем атаковали её главное допущение. Корреляция, указали они, — не причинно-следственная связь. Подростковая депрессия росла в тот же период, что и использование смартфонов, но росли и экономическая тревожность, и стрельба в школах. Бремя доказательства, сказали они, лежит на стороне, которая делает более сильное утверждение.\n\nВо время опровержений страсти накалились. Один техасский оратор обвинил Калифорнию в «вотэбаутизме», а калифорнийский ответил, что назвать что-то логической ошибкой — не то же самое, что опровергнуть. Когда техасский участник предположил, что регулирование платформ — скользкая дорожка к цензуре, судьи отметили, что это подрывает позицию его же команды.\n\nВ итоге Калифорния победила с небольшим перевесом. Главная судья объяснила, что обе команды были превосходны, но калифорнийцы изящно признавали мелкие доводы и ни разу не перешли на личности. «Победить в дебатах, — сказала она, — значит быть честным, оставаясь беспощадным»."
-    }
+    },
+    "tags": [
+     "speaking",
+     "linking-discourse"
+    ],
+    "extra": [
+     [
+      "Let me [rebut] that point directly.",
+      "Позвольте мне прямо опровергнуть этот довод.",
+      "rebut — опровергнуть."
+     ],
+     [
+      "I'll [concede] that the costs are high.",
+      "Признаю, что расходы высоки.",
+      "concede — уступить пункт."
+     ],
+     [
+      "Let me [steelman] your argument first.",
+      "Сначала изложу ваш аргумент в самой сильной форме.",
+      "steelman — противоположность strawman."
+     ],
+     [
+      "That's a [straw man]; nobody said that.",
+      "Это подмена тезиса: никто этого не говорил.",
+      "straw man — искажение позиции оппонента."
+     ],
+     [
+      "[With all due respect], I disagree.",
+      "При всём уважении, я не согласен.",
+      "Вежливое вступление к несогласию."
+     ],
+     [
+      "Can you [back up] that claim with data?",
+      "Можете подкрепить это утверждение данными?",
+      "back up — обосновать."
+     ]
+    ]
    }
   ]
  },
@@ -853,7 +1029,43 @@ addUnits("c1", [
     "text": {
      "en": "The following is a transcript of a short phone call between two roommates in Chicago, written the way it actually sounds, followed by an explanation.\n\n\"Hey, whatcha doin'?\"\n\"Nothin' much. Just gotta finish this report. Why?\"\n\"I'm gonna grab some Thai food. D'you wanna come?\"\n\"Lemme think. I dunno, I kinda have a deadline.\"\n\"C'mon, you shoulda eaten hours ago. It's like nine.\"\n\"OK, fine. Gimme ten minutes. Didja call the landlord about the heater?\"\n\"Yeah, he's gonna send somebody tomorrow. Finally.\"\n\nTo a learner, this might sound like a different language. Yet every word is standard English. \"Whatcha doin'\" is \"what are you doing.\" \"Gotta\" is \"have got to.\" \"D'you wanna\" is \"do you want to.\" \"Lemme,\" \"dunno,\" and \"gimme\" are \"let me,\" \"don't know,\" and \"give me.\" \"Kinda\" softens the statement, and \"shoulda\" is \"should have.\"\n\nNotice also what happens to the letter t. In \"a lot of,\" Americans usually pronounce it like a soft d, which is why it sounds like \"a lodda.\" In \"didja,\" the d and the y of \"you\" merge into a new sound.\n\nPhoneticians stress that these reductions are not lazy. They follow predictable rules: unstressed function words shrink, while stressed content words stay clear. If you focus on the stressed words, such as \"Thai food,\" \"deadline,\" and \"heater,\" you will catch the meaning even when the small words blur together.",
      "ru": "Ниже — расшифровка короткого телефонного разговора двух соседей по квартире в Чикаго, записанная так, как она звучит на самом деле, а затем объяснение.\n\n«Привет, чё делаешь?»\n«Да ничего особенного. Надо доделать отчёт. А что?»\n«Я собираюсь взять тайской еды. Пойдёшь?»\n«Дай подумать. Не знаю, у меня вроде как дедлайн».\n«Да ладно, тебе надо было поесть несколько часов назад. Уже где-то девять».\n«Ладно. Дай мне десять минут. Ты позвонил хозяину насчёт обогревателя?»\n«Ага, он завтра пришлёт кого-нибудь. Наконец-то».\n\nИзучающему язык это может показаться другим языком. Но каждое слово — стандартный английский. «Whatcha doin'» — это «what are you doing». «Gotta» — «have got to». «D'you wanna» — «do you want to». «Lemme», «dunno» и «gimme» — это «let me», «don't know» и «give me». «Kinda» смягчает высказывание, а «shoulda» — «should have».\n\nОбратите также внимание, что происходит с буквой t. В «a lot of» американцы обычно произносят её как мягкое d, поэтому звучит «a lodda». В «didja» d и y из «you» сливаются в новый звук.\n\nФонетисты подчёркивают, что эти редукции — не лень. Они подчиняются предсказуемым правилам: безударные служебные слова сжимаются, а ударные смысловые остаются чёткими. Если сосредоточиться на ударных словах вроде «Thai food», «deadline» и «heater», вы уловите смысл, даже когда мелкие слова сливаются."
-    }
+    },
+    "tags": [
+     "listening",
+     "pronunciation"
+    ],
+    "extra": [
+     [
+      "[Lemme] know when you're ready.",
+      "Дай знать, когда будешь готов.",
+      "lemme = let me."
+     ],
+     [
+      "I [dunno] where he went.",
+      "Не знаю, куда он ушёл.",
+      "dunno = don't know."
+     ],
+     [
+      "[Whaddaya] want for dinner?",
+      "Что ты хочешь на ужин?",
+      "whaddaya = what do you."
+     ],
+     [
+      "I've [gotta] go now.",
+      "Мне надо идти.",
+      "gotta = got to."
+     ],
+     [
+      "You [shoulda] seen it!",
+      "Ты бы видел это!",
+      "shoulda = should have."
+     ],
+     [
+      "[Didja] see the game last night?",
+      "Ты видел вчерашний матч?",
+      "didja = did you."
+     ]
+    ]
    },
    {
     "id": "c1u34l2",
@@ -987,7 +1199,43 @@ addUnits("c1", [
     "text": {
      "en": "Here is a short excerpt from a popular American podcast about pop culture, lightly edited, with commentary afterward.\n\nHOST 1: So, okay, did you watch the finale?\nHOST 2: Dude, I literally stayed up till three.\nHOST 1: Same. And I'm sitting there like, wait, what? He was the father the whole time?\nHOST 2: I mean, to be fair, they kind of hinted at it in season two.\nHOST 1: Kind of? It was, like, one line.\nHOST 2: Right, but it was there. Anyway, my wife goes, \"I called it,\" and I'm like, \"No you didn't.\"\nHOST 1: [laughs] Classic.\n\nFor a learner, this exchange is full of traps. Almost none of the small words carry dictionary meaning. \"So, okay\" simply opens the topic. \"Dude\" is a friendly address, not an insult. \"Literally\" does not mean the host stayed up in a literal sense; it is pure emphasis. \"I'm sitting there like\" introduces his reaction, and \"wait, what?\" expresses shock.\n\n\"To be fair\" signals a concession, and \"kind of\" softens it. When Host 1 repeats \"Kind of?\" with rising intonation, he is challenging the claim. \"Right, but\" means \"I accept your point, however.\" Finally, \"my wife goes\" and \"I'm like\" are quotative verbs used to retell a conversation.\n\nOnce you recognize these patterns, the actual content becomes simple: two friends discussing a surprising plot twist. The real skill is not hearing every word but knowing which words you can safely ignore.",
      "ru": "Вот короткий отрывок из популярного американского подкаста о поп-культуре, слегка отредактированный, с комментарием после.\n\nВЕДУЩИЙ 1: Так, ладно, ты смотрел финал?\nВЕДУЩИЙ 2: Чувак, я реально не спал до трёх.\nВЕДУЩИЙ 1: Я тоже. И сижу такой: стоп, что? Он всё это время был отцом?\nВЕДУЩИЙ 2: Ну, справедливости ради, они как бы намекали на это во втором сезоне.\nВЕДУЩИЙ 1: Как бы? Там была, типа, одна реплика.\nВЕДУЩИЙ 2: Да, но она была. В общем, жена мне такая: «Я так и знала», а я такой: «Ничего ты не знала».\nВЕДУЩИЙ 1: [смеётся] Классика.\n\nДля изучающего язык этот обмен репликами полон ловушек. Почти ни одно из маленьких слов не несёт словарного значения. «So, okay» просто открывает тему. «Dude» — дружеское обращение, а не оскорбление. «Literally» не значит, что ведущий не спал в буквальном смысле — это чистое усиление. «I'm sitting there like» вводит его реакцию, а «wait, what?» выражает шок.\n\n«To be fair» сигнализирует уступку, а «kind of» её смягчает. Когда Ведущий 1 повторяет «Kind of?» с восходящей интонацией, он оспаривает утверждение. «Right, but» значит «принимаю твой довод, однако». Наконец, «my wife goes» и «I'm like» — цитатные глаголы для пересказа разговора.\n\nКак только вы распознаёте эти шаблоны, само содержание становится простым: два друга обсуждают неожиданный сюжетный поворот. Настоящий навык — не расслышать каждое слово, а знать, какие слова можно спокойно пропустить."
-    }
+    },
+    "tags": [
+     "listening",
+     "linking-discourse"
+    ],
+    "extra": [
+     [
+      "It was, [you know], kind of awkward.",
+      "Было, ну, знаешь, как-то неловко.",
+      "you know — филлер."
+     ],
+     [
+      "I mean, it's [sort of] expensive.",
+      "В смысле, это как бы дорого.",
+      "sort of — хедж-смягчение."
+     ],
+     [
+      "[Anyway], back to what I was saying.",
+      "В общем, вернусь к тому, что я говорил.",
+      "anyway — возвращение к теме."
+     ],
+     [
+      "[Honestly], I didn't love the movie.",
+      "Честно говоря, фильм мне не очень понравился.",
+      "Honestly — маркер откровенности."
+     ],
+     [
+      "[Basically], we ran out of money.",
+      "По сути, у нас кончились деньги.",
+      "basically — упрощающий маркер."
+     ],
+     [
+      "So [yeah], that's the whole story.",
+      "Так что вот, это вся история.",
+      "So yeah — закрытие рассказа."
+     ]
+    ]
    },
    {
     "id": "c1u34l3",
@@ -1123,7 +1371,43 @@ addUnits("c1", [
     "text": {
      "en": "Ask Russian speakers why they struggle with American sitcoms, and many give the same answer: \"I understand every word, but I don't know why the audience is laughing.\" The problem is rarely vocabulary. It is the mechanics of humor.\n\nTake sarcasm, the backbone of shows like Friends. When Chandler says, \"Could this BE any more exciting?\" during a boring dinner, the words are positive, but his stress pattern and exaggerated tone make the meaning the exact opposite. Russian has sarcasm too, of course, but Americans use it more casually, often between close friends, and signal it mainly through intonation.\n\nThe Office relies on something different: deadpan and cringe. Michael Scott, the manager, constantly says inappropriate things with total confidence, while Jim looks silently into the camera. Nothing is said, yet the audience laughs, because Jim's blank face invites viewers to share his embarrassment. This understatement is very American.\n\nPuns are another obstacle. In Brooklyn Nine-Nine, a character says a criminal was \"arrested for stealing a calendar; he got twelve months.\" To get the joke, you need to hear the double meaning of \"months\" as both time on a calendar and a prison sentence.\n\nFinally, there are callbacks and running gags, which reward loyal viewers. A line that seems random in season five may refer to an episode from season one.\n\nThe best strategy is to rewatch. The second time, you know the plot, so your attention is free for timing, tone, and the punchline.",
      "ru": "Спросите русскоязычных, почему им тяжело даются американские ситкомы, и многие дадут один ответ: «Я понимаю каждое слово, но не понимаю, почему смеётся зал». Проблема редко в лексике. Дело в механике юмора.\n\nВозьмём сарказм — основу сериалов вроде «Друзей». Когда Чендлер на скучном ужине говорит: «Может ли это БЫТЬ ещё увлекательнее?», слова позитивные, но ударение и преувеличенный тон делают смысл прямо противоположным. В русском, конечно, тоже есть сарказм, но американцы используют его непринуждённее, часто между близкими друзьями, и сигнализируют о нём в основном интонацией.\n\n«Офис» опирается на другое: невозмутимость и испанский стыд. Менеджер Майкл Скотт постоянно с полной уверенностью говорит неуместные вещи, а Джим молча смотрит в камеру. Ничего не сказано, но зал смеётся, потому что каменное лицо Джима приглашает зрителей разделить его неловкость. Это преуменьшение очень по-американски.\n\nКаламбуры — ещё одно препятствие. В «Бруклин 9-9» персонаж говорит, что преступника «арестовали за кражу календаря — ему дали двенадцать месяцев». Чтобы понять шутку, нужно услышать двойное значение «months» — и время в календаре, и тюремный срок.\n\nНаконец, есть отсылки и повторяющиеся шутки, которые вознаграждают преданных зрителей. Реплика, кажущаяся случайной в пятом сезоне, может отсылать к серии из первого.\n\nЛучшая стратегия — пересматривать. Во второй раз вы знаете сюжет, поэтому внимание свободно для тайминга, тона и развязки шутки."
-    }
+    },
+    "tags": [
+     "listening",
+     "pragmatics"
+    ],
+    "extra": [
+     [
+      "That's a terrible [pun].",
+      "Это ужасный каламбур.",
+      "pun — игра слов."
+     ],
+     [
+      "The final scene was a [callback] to the pilot.",
+      "Финальная сцена была отсылкой к пилотной серии.",
+      "callback — шутка-отсылка."
+     ],
+     [
+      "\"Oh, I just [love] Mondays,\" he said sarcastically.",
+      "«О, как я обожаю понедельники», — саркастически сказал он.",
+      "Сарказм: сказанное противоположно смыслу."
+     ],
+     [
+      "The show relies on [awkward] silences.",
+      "Шоу строится на неловких паузах.",
+      "awkward humor — юмор неловкости."
+     ],
+     [
+      "She delivered the line with a [straight] face.",
+      "Она произнесла реплику с каменным лицом.",
+      "with a straight face — невозмутимо."
+     ],
+     [
+      "That joke went right over my [head].",
+      "Я не понял эту шутку.",
+      "go over one's head — не понять."
+     ]
+    ]
    },
    {
     "id": "c1u34l4",
@@ -1256,7 +1540,43 @@ addUnits("c1", [
     "text": {
      "en": "The United States is often described as a melting pot, but many sociologists now prefer the image of a salad bowl. Immigrants and their children keep distinct identities while sharing certain national values. Understanding those values explains a great deal about how Americans speak.\n\nThe most important is individualism. Americans are taught from childhood to make their own choices and express their own opinions. This is why a waiter may ask you five questions about your sandwich, and why \"It's up to you\" is such a common phrase. Closely connected is a deep optimism, sometimes called a can-do attitude. Problems become \"challenges,\" failures become \"learning experiences,\" and complaints are wrapped in positive language.\n\nSmall talk confuses many newcomers. \"How are you?\" is a greeting, not a medical question, and the expected answer is short and cheerful. Friendliness is not the same as friendship; a coworker who invites you to \"grab coffee sometime\" may never follow up. Russians sometimes read this as insincerity, while Americans can read Russian reserve as coldness.\n\nRegional differences are enormous. Southern hospitality, Midwest nice, and New York directness are stereotypes, but they reflect real patterns of communication. A Texan might call a stranger \"honey\"; a New Yorker might skip greetings entirely.\n\nFinally, there is the American Dream, the belief that hard work leads to success. Recent data on upward mobility suggest the dream is harder to reach than it once was, and political polarization makes even this topic controversial. Yet it remains central to how Americans describe themselves.",
      "ru": "Соединённые Штаты часто описывают как плавильный котёл, но многие социологи теперь предпочитают образ салатницы. Иммигранты и их дети сохраняют особую идентичность, разделяя определённые национальные ценности. Понимание этих ценностей многое объясняет в том, как говорят американцы.\n\nВажнейшая из них — индивидуализм. Американцев с детства учат делать собственный выбор и высказывать собственное мнение. Поэтому официант может задать вам пять вопросов о сэндвиче, и поэтому «It's up to you» (решать тебе) — такая частая фраза. С этим тесно связан глубокий оптимизм, иногда называемый установкой «всё получится». Проблемы становятся «вызовами», неудачи — «опытом», а жалобы заворачиваются в позитивные формулировки.\n\nСветская беседа сбивает с толку многих новичков. «How are you?» — приветствие, а не медицинский вопрос, и ожидается короткий бодрый ответ. Дружелюбие не равно дружбе: коллега, который приглашает «как-нибудь выпить кофе», может так и не позвонить. Русские иногда воспринимают это как неискренность, а американцы русскую сдержанность — как холодность.\n\nРегиональные различия огромны. Южное гостеприимство, вежливость Среднего Запада и нью-йоркская прямота — стереотипы, но они отражают реальные модели общения. Техасец может назвать незнакомца «honey» (милый), а ньюйоркец — вовсе пропустить приветствие.\n\nИ наконец, американская мечта — вера в то, что упорный труд ведёт к успеху. Свежие данные о социальной мобильности говорят, что мечта стала труднее достижимой, чем раньше, а политическая поляризация делает спорной даже эту тему. И всё же она остаётся центральной в том, как американцы описывают себя."
-    }
+    },
+    "tags": [
+     "vocabulary-topic",
+     "pragmatics"
+    ],
+    "extra": [
+     [
+      "Americans tend to value [individualism].",
+      "Американцы склонны ценить индивидуализм.",
+      "individualism — ключевая культурная ценность."
+     ],
+     [
+      "Most people leave a 20% [tip] at restaurants.",
+      "Большинство оставляет в ресторанах 20% чаевых.",
+      "tip — чаевые."
+     ],
+     [
+      "Texans have a strong regional [identity].",
+      "У техасцев сильная региональная идентичность.",
+      "regional identity."
+     ],
+     [
+      "\"How are you?\" is usually just a [greeting].",
+      "«Как дела?» — обычно просто приветствие.",
+      "Не ожидает подробного ответа."
+     ],
+     [
+      "Many Americans [move] several times in their lives.",
+      "Многие американцы переезжают несколько раз в жизни.",
+      "Мобильность населения."
+     ],
+     [
+      "Thanksgiving is a major family [holiday].",
+      "День благодарения — важный семейный праздник.",
+      "holiday — праздник."
+     ]
+    ]
    }
   ]
  }

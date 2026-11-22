@@ -152,6 +152,41 @@ addUnits("c1", [
      "she goes / she does go — нет инверсии после Seldom; goes she — инвертировать можно только вспомогательный глагол.",
      "I suspected / I did suspect — нет инверсии после Little; suspected I — смысловой глагол не выносится вперёд.",
      "Never have I been / At no time have I been / Seldom am I — инверсия звучит книжно и театрально в дружеской беседе."
+    ],
+    "tags": [
+     "inversion"
+    ],
+    "extra": [
+     [
+      "Seldom [do we] see such talent.",
+      "Редко мы видим такой талант.",
+      "После seldom — вспомогательный глагол перед подлежащим."
+     ],
+     [
+      "Never before [had she] felt so alone.",
+      "Никогда прежде она не чувствовала себя такой одинокой.",
+      "Never before + Past Perfect с инверсией."
+     ],
+     [
+      "Under no circumstances [should you] open this door.",
+      "Ни при каких обстоятельствах не открывайте эту дверь.",
+      "Under no circumstances требует инверсии."
+     ],
+     [
+      "Little [did he] know what was coming.",
+      "Он и не подозревал, что его ждёт.",
+      "Little did he know — «и не подозревал»."
+     ],
+     [
+      "At no time [was] the public in danger.",
+      "Общественность ни разу не подвергалась опасности.",
+      "At no time + инверсия с was."
+     ],
+     [
+      "Only later [did I] realize my mistake.",
+      "Лишь позже я осознал свою ошибку.",
+      "Only later + инверсия."
+     ]
     ]
    },
    {
@@ -311,6 +346,41 @@ addUnits("c1", [
      "I spoke / I did speak — нет инверсии в главной части после Only after; spoke I — смысловой глагол не инвертируется.",
      "he was — нет инверсии; he did — нет инверсии и неверный глагол; did he was — be не требует вспомогательного did.",
      "Ошибки нет — ошибка есть: инверсия не в той части; No sooner / would understand — не исправляют порядок слов."
+    ],
+    "tags": [
+     "inversion"
+    ],
+    "extra": [
+     [
+      "No sooner had I sat down [than] the phone rang.",
+      "Не успел я сесть, как зазвонил телефон.",
+      "No sooner ... than — не when."
+     ],
+     [
+      "Not only [is he] smart, but he's also kind.",
+      "Он не только умён, но и добр.",
+      "Not only + инверсия в первой части."
+     ],
+     [
+      "Hardly [had] the show started when the lights failed.",
+      "Едва началось шоу, как погас свет.",
+      "Hardly had + причастие ... when."
+     ],
+     [
+      "Scarcely had we arrived [when] it began to snow.",
+      "Едва мы приехали, как пошёл снег.",
+      "Scarcely ... when."
+     ],
+     [
+      "Not until midnight [did they] finish.",
+      "Они закончили только в полночь.",
+      "Not until + инверсия в главной части."
+     ],
+     [
+      "Only when I left [did I] understand.",
+      "Лишь уехав, я понял.",
+      "Only when: инверсия после придаточного."
+     ]
     ]
    },
    {
@@ -462,6 +532,42 @@ addUnits("c1", [
      "Should — для реальных условий, а не для нереального прошлого; Were — не сочетается с known; Did — не образует условную инверсию.",
      "Hadn't I seen — при инверсии отрицание не сокращается; Had not I seen — not стоит после подлежащего; Didn't I see — это вопрос.",
      "Was — в формуле только were; Had — Had it not been for относится к прошлому; Should — в этой формуле не используется."
+    ],
+    "tags": [
+     "inversion",
+     "conditionals"
+    ],
+    "extra": [
+     [
+      "[Were] I in your position, I'd accept the offer.",
+      "Будь я на твоём месте, я бы принял предложение.",
+      "Were I = If I were."
+     ],
+     [
+      "[Had] we left earlier, we'd have caught the flight.",
+      "Выйди мы раньше, успели бы на рейс.",
+      "Had we left = If we had left."
+     ],
+     [
+      "[Should] the problem persist, contact support.",
+      "Если проблема сохранится, обратитесь в поддержку.",
+      "Should = if (формально)."
+     ],
+     [
+      "Were it not [for] her help, I'd have failed.",
+      "Если бы не её помощь, я бы провалился.",
+      "Were it not for — «если бы не»."
+     ],
+     [
+      "Had it not [been] for the rain, we'd have won.",
+      "Если бы не дождь, мы бы выиграли.",
+      "Had it not been for — о прошлом."
+     ],
+     [
+      "[Should] you have any questions, feel free to ask.",
+      "Если у вас возникнут вопросы, спрашивайте.",
+      "Should you — вежливая формула."
+     ]
     ]
    },
    {
@@ -615,6 +721,41 @@ addUnits("c1", [
      "go — после It's time нужен Past Simple; will go — будущее невозможно; going — не личная форма.",
      "isn't / won't be — индикатив вместо subjunctive; doesn't be — be не образует отрицание с do.",
      "Пусть приходит, кто хочет / Может быть, придёт — буквальный, неверный перевод; Как бы то ни было — это Be that as it may."
+    ],
+    "tags": [
+     "subjunctive-formal"
+    ],
+    "extra": [
+     [
+      "The doctor recommended that she [rest] for a week.",
+      "Врач рекомендовал ей отдохнуть неделю.",
+      "recommend that + базовая форма без -s."
+     ],
+     [
+      "It's high time we [left].",
+      "Нам давно пора уходить.",
+      "It's high time + прошедшее время."
+     ],
+     [
+      "I demand that he [apologize] immediately.",
+      "Я требую, чтобы он немедленно извинился.",
+      "demand that + базовая форма."
+     ],
+     [
+      "It is essential that every student [be] on time.",
+      "Крайне важно, чтобы каждый студент приходил вовремя.",
+      "be — сослагательная форма."
+     ],
+     [
+      "They suggested that the meeting [be] postponed.",
+      "Они предложили перенести встречу.",
+      "Пассив в сослагательном: be + V3."
+     ],
+     [
+      "He is, as it [were], a walking encyclopedia.",
+      "Он, так сказать, ходячая энциклопедия.",
+      "as it were — «так сказать»."
+     ]
     ]
    }
   ]
@@ -775,6 +916,42 @@ addUnits("c1", [
      "introduce — глагол, а нужно существительное; introducing of — герундий не берёт of; introductive — прилагательное.",
      "of — reduction of возможен лишь для того, что уменьшают целиком, стандарт — in costs; on / for — не сочетаются с reduction.",
      "Остальные варианты — разговорные (looked at it, stuff, a lot), без номинализации."
+    ],
+    "tags": [
+     "nominalisation",
+     "word-formation"
+    ],
+    "extra": [
+     [
+      "The [failure] of the project cost millions.",
+      "Провал проекта обошёлся в миллионы.",
+      "fail → failure."
+     ],
+     [
+      "We need a quick [decision] on this.",
+      "Нам нужно быстрое решение по этому вопросу.",
+      "decide → decision."
+     ],
+     [
+      "Her [refusal] to cooperate surprised us.",
+      "Её отказ сотрудничать нас удивил.",
+      "refuse → refusal."
+     ],
+     [
+      "The [reduction] in costs saved the company.",
+      "Сокращение расходов спасло компанию.",
+      "reduce → reduction."
+     ],
+     [
+      "The [arrival] of the guests was delayed.",
+      "Прибытие гостей задержалось.",
+      "arrive → arrival."
+     ],
+     [
+      "There has been a steady [growth] in demand.",
+      "Наблюдается устойчивый рост спроса.",
+      "grow → growth."
+     ]
     ]
    },
    {
@@ -928,6 +1105,41 @@ addUnits("c1", [
      "Спорно, сомнительно — частая ложная ассоциация с argue; Аргументированно доказано — слишком сильно; Агрессивно — не связано по смыслу.",
      "You're wrong / That's stupid / No, it's not true — прямое и грубое несогласие.",
      "are tending — tend не употребляется в Continuous для общих склонностей; tends — подлежащее во мн. ч.; tend — нужен to перед report."
+    ],
+    "tags": [
+     "hedging"
+    ],
+    "extra": [
+     [
+      "It would [appear] that the plan has failed.",
+      "По всей видимости, план провалился.",
+      "It would appear that — осторожная формулировка."
+     ],
+     [
+      "This is [arguably] the best film of the decade.",
+      "Это, пожалуй, лучший фильм десятилетия.",
+      "arguably — «можно утверждать»."
+     ],
+     [
+      "The results [seem] to support our theory.",
+      "Результаты, по-видимому, подтверждают нашу теорию.",
+      "seem to смягчает утверждение."
+     ],
+     [
+      "Prices are [likely] to rise next year.",
+      "Цены, вероятно, вырастут в следующем году.",
+      "be likely to — вероятность."
+     ],
+     [
+      "There [may] be other explanations.",
+      "Возможно, существуют другие объяснения.",
+      "may — модальное смягчение."
+     ],
+     [
+      "To some [extent], the critics are right.",
+      "В какой-то степени критики правы.",
+      "to some extent — частичное согласие."
+     ]
     ]
    },
    {
@@ -1083,6 +1295,41 @@ addUnits("c1", [
      "it / so — не заменяют инфинитив после love; — (ничего) — I'd love без to звучит незаконченно.",
      "it — местоимение для уже названного предмета, а не для выбора; that — не употребляется после прилагательного; ones — мн. ч., а jacket одна.",
      "do — время Present Simple, а в реплике Present Perfect; am — be не вспомогательный здесь; did — прошедшее время не совпадает."
+    ],
+    "tags": [
+     "ellipsis-substitution"
+    ],
+    "extra": [
+     [
+      "I love jazz. — So [do] I.",
+      "Я люблю джаз. — Я тоже.",
+      "So do I — согласие с утверждением."
+     ],
+     [
+      "She can't swim. — Neither [can] I.",
+      "Она не умеет плавать. — Я тоже.",
+      "Neither + тот же вспомогательный."
+     ],
+     [
+      "Would you like to come? — I'd love [to].",
+      "Хочешь прийти? — С удовольствием.",
+      "to заменяет весь инфинитив."
+     ],
+     [
+      "I prefer the red shoes to the black [ones].",
+      "Мне больше нравятся красные туфли, чем чёрные.",
+      "ones заменяет существительное во мн. ч."
+     ],
+     [
+      "He promised to call, but he didn't [do] so.",
+      "Он обещал позвонить, но не сделал этого.",
+      "do so заменяет глагольную группу."
+     ],
+     [
+      "Is it going to rain? — I don't [think] so.",
+      "Будет дождь? — Не думаю.",
+      "think so — замещение придаточного."
+     ]
     ]
    },
    {
@@ -1230,6 +1477,42 @@ addUnits("c1", [
      "couldn't have taken — значит «не мог взять»; mustn't have taken — mustn't не выражает ненужность; shouldn't take — настоящее время, не о прошлом.",
      "mustn't have seen — в американском английском вывод «не может быть» выражается can't have; shouldn't have seen — упрёк; needn't have seen — «зря видел».",
      "is to be — настоящее/будущее; was being — длительный пассив без смысла плана; must have been — вывод, противоречит but it was canceled."
+    ],
+    "tags": [
+     "modals-past",
+     "modals"
+    ],
+    "extra": [
+     [
+      "You [needn't] have brought food — we had plenty.",
+      "Не нужно было приносить еду — у нас было много.",
+      "needn't have — сделал зря."
+     ],
+     [
+      "She [might] have missed the bus.",
+      "Возможно, она опоздала на автобус.",
+      "might have — предположение о прошлом."
+     ],
+     [
+      "They're [bound] to notice the mistake.",
+      "Они обязательно заметят ошибку.",
+      "be bound to — неизбежность."
+     ],
+     [
+      "He [should] have told us earlier.",
+      "Ему следовало сказать нам раньше.",
+      "should have — упрёк."
+     ],
+     [
+      "The concert [was] to have taken place in May.",
+      "Концерт должен был состояться в мае.",
+      "was to have done — несостоявшийся план."
+     ],
+     [
+      "You [could] have been killed!",
+      "Ты мог погибнуть!",
+      "could have — нереализованная возможность."
+     ]
     ]
    }
   ]

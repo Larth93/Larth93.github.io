@@ -134,6 +134,41 @@ addUnits("b1", [
      "works — регулярное действие, а не процесс до сейчас; worked yesterday — противоречит «all day» сегодня; is work — неверная форма.",
      "have been reading — указано количество (три книги), нужен результат; read since — since не сочетается с this month; am reading — процесс, а не итог.",
      "I've known him… — правильно (know в Simple); I've been working… — правильно, work — динамический глагол; He's been sleeping — правильно."
+    ],
+    "tags": [
+     "present-perfect-continuous"
+    ],
+    "extra": [
+     [
+      "I've been [learning] English for three years.",
+      "Я учу английский три года.",
+      "have been + -ing для длительности до сейчас."
+     ],
+     [
+      "It's been [raining] all morning.",
+      "Всё утро идёт дождь.",
+      "It has been + -ing."
+     ],
+     [
+      "What have you been [doing] lately?",
+      "Чем ты занимался в последнее время?",
+      "have been doing — недавняя деятельность."
+     ],
+     [
+      "She's tired because she's been [running].",
+      "Она устала, потому что бегала.",
+      "Видимый результат длительного действия."
+     ],
+     [
+      "We've been waiting [since] nine o'clock.",
+      "Мы ждём с девяти часов.",
+      "since + момент начала."
+     ],
+     [
+      "He's been working here [for] six months.",
+      "Он работает здесь шесть месяцев.",
+      "for + период."
+     ]
     ]
    },
    {
@@ -246,6 +281,41 @@ addUnits("b1", [
      "ate — не показывает, что это случилось раньше; has eaten — Present Perfect не сочетается с прошлым контекстом; eats — настоящее время.",
      "have + V3 — Present Perfect; was + V-ing — Past Continuous; had + V-ing — не формула Past Perfect (это была бы неполная Past Perfect Continuous без been).",
      "have gone — Present Perfect при прошлом called; go — настоящее; was go — неграмматично."
+    ],
+    "tags": [
+     "past-perfect"
+    ],
+    "extra": [
+     [
+      "She [had] never seen snow before that trip.",
+      "До той поездки она никогда не видела снега.",
+      "had + V3 — до момента в прошлом."
+     ],
+     [
+      "I realized I had [forgotten] my keys.",
+      "Я понял, что забыл ключи.",
+      "Past Perfect — более раннее действие."
+     ],
+     [
+      "The meeting had [ended] when I logged in.",
+      "Когда я подключился, встреча уже закончилась.",
+      "had ended — раньше другого действия."
+     ],
+     [
+      "They had already [eaten] when we arrived.",
+      "Когда мы пришли, они уже поели.",
+      "eat — eaten."
+     ],
+     [
+      "Had you ever [been] to Paris before?",
+      "Ты когда-нибудь бывал в Париже до этого?",
+      "Had + подлежащее + V3."
+     ],
+     [
+      "He [hadn't] finished the report by Friday.",
+      "К пятнице он не закончил отчёт.",
+      "hadn't + V3 — отрицание."
+     ]
     ]
    },
    {
@@ -369,6 +439,43 @@ addUnits("b1", [
      "was losing — потеря не процесс; loses — настоящее; has lost — Present Perfect в прошлом рассказе.",
      "at the end — «в конце (чего-то)», нужно of; on the end, to the end — не значат «в итоге».",
      "возможно — это possibly/maybe; иногда — sometimes; немедленно — immediately."
+    ],
+    "tags": [
+     "past-simple",
+     "past-continuous",
+     "past-perfect"
+    ],
+    "extra": [
+     [
+      "While we [were] driving, the tire went flat.",
+      "Пока мы ехали, спустило колесо.",
+      "while + Past Continuous — фон."
+     ],
+     [
+      "She was cooking when the phone [rang].",
+      "Она готовила, когда зазвонил телефон.",
+      "ring — rang, прерывающее действие."
+     ],
+     [
+      "I opened the door and [saw] a stranger.",
+      "Я открыл дверь и увидел незнакомца.",
+      "Последовательные действия — Past Simple."
+     ],
+     [
+      "Everyone [had] left by the time I arrived.",
+      "К моему приходу все уже ушли.",
+      "by the time — Past Perfect."
+     ],
+     [
+      "The sun was [shining] and birds were singing.",
+      "Светило солнце, пели птицы.",
+      "Past Continuous — описание сцены."
+     ],
+     [
+      "Suddenly, the lights [went] out.",
+      "Вдруг погас свет.",
+      "go out — went out."
+     ]
     ]
    },
    {
@@ -476,6 +583,42 @@ addUnits("b1", [
      "'ll have had — завершённость к сроку, а нужен процесс в момент; have — настоящее; 'm have — неграмматично.",
      "will be live — неверная форма; live — настоящее, нет «к 2030»; will living — нет be.",
      "until — «до» (действие длится до момента), не срок; since — «с» (начало периода); for — длительность."
+    ],
+    "tags": [
+     "future",
+     "future-perfect"
+    ],
+    "extra": [
+     [
+      "I'll be [working] late tonight.",
+      "Я буду работать допоздна сегодня.",
+      "will be + -ing — процесс в будущем."
+     ],
+     [
+      "By Friday, we'll have [moved] into the new house.",
+      "К пятнице мы уже переедем в новый дом.",
+      "will have + V3 — к моменту."
+     ],
+     [
+      "Don't call at eight; I'll be [having] dinner.",
+      "Не звони в восемь, я буду ужинать.",
+      "Процесс в конкретный момент."
+     ],
+     [
+      "She'll have [finished] the project by then.",
+      "К тому времени она закончит проект.",
+      "will have finished."
+     ],
+     [
+      "Will you be [going] to the store later?",
+      "Ты будешь заходить в магазин позже?",
+      "Вежливый вопрос о планах."
+     ],
+     [
+      "By 2030, I [will] have paid off my loan.",
+      "К 2030 году я выплачу кредит.",
+      "will have + V3."
+     ]
     ]
    }
   ]
@@ -595,6 +738,41 @@ addUnits("b1", [
      "will boil — First conditional для конкретной ситуации, а здесь закон природы; would boil — нереальное условие; boiled — прошедшее.",
      "If + Past, would — Second; If + Present, will — First; If + Past Perfect, would have — Third.",
      "will install — will не ставится после if; installed — прошедшее; would install — нереальное условие."
+    ],
+    "tags": [
+     "conditionals"
+    ],
+    "extra": [
+     [
+      "If you mix red and blue, you [get] purple.",
+      "Если смешать красный и синий, получится фиолетовый.",
+      "Zero conditional: Present + Present."
+     ],
+     [
+      "Water [boils] if you heat it to 100 degrees.",
+      "Вода кипит, если нагреть её до 100 градусов.",
+      "Общая истина."
+     ],
+     [
+      "If I don't sleep enough, I [get] headaches.",
+      "Если я не высыпаюсь, у меня болит голова.",
+      "Регулярный результат."
+     ],
+     [
+      "Plants die if they [don't] get water.",
+      "Растения погибают, если не получают воду.",
+      "don't в придаточном."
+     ],
+     [
+      "If you press this button, the machine [stops].",
+      "Если нажать эту кнопку, машина останавливается.",
+      "he/she/it + -s."
+     ],
+     [
+      "[When] it rains, the streets flood.",
+      "Когда идёт дождь, улицы затапливает.",
+      "When вместо if — всегда."
+     ]
     ]
    },
    {
@@ -715,6 +893,41 @@ addUnits("b1", [
      "will — First conditional, а условие нереальное (had); did, has — не дают значения «бы».",
      "If I am you, I will — реальное условие, нелогично; If I would be you — would после if; If I was you I will — смешение, will вместо would.",
      "If I win, I'll quit — реальная возможность, а не мечта; If I win, I quit — zero conditional; If I'd win — would после if."
+    ],
+    "tags": [
+     "conditionals"
+    ],
+    "extra": [
+     [
+      "If I [lived] near the sea, I'd swim every day.",
+      "Если бы я жил у моря, я бы плавал каждый день.",
+      "If + Past Simple — нереальное настоящее."
+     ],
+     [
+      "She would buy a car if she [had] a license.",
+      "Она купила бы машину, если бы у неё были права.",
+      "had в придаточном."
+     ],
+     [
+      "If it [weren't] so expensive, I'd buy it.",
+      "Если бы это не было так дорого, я бы купил.",
+      "weren't для всех лиц."
+     ],
+     [
+      "What [would] you do if you lost your job?",
+      "Что бы ты сделал, если бы потерял работу?",
+      "would в главной части."
+     ],
+     [
+      "I wouldn't worry if I [were] you.",
+      "На твоём месте я бы не волновался.",
+      "If I were you — совет."
+     ],
+     [
+      "If he spoke English, he [could] get that job.",
+      "Если бы он говорил по-английски, он мог бы получить эту работу.",
+      "could — возможность."
+     ]
     ]
    },
    {
@@ -824,6 +1037,41 @@ addUnits("b1", [
      "left — Past Simple для Second conditional; would leave — would не ставится после if; has left — Present Perfect.",
      "would say — Second conditional (о настоящем); had said — Past Perfect в главной части; will say — реальное будущее.",
      "would known, could known — после модального нужна базовая форма; did know — Past Simple, не Past Perfect."
+    ],
+    "tags": [
+     "conditionals"
+    ],
+    "extra": [
+     [
+      "If I had [left] earlier, I wouldn't have missed the bus.",
+      "Если бы я вышел раньше, я бы не опоздал на автобус.",
+      "had + V3 в придаточном."
+     ],
+     [
+      "We would have [won] if we had played better.",
+      "Мы бы выиграли, если бы играли лучше.",
+      "would have + V3."
+     ],
+     [
+      "If you had told me, I [would] have helped.",
+      "Если бы ты сказал, я бы помог.",
+      "would have в главной части."
+     ],
+     [
+      "She wouldn't have failed if she [had] studied.",
+      "Она бы не провалилась, если бы училась.",
+      "had studied."
+     ],
+     [
+      "If it hadn't [rained], we'd have gone hiking.",
+      "Если бы не дождь, мы бы пошли в поход.",
+      "hadn't + V3."
+     ],
+     [
+      "What would you have done if you'd [been] me?",
+      "Что бы ты сделал на моём месте?",
+      "be — been."
+     ]
     ]
    },
    {
@@ -939,6 +1187,41 @@ addUnits("b1", [
      "I wish I know — после wish нужно прошедшее; I wish I don't know — и время, и смысл неверны; I hope I knew — hope не для нереального.",
      "didn't send — о прошлом нужен Past Perfect; don't send — настоящее; wouldn't send — wish + would о своих действиях не используют.",
      "I wish you feel — wish не сочетается с Present; I wish you felt better soon — wish не для пожеланий на будущее; I wish you will — wish не сочетается с will."
+    ],
+    "tags": [
+     "wish"
+    ],
+    "extra": [
+     [
+      "I wish I [could] speak French.",
+      "Жаль, что я не говорю по-французски.",
+      "wish + could — желаемая способность."
+     ],
+     [
+      "I wish I [hadn't] said that.",
+      "Жаль, что я это сказал.",
+      "wish + Past Perfect — сожаление о прошлом."
+     ],
+     [
+      "If only I [knew] her number!",
+      "Если бы я только знал её номер!",
+      "If only + Past Simple."
+     ],
+     [
+      "I wish it [would] stop raining.",
+      "Хоть бы дождь перестал.",
+      "wish + would — раздражение."
+     ],
+     [
+      "She wishes she [lived] closer to work.",
+      "Ей жаль, что она живёт не ближе к работе.",
+      "wish + Past Simple."
+     ],
+     [
+      "If only I had [listened] to your advice.",
+      "Если бы я только послушал твой совет.",
+      "If only + had + V3."
+     ]
     ]
    }
   ]

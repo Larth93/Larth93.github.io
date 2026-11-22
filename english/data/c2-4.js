@@ -128,7 +128,47 @@ addUnits("c2", [
     "text": {
      "en": "In 1918, a Cornell professor named William Strunk Jr. privately printed a slim guide for his students. Decades later, his former student E. B. White revised and expanded it, and The Elements of Style became one of the most influential writing manuals in American history. Its most famous command consists of three words: «Omit needless words.» Strunk explained that a sentence should contain no unnecessary words for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This principle sounds obvious, yet most first drafts violate it constantly. Consider a typical business email: «I am writing to inform you that, due to the fact that our team is currently in the process of conducting a review of the budget, we are not in a position to make a final decision at this point in time.» Strip away the padding and you get: «Because we are reviewing the budget, we cannot decide yet.» The second version is a third of the length and twice as clear. Wordiness has several sources. Writers pad sentences to sound formal, to soften bad news or to reach a word count. Non-native writers often import structures from their first language; Russian bureaucratic prose, with its fondness for verbal nouns, translates into heavy English. Concision, however, is not the same as brevity at all costs. Strunk did not ask writers to avoid detail or make every sentence short, but to make every word tell. A long sentence can be perfectly concise if each element earns its place. The discipline lies in asking, word by word, whether the reader would miss it.",
      "ru": "В 1918 году профессор Корнелла Уильям Странк-младший частным образом напечатал тонкое руководство для своих студентов. Десятилетия спустя его бывший студент Э. Б. Уайт переработал и расширил его, и «Элементы стиля» стали одним из самых влиятельных пособий по письму в истории Америки. Его самая знаменитая заповедь состоит из трёх слов: «Убирайте лишние слова». Странк объяснял, что в предложении не должно быть лишних слов по той же причине, по которой в рисунке не должно быть лишних линий, а в машине — лишних деталей. Принцип звучит очевидно, но большинство черновиков постоянно его нарушают. Возьмём типичное деловое письмо: «Пишу, чтобы сообщить вам, что в связи с тем, что наша команда в настоящее время находится в процессе проведения пересмотра бюджета, мы не в состоянии принять окончательное решение на данный момент времени». Уберите воду, и получится: «Поскольку мы пересматриваем бюджет, мы пока не можем решить». Вторая версия втрое короче и вдвое яснее. У многословия несколько источников. Авторы раздувают предложения, чтобы звучать официально, смягчить плохие новости или набрать нужный объём. Неносители часто переносят структуры из родного языка; русская канцелярская проза с её любовью к отглагольным существительным превращается в тяжёлый английский. Однако краткость — не то же самое, что сжатость любой ценой. Странк не просил избегать деталей или делать каждое предложение коротким, а требовал, чтобы каждое слово работало. Длинное предложение может быть совершенно ёмким, если каждый элемент заслуживает своего места. Дисциплина в том, чтобы слово за словом спрашивать: заметит ли читатель его отсутствие?"
-    }
+    },
+    "tags": [
+     "writing"
+    ],
+    "extra": [
+     [
+      "We met [to] discuss the budget.",
+      "Мы встретились обсудить бюджет.",
+      "To вместо in order to."
+     ],
+     [
+      "[Now], we need more staff.",
+      "Сейчас нам нужно больше людей.",
+      "Now вместо at this point in time."
+     ],
+     [
+      "She [explained] the process.",
+      "Она объяснила процесс.",
+      "Вместо gave an explanation of."
+     ],
+     [
+      "[If] it rains, we'll stay in.",
+      "Если пойдёт дождь, останемся дома.",
+      "If вместо in the event that."
+     ],
+     [
+      "They [agreed] on a plan.",
+      "Они договорились о плане.",
+      "Вместо reached an agreement."
+     ],
+     [
+      "The report is [about] climate.",
+      "Отчёт о климате.",
+      "About вместо with regard to."
+     ],
+     [
+      "Please [reply] soon.",
+      "Пожалуйста, ответьте скоро.",
+      "Вместо respond at your earliest convenience."
+     ]
+    ]
    },
    {
     "id": "c2u23l2",
@@ -248,7 +288,48 @@ addUnits("c2", [
     "text": {
      "en": "The writing teacher Gary Provost once demonstrated rhythm with a paragraph that has become famous among editors. He began: «This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous.» Then he showed the alternative, letting short sentences alternate with medium ones and, occasionally, with a long, rolling sentence that builds energy and carries the reader forward until it arrives, with a satisfying sense of release, at its point. The lesson is that prose has music. Readers may not consciously notice sentence length, but they feel it. A string of identical structures lulls them; a sudden short sentence after a long one wakes them up. Great speeches exploit this deliberately. Lincoln's Gettysburg Address ends with a tricolon, «of the people, by the people, for the people», whose three parallel phrases give the conclusion weight and finality. Churchill used anaphora, repeating «we shall fight» to create a drumbeat of resolve. In everyday writing, the same tools can lift a cover letter or an essay above the competent average. Parallel structure makes lists elegant and easy to follow. Periodic sentences, which delay the main clause until the end, create suspense. Fragments, used sparingly, add emphasis. Like this. Russian speakers sometimes write long, intricately subordinated sentences that are grammatically impeccable but exhausting in English. The remedy is not to chop everything into short pieces, which produces a choppy, childish effect, but to vary. Read your paragraph aloud. Where you run out of breath, split. Where you sound like a telegram, combine.",
      "ru": "Преподаватель письма Гэри Провост однажды продемонстрировал ритм абзацем, ставшим знаменитым среди редакторов. Он начал: «В этом предложении пять слов. Вот ещё пять слов. Предложения из пяти слов допустимы. Но несколько подряд становятся монотонными». Затем показал альтернативу, чередуя короткие предложения со средними и изредка с длинным, раскатистым, которое набирает энергию и несёт читателя вперёд, пока не приходит, с приятным чувством разрядки, к своей сути. Урок в том, что у прозы есть музыка. Читатель может не замечать длину предложений сознательно, но чувствует её. Цепочка одинаковых структур убаюкивает; внезапное короткое предложение после длинного будит. Великие речи используют это намеренно. Геттисбергская речь Линкольна заканчивается триадой «of the people, by the people, for the people», три параллельные фразы которой придают выводу вес и окончательность. Черчилль использовал анафору, повторяя «we shall fight», чтобы создать барабанную дробь решимости. В повседневном письме те же инструменты способны поднять сопроводительное письмо или эссе над добротным средним уровнем. Параллельная структура делает перечисления изящными и понятными. Периодические предложения, откладывающие главную часть до конца, создают напряжение. Фрагменты, используемые скупо, добавляют акцент. Вот так. Русскоязычные иногда пишут длинные, сложно подчинённые предложения, грамматически безупречные, но изматывающие по-английски. Лекарство — не рубить всё на кусочки, что создаёт отрывистый, детский эффект, а варьировать. Прочитайте абзац вслух. Где кончается дыхание — разделите. Где звучите как телеграмма — объедините."
-    }
+    },
+    "tags": [
+     "writing",
+     "style-rhetoric"
+    ],
+    "extra": [
+     [
+      "She waited. And waited. [Nothing].",
+      "Она ждала. И ждала. Ничего.",
+      "Короткие фразы создают напряжение."
+     ],
+     [
+      "A long sentence can build [momentum].",
+      "Длинное предложение набирает ход.",
+      "Momentum — ритм."
+     ],
+     [
+      "Start with a short, [punchy] line.",
+      "Начните с короткой хлёсткой фразы.",
+      "Punchy — ударный."
+     ],
+     [
+      "Monotonous rhythm makes text [dull].",
+      "Монотонный ритм делает текст скучным.",
+      "Dull — скучный."
+     ],
+     [
+      "Use a fragment for [emphasis].",
+      "Используйте фрагмент для акцента.",
+      "Фрагменты выделяют мысль."
+     ],
+     [
+      "Read your draft [aloud] to hear the rhythm.",
+      "Читайте черновик вслух, чтобы услышать ритм.",
+      "Aloud — вслух."
+     ],
+     [
+      "Mix simple and complex [sentences].",
+      "Чередуйте простые и сложные предложения.",
+      "Вариативность."
+     ]
+    ]
    },
    {
     "id": "c2u23l3",
@@ -373,7 +454,48 @@ addUnits("c2", [
     "text": {
      "en": "In his essay «Politics and the English Language», George Orwell offered six rules for clear writing. The first was to never use a metaphor, simile or other figure of speech that you are used to seeing in print. Orwell understood that clichés are not merely tiresome; they actively prevent thought. When a writer reaches for «at the end of the day» or «a perfect storm», the phrase arrives ready-made, and with it a ready-made idea. The writer no longer has to decide what exactly happened, because the cliché has already filled the space with something vaguely appropriate. Consider an essay that begins: «In today's fast-paced world, technology is a double-edged sword that has changed the way we live.» Every phrase in that sentence has been used millions of times. It could introduce an essay on smartphones, nuclear energy or electric scooters. An examiner reading it learns nothing except that the candidate memorized a template. Compare a more original opening: «The average American now checks a phone ninety-six times a day, roughly once every ten minutes of waking life.» The second sentence is specific, surprising and immediately relevant. Business English suffers from its own epidemic of clichés, often called corporate jargon. Teams leverage synergies, circle back, move the needle and pick low-hanging fruit. Such phrases create an illusion of dynamism while concealing the absence of concrete plans. The cure is not to hunt down every familiar phrase, since language depends on shared expressions, but to pause whenever an idiom comes too easily and ask what you actually mean. Then say that instead.",
      "ru": "В эссе «Политика и английский язык» Джордж Оруэлл предложил шесть правил ясного письма. Первое — никогда не использовать метафору, сравнение или иную фигуру речи, которую вы привыкли видеть в печати. Оруэлл понимал, что клише не просто утомительны: они активно мешают думать. Когда автор тянется к «в конечном счёте» или «идеальному шторму», фраза приходит готовой, а вместе с ней и готовая мысль. Автору больше не нужно решать, что именно произошло, потому что клише уже заполнило пространство чем-то смутно подходящим. Возьмём эссе, начинающееся так: «В современном стремительном мире технологии — палка о двух концах, изменившая наш образ жизни». Каждая фраза этого предложения использовалась миллионы раз. Им можно открыть эссе о смартфонах, ядерной энергии или электросамокатах. Экзаменатор, прочитав его, не узнает ничего, кроме того, что кандидат выучил шаблон. Сравните более оригинальное начало: «Средний американец теперь проверяет телефон девяносто шесть раз в день — примерно раз в десять минут бодрствования». Второе предложение конкретно, неожиданно и сразу по теме. Деловой английский страдает от собственной эпидемии клише, часто называемой корпоративным жаргоном. Команды «задействуют синергию», «возвращаются к вопросу», «сдвигают стрелку» и «собирают низко висящие плоды». Такие фразы создают иллюзию динамизма, скрывая отсутствие конкретных планов. Лекарство — не выискивать каждое знакомое выражение, ведь язык держится на общих оборотах, а останавливаться всякий раз, когда идиома приходит слишком легко, и спрашивать себя, что вы на самом деле имеете в виду. А затем сказать именно это."
-    }
+    },
+    "tags": [
+     "writing",
+     "collocations"
+    ],
+    "extra": [
+     [
+      "\"Think outside the [box]\" is overused.",
+      "«Мыслить нестандартно» — заезженно.",
+      "Клише."
+     ],
+     [
+      "Try a fresher [phrase] instead.",
+      "Попробуйте свежую фразу.",
+      "Замена клише."
+     ],
+     [
+      "\"At the end of the [day]\" adds nothing.",
+      "«В конце концов» ничего не добавляет.",
+      "Пустое клише."
+     ],
+     [
+      "His jokes felt [stale].",
+      "Его шутки казались несвежими.",
+      "Stale — избитый."
+     ],
+     [
+      "That metaphor is a tired [cliché].",
+      "Эта метафора — избитое клише.",
+      "Cliché."
+     ],
+     [
+      "Avoid [trite] expressions in essays.",
+      "Избегайте банальных выражений в эссе.",
+      "Trite — банальный."
+     ],
+     [
+      "\"Move the [needle]\" is pure jargon.",
+      "«Сдвинуть стрелку» — чистый жаргон.",
+      "Корпоративное клише."
+     ]
+    ]
    },
    {
     "id": "c2u23l4",
@@ -499,7 +621,47 @@ addUnits("c2", [
     "text": {
      "en": "Most good writing is rewriting. The first draft gets ideas onto the page; the second and third drafts make them graceful. Experienced editors work through a predictable checklist, and learning it can transform competent C1 prose into something that reads as genuinely native. Begin with the verbs. Weak verbs such as be, have, make and get often travel with abstract nouns that conceal the real action. «There was a significant reduction in costs» becomes «Costs fell significantly», shorter and more vivid. Next, examine the passive voice. It has legitimate uses, particularly when the agent is unknown or irrelevant, but writers frequently hide behind it. The infamous political phrase «mistakes were made» admits error while carefully avoiding the question of who made the mistakes. Then look at word order. English readers expect important or new information at the end of a sentence, a principle linguists call end focus. «The committee rejected the proposal after a long debate» puts the emphasis on the debate; «After a long debate, the committee rejected the proposal» lands the stress where it belongs. Closely related is the given-new principle: each sentence should begin with something the reader already knows and end with something fresh, so that ideas link like a chain. Finally, replace abstractions with concrete images. «Inclement weather conditions» is bureaucratic fog; «a blizzard» is a picture. None of these rules is absolute, and an editor who applies them mechanically will produce prose as lifeless as the original. The aim is judgment. Read the draft aloud, listen for clunky passages, and ask whether every sentence is as clear and direct as it can be.",
      "ru": "Хорошее письмо — это в основном переписывание. Первый черновик переносит идеи на страницу, второй и третий придают им изящество. Опытные редакторы проходят предсказуемый чек-лист, и его освоение может превратить добротную прозу уровня C1 в текст, который читается как написанный носителем. Начните с глаголов. Слабые глаголы вроде be, have, make и get часто ходят в паре с абстрактными существительными, скрывающими реальное действие. «Произошло значительное сокращение расходов» превращается в «Расходы значительно снизились» — короче и живее. Затем изучите пассив. У него есть законное применение, особенно когда деятель неизвестен или неважен, но авторы часто за ним прячутся. Печально известная политическая фраза «были допущены ошибки» признаёт ошибку, тщательно обходя вопрос, кто её допустил. Затем посмотрите на порядок слов. Англоязычные читатели ждут важную или новую информацию в конце предложения — лингвисты называют это конечным фокусом. «Комитет отклонил предложение после долгих дебатов» ставит акцент на дебаты; «После долгих дебатов комитет отклонил предложение» переносит ударение туда, где ему место. С этим тесно связан принцип «известное → новое»: каждое предложение должно начинаться с того, что читатель уже знает, и заканчиваться чем-то свежим, чтобы мысли сцеплялись, как звенья цепи. Наконец, замените абстракции конкретными образами. «Неблагоприятные погодные условия» — канцелярский туман; «метель» — картинка. Ни одно из этих правил не абсолютно, и редактор, применяющий их механически, получит прозу столь же безжизненную, как оригинал. Цель — суждение. Прочитайте черновик вслух, прислушайтесь к корявым местам и спросите себя, настолько ли каждое предложение ясно и прямо, насколько возможно."
-    }
+    },
+    "tags": [
+     "writing"
+    ],
+    "extra": [
+     [
+      "The chef [ruined] the sauce.",
+      "Шеф испортил соус.",
+      "Активный залог."
+     ],
+     [
+      "Replace \"make a decision\" with \"[decide]\".",
+      "Замените «make a decision» на «decide».",
+      "Сильный глагол."
+     ],
+     [
+      "Put new information at the [end].",
+      "Новую информацию ставьте в конец.",
+      "End focus."
+     ],
+     [
+      "She [sprinted] to the bus.",
+      "Она рванула к автобусу.",
+      "Точный глагол вместо ran quickly."
+     ],
+     [
+      "Cut every [unnecessary] word.",
+      "Вырежьте каждое лишнее слово.",
+      "Сжатость."
+     ],
+     [
+      "The revision reads more [smoothly].",
+      "Правка читается глаже.",
+      "Smoothly — гладко."
+     ],
+     [
+      "Avoid [nominalizations] like \"the utilization of\".",
+      "Избегайте номинализаций вроде «the utilization of».",
+      "Лучше глагол use."
+     ]
+    ]
    }
   ]
  },
@@ -630,7 +792,48 @@ addUnits("c2", [
     "text": {
      "en": "Of all the tasks in the Cambridge C2 Proficiency exam, key word transformations have the most fearsome reputation. Each item presents a sentence, a single key word in capital letters and a second sentence with a gap. Candidates must complete the gap with between three and eight words, including the key word, so that the second sentence means exactly the same as the first. The key word cannot be altered in any way: if it is BLAME, you may not write blamed. What makes the task so demanding is that it tests several things at once. A typical item might combine an idiom, a grammatical structure and a change of word class. Take the sentence «I didn't expect the hotel to be so luxurious», with the key word EXPECTATIONS. The answer, «The hotel exceeded my expectations», requires not only the noun but also the collocation exceed expectations. Other items target inversion: «As soon as we arrived, the storm began» with SOONER becomes «No sooner had we arrived than the storm began». Still others test modal perfects, fixed phrases such as on the point of, or reporting structures such as at his insistence. Successful candidates develop a habit of diagnosis. Before writing, they ask what the examiner is checking. Is the key word part of an idiom? Does it force a passive? Does it demand inversion? They also check tense and meaning carefully, because a transformation that is grammatical but subtly shifts the sense earns no marks. Because answers are usually scored in two halves, partial credit is possible, so it is always worth attempting an item rather than leaving it blank.",
      "ru": "Из всех заданий экзамена Cambridge C2 Proficiency трансформации по ключевому слову пользуются самой грозной репутацией. Каждое задание содержит предложение, одно ключевое слово заглавными буквами и второе предложение с пропуском. Кандидаты должны заполнить пропуск тремя–восемью словами, включая ключевое, так чтобы второе предложение означало ровно то же, что первое. Ключевое слово нельзя изменять: если это BLAME, писать blamed нельзя. Задание столь требовательно потому, что проверяет несколько вещей сразу. Типичный пункт может сочетать идиому, грамматическую структуру и смену части речи. Возьмём предложение «Я не ожидал, что отель будет таким роскошным» с ключевым словом EXPECTATIONS. Ответ «The hotel exceeded my expectations» требует не только существительного, но и коллокации exceed expectations. Другие пункты нацелены на инверсию: «Как только мы приехали, началась буря» с SOONER превращается в «No sooner had we arrived than the storm began». Третьи проверяют модальные перфекты, устойчивые фразы вроде on the point of или конструкции передачи речи вроде at his insistence. Успешные кандидаты вырабатывают привычку к диагностике. Прежде чем писать, они спрашивают себя, что проверяет экзаменатор. Входит ли ключевое слово в идиому? Требует ли оно пассива? Инверсии? Они также внимательно сверяют время и смысл, потому что трансформация грамматически верная, но тонко смещающая смысл, не приносит баллов. Поскольку ответы обычно оцениваются по двум половинам, возможен частичный балл, поэтому всегда стоит попробовать ответить, а не оставлять пропуск пустым."
-    }
+    },
+    "tags": [
+     "inversion",
+     "writing"
+    ],
+    "extra": [
+     [
+      "[Hardly] had I arrived when it began to rain.",
+      "Едва я пришёл, как начался дождь.",
+      "Hardly had... when."
+     ],
+     [
+      "I'd [rather] you didn't smoke here.",
+      "Я бы предпочёл, чтобы ты здесь не курил.",
+      "Would rather + past."
+     ],
+     [
+      "It's high [time] we left.",
+      "Давно пора уходить.",
+      "It's high time + past."
+     ],
+     [
+      "She [denied] taking the money.",
+      "Она отрицала, что взяла деньги.",
+      "Deny + -ing."
+     ],
+     [
+      "[Under] no circumstances should you open it.",
+      "Ни при каких обстоятельствах не открывай это.",
+      "Инверсия после under no circumstances."
+     ],
+     [
+      "He is said [to] be a genius.",
+      "Говорят, он гений.",
+      "Be said to."
+     ],
+     [
+      "She [took] no notice of the warning.",
+      "Она не обратила внимания на предупреждение.",
+      "Take no notice of."
+     ]
+    ]
    },
    {
     "id": "c2u24l2",
@@ -756,7 +959,48 @@ addUnits("c2", [
     "text": {
      "en": "The open cloze in the Proficiency exam looks deceptively simple. Candidates read a short text with eight gaps and must fill each with a single word, choosing from no list at all. Many advanced learners expect to be tested on impressive vocabulary, so they are surprised to discover that the missing words are usually small: prepositions, pronouns, auxiliaries, conjunctions and the particles of phrasal verbs. These little words, however, are exactly where non-native speakers reveal themselves. A candidate who writes «in spite the fact» instead of «in spite of the fact» or «despite of» has a gap in grammatical knowledge that no amount of rare vocabulary can hide. The task rewards sensitivity to collocation and structure. When a gap is followed by «the sake of», the answer is almost certainly for; when it precedes «it not for», the answer is were, forming a formal conditional. Expressions such as by no means, to say nothing of and albeit appear regularly, as do comparative frames like the more… the more. Inversion is another favorite: «___ I known the truth, I would have acted differently» requires had. The best preparation is extensive reading of quality journalism and literature, combined with active noticing. Rather than skimming past function words, pause and ask why a writer chose whereby rather than where, or lest rather than in case. During the exam, read the entire passage first for meaning, then look carefully at the words on both sides of each gap. Finally, reread the completed text to make sure every sentence is grammatical, because a single misplaced article can turn a correct idea into a lost mark.",
      "ru": "Открытый клоуз на экзамене Proficiency выглядит обманчиво простым. Кандидаты читают короткий текст с восемью пропусками и должны заполнить каждый одним словом, не выбирая из списка. Многие продвинутые ученики ожидают проверки впечатляющей лексики, поэтому удивляются, обнаружив, что пропущенные слова обычно маленькие: предлоги, местоимения, вспомогательные глаголы, союзы и частицы фразовых глаголов. Но именно в этих словечках неносители себя и выдают. Кандидат, который пишет «in spite the fact» вместо «in spite of the fact» или «despite of», имеет пробел в грамматике, который не скроет никакое количество редкой лексики. Задание вознаграждает чувствительность к сочетаемости и структуре. Если за пропуском следует «the sake of», ответ почти наверняка for; если он стоит перед «it not for», ответ — were, образующий формальное условное. Выражения вроде by no means, to say nothing of и albeit встречаются регулярно, как и сравнительные рамки вроде the more… the more. Инверсия — ещё один любимец: «___ I known the truth, I would have acted differently» требует had. Лучшая подготовка — обширное чтение качественной журналистики и литературы в сочетании с активным замечанием. Вместо того чтобы проскакивать служебные слова, остановитесь и спросите, почему автор выбрал whereby, а не where, или lest, а не in case. На экзамене сначала прочитайте весь текст ради смысла, затем внимательно посмотрите на слова по обе стороны каждого пропуска. Наконец, перечитайте заполненный текст, чтобы убедиться, что каждое предложение грамматично, ведь один неуместный артикль может превратить правильную мысль в потерянный балл."
-    }
+    },
+    "tags": [
+     "conjunctions",
+     "quantifiers"
+    ],
+    "extra": [
+     [
+      "[Much] as I like him, I can't agree.",
+      "Как бы он мне ни нравился, я не могу согласиться.",
+      "Much as — уступка."
+     ],
+     [
+      "[Should] you need help, call me.",
+      "Если понадобится помощь, позвони.",
+      "Инверсия should."
+     ],
+     [
+      "He left [lest] he be seen.",
+      "Он ушёл, чтобы его не увидели.",
+      "Lest — чтобы не."
+     ],
+     [
+      "[Little] did she know the truth.",
+      "Она и не подозревала правды.",
+      "Инверсия с little."
+     ],
+     [
+      "It's not [so] much hard as long.",
+      "Это не столько трудно, сколько долго.",
+      "Not so much... as."
+     ],
+     [
+      "[Whatever] happens, stay calm.",
+      "Что бы ни случилось, сохраняй спокойствие.",
+      "Whatever."
+     ],
+     [
+      "He works hard, [as] does his sister.",
+      "Он много работает, как и его сестра.",
+      "As does."
+     ]
+    ]
    },
    {
     "id": "c2u24l3",
@@ -879,7 +1123,47 @@ addUnits("c2", [
     "text": {
      "en": "Word formation is the part of the Proficiency exam where vocabulary breadth meets grammatical precision. Each gap in the text comes with a root word in capitals, and candidates must transform it to fit the sentence. At lower levels the change is usually simple, such as turning HAPPY into happiness. At C2, however, a single answer often requires two or three operations. Given DISPUTE in a sentence about evidence, the candidate may need indisputable, which involves a negative prefix and an adjectival suffix. Given COMPREHEND, the answer might be incomprehensibly, adding a prefix, a suffix and an adverb ending. The first step is always grammatical analysis. What part of speech does the gap require? Is the noun singular or plural? Does the context call for a positive or a negative meaning? A sentence describing a policy that «can never be undone» signals irreversible rather than reversible, and the writer must then remember that before r, the prefix in- becomes ir-. The second step is spelling, which is where many strong candidates lose points. Several common words change their roots unpredictably: pronounce becomes pronunciation, maintain becomes maintenance and explain becomes explanatory. American spelling conventions also matter, so judgment, organization and behavior should appear without British variants if you are preparing in an American context, although Cambridge accepts consistent use of either. The most effective preparation is to study word families rather than isolated words. When you learn a new verb, look up its noun, adjective and adverb forms, note any negative prefixes and record any spelling changes. Over time, these families become intuitive.",
      "ru": "Словообразование — часть экзамена Proficiency, где широта словаря встречается с грамматической точностью. К каждому пропуску дано слово-корень заглавными, и кандидат должен преобразовать его под предложение. На более низких уровнях изменение обычно простое, например HAPPY в happiness. На C2 же один ответ часто требует двух-трёх операций. Получив DISPUTE в предложении о доказательствах, кандидату может понадобиться indisputable — с отрицательной приставкой и суффиксом прилагательного. Получив COMPREHEND, ответом может быть incomprehensibly — приставка, суффикс и окончание наречия. Первый шаг — всегда грамматический анализ. Какая часть речи нужна? Существительное в единственном или множественном числе? Требует ли контекст положительного или отрицательного значения? Предложение о политике, которую «никогда нельзя отменить», указывает на irreversible, а не reversible, и нужно помнить, что перед r приставка in- превращается в ir-. Второй шаг — орфография, на которой многие сильные кандидаты теряют баллы. Ряд распространённых слов непредсказуемо меняет корень: pronounce становится pronunciation, maintain — maintenance, explain — explanatory. Важны и американские нормы написания, поэтому judgment, organization и behavior должны появляться без британских вариантов, если вы готовитесь в американском контексте, хотя Cambridge принимает последовательное использование любого варианта. Самая эффективная подготовка — изучать словообразовательные гнёзда, а не отдельные слова. Выучив новый глагол, найдите его существительное, прилагательное и наречие, отметьте отрицательные приставки и запишите изменения в написании. Со временем эти гнёзда станут интуитивными."
-    }
+    },
+    "tags": [
+     "word-formation"
+    ],
+    "extra": [
+     [
+      "The plan was [unworkable].",
+      "План был неосуществим.",
+      "Un- + work + -able."
+     ],
+     [
+      "She spoke with great [conviction].",
+      "Она говорила с большой убеждённостью.",
+      "Convince → conviction."
+     ],
+     [
+      "Their [renegotiation] took months.",
+      "Перезаключение договора заняло месяцы.",
+      "Re- + negotiate + -ion."
+     ],
+     [
+      "The town has been [revitalized].",
+      "Город был возрождён.",
+      "Re- + vital + -ize."
+     ],
+     [
+      "His [unwillingness] to help annoyed us.",
+      "Его нежелание помочь раздражало.",
+      "Un- + will + -ing + -ness."
+     ],
+     [
+      "The results were [inconclusive].",
+      "Результаты были неубедительными.",
+      "In- + conclude + -ive."
+     ],
+     [
+      "The [disappearance] of bees is alarming.",
+      "Исчезновение пчёл тревожит.",
+      "Dis- + appear + -ance."
+     ]
+    ]
    },
    {
     "id": "c2u24l4",
@@ -1010,7 +1294,48 @@ addUnits("c2", [
     "text": {
      "en": "The compulsory essay in the Cambridge Proficiency exam is often misunderstood. Candidates receive two short passages, each expressing a view on a shared theme, such as whether cities should ban private cars or whether social media has damaged public debate. They must then write between 240 and 280 words that summarize and evaluate the key points of both texts while presenting their own position. Many strong writers fail to achieve top marks because they treat the task as a summary. They faithfully report what each author said but offer no judgment, as if the examiner wanted a précis rather than an argument. The word evaluate is the heart of the task. Every time you mention a point from a text, you should signal your attitude toward it. The first writer might contend that car bans revitalize city centers, a claim you could describe as convincing in dense European capitals but rather simplistic when applied to sprawling American suburbs. The second writer might concede that bans reduce pollution while warning that they hurt small businesses; you might acknowledge that concern yet question whether it is supported by evidence. Reporting verbs carry much of this evaluative weight. Assert and claim suggest some distance, maintain implies persistence, and concede indicates a reluctant admission. Paraphrase is equally essential, since copying phrases from the input texts is penalized. Finally, the conclusion should not simply repeat the introduction. It should synthesize, explaining how the two perspectives might be reconciled or why one ultimately prevails. A well-planned essay of this kind demonstrates exactly what C2 represents: not merely accurate English, but the ability to think critically in it.",
      "ru": "Обязательное эссе на экзамене Cambridge Proficiency часто понимают неправильно. Кандидаты получают два коротких текста, каждый из которых выражает точку зрения на общую тему, например, следует ли городам запрещать личные автомобили или навредили ли соцсети публичной дискуссии. Затем они должны написать от 240 до 280 слов, обобщив и оценив ключевые мысли обоих текстов и изложив собственную позицию. Многие сильные авторы не получают высших баллов, потому что воспринимают задание как изложение. Они добросовестно передают сказанное каждым автором, но не высказывают суждений, словно экзаменатор хотел конспект, а не аргументацию. Слово evaluate — сердце задания. Каждый раз, упоминая мысль из текста, нужно обозначать своё отношение к ней. Первый автор может утверждать, что запрет машин оживляет городские центры, — утверждение, которое можно назвать убедительным для плотных европейских столиц, но довольно упрощённым применительно к разросшимся американским пригородам. Второй автор может признать, что запреты снижают загрязнение, предупреждая, что они вредят малому бизнесу; вы можете признать эту озабоченность, но усомниться, подкреплена ли она данными. Глаголы передачи речи несут большую часть оценочной нагрузки. Assert и claim предполагают некоторую дистанцию, maintain — настойчивость, а concede — неохотное признание. Перефраз не менее важен, поскольку копирование фраз из исходных текстов наказывается. Наконец, вывод не должен просто повторять вступление. Он должен синтезировать, объясняя, как две точки зрения можно примирить или почему одна в итоге берёт верх. Хорошо спланированное эссе такого рода показывает именно то, что означает C2: не просто правильный английский, а способность критически мыслить на нём."
-    }
+    },
+    "tags": [
+     "writing",
+     "linking-discourse"
+    ],
+    "extra": [
+     [
+      "The second text [challenges] this view.",
+      "Второй текст оспаривает эту точку зрения.",
+      "Challenge — оспаривать."
+     ],
+     [
+      "[Overall], I find the first argument stronger.",
+      "В целом я считаю первый аргумент сильнее.",
+      "Overall — итог."
+     ],
+     [
+      "The author [maintains] that taxes are fair.",
+      "Автор утверждает, что налоги справедливы.",
+      "Maintain — утверждать."
+     ],
+     [
+      "Both writers [acknowledge] the risks.",
+      "Оба автора признают риски.",
+      "Acknowledge — признавать."
+     ],
+     [
+      "This claim is not [substantiated].",
+      "Это утверждение не обосновано.",
+      "Substantiated — обоснованный."
+     ],
+     [
+      "[In contrast], the second writer is optimistic.",
+      "Напротив, второй автор настроен оптимистично.",
+      "In contrast."
+     ],
+     [
+      "I would [argue] that both are partly right.",
+      "Я бы сказал, что оба отчасти правы.",
+      "I would argue — мнение."
+     ]
+    ]
    },
    {
     "id": "c2u24l5",
@@ -1133,7 +1458,48 @@ addUnits("c2", [
     "text": {
      "en": "Imagine reading a column titled «Remote Work Is Killing the American City». The author, a well-known commentator, describes empty downtown offices, struggling sandwich shops and a vanished sense of community. She cites a survey showing that office occupancy in one Midwestern city remains half of its pre-pandemic level, quotes a restaurant owner who has laid off staff and concludes that employers must order workers back to their desks five days a week. The piece is vivid, well written and, on first reading, persuasive. A critical reader, however, would slow down. First, what is the thesis, exactly? It is not merely that downtowns have changed but that remote work is destroying cities and that mandatory return is the solution. Second, how strong is the evidence? A single city and a single business owner are anecdotes, not proof; the writer may be cherry-picking the most dramatic case. Third, what assumptions lie beneath the argument? The column takes for granted that a city's health is measured by downtown foot traffic, ignoring suburbs and residential neighborhoods where local businesses may be thriving. It also assumes that employers' interests and cities' interests coincide. Fourth, consider the rhetoric. The verb killing is loaded language, and the headline frames a complex economic shift as a crime with a culprit. Finally, notice what is missing: the benefits of remote work for parents, people with disabilities and the climate receive no mention. None of this proves the columnist wrong. It means only that her conclusion requires more support than she provides, and recognizing that gap is the essence of critical reading.",
      "ru": "Представьте колонку под названием «Удалёнка убивает американский город». Автор, известный комментатор, описывает пустые офисы в центре, бедствующие сэндвичные и исчезнувшее чувство общности. Она ссылается на опрос, показывающий, что заполненность офисов в одном городе Среднего Запада остаётся на половине допандемийного уровня, цитирует владельца ресторана, уволившего персонал, и заключает, что работодатели должны вернуть сотрудников за столы пять дней в неделю. Текст яркий, хорошо написан и при первом прочтении убедителен. Критический читатель, однако, притормозил бы. Во-первых, каков именно тезис? Не просто что центры городов изменились, а что удалёнка уничтожает города и что обязательное возвращение — решение. Во-вторых, насколько сильны доказательства? Один город и один владелец бизнеса — это анекдоты, а не доказательство; автор, возможно, выбрала самый драматичный случай. В-третьих, какие допущения лежат в основе аргумента? Колонка принимает как данность, что здоровье города измеряется потоком людей в центре, игнорируя пригороды и жилые районы, где местный бизнес, возможно, процветает. Также предполагается, что интересы работодателей и городов совпадают. В-четвёртых, обратите внимание на риторику. Глагол «убивает» — нагруженное слово, а заголовок подаёт сложный экономический сдвиг как преступление с виновником. Наконец, заметьте, чего не хватает: о пользе удалёнки для родителей, людей с инвалидностью и климата не сказано ни слова. Ничто из этого не доказывает, что колумнист неправа. Это лишь означает, что её вывод требует большего обоснования, чем она даёт, и умение увидеть этот пробел — суть критического чтения."
-    }
+    },
+    "tags": [
+     "writing",
+     "style-rhetoric"
+    ],
+    "extra": [
+     [
+      "The columnist [cherry-picks] the data.",
+      "Колумнист выборочно подбирает данные.",
+      "Cherry-pick."
+     ],
+     [
+      "Her main [claim] is that rent is too high.",
+      "Её главный тезис — аренда слишком высока.",
+      "Claim — тезис."
+     ],
+     [
+      "The [evidence] is mostly anecdotal.",
+      "Доказательства в основном анекдотические.",
+      "Evidence."
+     ],
+     [
+      "He uses loaded [language] to sway readers.",
+      "Он использует эмоционально окрашенный язык.",
+      "Loaded language."
+     ],
+     [
+      "The piece [appeals] to readers' fears.",
+      "Статья апеллирует к страхам читателей.",
+      "Appeal to."
+     ],
+     [
+      "The argument has a logical [flaw].",
+      "В аргументе есть логическая ошибка.",
+      "Flaw."
+     ],
+     [
+      "The author's [bias] is obvious.",
+      "Предвзятость автора очевидна.",
+      "Bias."
+     ]
+    ]
    },
    {
     "id": "c2u24l6",
@@ -1260,7 +1626,48 @@ addUnits("c2", [
     "text": {
      "en": "To the Editor: In her column «Remote Work Is Killing the American City», the author paints a vivid picture of deserted office towers and shuttered lunch counters. She is right to draw attention to the hardship facing downtown businesses, and anyone who has walked through a business district on a Friday afternoon will recognize the scene she describes. Granted, too, that cities depend on tax revenue from commercial real estate, and that falling property values pose a genuine fiscal threat. Her conclusion, however, does not follow from her evidence. By focusing on a single Midwestern city and a single restaurant owner, she conflates the fate of one neighborhood with the fate of the city as a whole. Census data suggest that many residential neighborhoods have gained cafés, gyms and coworking spaces as workers spend more time near home. Spending has not vanished; it has moved. Nor is it clear that ordering employees back five days a week would revive downtowns. Companies that have attempted strict mandates have often seen their most valued staff resign, particularly working parents and employees with disabilities, whose productivity flexible arrangements have actually improved. Rather than treating remote work as a crime to be punished, city leaders might treat it as a fact to be planned around. Converting empty offices into housing, for example, would bring residents, and therefore customers, back to the center around the clock. The American city is not dying. It is changing shape, and the policies we choose now will determine whether that change leaves it poorer or more livable. Respectfully, a longtime reader.",
      "ru": "В редакцию. В колонке «Удалёнка убивает американский город» автор рисует яркую картину опустевших офисных башен и закрытых закусочных. Она права, привлекая внимание к трудностям бизнеса в центре, и любой, кто проходил по деловому району в пятницу после обеда, узнает описанную сцену. Допустим также, что города зависят от налоговых поступлений с коммерческой недвижимости и что падение её стоимости — реальная бюджетная угроза. Однако её вывод не следует из её доказательств. Сосредоточившись на одном городе Среднего Запада и одном владельце ресторана, она смешивает судьбу одного района с судьбой города в целом. Данные переписи указывают, что во многих жилых районах появились кафе, спортзалы и коворкинги, поскольку работники проводят больше времени рядом с домом. Траты не исчезли — они переместились. Не очевидно и то, что приказ сотрудникам возвращаться пять дней в неделю оживит центры. Компании, пытавшиеся ввести жёсткие требования, нередко сталкивались с уходом самых ценных сотрудников, особенно работающих родителей и людей с инвалидностью, чья продуктивность при гибком графике на самом деле выросла. Вместо того чтобы считать удалёнку преступлением, заслуживающим наказания, городские власти могли бы рассматривать её как факт, вокруг которого нужно планировать. Переоборудование пустых офисов в жильё, например, вернуло бы жителей, а значит, и покупателей, в центр круглосуточно. Американский город не умирает. Он меняет форму, и политика, которую мы выберем сейчас, определит, сделает ли эта перемена его беднее или пригоднее для жизни. С уважением, давний читатель."
-    }
+    },
+    "tags": [
+     "writing",
+     "linking-discourse"
+    ],
+    "extra": [
+     [
+      "I [take] issue with your columnist's claim.",
+      "Я не согласен с утверждением вашего колумниста.",
+      "Take issue with."
+     ],
+     [
+      "[Admittedly], costs have risen.",
+      "Надо признать, расходы выросли.",
+      "Admittedly — уступка."
+     ],
+     [
+      "Yet this [overlooks] a key fact.",
+      "Однако это упускает ключевой факт.",
+      "Overlook."
+     ],
+     [
+      "The writer [ignores] rural voters.",
+      "Автор игнорирует сельских избирателей.",
+      "Ignore."
+     ],
+     [
+      "[Contrary] to the article, crime has fallen.",
+      "Вопреки статье, преступность снизилась.",
+      "Contrary to."
+     ],
+     [
+      "I urge readers to [reconsider].",
+      "Призываю читателей пересмотреть мнение.",
+      "Призыв в конце письма."
+     ],
+     [
+      "The article [misrepresents] the facts.",
+      "Статья искажает факты.",
+      "Misrepresent."
+     ]
+    ]
    }
   ]
  }

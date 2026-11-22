@@ -157,6 +157,41 @@ addUnits("b2", [
      "receive — после предлога to нужен герундий; received — причастие не подходит; be receiving — инфинитивная форма после предлога невозможна.",
      "with up — неверный порядок частиц; up — put up значит «вешать, размещать»; on with — такого глагола в этом значении нет.",
      "off — run off значит «убежать»; out — без of нельзя присоединить ink; away with — run away with значит «убежать с»."
+    ],
+    "tags": [
+     "phrasal-verbs"
+    ],
+    "extra": [
+     [
+      "I can't find my keys. Can you help me look [for] them?",
+      "Не могу найти ключи. Поможешь их поискать?",
+      "look for неразделяемый: объект после предлога."
+     ],
+     [
+      "That jacket looks great. Try [it on].",
+      "Эта куртка классная. Примерь её.",
+      "Местоимение ставится между глаголом и частицей."
+     ],
+     [
+      "I'm really looking forward [to] the weekend.",
+      "Я очень жду выходных.",
+      "look forward to — трёхчастный глагол."
+     ],
+     [
+      "How do you put up [with] that noise?",
+      "Как ты терпишь этот шум?",
+      "put up with — «терпеть»."
+     ],
+     [
+      "Please pick [it up] before the dog eats it.",
+      "Подними это, пока собака не съела.",
+      "Разделяемый глагол: pick it up, не pick up it."
+     ],
+     [
+      "We need to come up [with] a better plan.",
+      "Нам нужно придумать план получше.",
+      "come up with — «придумать»."
+     ]
     ]
    },
    {
@@ -314,6 +349,42 @@ addUnits("b2", [
      "back off — «отступить»; set up — «настроить»; look up — «найти (в словаре)».",
      "over — get over значит «пережить, оправиться»; off — get off значит «выйти (из транспорта)»; by — get by значит «сводить концы».",
      "check out — глагол пишется раздельно, а нужно существительное; checking out — герундий, не название процедуры; out-check — неверный порядок."
+    ],
+    "tags": [
+     "phrasal-verbs",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "We [checked in] at the hotel around noon.",
+      "Мы заселились в отель около полудня.",
+      "check in — регистрироваться, заселяться."
+     ],
+     [
+      "Don't forget to [back up] your files.",
+      "Не забудь сделать резервную копию файлов.",
+      "back up — создавать резервную копию."
+     ],
+     [
+      "You need to [sign up] to use the app.",
+      "Чтобы пользоваться приложением, нужно зарегистрироваться.",
+      "sign up — зарегистрироваться."
+     ],
+     [
+      "My laptop suddenly [shut down].",
+      "Мой ноутбук внезапно выключился.",
+      "shut down — выключиться (о системе)."
+     ],
+     [
+      "I can't [log in] — I forgot my password.",
+      "Не могу войти — забыл пароль.",
+      "log in — войти в аккаунт."
+     ],
+     [
+      "Our plane [took off] two hours late.",
+      "Наш самолёт взлетел с опозданием на два часа.",
+      "take off — взлетать."
+     ]
     ]
    },
    {
@@ -468,6 +539,41 @@ addUnits("b2", [
      "once in a blue moon — «очень редко»; around the clock — «круглосуточно»; on a rainy day — буквально «в дождливый день».",
      "in the clock — неверный предлог; on the clock day — бессмыслица; all clock — не идиома.",
      "buy an umbrella — буквальное понимание; save time — речь о деньгах; waste money — противоположное."
+    ],
+    "tags": [
+     "idioms"
+    ],
+    "extra": [
+     [
+      "We're barely making ends [meet] this month.",
+      "В этом месяце мы едва сводим концы с концами.",
+      "make ends meet — сводить концы с концами."
+     ],
+     [
+      "We caught the train in the nick of [time].",
+      "Мы успели на поезд в последний момент.",
+      "in the nick of time — в самый последний момент."
+     ],
+     [
+      "Time is [money], so let's get started.",
+      "Время — деньги, так что начнём.",
+      "Идиома time is money."
+     ],
+     [
+      "This old car is costing me a [fortune] in repairs.",
+      "Эта старая машина обходится мне в целое состояние на ремонт.",
+      "cost a fortune — стоить кучу денег."
+     ],
+     [
+      "Let's not waste time — we're [running] out of it.",
+      "Не будем терять время — его остаётся всё меньше.",
+      "run out of time — время на исходе."
+     ],
+     [
+      "I'm saving for a rainy [day].",
+      "Я откладываю на чёрный день.",
+      "save for a rainy day — копить на чёрный день."
+     ]
     ]
    },
    {
@@ -624,6 +730,41 @@ addUnits("b2", [
      "point zero — не идиома; step first — неверный порядок и не идиома; the start line — не устойчивое выражение.",
      "pay out — «выплачивать»; pay up — «расплатиться (долг)»; pay back — «вернуть долг».",
      "cold — keep one's cold не говорят; calm feet — смешение идиом; temper off — бессмыслица (lose one's temper)."
+    ],
+    "tags": [
+     "idioms"
+    ],
+    "extra": [
+     [
+      "She's been on cloud [nine] since the wedding.",
+      "Она на седьмом небе со дня свадьбы.",
+      "on cloud nine — на седьмом небе."
+     ],
+     [
+      "I'm at the end of my [rope] with this project.",
+      "Я на пределе с этим проектом.",
+      "at the end of my rope — нет больше сил."
+     ],
+     [
+      "He really hit the [jackpot] with that startup.",
+      "Он сорвал куш с этим стартапом.",
+      "hit the jackpot — сорвать большой куш."
+     ],
+     [
+      "I was [over] the moon when I got the job.",
+      "Я был вне себя от счастья, когда получил работу.",
+      "over the moon — безмерно рад."
+     ],
+     [
+      "Don't lose your [temper] over small things.",
+      "Не выходи из себя из-за мелочей.",
+      "lose your temper — выйти из себя."
+     ],
+     [
+      "The new album was a huge [hit].",
+      "Новый альбом стал огромным хитом.",
+      "be a hit — иметь большой успех."
+     ]
     ]
    }
   ]
@@ -789,6 +930,41 @@ addUnits("b2", [
      "say — say a lie не сочетается; speak — speak a lie неверно; talk — talk a lie неверно.",
      "told — tell sb out of не существует; said — say sb out of неверно; spoke — speak sb out of неверно.",
      "He told me the news — верно; He said the news to me — верно (say + to); He told the news to me — верно."
+    ],
+    "tags": [
+     "confusing-words"
+    ],
+    "extra": [
+     [
+      "Can you [tell] me the time?",
+      "Ты не подскажешь, который час?",
+      "tell + кому-то (без to)."
+     ],
+     [
+      "We [talked] about our plans for hours.",
+      "Мы часами говорили о наших планах.",
+      "talk about — беседовать о чём-то."
+     ],
+     [
+      "Do you [speak] Spanish?",
+      "Ты говоришь по-испански?",
+      "Языки — speak."
+     ],
+     [
+      "She [said] goodbye and left.",
+      "Она попрощалась и ушла.",
+      "say goodbye/hello — устойчивое сочетание."
+     ],
+     [
+      "Don't [tell] lies to your parents.",
+      "Не лги родителям.",
+      "tell lies/the truth/a story."
+     ],
+     [
+      "Can I [speak] to the manager, please?",
+      "Могу я поговорить с менеджером?",
+      "speak to — более формально, чем talk."
+     ]
     ]
    },
    {
@@ -938,6 +1114,41 @@ addUnits("b2", [
      "rose — непереходный, не берёт дополнение taxes; risen — причастие без вспомогательного; rised — такой формы нет.",
      "look — look the kids неграмматично (нужен at); see — «увидеть», не «присмотреть»; look at — «посмотреть на», не «присмотреть».",
      "look — не значит «понимать»; watch — «наблюдать»; look at — «смотреть на»."
+    ],
+    "tags": [
+     "confusing-words"
+    ],
+    "extra": [
+     [
+      "We [watched] the game on TV.",
+      "Мы смотрели игру по телевизору.",
+      "watch — следить за происходящим."
+     ],
+     [
+      "Please [raise] your hand if you have a question.",
+      "Поднимите руку, если есть вопрос.",
+      "raise — переходный: поднять что-то."
+     ],
+     [
+      "The sun [rises] in the east.",
+      "Солнце встаёт на востоке.",
+      "rise — непереходный: подниматься само."
+     ],
+     [
+      "I can't [see] anything without my glasses.",
+      "Я ничего не вижу без очков.",
+      "see — способность видеть."
+     ],
+     [
+      "Prices [rose] sharply last year.",
+      "В прошлом году цены резко выросли.",
+      "rise — rose — risen."
+     ],
+     [
+      "She [looked] at me and smiled.",
+      "Она посмотрела на меня и улыбнулась.",
+      "look at — направить взгляд."
+     ]
     ]
    },
    {
@@ -1095,6 +1306,41 @@ addUnits("b2", [
      "a sympathetic girl — «сочувствующая»; a sympathy girl — бессмыслица; a simpatic girl — такого слова нет.",
      "lose — глагол «терять»; losed — нет такой формы; loss — существительное «потеря».",
      "sensitive — «чувствительный»; sensational — «сенсационный»; sense — существительное."
+    ],
+    "tags": [
+     "confusing-words"
+    ],
+    "extra": [
+     [
+      "[Actually], I'm not from here.",
+      "Вообще-то, я не местный.",
+      "actually — «на самом деле», а не «актуально»."
+     ],
+     [
+      "My teacher was very [sympathetic] when I was sick.",
+      "Учитель очень сочувствовал мне, когда я болел.",
+      "sympathetic — сочувствующий, не «симпатичный»."
+     ],
+     [
+      "She's always very [accurate] with numbers.",
+      "Она всегда очень точна с цифрами.",
+      "accurate — точный, не «аккуратный»."
+     ],
+     [
+      "My grandpa worked at a textile [factory].",
+      "Мой дедушка работал на текстильной фабрике.",
+      "fabric — ткань; фабрика — factory."
+     ],
+     [
+      "I bought milk at the grocery [store].",
+      "Я купил молоко в продуктовом магазине.",
+      "Магазин — store, не magazine."
+     ],
+     [
+      "The [current] situation is complicated.",
+      "Текущая ситуация сложная.",
+      "«Актуальный, текущий» — current, не actual."
+     ]
     ]
    },
    {
@@ -1242,6 +1488,42 @@ addUnits("b2", [
      "beter with strong T — в американском t между гласными смягчается; bet-ter with pause — паузы нет; bitter — другое слово с другим гласным.",
      "only by the T sound — конечное t часто почти не слышно; can is louder — наоборот, can безударное; they sound identical always — различаются ударением и гласным.",
      "I half to leave — half звучит похоже, но смысла нет; I have a leave — другое значение («отпуск»); I had to leave — прошедшее, а hafta = have to."
+    ],
+    "tags": [
+     "listening",
+     "pronunciation"
+    ],
+    "extra": [
+     [
+      "I [gotta] go now, see you later.",
+      "Мне надо идти, увидимся.",
+      "gotta = got to / have got to."
+     ],
+     [
+      "[Lemme] know if you need anything.",
+      "Дай знать, если что-нибудь понадобится.",
+      "lemme = let me."
+     ],
+     [
+      "I [dunno] where he went.",
+      "Не знаю, куда он ушёл.",
+      "dunno = don't know."
+     ],
+     [
+      "[Whaddya] want for dinner?",
+      "Что хочешь на ужин?",
+      "whaddya = what do you."
+     ],
+     [
+      "It's [kinda] cold today.",
+      "Сегодня как-то холодно.",
+      "kinda = kind of."
+     ],
+     [
+      "[Gimme] a second, I'm almost done.",
+      "Дай секунду, почти закончил.",
+      "gimme = give me."
+     ]
     ]
    }
   ]
@@ -1402,6 +1684,41 @@ addUnits("b2", [
      "be shot in a movie — «быть застреленным в фильме»; shoot in a movie — «снимать (как режиссёр)»; play in a movie role in — неграмматично.",
      "gripping — «захватывающий»; underrated — «недооценённый»; relatable — «близкий, понятный».",
      "made by — «сделан (кем)», не об источнике; shot of — неверный предлог; based by — неверный предлог."
+    ],
+    "tags": [
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Don't post [spoilers] — I haven't seen it yet.",
+      "Не пиши спойлеры — я ещё не смотрел.",
+      "spoiler — раскрытие сюжета."
+     ],
+     [
+      "We [binge-watched] the whole season in one weekend.",
+      "Мы запоем посмотрели весь сезон за выходные.",
+      "binge-watch — смотреть запоем."
+     ],
+     [
+      "Honestly, I think that movie is [overrated].",
+      "Честно говоря, по-моему, этот фильм переоценён.",
+      "overrated — переоценённый."
+     ],
+     [
+      "The new show is definitely [worth] watching.",
+      "Новое шоу определённо стоит посмотреть.",
+      "worth + V-ing."
+     ],
+     [
+      "The [cast] was amazing, especially the lead actress.",
+      "Актёрский состав был потрясающим, особенно главная актриса.",
+      "cast — актёрский состав."
+     ],
+     [
+      "The [ending] was so sad that I cried.",
+      "Концовка была такой грустной, что я плакал.",
+      "ending — концовка."
+     ]
     ]
    },
    {
@@ -1554,6 +1871,42 @@ addUnits("b2", [
      "buff — наоборот, «усилить»; patch up — «залатать, помириться»; grind — «фармить».",
      "free-to-play — бесплатная игра, не обязательно с преимуществом; early access — ранний доступ; co-op — совместная игра.",
      "lagging up — lag без up; freezing out — freeze out = «вытеснить»; grinding — «фармить»."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "slang-colloquial"
+    ],
+    "extra": [
+     [
+      "They [nerfed] my favorite character in the update.",
+      "В обновлении ослабили моего любимого персонажа.",
+      "nerf — ослабить в балансе."
+     ],
+     [
+      "I spent hours [grinding] for better gear.",
+      "Я часами гриндил ради лучшего снаряжения.",
+      "grind — долго фармить."
+     ],
+     [
+      "This game is totally [pay-to-win].",
+      "Эта игра полностью пэй-ту-вин.",
+      "pay-to-win — побеждает тот, кто платит."
+     ],
+     [
+      "Let's play [co-op] with my brother tonight.",
+      "Давай сыграем вечером в кооператив с моим братом.",
+      "co-op — совместная игра."
+     ],
+     [
+      "I love exploring [open-world] games.",
+      "Обожаю исследовать игры с открытым миром.",
+      "open world — открытый мир."
+     ],
+     [
+      "The [gameplay] is fun, but the story is weak.",
+      "Геймплей весёлый, но сюжет слабый.",
+      "gameplay — игровой процесс."
+     ]
     ]
    },
    {
@@ -1707,6 +2060,43 @@ addUnits("b2", [
      "Past Simple — последовательные события, не предшествование; Present Simple — настоящее; Past Continuous — фон, длительность.",
      "At the end — «в конце чего-то», требует of; On the end — неверный предлог; By the end we make up — «к концу» и неверное время.",
      "Long story short — подводит итог; Needless to say — «само собой», ожидаемое; Did I ever tell you — начало истории."
+    ],
+    "tags": [
+     "past-continuous",
+     "past-perfect",
+     "speaking"
+    ],
+    "extra": [
+     [
+      "So there I [was], stuck in an elevator.",
+      "И вот я стою, застрявший в лифте.",
+      "so there I was — завязка истории."
+     ],
+     [
+      "I [was walking] home when I heard a scream.",
+      "Я шёл домой, когда услышал крик.",
+      "Past Continuous — фон событий."
+     ],
+     [
+      "By the time we arrived, the party [had ended].",
+      "К тому времени, как мы приехали, вечеринка закончилась.",
+      "Past Perfect — раньше другого прошлого."
+     ],
+     [
+      "[Suddenly], the phone rang.",
+      "Вдруг зазвонил телефон.",
+      "suddenly — резкий поворот."
+     ],
+     [
+      "[In] the end, everything worked out fine.",
+      "В конце концов всё закончилось хорошо.",
+      "in the end — «в итоге»."
+     ],
+     [
+      "Long story [short], we missed the flight.",
+      "Короче говоря, мы опоздали на рейс.",
+      "long story short — короче говоря."
+     ]
     ]
    }
   ]

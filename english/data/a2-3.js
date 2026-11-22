@@ -156,6 +156,42 @@ addUnits("a2", [
      "on — on с датой, а не с длительностью; during — «во время чего-то», не с числом ночей; since — с точкой начала, а не с периодом.",
      "check in — заселиться; fill out — заполнить; go off — «сработать (о будильнике)» или «уйти».",
      "Does — included — V3, нужен be; Are — breakfast в ед. ч.; Has — has included был бы Present Perfect актив, бессмыслица."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "modals"
+    ],
+    "extra": [
+     [
+      "Do you have any rooms [available] this weekend?",
+      "У вас есть свободные номера на эти выходные?",
+      "available — свободный, доступный."
+     ],
+     [
+      "I'd like to [cancel] my reservation, please.",
+      "Я хотел бы отменить бронь, пожалуйста.",
+      "cancel a reservation — отменить бронирование."
+     ],
+     [
+      "Check-in [starts] at three in the afternoon.",
+      "Заселение начинается в три часа дня.",
+      "Расписание — Present Simple, he/she/it + -s."
+     ],
+     [
+      "We need a room [for] four people.",
+      "Нам нужен номер на четырёх человек.",
+      "for + количество людей/ночей."
+     ],
+     [
+      "Could I get a room with a [view]?",
+      "Можно номер с видом?",
+      "a room with a view — номер с видом."
+     ],
+     [
+      "Please [fill] out this form before check-in.",
+      "Пожалуйста, заполните эту форму перед заселением.",
+      "fill out a form — заполнить форму."
+     ]
     ]
    },
    {
@@ -312,6 +348,42 @@ addUnits("a2", [
      "It is — для наличия чего-то нужно there; They are — тоже не выражает наличие; Have — нет подлежащего.",
      "You fix it. — звучит как приказ; Fix it! — грубо; Can fix it? — нет подлежащего.",
      "up — break up = расстаться; off — break off = отломиться, прервать; out — break out = вспыхнуть (пожар, война)."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "present-simple"
+    ],
+    "extra": [
+     [
+      "The Wi-Fi in my room isn't [working].",
+      "Wi-Fi в моём номере не работает.",
+      "isn't working — не работает сейчас."
+     ],
+     [
+      "The toilet keeps [running] all night.",
+      "Унитаз всю ночь подтекает.",
+      "keep + -ing — что-то постоянно происходит."
+     ],
+     [
+      "Could you send someone to [fix] the heater?",
+      "Не могли бы вы прислать кого-нибудь починить обогреватель?",
+      "fix — чинить."
+     ],
+     [
+      "There aren't any [towels] in the bathroom.",
+      "В ванной нет полотенец.",
+      "There aren't any + мн. число."
+     ],
+     [
+      "The bed sheets are [dirty].",
+      "Постельное бельё грязное.",
+      "dirty — грязный."
+     ],
+     [
+      "I'd like to [change] rooms, please.",
+      "Я хотел бы поменять номер, пожалуйста.",
+      "change rooms — мн. число в этом выражении."
+     ]
     ]
    },
    {
@@ -474,6 +546,42 @@ addUnits("a2", [
      "by foot — разговорно встречается, но норма on foot; with foot — так не говорят; by feet — неверно.",
      "needs — не с It в значении затрат времени; goes — не выражает длительность; spends — время тратит человек (I spend), а не It.",
      "get on — для автобуса, поезда, самолёта, а не такси; get to — «добраться до»; go on — «продолжать»."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "phrasal-verbs"
+    ],
+    "extra": [
+     [
+      "Where can I [buy] a bus ticket?",
+      "Где можно купить билет на автобус?",
+      "buy a ticket — купить билет."
+     ],
+     [
+      "Get [on] the train at platform two.",
+      "Садитесь на поезд на второй платформе.",
+      "get on — сесть в транспорт (поезд, автобус)."
+     ],
+     [
+      "I'd like a [round-trip] ticket to Boston.",
+      "Мне билет туда и обратно до Бостона.",
+      "round-trip — туда и обратно (амер.)."
+     ],
+     [
+      "How [often] does the bus run?",
+      "Как часто ходит автобус?",
+      "How often — как часто."
+     ],
+     [
+      "You need to [change] trains at Central Station.",
+      "Вам нужно пересесть на Центральном вокзале.",
+      "change trains — сделать пересадку."
+     ],
+     [
+      "The trip [takes] about an hour by subway.",
+      "Поездка на метро занимает около часа.",
+      "It takes + время — занимает."
+     ]
     ]
    },
    {
@@ -636,6 +744,42 @@ addUnits("a2", [
      "cooked — Past Simple не передаёт фон, во время которого что-то случилось; am cooking — настоящее время; cook — настоящее время.",
      "get off — выйти из транспорта; set back — «задержать»; go off — «уйти, сработать».",
      "While — для длительного фона, а arrived — короткое событие; During — предлог, после него не ставится предложение; Then — «потом», не связывает два действия как «как только»."
+    ],
+    "tags": [
+     "past-simple",
+     "linking-discourse"
+    ],
+    "extra": [
+     [
+      "[First], we visited the old castle.",
+      "Сначала мы посетили старый замок.",
+      "First — первое действие рассказа."
+     ],
+     [
+      "Then we [took] a boat trip on the river.",
+      "Потом мы покатались на лодке по реке.",
+      "take — took (неправильный глагол)."
+     ],
+     [
+      "[Finally], we flew home on Sunday.",
+      "Наконец, в воскресенье мы улетели домой.",
+      "Finally — последнее событие."
+     ],
+     [
+      "The hotel [was] small but very clean.",
+      "Отель был маленький, но очень чистый.",
+      "was — прошедшее от is."
+     ],
+     [
+      "We [stayed] there for a week.",
+      "Мы пробыли там неделю.",
+      "stay — stayed, правильный глагол."
+     ],
+     [
+      "We didn't [have] time to see the museum.",
+      "У нас не было времени посмотреть музей.",
+      "После didn't — инфинитив без to."
+     ]
     ]
    },
    {
@@ -802,6 +946,42 @@ addUnits("a2", [
      "is — cafés во мн. ч.; has/have — наличие выражается через there is/are, а не have.",
      "of — famous of не существует; with — не то значение; by — «кем-то», не «чем».",
      "much — для неисчисляемых, а parks исчисляемое; a lot — нужно a lot of; lots — нужно lots of."
+    ],
+    "tags": [
+     "there-is",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "There [is] a beautiful park near the river.",
+      "У реки есть красивый парк.",
+      "There is + ед. число."
+     ],
+     [
+      "My hometown is [famous] for its seafood.",
+      "Мой город славится морепродуктами.",
+      "famous for — знаменит чем-то."
+     ],
+     [
+      "There aren't many tall buildings [in] my town.",
+      "В моём городе не так много высоких зданий.",
+      "in + город."
+     ],
+     [
+      "It's a [quiet] town with friendly people.",
+      "Это тихий город с дружелюбными людьми.",
+      "quiet — тихий."
+     ],
+     [
+      "The museum is definitely worth [seeing].",
+      "Музей определённо стоит посмотреть.",
+      "worth + -ing."
+     ],
+     [
+      "The city gets [crowded] in the summer.",
+      "Летом город переполнен туристами.",
+      "crowded — многолюдный."
+     ]
     ]
    }
   ]
@@ -972,6 +1152,42 @@ addUnits("a2", [
      "since — нужна точка начала, а two days — период; from — с Present Perfect не используется так; during — «во время», не для длительности.",
      "hurts — legs во мн. ч.; is hurting me pain — неверная конструкция; pain — существительное, не глагол в этом значении.",
      "get off — выйти (из транспорта); get on — сесть, ладить; come down — «спуститься» (заболеть — come down with)."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "modals"
+    ],
+    "extra": [
+     [
+      "I've had a [fever] since yesterday.",
+      "У меня температура со вчерашнего дня.",
+      "have a fever — температура."
+     ],
+     [
+      "Can I see the doctor [today]?",
+      "Можно попасть к врачу сегодня?",
+      "today — сегодня."
+     ],
+     [
+      "My throat [hurts] when I swallow.",
+      "У меня болит горло, когда я глотаю.",
+      "hurt — болеть (о части тела)."
+     ],
+     [
+      "The doctor gave me a [prescription] for antibiotics.",
+      "Врач выписал мне рецепт на антибиотики.",
+      "prescription — рецепт врача."
+     ],
+     [
+      "Are you [allergic] to any medicine?",
+      "У вас есть аллергия на лекарства?",
+      "allergic to — аллергия на что-то."
+     ],
+     [
+      "Take two pills [after] meals.",
+      "Принимайте по две таблетки после еды.",
+      "after meals — после еды."
+     ]
     ]
    },
    {
@@ -1126,6 +1342,42 @@ addUnits("a2", [
      "move on — «двигаться дальше»; move up — «продвинуться»; get in — «войти, сесть», но не въехать в квартиру.",
      "Do — Do I have pets? — вопрос о факте, а не разрешение; Have — Have I pets звучит устаревше и не о разрешении; Am — am с have невозможно.",
      "rent card — такого понятия нет; landlord — арендодатель; bill — счёт."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "questions"
+    ],
+    "extra": [
+     [
+      "Is there a [deposit]?",
+      "Нужен ли залог?",
+      "deposit — залог."
+     ],
+     [
+      "Are pets [allowed] in the building?",
+      "Можно ли держать животных в здании?",
+      "be allowed — разрешено."
+     ],
+     [
+      "The rent is due on the first of the [month].",
+      "Арендная плата вносится первого числа каждого месяца.",
+      "the first of the month — первое число."
+     ],
+     [
+      "Can I see the apartment [tomorrow]?",
+      "Можно посмотреть квартиру завтра?",
+      "tomorrow — завтра."
+     ],
+     [
+      "The [landlord] lives on the first floor.",
+      "Хозяин квартиры живёт на первом этаже.",
+      "landlord — арендодатель."
+     ],
+     [
+      "I'd like to sign a one-year [lease].",
+      "Я хотел бы подписать договор аренды на год.",
+      "lease — договор аренды."
+     ]
     ]
    },
    {
@@ -1289,6 +1541,42 @@ addUnits("a2", [
      "borrow me — borrow = брать, а не давать; Can I lend — вопрос задан от неверного лица; lend to me ... back — лишние to и back.",
      "is been — неверная форма (нужно has been); were — card в ед. ч.; has — has stolen = «украла» (актив), а нужен пассив.",
      "fare — плата за проезд; fine — штраф; price tag — ценник."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "phrasal-verbs"
+    ],
+    "extra": [
+     [
+      "I'd like to [deposit] this check.",
+      "Я хотел бы положить этот чек на счёт.",
+      "deposit — внести на счёт."
+     ],
+     [
+      "My card was [declined] at the store.",
+      "Мою карту отклонили в магазине.",
+      "be declined — отклонён."
+     ],
+     [
+      "What's the [fee] for international transfers?",
+      "Какая комиссия за международные переводы?",
+      "fee — комиссия, сбор."
+     ],
+     [
+      "I forgot my [PIN] again.",
+      "Я опять забыл ПИН-код.",
+      "PIN — персональный код карты."
+     ],
+     [
+      "Can I pay [by] card here?",
+      "Здесь можно заплатить картой?",
+      "pay by card — платить картой."
+     ],
+     [
+      "I need to [transfer] money to my sister.",
+      "Мне нужно перевести деньги сестре.",
+      "transfer money — перевести деньги."
+     ]
     ]
    },
    {
@@ -1447,6 +1735,42 @@ addUnits("a2", [
      "before now — неестественно; yet — не указывает на время в прошлом; since — нужна точка начала, и с Present Perfect.",
      "pick out — «выбрать»; take on — «взять на себя»; drop off — «сдать, отвезти», противоположное.",
      "trace back — «проследить до источника»; follow up — «проверить, напомнить»; watch on — такого выражения нет."
+    ],
+    "tags": [
+     "present-perfect",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Has my package [arrived] yet?",
+      "Моя посылка уже пришла?",
+      "Has + V3 в вопросе."
+     ],
+     [
+      "I haven't [received] my order yet.",
+      "Я ещё не получил свой заказ.",
+      "haven't + V3 + yet."
+     ],
+     [
+      "The package was [delivered] to the wrong address.",
+      "Посылку доставили не по тому адресу.",
+      "was delivered — пассив, прошедшее."
+     ],
+     [
+      "Here is my tracking [number].",
+      "Вот мой номер отслеживания.",
+      "tracking number — трек-номер."
+     ],
+     [
+      "I'd like to [send] this package to Canada.",
+      "Я хотел бы отправить эту посылку в Канаду.",
+      "send — отправить."
+     ],
+     [
+      "Delivery usually takes three to five [days].",
+      "Доставка обычно занимает от трёх до пяти дней.",
+      "days — мн. число."
+     ]
     ]
    },
    {
@@ -1608,6 +1932,42 @@ addUnits("a2", [
      "doesn't suit size — suit = идти по стилю, и «size» лишнее; isn't fitting to me — fit без to и обычно не в Continuous; doesn't match me — match = сочетаться (с чем-то).",
      "try out — «опробовать» (устройство); put up — «повесить, поставить»; take on — «взять на себя».",
      "check list — список дел; bill note — такого нет; recipe — рецепт блюда."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "modals"
+    ],
+    "extra": [
+     [
+      "Can I [exchange] this shirt for a bigger size?",
+      "Можно обменять эту рубашку на больший размер?",
+      "exchange for — обменять на."
+     ],
+     [
+      "These jeans don't [fit] me.",
+      "Эти джинсы мне не подходят по размеру.",
+      "fit — подходить по размеру."
+     ],
+     [
+      "You can return items within thirty [days].",
+      "Товар можно вернуть в течение тридцати дней.",
+      "within thirty days — в течение."
+     ],
+     [
+      "The zipper is [broken].",
+      "Молния сломана.",
+      "broken — сломанный."
+     ],
+     [
+      "Would you like store [credit] or a refund?",
+      "Хотите получить кредит в магазине или возврат денег?",
+      "store credit — сумма на будущие покупки."
+     ],
+     [
+      "I [bought] this jacket last week.",
+      "Я купил эту куртку на прошлой неделе.",
+      "buy — bought."
+     ]
     ]
    },
    {
@@ -1771,6 +2131,42 @@ addUnits("a2", [
      "I'm scared — «мне страшно», не вежливый оборот; Listen — резко; Hey you — грубо.",
      "account — банковский счёт; receipt card — такого нет; score — счёт в игре.",
      "send off — «отправить (письмо), удалить с поля»; give up — «сдаться»; take back up — бессмыслица."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "present-perfect"
+    ],
+    "extra": [
+     [
+      "Excuse me, there's a hair in my [salad].",
+      "Извините, в моём салате волос.",
+      "there's a ... in — в чём-то есть."
+     ],
+     [
+      "This steak is [overcooked].",
+      "Этот стейк пережарен.",
+      "overcooked — пережаренный."
+     ],
+     [
+      "I asked for no onions, [but] there are onions.",
+      "Я просил без лука, но лук есть.",
+      "but — противопоставление."
+     ],
+     [
+      "Could we speak to the [manager], please?",
+      "Можно поговорить с менеджером?",
+      "manager — управляющий."
+     ],
+     [
+      "I think there's a mistake on the [bill].",
+      "Мне кажется, в счёте ошибка.",
+      "bill — счёт в ресторане."
+     ],
+     [
+      "We [haven't] gotten our drinks yet.",
+      "Нам ещё не принесли напитки.",
+      "haven't gotten ... yet — амер. форма."
+     ]
     ]
    }
   ]

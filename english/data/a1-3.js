@@ -161,6 +161,47 @@ addUnits("a1", [
      "an advice / a advice — advice неисчисляемое, без артикля a; one advices — нет множественного числа.",
      "a coffee cup of — неверный порядок; one cup coffee — пропущен of; cup coffees — бессмыслица.",
      "luggages — нет множественного числа; luggage are — глагол должен быть в ед. ч.; My a luggage — нельзя артикль после my и с неисчисляемым."
+    ],
+    "tags": [
+     "quantifiers",
+     "articles"
+    ],
+    "extra": [
+     [
+      "I need [some] water.",
+      "Мне нужно немного воды.",
+      "Неисчисляемое — без a, можно some."
+     ],
+     [
+      "Can I have [an] apple?",
+      "Можно яблоко?",
+      "Исчисляемое ед. ч. → an."
+     ],
+     [
+      "[Money] isn't everything.",
+      "Деньги — это не всё.",
+      "money неисчисляемое — глагол в ед. ч."
+     ],
+     [
+      "I have some good [news].",
+      "У меня хорошие новости.",
+      "news неисчисляемое, без -s в значении мн."
+     ],
+     [
+      "We need two [bottles] of milk.",
+      "Нам нужно две бутылки молока.",
+      "Неисчисляемое считаем ёмкостями."
+     ],
+     [
+      "Your hair [is] beautiful.",
+      "У тебя красивые волосы.",
+      "hair неисчисляемое → is."
+     ],
+     [
+      "Can I get [a] cup of tea?",
+      "Можно чашку чая?",
+      "a cup of — единица измерения."
+     ]
     ]
    },
    {
@@ -316,6 +357,46 @@ addUnits("a1", [
      "some — в обычном вопросе-уточнении нужно any; a / an — brothers во мн. числе.",
      "can't see nothing — двойное отрицание; can see anything — смысл «могу видеть что угодно»; can't see something — в отрицании нужен anything.",
      "Anyone — в утверждении нужно someone; Anything / Something — это о предметах, а звонит человек."
+    ],
+    "tags": [
+     "quantifiers"
+    ],
+    "extra": [
+     [
+      "There are [some] eggs in the fridge.",
+      "В холодильнике есть яйца.",
+      "Утверждение → some."
+     ],
+     [
+      "Do we have [any] bread?",
+      "У нас есть хлеб?",
+      "Вопрос → any."
+     ],
+     [
+      "I don't have [any] money.",
+      "У меня нет денег.",
+      "Отрицание → any."
+     ],
+     [
+      "Would you like [some] coffee?",
+      "Хотите кофе?",
+      "Предложение — some даже в вопросе."
+     ],
+     [
+      "Are there [any] good restaurants here?",
+      "Здесь есть хорошие рестораны?",
+      "Общий вопрос → any."
+     ],
+     [
+      "She bought [some] flowers.",
+      "Она купила цветы.",
+      "Утверждение → some."
+     ],
+     [
+      "Can I have [some] water, please?",
+      "Можно воды, пожалуйста?",
+      "Просьба — some."
+     ]
     ]
    },
    {
@@ -473,6 +554,46 @@ addUnits("a1", [
      "many / a few — для исчисляемых, а coffee неисчисляемое; lots — нужно lots of.",
      "much friends — much с исчисляемыми нельзя; many of friends / much of friends — лишний of перед существительным без артикля.",
      "water, money, milk — неисчисляемые, с ними a little, а не a few."
+    ],
+    "tags": [
+     "quantifiers"
+    ],
+    "extra": [
+     [
+      "How [many] kids do you have?",
+      "Сколько у тебя детей?",
+      "Исчисляемые → many."
+     ],
+     [
+      "How [much] sugar do you want?",
+      "Сколько сахара тебе?",
+      "Неисчисляемое → much."
+     ],
+     [
+      "I don't have [much] time.",
+      "У меня мало времени.",
+      "Отрицание + неисчисляемое → much."
+     ],
+     [
+      "She has [a lot of] friends.",
+      "У неё много друзей.",
+      "В утверждении — a lot of."
+     ],
+     [
+      "There aren't [many] people here.",
+      "Здесь немного людей.",
+      "people исчисляемые → many."
+     ],
+     [
+      "How [much] does it cost?",
+      "Сколько это стоит?",
+      "Цена → how much."
+     ],
+     [
+      "We drink [a lot of] coffee.",
+      "Мы пьём много кофе.",
+      "Утверждение → a lot of."
+     ]
     ]
    },
    {
@@ -624,6 +745,46 @@ addUnits("a1", [
      "I'm knowing / I knowing — know глагол состояния, не ставится в -ing; I am know — be не сочетается с начальной формой.",
      "Does / Do — с -ing нужен be, не do; Are — she требует is.",
      "siting — после краткого ударного гласного согласная удваивается; sitng / sitteing — неверное написание."
+    ],
+    "tags": [
+     "present-continuous"
+    ],
+    "extra": [
+     [
+      "I'm [cooking] dinner now.",
+      "Я сейчас готовлю ужин.",
+      "am + -ing."
+     ],
+     [
+      "She [is] talking on the phone.",
+      "Она говорит по телефону.",
+      "she → is + -ing."
+     ],
+     [
+      "What are you [doing]?",
+      "Что ты делаешь?",
+      "are + doing."
+     ],
+     [
+      "They [aren't] listening.",
+      "Они не слушают.",
+      "Отрицание: aren't + -ing."
+     ],
+     [
+      "It's [raining] again.",
+      "Опять идёт дождь.",
+      "Действие сейчас."
+     ],
+     [
+      "[Is] he working today?",
+      "Он сегодня работает?",
+      "Вопрос: Is he…-ing?"
+     ],
+     [
+      "We're [sitting] in a cafe.",
+      "Мы сидим в кафе.",
+      "sit → sitting (удвоение)."
+     ]
     ]
    },
    {
@@ -774,6 +935,47 @@ addUnits("a1", [
      "текущем действии — для этого What are you doing?; планах / прошлом — вопрос в Present Simple о постоянном.",
      "is living — живёт постоянно, а this month противопоставлен; live — she требует -s; living — нет глагола be.",
      "plays / play — Simple, а Listen! указывает на сейчас; playing — пропущен is."
+    ],
+    "tags": [
+     "present-simple",
+     "present-continuous"
+    ],
+    "extra": [
+     [
+      "She [works] in a hospital.",
+      "Она работает в больнице.",
+      "Постоянное → Present Simple."
+     ],
+     [
+      "Right now he's [sleeping].",
+      "Сейчас он спит.",
+      "right now → Continuous."
+     ],
+     [
+      "I usually [walk] to work.",
+      "Обычно я хожу на работу пешком.",
+      "usually → Simple."
+     ],
+     [
+      "Look! It's [snowing]!",
+      "Смотри! Идёт снег!",
+      "Look! — действие сейчас."
+     ],
+     [
+      "I [know] the answer.",
+      "Я знаю ответ.",
+      "know — глагол состояния, не в Continuous."
+     ],
+     [
+      "What [do] you do?",
+      "Чем ты занимаешься (кем работаешь)?",
+      "Профессия → Simple."
+     ],
+     [
+      "Today I'm [wearing] a suit.",
+      "Сегодня я в костюме.",
+      "Временное действие → Continuous."
+     ]
     ]
    }
   ]
@@ -931,6 +1133,47 @@ addUnits("a1", [
      "I born — пропущен was; I am born — настоящее время; I were born — с I используется was.",
      "wasn't — we требует weren't; didn't — с местом (at home) нужен be; aren't — настоящее время.",
      "now / usually — настоящее; tomorrow — будущее."
+    ],
+    "tags": [
+     "past-simple",
+     "to-be"
+    ],
+    "extra": [
+     [
+      "I [was] at home yesterday.",
+      "Вчера я был дома.",
+      "I → was."
+     ],
+     [
+      "They [were] very tired.",
+      "Они очень устали.",
+      "they → were."
+     ],
+     [
+      "[Were] you at the party?",
+      "Ты был на вечеринке?",
+      "you → were."
+     ],
+     [
+      "It [wasn't] expensive.",
+      "Это было недорого.",
+      "it → wasn't."
+     ],
+     [
+      "Was she happy? — Yes, she [was].",
+      "Она была рада? — Да.",
+      "Краткий ответ: Yes, she was."
+     ],
+     [
+      "We [weren't] late.",
+      "Мы не опоздали.",
+      "we → weren't."
+     ],
+     [
+      "Where [were] you last night?",
+      "Где ты был вчера вечером?",
+      "you → were."
+     ]
     ]
    },
    {
@@ -1082,6 +1325,46 @@ addUnits("a1", [
      "[t] / [d] — после t окончание -ed произносится [ɪd]; «не произносится» — неверно.",
      "[ɪd] — только после t/d; [d] — после звонких; [ed] — такого произношения нет.",
      "lives / live — настоящее время, а in 2019 — прошлое; is living — Continuous настоящего."
+    ],
+    "tags": [
+     "past-simple"
+    ],
+    "extra": [
+     [
+      "We [visited] Boston last year.",
+      "В прошлом году мы были в Бостоне.",
+      "Правильный глагол + -ed."
+     ],
+     [
+      "She [stayed] at a hotel.",
+      "Она остановилась в отеле.",
+      "Гласная + y → -ed."
+     ],
+     [
+      "I [studied] all night.",
+      "Я учился всю ночь.",
+      "Согласная + y → -ied."
+     ],
+     [
+      "He [stopped] the car.",
+      "Он остановил машину.",
+      "stop → stopped (удвоение)."
+     ],
+     [
+      "They [watched] a movie.",
+      "Они посмотрели фильм.",
+      "watch → watched."
+     ],
+     [
+      "I [called] my mom yesterday.",
+      "Вчера я позвонил маме.",
+      "call → called."
+     ],
+     [
+      "The movie [started] at nine.",
+      "Фильм начался в девять.",
+      "После t -ed читается [ɪd]."
+     ]
     ]
    },
    {
@@ -1246,6 +1529,46 @@ addUnits("a1", [
      "seed — see неправильный; seen — третья форма; sawed — от saw «пилить».",
      "[seɪd] / [said] / [sid] — said произносится [sɛd], как «сэд».",
      "eated — eat неправильный; eaten — третья форма; eat — настоящее время."
+    ],
+    "tags": [
+     "past-simple"
+    ],
+    "extra": [
+     [
+      "I [bought] a new phone.",
+      "Я купил новый телефон.",
+      "buy → bought."
+     ],
+     [
+      "She [went] to Paris.",
+      "Она поехала в Париж.",
+      "go → went."
+     ],
+     [
+      "We [saw] a great movie.",
+      "Мы посмотрели отличный фильм.",
+      "see → saw."
+     ],
+     [
+      "He [ate] all the pizza.",
+      "Он съел всю пиццу.",
+      "eat → ate."
+     ],
+     [
+      "They [came] home late.",
+      "Они пришли домой поздно.",
+      "come → came."
+     ],
+     [
+      "I [had] a great time.",
+      "Я отлично провёл время.",
+      "have → had."
+     ],
+     [
+      "She [took] a taxi.",
+      "Она взяла такси.",
+      "take → took."
+     ]
     ]
    },
    {
@@ -1388,6 +1711,47 @@ addUnits("a1", [
      "did you bought — прошлое уже в did; you bought без did / bought you — неверный порядок.",
      "Did — с прилагательным (tired) используется be; Was — you требует were; Do — настоящее.",
      "came — в кратком ответе повторяем did; does — настоящее; was — вопрос задан с did."
+    ],
+    "tags": [
+     "past-simple",
+     "questions"
+    ],
+    "extra": [
+     [
+      "[Did] you see the game?",
+      "Ты видел игру?",
+      "Вопрос в прошлом → Did."
+     ],
+     [
+      "I [didn't] go to work.",
+      "Я не пошёл на работу.",
+      "Отрицание → didn't."
+     ],
+     [
+      "Did she [call] you?",
+      "Она тебе звонила?",
+      "После did — базовая форма."
+     ],
+     [
+      "Where did you [go]?",
+      "Куда ты ходил?",
+      "Не went, а go после did."
+     ],
+     [
+      "He didn't [buy] anything.",
+      "Он ничего не купил.",
+      "didn't + базовая форма."
+     ],
+     [
+      "Did they win? — No, they [didn't].",
+      "Они выиграли? — Нет.",
+      "Краткий ответ: No, they didn't."
+     ],
+     [
+      "What [did] you have for lunch?",
+      "Что ты ел на обед?",
+      "Wh-вопрос + did."
+     ]
     ]
    },
    {
@@ -1535,6 +1899,46 @@ addUnits("a1", [
      "goes to / going — нет конструкции be going to; is go to — нужна форма going.",
      "got to — «должен»; want to — «хочу» (wanna); go now — «иди сейчас».",
      "check in — заселиться; check up / check off — «проверить», «отметить»."
+    ],
+    "tags": [
+     "future"
+    ],
+    "extra": [
+     [
+      "I'm [going to] buy a car.",
+      "Я собираюсь купить машину.",
+      "План → be going to."
+     ],
+     [
+      "She's going to [visit] her grandma.",
+      "Она собирается навестить бабушку.",
+      "После going to — базовая форма."
+     ],
+     [
+      "[Are] you going to call him?",
+      "Ты собираешься ему позвонить?",
+      "Вопрос: Are you going to…?"
+     ],
+     [
+      "We [aren't] going to stay long.",
+      "Мы не собираемся оставаться надолго.",
+      "Отрицание: aren't going to."
+     ],
+     [
+      "Look at the sky! It's going to [rain].",
+      "Посмотри на небо! Сейчас пойдёт дождь.",
+      "Признаки сейчас → going to."
+     ],
+     [
+      "What [are] you going to do?",
+      "Что ты собираешься делать?",
+      "Wh-вопрос + are."
+     ],
+     [
+      "He's [going to] start a new job.",
+      "Он собирается начать новую работу.",
+      "Намерение → going to."
+     ]
     ]
    }
   ]

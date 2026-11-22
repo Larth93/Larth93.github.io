@@ -137,7 +137,48 @@ addUnits("c2", [
     "text": {
      "en": "Anna had been preparing for this call for a week. Her small design studio in Chicago wanted to renew its contract with a large retail client, but the client had just proposed cutting the budget by thirty percent.\n\n\"Thanks for making time today, Robert,\" she began. \"I know you've been under a lot of pressure this quarter.\"\n\"I appreciate that. Look, I'll be honest: the thirty percent isn't really negotiable.\"\n\"I understand where you're coming from. I was wondering, though, whether there might be some flexibility in how we get there. A straight cut would be difficult for us to justify without reducing the scope.\"\n\"What did you have in mind?\"\n\"Well, we could consider a fifteen percent reduction, provided that we move from monthly reports to quarterly ones. That would free up a lot of our team's time.\"\n\"Hmm. That's not quite what my director had in mind.\"\n\"I appreciate that. What would it take to make it work on your end?\"\n\"If you were able to commit to a two-year contract instead of one, I might be able to sell twenty percent internally.\"\nAnna paused. A longer contract was exactly the security her studio needed, which meant Robert had just shown his hand.\n\"That's an interesting proposal. Let me run it by my partners, but I think we can find some middle ground there.\"\n\"Great. Shall I put something in writing?\"\n\"Please do. I'll get back to you by Friday.\"\nShe hung up and smiled. Twenty percent instead of thirty, and two years of guaranteed work. Not a bad morning.",
      "ru": "Анна готовилась к этому звонку неделю. Её небольшая дизайн-студия в Чикаго хотела продлить контракт с крупным ритейл-клиентом, но клиент только что предложил урезать бюджет на тридцать процентов.\n\n— Спасибо, что нашли время, Роберт, — начала она. — Знаю, в этом квартале на вас большое давление.\n— Ценю. Скажу честно: тридцать процентов — это не обсуждается.\n— Понимаю вашу позицию. Но я хотела узнать, нет ли гибкости в том, как к этому прийти. Прямое сокращение нам будет трудно обосновать без уменьшения объёма работ.\n— Что вы предлагаете?\n— Мы могли бы рассмотреть сокращение на пятнадцать процентов при условии, что перейдём с ежемесячных отчётов на ежеквартальные. Это освободит много времени команды.\n— Хм. Это не совсем то, что имел в виду мой директор.\n— Понимаю. Что потребуется, чтобы это сработало с вашей стороны?\n— Если бы вы смогли подписаться на два года вместо одного, я, возможно, смог бы продать внутри двадцать процентов.\nАнна сделала паузу. Длинный контракт был именно той стабильностью, которая нужна студии, а значит, Роберт только что раскрыл карты.\n— Интересное предложение. Дайте согласовать с партнёрами, но, думаю, мы найдём компромисс.\n— Отлично. Оформить письменно?\n— Да, пожалуйста. Отвечу до пятницы.\nОна повесила трубку и улыбнулась. Двадцать процентов вместо тридцати и два года гарантированной работы. Неплохое утро."
-    }
+    },
+    "tags": [
+     "register",
+     "speaking"
+    ],
+    "extra": [
+     [
+      "I'm [afraid] that might be difficult for us.",
+      "Боюсь, для нас это может быть сложно.",
+      "I'm afraid — смягчение отказа."
+     ],
+     [
+      "Would you be [open] to a longer contract?",
+      "Вы были бы открыты к более длинному контракту?",
+      "Would you be open to...? — дипломатичное предложение."
+     ],
+     [
+      "We could [meet] you halfway on the price.",
+      "Мы могли бы пойти вам навстречу по цене.",
+      "Meet halfway — компромисс."
+     ],
+     [
+      "That's our [bottom] line, I'm afraid.",
+      "Боюсь, это наш крайний вариант.",
+      "Bottom line — предел уступок."
+     ],
+     [
+      "Let's [table] this issue for now.",
+      "Давайте пока отложим этот вопрос.",
+      "Table (AmE) — отложить обсуждение."
+     ],
+     [
+      "We'd need some [flexibility] on delivery dates.",
+      "Нам понадобится гибкость по срокам поставки.",
+      "Мягкая формулировка требования."
+     ],
+     [
+      "Could we [explore] other options?",
+      "Можем ли мы рассмотреть другие варианты?",
+      "Explore — нейтральный дипломатичный глагол."
+     ]
+    ]
    },
    {
     "id": "c2u3l2",
@@ -262,7 +303,47 @@ addUnits("c2", [
     "text": {
      "en": "Fellow graduates, families, and faculty: today we celebrate not an ending but a beginning. Four years ago, many of us arrived on this campus uncertain, unprepared, and, let's be honest, a little bit terrified. We didn't know where the library was. We didn't know how to do our own laundry. We didn't know who we wanted to become. Today, we leave with answers to at least two of those questions.\n\nYou have been told, over and over, that the world you are entering is broken. That the economy is unstable, that the climate is in crisis, that people no longer listen to one another. Some of that is true. But I refuse to believe that our generation was born simply to inherit problems. We were born to solve them.\n\nConsider what we have already done. We organized food drives when the dining halls closed. We tutored kids from neighborhoods this university once ignored. We built apps, started clubs, and stayed up until three in the morning arguing about ideas that mattered. Is that the record of a hopeless generation?\n\nThere will be people who say you're too young, too idealistic, too inexperienced. Let them talk. Experience is not what happens to you; it is what you do with what happens to you.\n\nSo do not ask whether the world is ready for you. Ask whether you are ready for the world. Be curious. Be brave. Be kind. And when the moment comes, and it will, do not wait for permission to lead.\n\nCongratulations, class of 2026.",
      "ru": "Дорогие выпускники, родные и преподаватели: сегодня мы празднуем не конец, а начало. Четыре года назад многие из нас приехали в этот кампус неуверенными, неподготовленными и, будем честны, немного напуганными. Мы не знали, где библиотека. Мы не умели стирать себе одежду. Мы не знали, кем хотим стать. Сегодня мы уходим с ответами хотя бы на два из этих вопросов.\n\nВам снова и снова говорили, что мир, в который вы вступаете, сломан. Что экономика нестабильна, климат в кризисе, люди больше не слушают друг друга. Отчасти это правда. Но я отказываюсь верить, что наше поколение родилось лишь для того, чтобы унаследовать проблемы. Мы родились, чтобы их решать.\n\nПосмотрите, что мы уже сделали. Мы организовывали сбор еды, когда закрылись столовые. Мы занимались с детьми из районов, которые этот университет когда-то игнорировал. Мы создавали приложения, основывали клубы и до трёх ночи спорили о по-настоящему важных идеях. Разве это летопись безнадёжного поколения?\n\nНайдутся люди, которые скажут, что вы слишком молоды, слишком идеалистичны, слишком неопытны. Пусть говорят. Опыт — это не то, что с вами происходит; это то, что вы делаете с тем, что с вами происходит.\n\nТак не спрашивайте, готов ли мир к вам. Спросите, готовы ли вы к миру. Будьте любопытны. Будьте смелы. Будьте добры. И когда настанет момент — а он настанет, — не ждите разрешения, чтобы вести за собой.\n\nПоздравляю, выпуск 2026 года."
-    }
+    },
+    "tags": [
+     "style-rhetoric"
+    ],
+    "extra": [
+     [
+      "\"Ask not what your country can do for you\" uses [antithesis].",
+      "«Не спрашивай, что страна может сделать для тебя» — пример антитезы.",
+      "Antithesis — противопоставление."
+     ],
+     [
+      "Repeating \"We shall fight\" is [anaphora].",
+      "Повтор «We shall fight» — анафора.",
+      "Anaphora — повтор начала фраз."
+     ],
+     [
+      "Citing your expertise is an appeal to [ethos].",
+      "Ссылка на свою экспертизу — апелляция к этосу.",
+      "Ethos — доверие к оратору."
+     ],
+     [
+      "Statistics appeal to [logos].",
+      "Статистика апеллирует к логосу.",
+      "Logos — логика."
+     ],
+     [
+      "The sad photo was pure [pathos].",
+      "Грустное фото — чистый пафос.",
+      "Pathos — эмоции."
+     ],
+     [
+      "That's a [straw man] of my argument.",
+      "Это искажение моего аргумента.",
+      "Straw man — подмена позиции оппонента."
+     ],
+     [
+      "His question was purely [rhetorical].",
+      "Его вопрос был чисто риторическим.",
+      "Rhetorical question — без ожидания ответа."
+     ]
+    ]
    },
    {
     "id": "c2u3l3",
@@ -408,7 +489,48 @@ addUnits("c2", [
     "text": {
      "en": "When my friend Olga started working at a tech company in Seattle, she called me after her first week, completely confused. \"I understand every word they say,\" she complained, \"but half the time I have no idea what they mean.\" On Monday, her manager asked for a ballpark figure on a project budget. She thought he was talking about a stadium. On Tuesday, a colleague said that a competitor's new product had come out of left field, and that if their team dropped the ball now, it would be a disaster. On Wednesday, during a heated meeting, someone described the new monitoring software as \"totally Orwellian,\" and everyone nodded gravely. By Thursday, she discovered that she needed a security clearance to access the files she needed to get the clearance, which her teammate cheerfully called \"a classic Catch-22.\" The final straw came on Friday. The sales director announced that the company's last-minute pitch to a major client was \"a Hail Mary,\" and that if it failed, they'd all need a Good Samaritan to bail them out. Olga spent the weekend going down a rabbit hole of explanations online. She learned that American office talk is built on layers of baseball, football, the Bible, and twentieth-century novels. A month later, she proudly told me she'd used \"slam dunk\" in a meeting and nobody blinked. \"I'm basically a native now,\" she joked. Then she paused. \"Although yesterday someone said I was Monday-morning quarterbacking, and I'm still not sure whether that was an insult.\"",
      "ru": "Когда моя подруга Ольга начала работать в техкомпании в Сиэтле, она позвонила мне после первой недели в полном замешательстве. «Я понимаю каждое слово, — жаловалась она, — но в половине случаев не понимаю, что они имеют в виду». В понедельник руководитель попросил примерную цифру по бюджету проекта (ballpark figure). Она решила, что он говорит о стадионе. Во вторник коллега сказал, что новый продукт конкурента появился как гром среди ясного неба и что если их команда сейчас облажается, будет катастрофа. В среду на жарком совещании кто-то назвал новую программу мониторинга «совершенно оруэлловской», и все мрачно кивнули. К четвергу она обнаружила, что для доступа к файлам, необходимым для получения допуска, ей нужен допуск, что коллега бодро назвал «классической Уловкой-22». Последней каплей стала пятница. Директор по продажам объявил, что последняя попытка компании заполучить крупного клиента — «Hail Mary», и если она провалится, всем понадобится добрый самаритянин, чтобы их спасти. Ольга провела выходные, залипнув на объяснения в интернете. Она узнала, что американский офисный язык построен на слоях бейсбола, американского футбола, Библии и романов двадцатого века. Через месяц она гордо сообщила, что сказала «slam dunk» на совещании, и никто бровью не повёл. «Я теперь практически носитель», — пошутила она. Потом помолчала. «Хотя вчера мне сказали, что я «Monday-morning quarterbacking», и я до сих пор не уверена, было ли это оскорблением»."
-    }
+    },
+    "tags": [
+     "idioms",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "The final pass was a real [Hail Mary].",
+      "Последний пас был настоящим отчаянным броском.",
+      "Hail Mary — отчаянная попытка в последний момент."
+     ],
+     [
+      "We all gather to watch the [Super Bowl].",
+      "Мы все собираемся смотреть Супербоул.",
+      "Главное спортивное событие США."
+     ],
+     [
+      "The town feels like [Groundhog Day].",
+      "В этом городе каждый день как день сурка.",
+      "Groundhog Day — бесконечное повторение."
+     ],
+     [
+      "Cameras everywhere — [Big Brother] is watching.",
+      "Камеры повсюду — Большой Брат следит.",
+      "Отсылка к Оруэллу."
+     ],
+     [
+      "He's a real [Scrooge] at Christmas.",
+      "Он настоящий Скрудж на Рождество.",
+      "Scrooge — скряга (Диккенс)."
+     ],
+     [
+      "That startup was his [Achilles'] heel.",
+      "Этот стартап был его ахиллесовой пятой.",
+      "Слабое место."
+     ],
+     [
+      "Opening that email was like opening [Pandora's] box.",
+      "Открыть то письмо — как открыть ящик Пандоры.",
+      "Источник множества бед."
+     ]
+    ]
    }
   ]
  },
@@ -554,7 +676,48 @@ addUnits("c2", [
     "text": {
      "en": "Below is a cover letter that a job applicant asked a friend to proofread. The errors are subtle; see how many you can spot before reading the explanations.\n\n\"To who it may concern,\n\nI am writing to apply for the Marketing Coordinator position. Having worked in digital marketing for five years, my skills include content strategy, social media management, and to analyze campaign data. One of my greatest strengths are my attention to detail. In my previous role, our team reduced customer complaints by 40% and had less missed deadlines than any other department. Each of my projects have been delivered on time. I believe my experience is different than other candidates, and I would welcome the opportunity to discuss it with you and your team. The company and it's mission truly inspire me. Between you and I, I have admired your brand for years.\"\n\nHere are the corrections. First, \"To who\" should be \"To whom,\" since it follows a preposition. Second, the sentence beginning \"Having worked\" contains a dangling modifier: it is not \"my skills\" that worked for five years. Better: \"Having worked in digital marketing for five years, I have developed skills in...\" Third, \"to analyze\" breaks the parallel structure; it should be \"data analysis.\" Fourth, \"One of my greatest strengths are\" needs \"is.\" Fifth, deadlines are countable, so \"fewer,\" not \"less.\" Sixth, \"Each of my projects has.\" Seventh, formal American English prefers \"different from.\" Eighth, \"it's\" should be \"its.\" Finally, \"between you and I\" is a hypercorrection; the correct form is \"between you and me,\" though the phrase is too informal for a cover letter anyway.",
      "ru": "Ниже — сопроводительное письмо, которое соискатель попросил друга вычитать. Ошибки тонкие; посмотрите, сколько найдёте, прежде чем читать объяснения.\n\n«Тем, кого это касается,\n\nПишу, чтобы откликнуться на должность координатора по маркетингу. Проработав в цифровом маркетинге пять лет, мои навыки включают контент-стратегию, управление соцсетями и анализировать данные кампаний. Одна из моих сильнейших сторон — внимание к деталям. На прошлой работе наша команда сократила жалобы клиентов на 40% и имела меньше сорванных сроков, чем любой другой отдел. Каждый из моих проектов был сдан вовремя. Полагаю, мой опыт отличается от других кандидатов, и буду рад возможности обсудить его с вами и вашей командой. Компания и её миссия по-настоящему меня вдохновляют. Между нами, я восхищаюсь вашим брендом много лет».\n\nВот исправления. Во-первых, «To who» нужно заменить на «To whom», так как стоит после предлога. Во-вторых, предложение с «Having worked» содержит висячий оборот: пять лет работали не «мои навыки». Лучше: «Having worked in digital marketing for five years, I have developed skills in...» В-третьих, «to analyze» нарушает параллелизм; нужно «data analysis». В-четвёртых, в «One of my greatest strengths are» нужно «is». В-пятых, сроки исчисляемы, поэтому «fewer», а не «less». В-шестых, «Each of my projects has». В-седьмых, формальный американский английский предпочитает «different from». В-восьмых, «it's» должно быть «its». Наконец, «between you and I» — гиперкоррекция; правильно «between you and me», хотя фраза в любом случае слишком неформальна для сопроводительного письма."
-    }
+    },
+    "tags": [
+     "writing",
+     "confusing-words"
+    ],
+    "extra": [
+     [
+      "Neither of the answers [is] correct.",
+      "Ни один из ответов не верен.",
+      "Neither of — согласование в ед. числе в формальной речи."
+     ],
+     [
+      "[Whom] did you invite?",
+      "Кого ты пригласил?",
+      "Whom — объект глагола."
+     ],
+     [
+      "Walking home, [I] saw a fox.",
+      "Идя домой, я увидел лису.",
+      "Подлежащее должно совершать действие причастия."
+     ],
+     [
+      "There's [less] traffic today.",
+      "Сегодня меньше машин.",
+      "Less с неисчисляемым traffic."
+     ],
+     [
+      "The team [has] chosen its captain.",
+      "Команда выбрала капитана.",
+      "В AmE собирательное — ед. число."
+     ],
+     [
+      "Everyone brought [their] own lunch.",
+      "Все принесли свой обед.",
+      "Singular they после everyone."
+     ],
+     [
+      "Each of the rooms [has] a view.",
+      "Из каждой комнаты есть вид.",
+      "Each of — ед. число."
+     ]
+    ]
    },
    {
     "id": "c2u4l2",
@@ -704,7 +867,48 @@ addUnits("c2", [
     "text": {
      "en": "Here is a short paragraph from a company newsletter, followed by an editor's notes.\n\nOriginal: \"The new remote work policy, which was announced last week has effected nearly every department. The HR team, that comprises of six specialists, has received many complaints, most employees feel the changes were rushed. Some managers have implied from the survey results that morale is low, others disagree. As the CEO said in her memo, the policy is 'a historical step forward'. We are actually discussing this question at the principle level and the final decision will be made eventually, possibly next month.\"\n\nEditor's notes: In the first sentence, a closing comma is missing after \"last week,\" since the \"which\" clause is nonrestrictive and needs commas on both sides. Also, \"effected\" should be \"affected\"; the policy influenced departments rather than brought them into existence. In the second sentence, the restrictive \"that\" is wrong with commas; use \"which.\" And \"comprises of\" should simply be \"comprises.\" The sentence also contains a comma splice before \"most employees\"; a semicolon fixes it. In the third, managers \"inferred\" from the results; they didn't \"imply\" anything. Another comma splice follows: add \"but\" before \"others.\" In the CEO quote, \"historic\" means important, while \"historical\" just means related to history. In American style, the period goes inside the quotation marks. Next, \"actually\" is a false friend: the writer meant \"currently.\" \"Principle\" should be \"principal,\" or better, \"at the leadership level.\" Finally, \"eventually\" means \"in the end,\" not \"possibly,\" so \"eventually, possibly next month\" is contradictory. A cleaner version: \"A final decision is expected next month.\"",
      "ru": "Вот короткий абзац из корпоративной рассылки и заметки редактора.\n\nОригинал: «Новая политика удалённой работы, которая была объявлена на прошлой неделе повлияла почти на каждый отдел. Отдел кадров, состоящий из шести специалистов, получил много жалоб, большинство сотрудников считают изменения поспешными. Некоторые менеджеры сделали вывод из результатов опроса, что моральный дух низкий, другие не согласны. Как сказала гендиректор в своей записке, политика — «исторический шаг вперёд». Мы сейчас обсуждаем этот вопрос на уровне руководства, и окончательное решение будет принято, возможно, в следующем месяце».\n\nЗаметки редактора: В первом предложении не хватает закрывающей запятой после «last week», так как придаточное с «which» неограничительное и требует запятых с обеих сторон. Кроме того, «effected» нужно заменить на «affected»: политика повлияла на отделы, а не создала их. Во втором предложении ограничительное «that» с запятыми неверно; используйте «which». И «comprises of» должно быть просто «comprises». Также в предложении есть comma splice перед «most employees»; исправляется точкой с запятой. В третьем менеджеры «inferred» (сделали вывод) из результатов, а не «implied» (намекнули). Далее ещё один comma splice: добавьте «but» перед «others». В цитате гендиректора «historic» значит важный, а «historical» — просто относящийся к истории. В американском стиле точка ставится внутри кавычек. Далее, «actually» — ложный друг: автор имел в виду «currently» (сейчас). «Principle» должно быть «principal», а лучше «at the leadership level». Наконец, «eventually» значит «в конце концов», а не «возможно», поэтому «eventually, possibly next month» противоречиво. Чище: «A final decision is expected next month»."
-    }
+    },
+    "tags": [
+     "writing",
+     "confusing-words"
+    ],
+    "extra": [
+     [
+      "The new law will [effect] major change.",
+      "Новый закон произведёт крупные перемены.",
+      "Effect как глагол — «осуществить»."
+     ],
+     [
+      "The course [comprises] five modules.",
+      "Курс состоит из пяти модулей.",
+      "Comprise без of."
+     ],
+     [
+      "I bought eggs, milk, [and] bread.",
+      "Я купил яйца, молоко и хлеб.",
+      "Оксфордская запятая перед and."
+     ],
+     [
+      "It's late, [so] let's go home.",
+      "Поздно, так что пойдём домой.",
+      "Союз so исправляет comma splice."
+     ],
+     [
+      "The dog wagged [its] tail.",
+      "Собака виляла хвостом.",
+      "Its — притяжательное, без апострофа."
+     ],
+     [
+      "Please [ensure] the door is locked.",
+      "Убедитесь, что дверь заперта.",
+      "Ensure — обеспечить; insure — страховать."
+     ],
+     [
+      "This policy will not [affect] current staff.",
+      "Эта политика не затронет нынешних сотрудников.",
+      "Affect — глагол «влиять»."
+     ]
+    ]
    },
    {
     "id": "c2u4l3",
@@ -830,7 +1034,48 @@ addUnits("c2", [
     "text": {
      "en": "Here's a story a friend told me over coffee, transcribed exactly as she said it.\n\n\"So, okay, you know how I was supposed to fly to Denver last weekend for my cousin's wedding? So I get to the airport, like, two hours early, which, I mean, is not like me at all, right? And I'm feeling super proud of myself. Anyway, I go to check in, and the lady at the desk is like, 'Ma'am, this flight left yesterday.' And I'm like, 'Excuse me?' Turns out I'd booked it for the wrong day. Like, a whole day off.\"\n\"No way.\"\n\"Yes way. So I'm standing there, basically having a meltdown, and she goes, 'Let me see what I can do.' And honestly, she was amazing. She found me a seat on a flight that, like, technically was full, but someone hadn't shown up.\"\n\"That's wild.\"\n\"Right? But here's the thing. The flight had a layover in Salt Lake City, and the connection was, I kid you not, twenty-five minutes. So I literally ran through the whole airport. I mean, I was sweating, my bag was falling apart, people were staring.\"\n\"Did you make it?\"\n\"Barely. Like, they were closing the door. And then, you know, I get to the wedding, and guess what? I'm sitting at a table with the guy who'd been next to me on the first flight. He was the groom's brother.\"\n\"Get out of here.\"\n\"I swear. And we've been texting all week. So yeah. Best mistake I ever made, I guess.\"",
      "ru": "Вот история, которую подруга рассказала мне за кофе, записанная дословно.\n\n«Короче, ну ты же знаешь, что я должна была лететь в Денвер на свадьбу кузины? Ну вот, приезжаю я в аэропорт, типа, за два часа, что, ну, совсем на меня не похоже, да? И я такая собой горжусь. В общем, иду на регистрацию, а тётенька за стойкой такая: «Мэм, этот рейс улетел вчера». А я такая: «Простите?» Оказалось, я забронировала не на тот день. Типа, на целый день мимо».\n«Да ладно».\n«Да вот. И стою я там, практически в истерике, а она говорит: «Сейчас посмотрю, что можно сделать». И честно, она была потрясающая. Нашла мне место на рейсе, который, типа, формально был полный, но кто-то не явился».\n«Вот это да».\n«Да? Но вот в чём фишка. У рейса была пересадка в Солт-Лейк-Сити, и стыковка была, не шучу, двадцать пять минут. Так что я буквально бежала через весь аэропорт. То есть я вся мокрая, сумка разваливается, люди пялятся».\n«Успела?»\n«Еле-еле. Типа, уже дверь закрывали. А потом, понимаешь, приезжаю на свадьбу, и угадай что? Сижу за одним столом с парнем, который сидел рядом со мной на первом рейсе. Он оказался братом жениха».\n«Да не может быть».\n«Клянусь. И мы всю неделю переписываемся. Вот так. Лучшая ошибка в моей жизни, наверное»."
-    }
+    },
+    "tags": [
+     "speaking",
+     "listening"
+    ],
+    "extra": [
+     [
+      "It's, [like], really far away.",
+      "Это, типа, очень далеко.",
+      "Like — филлер-хедж."
+     ],
+     [
+      "[You know], it's hard to explain.",
+      "Знаешь, это сложно объяснить.",
+      "You know — апелляция к собеседнику."
+     ],
+     [
+      "We missed the bus, [so yeah].",
+      "Мы опоздали на автобус, вот так.",
+      "So yeah — завершение рассказа."
+     ],
+     [
+      "I was [kinda] hoping you'd call.",
+      "Я вроде как надеялся, что ты позвонишь.",
+      "Kinda — смягчение."
+     ],
+     [
+      "[Well], that's one way to put it.",
+      "Ну, можно и так сказать.",
+      "Well — пауза и сомнение."
+     ],
+     [
+      "It was, [I dunno], weird.",
+      "Это было, не знаю, странно.",
+      "I dunno — разговорная неуверенность."
+     ],
+     [
+      "[Anyway], where was I?",
+      "В общем, на чём я остановился?",
+      "Anyway — возврат к теме."
+     ]
+    ]
    },
    {
     "id": "c2u4l4",
@@ -972,7 +1217,48 @@ addUnits("c2", [
     "text": {
      "en": "Review: \"Echoes of Ash\" (PlayStation 5, PC)\n\nFew games this year arrived with as much hype as \"Echoes of Ash,\" the long-awaited open-world adventure from Redline Studios. For the most part, it delivers, though not without stumbling along the way.\n\nThe opening hours are nothing short of a tour de force. The ruined city of Varnholm is rendered in breathtaking detail, and the sense of exploration is genuinely gripping. Combat, too, is a masterclass in responsive design: every dodge and parry feels deliberate, and boss fights strike a rare balance between challenge and fairness.\n\nWhere the game falters is in its storytelling. The central plot, a grieving soldier searching for her missing brother, is competent but derivative, borrowing heavily from \"The Last of Us\" without capturing its emotional depth. The supporting cast is uneven: while the cynical smuggler Kade steals every scene he's in, most other characters are paper-thin, and their dialogue is often clunky. A late-game twist, clearly intended as a gut punch, falls flat because it's telegraphed hours in advance. The environmental message, meanwhile, is heavy-handed to the point of preachiness.\n\nAt roughly sixty hours, the campaign also overstays its welcome. The final act is padded with repetitive fetch quests that feel like the developers were running out of ideas, or time.\n\nStill, for all its flaws, \"Echoes of Ash\" is far from underwhelming. What it lacks in narrative ambition, it more than makes up for in atmosphere and sheer mechanical polish. It's not the masterpiece some predicted, but it is a confident, memorable adventure that fans of the genre shouldn't miss.\n\nVerdict: 8/10",
      "ru": "Рецензия: «Echoes of Ash» (PlayStation 5, ПК)\n\nНемногие игры этого года выходили с таким ажиотажем, как «Echoes of Ash», долгожданное приключение в открытом мире от Redline Studios. По большей части она оправдывает ожидания, хотя и спотыкается по пути.\n\nПервые часы — не что иное, как шедевр. Разрушенный город Варнхольм прорисован с потрясающей детализацией, а ощущение исследования по-настоящему захватывает. Бои тоже — мастер-класс отзывчивого дизайна: каждый уворот и парирование ощущаются осмысленно, а схватки с боссами достигают редкого баланса между сложностью и честностью.\n\nСлабость игры — в повествовании. Центральный сюжет, скорбящая солдатка ищет пропавшего брата, — добротный, но вторичный, активно заимствует у «The Last of Us», не достигая её эмоциональной глубины. Второстепенные персонажи неровные: циничный контрабандист Кейд крадёт каждую сцену, а большинство остальных персонажей картонные, и диалоги часто топорные. Поздний сюжетный поворот, явно задуманный как удар под дых, не срабатывает, потому что его видно за несколько часов. Экологический посыл тем временем подан в лоб до назидательности.\n\nПримерно в шестьдесят часов кампания ещё и затянута. Финальный акт набит однообразными заданиями «принеси-подай», будто у разработчиков кончались идеи — или время.\n\nИ всё же, при всех недостатках, «Echoes of Ash» далеко не разочаровывает. Чего ей не хватает в амбициях повествования, она с лихвой компенсирует атмосферой и механической отточенностью. Это не шедевр, который некоторые предсказывали, но уверенное, запоминающееся приключение, которое любителям жанра не стоит пропускать.\n\nВердикт: 8/10"
-    }
+    },
+    "tags": [
+     "writing",
+     "collocations"
+    ],
+    "extra": [
+     [
+      "The sequel feels [uneven] in places.",
+      "Сиквел местами неровный.",
+      "Uneven — непостоянное качество."
+     ],
+     [
+      "The young actor holds his [own] against the stars.",
+      "Молодой актёр не уступает звёздам.",
+      "Hold one's own — держаться на равных."
+     ],
+     [
+      "The ending is [deeply] satisfying.",
+      "Концовка приносит глубокое удовлетворение.",
+      "Deeply satisfying — устойчивое сочетание."
+     ],
+     [
+      "The plot [drags] in the middle.",
+      "Сюжет затягивается в середине.",
+      "Drag — становиться скучным."
+     ],
+     [
+      "The film is [visually] stunning.",
+      "Фильм визуально потрясающий.",
+      "Visually stunning — частая оценка."
+     ],
+     [
+      "Her debut novel is a [triumph].",
+      "Её дебютный роман — триумф.",
+      "Triumph — высокая похвала."
+     ],
+     [
+      "The dialogue feels [wooden].",
+      "Диалоги звучат деревянно.",
+      "Wooden — неестественный."
+     ]
+    ]
    }
   ]
  }

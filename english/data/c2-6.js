@@ -122,7 +122,48 @@ addUnits("c2", [
     "text": {
      "en": "Sports metaphors are the hidden operating system of American English, and most of them come from games that Russians barely know. In my first month at a company in Texas, I heard that a project was \"in the red zone,\" that our CEO had \"punted\" a decision, and that a colleague had \"knocked it out of the park.\" I nodded along, completely lost. The red zone, it turns out, is the last twenty yards before scoring in American football, so the project was almost finished. To punt is to kick the ball away when you can't advance, so the CEO had postponed the decision. And knocking it out of the park is a home run in baseball, so my colleague had done brilliantly. Once I started paying attention, these references were everywhere. People asked for a \"ballpark figure\" when they wanted an estimate, said something came \"out of left field\" when it surprised them, and called a desperate last attempt a \"Hail Mary.\" Television adds its own layer. When someone says a series has \"jumped the shark,\" they are referencing a famously silly moment from an old sitcom, and they mean the show has passed its peak. Internet culture adds another layer still, though here you have to be careful. Some memes, like calling a demanding customer a \"Karen,\" can feel harmless online but offensive in person. My approach now is to keep a notebook of references, look up the origin of each one, and use only the ones that feel neutral. The point is not to sound American. It is to stop missing half the meeting because everyone is secretly talking about football.",
      "ru": "Спортивные метафоры — скрытая операционная система американского английского, и большинство из них пришло из игр, которых русские почти не знают. В первый месяц в техасской компании я услышал, что проект «в красной зоне», что наш гендиректор «пробил пант» по решению, а коллега «выбил мяч из парка». Я кивал, совершенно потерянный. Красная зона, оказывается, — последние двадцать ярдов перед очками в американском футболе, то есть проект почти завершён. Пант — выбить мяч ногой, когда не можешь продвинуться, то есть гендиректор отложил решение. А выбить мяч из парка — хоум-ран в бейсболе, то есть коллега справился блестяще. Когда я начал обращать внимание, эти отсылки оказались повсюду. Люди просили «примерную цифру», говоря «ballpark figure», говорили, что что-то пришло «с левого поля», когда это удивляло, и называли отчаянную последнюю попытку «Hail Mary». Телевидение добавляет свой слой. Когда говорят, что сериал «перепрыгнул акулу», это отсылка к знаменито нелепому моменту старого ситкома, и имеется в виду, что шоу прошло свой пик. Интернет-культура добавляет ещё слой, но тут надо быть осторожным. Некоторые мемы, например называть требовательную клиентку «Карен», могут казаться безобидными в сети, но обидными вживую. Мой подход теперь — вести блокнот отсылок, выяснять происхождение каждой и использовать только нейтральные. Цель не в том, чтобы звучать как американец. А в том, чтобы перестать пропускать полвстречи, потому что все втайне говорят о футболе."
-    }
+    },
+    "tags": [
+     "idioms",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "Stop being a Monday morning [quarterback].",
+      "Хватит быть задним умом крепким.",
+      "Критика задним числом."
+     ],
+     [
+      "The deal was a [slam dunk].",
+      "Сделка была верняком.",
+      "Slam dunk."
+     ],
+     [
+      "That question came out of left [field].",
+      "Вопрос был неожиданным.",
+      "Left field — бейсбол."
+     ],
+     [
+      "Let's [touch] base after lunch.",
+      "Сверимся после обеда.",
+      "Бейсбольная метафора."
+     ],
+     [
+      "He [struck] out with her.",
+      "У него с ней не вышло.",
+      "Strike out."
+     ],
+     [
+      "That's [above] my pay grade.",
+      "Это не моего уровня решение.",
+      "Above my pay grade."
+     ],
+     [
+      "She's the [MVP] of our team.",
+      "Она самый ценный игрок команды.",
+      "MVP."
+     ]
+    ]
    },
    {
     "id": "c2u33l2",
@@ -249,7 +290,48 @@ addUnits("c2", [
     "text": {
      "en": "If you want to test your English at the highest level, watch stand-up comedy without subtitles. A comedy special is basically an hour of rapid, rhythmic, culturally loaded speech, and laughter is instant feedback on whether you understood. When I started, I laughed about five seconds after everyone else, which is its own kind of comedy. Then I began to study the structure, and it changed how I listened. Almost every joke has two parts. The setup builds an expectation, and the punchline breaks it. Good comedians use misdirection, guiding you toward one meaning so that the twist lands harder. Imagine a comic saying, \"My doctor told me I need to cut back on things that make me happy. So I stopped going to the doctor.\" The setup points toward giving up something fun, and the punchline flips the target. Another classic tool is the rule of three: two ordinary items and then an absurd one. \"I packed my passport, my charger, and my lingering resentment toward my father.\" The rhythm sets up a pattern, and the third item breaks it. Then there are callbacks, where a comedian returns to an earlier joke near the end of the set, and the audience laughs twice as hard because they feel included. What struck me most was timing. The same words can kill or bomb depending on a half-second pause before the punchline or a slight shift in stress. That is something you cannot learn from textbooks. Watching comedians taught me that native fluency is not only vocabulary. It is rhythm, silence, and knowing exactly when to let a sentence land.",
      "ru": "Если хотите проверить английский на высшем уровне, смотрите стендап без субтитров. Комедийный спешл — это, по сути, час быстрой, ритмичной, культурно насыщенной речи, а смех — мгновенная обратная связь о том, поняли ли вы. Сначала я смеялся секунд на пять позже всех, что само по себе комедия. Потом начал изучать структуру, и это изменило то, как я слушаю. Почти у каждой шутки две части. Подводка создаёт ожидание, а панчлайн его ломает. Хорошие комики используют ложный след, ведя вас к одному смыслу, чтобы поворот ударил сильнее. Представьте комика: «Врач сказал, что мне надо меньше того, что делает меня счастливым. Так что я перестал ходить к врачу». Подводка указывает на отказ от чего-то приятного, а панчлайн меняет мишень. Ещё один классический инструмент — правило трёх: два обычных пункта и один абсурдный. «Я упаковал паспорт, зарядку и затаённую обиду на отца». Ритм задаёт шаблон, а третий пункт его ломает. Есть ещё колбэки — комик возвращается к ранней шутке ближе к концу, и зал смеётся вдвое сильнее, потому что чувствует себя посвящённым. Больше всего меня поразил тайминг. Одни и те же слова могут порвать зал или провалиться в зависимости от полусекундной паузы перед панчлайном или лёгкого сдвига ударения. Этому не научишься по учебникам. Наблюдение за комиками научило меня, что беглость носителя — не только словарь. Это ритм, тишина и умение точно знать, когда дать фразе приземлиться."
-    }
+    },
+    "tags": [
+     "speaking",
+     "vocabulary-topic"
+    ],
+    "extra": [
+     [
+      "The [punchline] got a huge laugh.",
+      "Панчлайн вызвал взрыв смеха.",
+      "Punchline."
+     ],
+     [
+      "His [setup] was too long.",
+      "Его подводка была слишком длинной.",
+      "Setup."
+     ],
+     [
+      "The comic [bombed] at the club.",
+      "Комик провалился в клубе.",
+      "Bomb — провалиться."
+     ],
+     [
+      "She used the rule of [three].",
+      "Она использовала правило трёх.",
+      "Rule of three."
+     ],
+     [
+      "He has great comic [timing].",
+      "У него отличное комическое чутьё.",
+      "Timing."
+     ],
+     [
+      "The crowd [heckled] him.",
+      "Публика его освистывала.",
+      "Heckle."
+     ],
+     [
+      "That bit [landed] perfectly.",
+      "Этот номер зашёл идеально.",
+      "Land — сработать."
+     ]
+    ]
    },
    {
     "id": "c2u33l3",
@@ -368,7 +450,48 @@ addUnits("c2", [
     "text": {
      "en": "The first time my American coworkers teased me, I almost took it badly. I had shown up to a team lunch in a very formal shirt, and Marcus looked me up and down and said, \"Who died?\" Everyone laughed. I felt my face get hot and started explaining that I had a client meeting later. Marcus just grinned and said, \"Dude, I'm messing with you. You look great. Like a mortician, but great.\" It took me months to understand that in many American workplaces, teasing is a sign that you have been accepted. People rarely rib someone they dislike or don't know. They stay polite and distant instead. Gentle mockery says, \"You're one of us now, and I trust you to handle this.\" The expected response is not a defense; it is a return volley. If I could replay that lunch, I would say something like, \"Says the guy wearing the same hoodie for the third day in a row.\" Everyone would laugh again, and the moment would end with both of us closer. The other half of the culture is self-deprecating humor, joking about yourself before anyone else can. Americans use it to look humble and approachable, especially people with status. A senior manager saying, \"I'm technically the boss, but my kids don't listen to me either,\" instantly relaxes a room. Of course, there are limits. Good teasing targets small, harmless things: clothes, coffee habits, a terrible playlist. It does not target weight, money problems, family tragedies, or identity. When teasing crosses that line, it is no longer a joke, and saying \"I was just kidding\" does not fix it.",
      "ru": "Когда американские коллеги впервые меня подкололи, я чуть не обиделся. Я пришёл на командный обед в очень официальной рубашке, и Маркус оглядел меня с головы до ног и сказал: «Кто умер?» Все засмеялись. Я почувствовал, как горит лицо, и начал объяснять, что позже у меня встреча с клиентом. Маркус только ухмыльнулся: «Чувак, я прикалываюсь. Выглядишь отлично. Как работник похоронного бюро, но отлично». Мне потребовались месяцы, чтобы понять: во многих американских офисах подкол — знак того, что тебя приняли. Люди редко подтрунивают над теми, кого не любят или не знают. С ними они вежливы и держат дистанцию. Мягкая насмешка говорит: «Ты теперь один из нас, и я доверяю тебе с этим справиться». Ожидаемый ответ — не оправдание, а ответная подача. Если бы я мог переиграть тот обед, сказал бы что-то вроде: «Сказал парень, который третий день подряд в одной толстовке». Все снова бы засмеялись, и момент закончился бы тем, что мы стали ближе. Вторая половина культуры — самоирония, шутки над собой раньше, чем пошутят другие. Американцы используют её, чтобы казаться скромными и доступными, особенно люди со статусом. Старший менеджер, говорящий «Формально я начальник, но дети меня тоже не слушаются», мгновенно расслабляет комнату. Конечно, есть границы. Хороший подкол целится в мелкие безобидные вещи: одежду, кофейные привычки, ужасный плейлист. Не в вес, денежные проблемы, семейные трагедии или идентичность. Когда подкол пересекает эту черту, это уже не шутка, и «я просто шутил» этого не исправит."
-    }
+    },
+    "tags": [
+     "slang-colloquial",
+     "pragmatics"
+    ],
+    "extra": [
+     [
+      "We [roasted] him at his birthday.",
+      "Мы подкалывали его на дне рождения.",
+      "Roast."
+     ],
+     [
+      "They [ribbed] him about his haircut.",
+      "Они подтрунивали над его стрижкой.",
+      "Rib."
+     ],
+     [
+      "Don't take it [personally].",
+      "Не принимай на свой счёт.",
+      "Personally."
+     ],
+     [
+      "I'm [pulling] your leg.",
+      "Я тебя разыгрываю.",
+      "Pull someone's leg."
+     ],
+     [
+      "He [teased] her about her accent.",
+      "Он дразнил её из-за акцента.",
+      "Tease."
+     ],
+     [
+      "I'm terrible with names — [classic] me.",
+      "Я ужасно запоминаю имена — классический я.",
+      "Самоирония."
+     ],
+     [
+      "No [offense], but that's a bad idea.",
+      "Без обид, но идея плохая.",
+      "No offense."
+     ]
+    ]
    },
    {
     "id": "c2u33l4",
@@ -496,7 +619,48 @@ addUnits("c2", [
     "text": {
      "en": "American English has a strong instinct to cushion uncomfortable topics, and if you translate directly from Russian, you can sound much harsher than you intend. Death is the clearest example. Americans rarely say someone \"died\" in a personal context. They say \"passed away,\" \"passed,\" or \"we lost him.\" When a coworker shares that a parent has passed, the expected response is short and fixed: \"I'm so sorry for your loss.\" Long questions about how it happened are usually inappropriate. Work is another sensitive area. Being \"fired\" implies you did something wrong. Being \"laid off\" means the company cut positions for budget reasons, and it carries far less stigma. People who are unemployed often describe themselves as \"between jobs\" or \"taking some time to figure out what's next.\" On a résumé gap, that framing matters. Bodies and money follow the same pattern. Someone is \"heavyset\" or \"plus-size\" rather than fat, and neighborhoods are \"low-income\" rather than poor. Even bathrooms get the treatment. In a restaurant you ask for the \"restroom,\" and the word \"toilet\" refers specifically to the fixture, so asking for it can sound oddly graphic. Corporate language takes euphemism further still, turning problems into \"challenges\" and layoffs into \"restructuring.\" Some critics argue this softening hides reality, and they have a point. Euphemisms can make hard truths easier to ignore. But in everyday conversation, they mostly function as kindness. They signal that you understand the topic is painful and you are handling it carefully. For a learner, the goal is to recognize them instantly and to use the gentle version by default, especially with people you do not know well.",
      "ru": "У американского английского сильный инстинкт смягчать неудобные темы, и если переводить прямо с русского, можно прозвучать гораздо резче, чем хотелось. Смерть — самый ясный пример. Американцы редко говорят в личном контексте, что кто-то «умер». Говорят «скончался», «ушёл» или «мы его потеряли». Когда коллега сообщает, что ушёл из жизни родитель, ожидаемый ответ короткий и устойчивый: «Мне очень жаль, соболезную». Долгие расспросы о том, как это случилось, обычно неуместны. Работа — ещё одна чувствительная сфера. «Уволен» подразумевает, что вы сделали что-то не так. «Сокращён» значит, что компания урезала должности по бюджету, и стигмы гораздо меньше. Безработные часто описывают себя как «в поиске работы» или «беру время, чтобы понять, что дальше». При пробеле в резюме такая подача важна. Тело и деньги — по той же схеме. Человек «плотный» или «плюс-сайз», а не толстый, районы «малообеспеченные», а не бедные. Даже туалеты не избежали этого. В ресторане спрашивают «restroom», а слово «toilet» означает конкретно унитаз, поэтому просьба о нём может прозвучать странно натуралистично. Корпоративный язык идёт ещё дальше, превращая проблемы в «вызовы», а сокращения в «реструктуризацию». Некоторые критики считают, что такое смягчение скрывает реальность, и в этом есть резон. Эвфемизмы облегчают игнорирование тяжёлых истин. Но в повседневном разговоре они в основном работают как доброта. Они сигналят, что вы понимаете болезненность темы и обращаетесь с ней бережно. Для изучающего язык цель — мгновенно их распознавать и по умолчанию выбирать мягкий вариант, особенно с малознакомыми людьми."
-    }
+    },
+    "tags": [
+     "register",
+     "pragmatics"
+    ],
+    "extra": [
+     [
+      "He's [between] jobs right now.",
+      "Он сейчас между работами.",
+      "Безработный."
+     ],
+     [
+      "She's a little [under] the weather.",
+      "Ей немного нездоровится.",
+      "Under the weather."
+     ],
+     [
+      "The comedian is [full-figured].",
+      "Комедиантка пышных форм.",
+      "Эвфемизм полноты."
+     ],
+     [
+      "We're [letting] you go.",
+      "Мы с вами расстаёмся.",
+      "Увольнение."
+     ],
+     [
+      "The house needs some [TLC].",
+      "Дому нужен уход.",
+      "TLC — «требует ремонта»."
+     ],
+     [
+      "My uncle is a [senior] citizen.",
+      "Мой дядя — пенсионер.",
+      "Senior citizen."
+     ],
+     [
+      "I need to use the [bathroom].",
+      "Мне нужно в туалет.",
+      "Bathroom (AmE)."
+     ]
+    ]
    }
   ]
  },
@@ -621,7 +785,47 @@ addUnits("c2", [
     "text": {
      "en": "Here is a sentence that every phonetics teacher loves: \"I didn't say he stole the money.\" Read it seven times, stressing a different word each time, and you get seven different meanings. Stress \"I,\" and you're blaming someone else for the accusation. Stress \"say,\" and you're admitting you implied it. Stress \"he,\" and someone else is the thief. Stress \"money,\" and he stole something else entirely. The words never change. Only the music does. This is one of the most powerful and most neglected tools in spoken English. Russian also uses stress for emphasis, but English relies on it much more heavily, partly because English word order is so fixed. In Russian you can move the important word to the end of the sentence. In English, you usually leave the words where they are and move the stress instead. The default pattern is simple: the main stress falls on the last important word of a phrase. \"I need a new laptop.\" If you suddenly stress \"new,\" you're contrasting it with an old one. If you stress \"I,\" you're contrasting yourself with someone else. That is why stressing the wrong word can create strange implications. Many Russian speakers stress every content word with equal force, which makes English sound choppy, even angry. Others forget to weaken small words like \"to,\" \"can,\" and \"of,\" so their speech sounds careful and slow. Native speakers squash these into quick schwas: \"I c'n go t'the store.\" Practicing this feels unnatural at first. But once your stress patterns improve, people stop asking you to repeat yourself, and they start hearing the meaning you actually intended.",
      "ru": "Вот фраза, которую обожает любой преподаватель фонетики: «Я не говорил, что он украл деньги». Прочтите её семь раз, каждый раз выделяя другое слово, и получите семь разных смыслов. Выделите «я» — и вы перекладываете обвинение на кого-то другого. Выделите «говорил» — признаёте, что намекали. Выделите «он» — вор кто-то другой. Выделите «деньги» — он украл что-то совсем другое. Слова не меняются. Меняется только музыка. Это один из самых мощных и самых недооценённых инструментов устного английского. Русский тоже использует ударение для выделения, но английский полагается на него гораздо сильнее, отчасти потому, что порядок слов в английском очень жёсткий. По-русски можно передвинуть важное слово в конец фразы. По-английски слова обычно остаются на местах, а двигается ударение. Базовый шаблон прост: главное ударение падает на последнее важное слово фразы. «I need a new laptop». Если вдруг выделить «new», вы противопоставляете его старому. Если выделить «I» — противопоставляете себя кому-то. Поэтому ударение не на том слове может создать странные подтексты. Многие русскоговорящие выделяют каждое знаменательное слово с равной силой, отчего английский звучит рублено, даже сердито. Другие забывают ослаблять маленькие слова вроде «to», «can» и «of», и их речь звучит старательно и медленно. Носители сплющивают их в быстрые шва: «I c'n go t'the store». Сначала тренировать это кажется неестественным. Но когда ударения улучшатся, люди перестанут просить повторить и начнут слышать именно тот смысл, который вы вкладывали."
-    }
+    },
+    "tags": [
+     "pronunciation"
+    ],
+    "extra": [
+     [
+      "I didn't say [he] stole it — someone else did.",
+      "Я не говорил, что он украл — кто-то другой.",
+      "Ударение на he меняет смысл."
+     ],
+     [
+      "Stress the [content] words.",
+      "Выделяйте знаменательные слова.",
+      "Content words."
+     ],
+     [
+      "I [did] lock the door!",
+      "Я точно запер дверь!",
+      "Эмфатическое did."
+     ],
+     [
+      "Function words are usually [unstressed].",
+      "Служебные слова обычно безударны.",
+      "Unstressed."
+     ],
+     [
+      "Contrastive stress highlights the [difference].",
+      "Контрастное ударение выделяет разницу.",
+      "Difference."
+     ],
+     [
+      "She wanted the [red] dress, not the blue.",
+      "Она хотела красное платье, не синее.",
+      "Контраст."
+     ],
+     [
+      "The schwa is the most common [vowel].",
+      "Шва — самый частый гласный.",
+      "Schwa."
+     ]
+    ]
    },
    {
     "id": "c2u34l2",
@@ -740,7 +944,47 @@ addUnits("c2", [
     "text": {
      "en": "An American friend once told me, very gently, that I sounded annoyed most of the time. I wasn't. I was perfectly happy. The problem was my intonation. Russian statements tend to stay fairly level and then drop at the end, and Russian yes-or-no questions often peak sharply on one word and fall. Transferred into English, that melody sounds flat, bored, or impatient. When I asked a cashier \"Do you take cards?\" with a Russian contour, it apparently sounded like an accusation. English uses a much wider pitch range, especially in American speech. Excitement climbs high: \"Oh my gosh, really?\" Sympathy dips and slides: \"Oh no, I'm so sorry.\" Doubt gets a special fall-rise shape, where the voice goes down and then curls back up, as if adding an unspoken \"but.\" Say \"Well, it could work\" with that shape, and everyone understands that you don't believe it will. Then there are newer patterns. Many younger Americans use uptalk, raising their pitch at the end of statements, not because they are asking a question but to check that the listener is following. Others end sentences with vocal fry, a low, creaky voice. Both features get criticized online, often unfairly, but they are simply part of how many people talk now. For me, the fix was exaggeration. I recorded myself reading short dialogues and then deliberately pushed the melody further than felt natural. To my Russian ear, I sounded like a children's TV host. When I played it for my friend, she said, \"Perfect. Now you sound normal.\" That gap between what feels natural and what sounds natural is exactly where intonation work happens.",
      "ru": "Однажды американская подруга очень мягко сказала мне, что я почти всё время звучу раздражённо. А я не был раздражён. Я был совершенно доволен. Проблема была в интонации. Русские утверждения обычно идут довольно ровно и падают в конце, а русские вопросы «да/нет» часто резко взлетают на одном слове и падают. Перенесённая в английский, такая мелодия звучит плоско, скучающе или нетерпеливо. Когда я спросил кассира «Do you take cards?» с русским контуром, это, видимо, прозвучало как обвинение. Английский использует гораздо более широкий диапазон тона, особенно американская речь. Восторг взлетает высоко: «О боже, правда?» Сочувствие опускается и скользит: «Ой нет, мне так жаль». Сомнение получает особую нисходяще-восходящую форму, где голос идёт вниз, а потом загибается вверх, будто добавляя невысказанное «но». Скажите «Ну, может сработать» с такой формой, и все поймут, что вы в это не верите. Есть и новые шаблоны. Многие молодые американцы используют uptalk, повышая тон в конце утверждений — не потому что спрашивают, а чтобы проверить, следит ли слушатель. Другие заканчивают фразы «фраем» — низким скрипучим голосом. Обе черты критикуют в сети, часто несправедливо, но это просто часть того, как многие сейчас говорят. Для меня решением стало преувеличение. Я записывал себя, читая короткие диалоги, а потом сознательно растягивал мелодию дальше, чем казалось естественным. Моему русскому уху я звучал как ведущий детской передачи. Когда я дал послушать подруге, она сказала: «Идеально. Теперь ты звучишь нормально». Этот разрыв между тем, что кажется естественным, и тем, что звучит естественно, — именно там и идёт работа над интонацией."
-    }
+    },
+    "tags": [
+     "pronunciation"
+    ],
+    "extra": [
+     [
+      "A [falling] tone sounds final.",
+      "Нисходящий тон звучит завершённо.",
+      "Falling."
+     ],
+     [
+      "A rising tone often signals a [question].",
+      "Восходящий тон часто означает вопрос.",
+      "Rising."
+     ],
+     [
+      "Her vocal [fry] is hard to ignore.",
+      "Её «вокальный скрип» трудно не заметить.",
+      "Vocal fry."
+     ],
+     [
+      "His flat tone sounded [bored].",
+      "Его ровный тон звучал скучающе.",
+      "Тон выражает отношение."
+     ],
+     [
+      "\"Really?\" with a [rise] shows surprise.",
+      "«Really?» с подъёмом — удивление.",
+      "Rise."
+     ],
+     [
+      "A fall-rise suggests [reservation].",
+      "Нисходяще-восходящий тон — сомнение.",
+      "Fall-rise."
+     ],
+     [
+      "Wide pitch range sounds [enthusiastic].",
+      "Широкий диапазон звучит увлечённо.",
+      "Pitch range."
+     ]
+    ]
    },
    {
     "id": "c2u34l3",
@@ -865,7 +1109,48 @@ addUnits("c2", [
     "text": {
      "en": "You can study English for ten years and still freeze the first time an American says, \"Whaddya wanna do?\" Every word in that sentence is basic. You learned them in your first month. But in fast speech, \"what do you want to\" collapses into three syllables, and your brain, trained on clear textbook audio, can't find the boundaries. This is connected speech, and it is the main reason advanced learners can read native texts perfectly but struggle in a noisy bar. A few processes do most of the damage. The American flap T turns a \"t\" between vowels into a quick sound close to a soft \"d,\" so \"a lot of\" becomes \"a lodda\" and \"get it\" becomes \"gedit.\" Before an \"n,\" the \"t\" often disappears into a little catch in the throat, a glottal stop, so \"button\" sounds like \"bu'n.\" When \"t\" or \"d\" meets \"you,\" they merge: \"did you\" turns into \"didja,\" and \"got you\" into \"gotcha.\" Consonants also jump onto the next vowel, so \"turn it off\" sounds like \"tur-ni-toff.\" And many sounds simply vanish, as in \"prolly\" for \"probably.\" The good news is that these patterns are systematic. Once you know them, you can predict them. The best training I found was transcription. I took thirty seconds of a podcast and wrote down exactly what I heard, sound by sound, then compared it to the transcript. At first I missed half the words. After a few weeks, \"lemme,\" \"gonna,\" and \"dunno\" became as clear as anything else. And then something unexpected happened: I started saying them myself, without trying, and suddenly I sounded a lot less like a textbook.",
      "ru": "Можно учить английский десять лет и всё равно застыть, когда американец впервые скажет «Whaddya wanna do?». Каждое слово в этой фразе — базовое. Вы выучили их в первый месяц. Но в быстрой речи «what do you want to» схлопывается в три слога, и мозг, натренированный на чётком учебном аудио, не находит границ. Это связная речь, и именно из-за неё продвинутые студенты прекрасно читают тексты носителей, но теряются в шумном баре. Большую часть урона наносят несколько процессов. Американское мягкое t превращает «t» между гласными в быстрый звук, близкий к мягкому «д», так что «a lot of» становится «a lodda», а «get it» — «gedit». Перед «n» звук «t» часто исчезает в маленькой запинке в горле — гортанной смычке, так что «button» звучит как «bu'n». Когда «t» или «d» встречает «you», они сливаются: «did you» превращается в «didja», а «got you» — в «gotcha». Согласные ещё и перепрыгивают на следующую гласную, так что «turn it off» звучит как «tur-ni-toff». А многие звуки просто исчезают, как в «prolly» вместо «probably». Хорошая новость: эти шаблоны системны. Узнав их, можно их предсказывать. Лучшей тренировкой для меня стала транскрипция. Я брал тридцать секунд подкаста и записывал ровно то, что слышал, звук за звуком, а потом сверял с расшифровкой. Сначала я пропускал половину слов. Через несколько недель «lemme», «gonna» и «dunno» стали такими же ясными, как всё остальное. А потом случилось неожиданное: я начал говорить их сам, без усилий, и вдруг стал звучать гораздо меньше как учебник."
-    }
+    },
+    "tags": [
+     "pronunciation",
+     "listening"
+    ],
+    "extra": [
+     [
+      "I'm [gonna] grab coffee.",
+      "Пойду возьму кофе.",
+      "Gonna = going to."
+     ],
+     [
+      "[Whatcha] doing tonight?",
+      "Что делаешь вечером?",
+      "Whatcha = what are you."
+     ],
+     [
+      "[D'ya] want some?",
+      "Хочешь немного?",
+      "D'ya = do you."
+     ],
+     [
+      "I [wanna] go home.",
+      "Я хочу домой.",
+      "Wanna = want to."
+     ],
+     [
+      "\"Water\" uses a flap [T] in American English.",
+      "В «water» — американский флэп T.",
+      "Flap T."
+     ],
+     [
+      "I [gotta] go now.",
+      "Мне пора идти.",
+      "Gotta = got to."
+     ],
+     [
+      "[Didja] see that?",
+      "Ты это видел?",
+      "Didja = did you."
+     ]
+    ]
    },
    {
     "id": "c2u34l4",
@@ -983,7 +1268,47 @@ addUnits("c2", [
     "text": {
      "en": "For years my goal was to lose my accent completely. I imagined that one day someone would ask where I was from, I'd say Moscow, and they would gasp in surprise. I spent hours on the \"th\" sound, practiced American \"r\" in the car, and felt a small sting every time someone said, \"Oh, I love your accent!\" Then I read some research on how listeners actually process foreign speech, and it reframed everything. Linguists separate three things. Accentedness is how different you sound from a local. Intelligibility is whether people understand you. Comprehensibility is how much effort that takes. These are related, but they are not the same. Plenty of people with strong accents are perfectly easy to understand, and some people with mild accents are surprisingly hard to follow, usually because of rhythm and stress rather than individual sounds. For Russian speakers, the biggest problems are rarely \"th.\" They are word stress, like saying \"deVElop\" correctly instead of \"DEvelop,\" the difference between long and short vowels, as in \"live\" and \"leave,\" and the habit of devoicing final consonants, so \"bag\" sounds like \"back.\" Fixing those gives the biggest return. The \"th\" can wait. Once I shifted my priorities, people asked me to repeat myself much less. My accent is still there, and I've made peace with it. It tells people part of my story, and it is no barrier to doing my job, making friends, or telling a joke that lands. Many respected professionals in the U.S. speak with obvious accents. The real goal, I think, is not to sound like nobody's from anywhere. It is to be heard clearly as yourself.",
      "ru": "Годами моей целью было полностью избавиться от акцента. Я представлял, как однажды кто-то спросит, откуда я, я скажу «из Москвы», и человек ахнет от удивления. Я часами отрабатывал звук «th», тренировал американское «r» в машине и чувствовал лёгкий укол каждый раз, когда слышал «О, обожаю твой акцент!». Потом я прочитал исследования о том, как слушатели на самом деле воспринимают иностранную речь, и это всё перевернуло. Лингвисты разделяют три вещи. Акцентность — насколько вы звучите иначе, чем местный. Понятность — понимают ли вас. Лёгкость понимания — сколько усилий на это нужно. Они связаны, но это не одно и то же. Множество людей с сильным акцентом понять совершенно легко, а некоторых с лёгким акцентом удивительно трудно понимать — обычно из-за ритма и ударения, а не отдельных звуков. Для русскоговорящих главные проблемы — редко «th». Это словесное ударение, например правильное «deVElop» вместо «DEvelop», разница долгих и кратких гласных, как в «live» и «leave», и привычка оглушать конечные согласные, отчего «bag» звучит как «back». Исправление этого даёт наибольшую отдачу. «Th» может подождать. Когда я сменил приоритеты, меня стали гораздо реже просить повторить. Акцент у меня остался, и я с ним примирился. Он рассказывает людям часть моей истории и не мешает работать, заводить друзей или рассказывать шутки, которые заходят. Многие уважаемые профессионалы в США говорят с явным акцентом. Настоящая цель, думаю, не звучать так, будто ты ниоткуда. А быть ясно услышанным — самим собой."
-    }
+    },
+    "tags": [
+     "pronunciation"
+    ],
+    "extra": [
+     [
+      "Clear [communication] matters more than accent.",
+      "Ясное общение важнее акцента.",
+      "Приоритет понятности."
+     ],
+     [
+      "Your accent is part of your [identity].",
+      "Акцент — часть вашей идентичности.",
+      "Identity."
+     ],
+     [
+      "Practice [shadowing] native speakers.",
+      "Практикуйте шэдоуинг носителей.",
+      "Shadowing."
+     ],
+     [
+      "\"Bit\" and \"beat\" form a minimal [pair].",
+      "«Bit» и «beat» — минимальная пара.",
+      "Minimal pair."
+     ],
+     [
+      "Focus on sounds that cause [misunderstandings].",
+      "Сосредоточьтесь на звуках, вызывающих непонимание.",
+      "Приоритеты."
+     ],
+     [
+      "Record yourself and [listen] back.",
+      "Запишите себя и прослушайте.",
+      "Самоконтроль."
+     ],
+     [
+      "Many successful speakers keep a [foreign] accent.",
+      "Многие успешные спикеры сохраняют акцент.",
+      "Акцент не помеха."
+     ]
+    ]
    },
    {
     "id": "c2u34l5",
@@ -1107,7 +1432,48 @@ addUnits("c2", [
     "text": {
      "en": "Imagine you have to cancel dinner plans. To your best friend, you text: \"Ugh, something came up at work, I'm so sorry. Rain check? I'll make it up to you, promise.\" To a colleague, you write: \"Hi! Unfortunately I won't be able to make it tonight. Could we push to next week?\" And to your company's director, you say: \"I'm afraid I have a conflict this evening. Would it be possible to reschedule?\" Three messages, one meaning, completely different music. This is the real skill at the C2 level. Not just knowing slang or jargon or idioms, but knowing exactly when each one belongs. Over this unit, we looked at many layers of natural American speech. At the level of sound, there are reductions, linking, and a wide, expressive melody. At the level of words, there are phrasal verbs, intensifiers, and hedges. At the level of conversation, there are discourse markers, storytelling hooks, and the rituals of small talk. At the level of meaning, there are indirect requests, soft refusals, and everything people say between the lines. And underneath all of it is culture: the references, the humor, the unspoken rules about what you joke about and what you leave alone. Advanced learners often make one of two mistakes. Some stay too formal everywhere and sound like a well-written report. Others discover slang and spray it across every context, including job interviews. The better path is accommodation: listen to the people around you and adjust, the way native speakers do without thinking. Nobody expects you to become someone else. The goal is to have the full keyboard, and then play the right keys for the room you are in.",
      "ru": "Представьте, что нужно отменить планы на ужин. Лучшему другу вы пишете: «Блин, на работе кое-что возникло, прости. Перенесём? Я заглажу, обещаю». Коллеге: «Привет! К сожалению, не получится сегодня. Можем перенести на следующую неделю?» А директору компании говорите: «Боюсь, у меня сегодня вечером накладка. Можно ли перенести?» Три сообщения, один смысл, совершенно разная музыка. Вот настоящий навык уровня C2. Не просто знать сленг, жаргон или идиомы, а точно знать, когда каждое из них уместно. В этом блоке мы рассмотрели много слоёв естественной американской речи. На уровне звука — редукции, связывание и широкая выразительная мелодия. На уровне слов — фразовые глаголы, усилители и хеджи. На уровне разговора — дискурсивные маркеры, крючки в рассказе и ритуалы small talk. На уровне смысла — косвенные просьбы, мягкие отказы и всё, что люди говорят между строк. А под всем этим — культура: отсылки, юмор, неписаные правила о том, над чем шутят и что оставляют в покое. Продвинутые студенты часто делают одну из двух ошибок. Одни остаются слишком формальными везде и звучат как хорошо написанный отчёт. Другие открывают для себя сленг и разбрызгивают его по любому контексту, включая собеседования. Путь лучше — подстройка: слушать окружающих и подстраиваться, как носители делают не задумываясь. Никто не ждёт, что вы станете другим человеком. Цель — иметь всю клавиатуру, а потом нажимать нужные клавиши для той комнаты, в которой вы находитесь."
-    }
+    },
+    "tags": [
+     "speaking",
+     "pronunciation"
+    ],
+    "extra": [
+     [
+      "Use contractions to sound [natural].",
+      "Используйте сокращения для естественности.",
+      "Natural."
+     ],
+     [
+      "Can we [bump] the meeting to Friday?",
+      "Можем перенести встречу на пятницу?",
+      "Bump — перенести."
+     ],
+     [
+      "[Honestly], I'd skip that place.",
+      "Честно, я бы туда не ходил.",
+      "Honestly."
+     ],
+     [
+      "Sounds [good], see you then.",
+      "Звучит хорошо, до встречи.",
+      "Типичная реплика."
+     ],
+     [
+      "Let me [double-check] and get back to you.",
+      "Дай перепроверю и отвечу.",
+      "Double-check."
+     ],
+     [
+      "I'm [down] for pizza.",
+      "Я за пиццу.",
+      "Down — согласен."
+     ],
+     [
+      "No [worries], take your time.",
+      "Без проблем, не торопись.",
+      "No worries."
+     ]
+    ]
    }
   ]
  }

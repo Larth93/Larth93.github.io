@@ -136,7 +136,47 @@ addUnits("b2", [
     "text": {
      "en": "Ten years ago, Marta was offered a job at a small tech startup in Lisbon. The salary was low, and her parents told her it was too risky, so she turned it down and stayed at a bank in her hometown. Last month the startup was sold for two billion dollars. \"If I had accepted that offer, I would be a millionaire now,\" she joked to her colleagues. But Marta does not really regret her decision. She knows herself well. \"If I were a bigger risk-taker, I would have moved without thinking. But I'm careful by nature, and that's why I'm good at my job.\" Her career path has been stable: she got two promotions and now manages a team of twelve people. If she hadn't stayed, she wouldn't have met her husband, who works in the same building. \"Every choice has an outcome,\" she says. \"You can't compare your real life with an imaginary one.\" Still, every time she reads tech news, she wonders for a second what her life would look like today.",
      "ru": "Десять лет назад Марте предложили работу в небольшом технологическом стартапе в Лиссабоне. Зарплата была низкой, и родители сказали ей, что это слишком рискованно, поэтому она отказалась и осталась в банке в родном городе. В прошлом месяце стартап продали за два миллиарда долларов. «Если бы я тогда приняла предложение, я бы сейчас была миллионершей», — пошутила она коллегам. Но Марта на самом деле не жалеет о своём решении. Она хорошо себя знает. «Если бы я больше любила риск, я бы переехала не раздумывая. Но я осторожна по натуре, и именно поэтому я хороша в своей работе». Её карьера была стабильной: она получила два повышения и теперь руководит командой из двенадцати человек. Если бы она не осталась, она бы не встретила мужа, который работает в том же здании. «У каждого выбора есть последствия, — говорит она. — Нельзя сравнивать реальную жизнь с воображаемой». И всё же каждый раз, читая новости о технологиях, она на секунду задумывается, как бы выглядела её жизнь сегодня."
-    }
+    },
+    "tags": [
+     "conditionals"
+    ],
+    "extra": [
+     [
+      "If I had saved more money, I [would be] debt-free now.",
+      "Если бы я копил больше, сейчас у меня не было бы долгов.",
+      "Прошлое условие (had saved) → результат сейчас: would + V."
+     ],
+     [
+      "If he weren't so shy, he [would have asked] her out.",
+      "Если бы он не был таким застенчивым, он бы пригласил её.",
+      "Постоянная черта (were) → прошлый результат: would have + V3."
+     ],
+     [
+      "If they [had booked] earlier, they'd be in Paris now.",
+      "Если бы они забронировали раньше, они были бы сейчас в Париже.",
+      "Нереальное прошлое условие — Past Perfect."
+     ],
+     [
+      "If you spoke Spanish, you [would have understood] the guide.",
+      "Если бы ты говорил по-испански, ты бы понял гида.",
+      "Общий факт сейчас → прошлый результат: would have + V3."
+     ],
+     [
+      "If I hadn't eaten so much, I [wouldn't feel] sick now.",
+      "Если бы я не съел так много, мне бы сейчас не было плохо.",
+      "Прошлое → настоящее: wouldn't + V."
+     ],
+     [
+      "If she [were] more careful, she wouldn't have crashed.",
+      "Если бы она была осторожнее, она бы не разбилась.",
+      "Черта характера в условии — Past Simple (were)."
+     ],
+     [
+      "We [would be] home by now if we hadn't missed the train.",
+      "Мы бы уже были дома, если бы не опоздали на поезд.",
+      "Результат сейчас (by now) — would + V."
+     ]
+    ]
    },
    {
     "id": "b2u1l2",
@@ -275,7 +315,47 @@ addUnits("b2", [
     "text": {
      "en": "Daniel has worked as a game designer for six years, and lately he has been feeling the first signs of burnout. His workload has doubled since the studio announced a new open-world title, and he often stays in the office until ten. \"I wish I had more time for myself,\" he told his friend Anya over coffee. \"I wish I hadn't agreed to lead two teams at once.\" Anya, who quit a similar job last year, listened carefully. \"Honestly, it's high time you talked to your boss,\" she said. \"Nobody can work like that forever.\" Daniel sighed. \"I'd rather not start a conflict right before the release.\" \"I'd rather you didn't wait until you get sick,\" Anya replied. She told him how, at her old company, she used to wish her manager would notice her stress without being told. He never did. \"If only I had spoken up earlier,\" she said. \"Things would have been so different.\" That evening, Daniel opened his laptop and, instead of fixing bugs, started writing an email to his boss about work-life balance.",
      "ru": "Дэниел работает гейм-дизайнером уже шесть лет, и в последнее время чувствует первые признаки выгорания. Его нагрузка удвоилась с тех пор, как студия анонсировала новую игру с открытым миром, и он часто остаётся в офисе до десяти. «Жаль, что у меня нет больше времени для себя, — сказал он подруге Ане за кофе. — Зря я согласился руководить двумя командами сразу». Аня, которая в прошлом году уволилась с похожей работы, внимательно слушала. «Честно, тебе давно пора поговорить с начальником, — сказала она. — Никто не может так работать вечно». Дэниел вздохнул: «Я бы предпочёл не начинать конфликт прямо перед релизом». «А я бы предпочла, чтобы ты не ждал, пока заболеешь», — ответила Аня. Она рассказала, как на старой работе хотела, чтобы менеджер сам заметил её стресс. Он так и не заметил. «Если бы только я заговорила раньше, — сказала она. — Всё было бы совсем по-другому». В тот вечер Дэниел открыл ноутбук и вместо исправления багов начал писать начальнику письмо о балансе работы и жизни."
-    }
+    },
+    "tags": [
+     "wish"
+    ],
+    "extra": [
+     [
+      "I wish I [could] speak Japanese.",
+      "Жаль, что я не умею говорить по-японски.",
+      "Сожаление о способности сейчас: wish + could."
+     ],
+     [
+      "He wishes he [hadn't sold] his old guitar.",
+      "Он жалеет, что продал свою старую гитару.",
+      "Сожаление о прошлом: wish + Past Perfect."
+     ],
+     [
+      "It's time we [went] home.",
+      "Нам пора идти домой.",
+      "It's time + Past Simple для настоящего."
+     ],
+     [
+      "I'd rather you [didn't smoke] in the car.",
+      "Я бы предпочёл, чтобы ты не курил в машине.",
+      "Would rather + другой субъект + Past Simple."
+     ],
+     [
+      "I wish the neighbors [would turn] the music down.",
+      "Хоть бы соседи сделали музыку потише.",
+      "Раздражение чужим поведением: wish + would."
+     ],
+     [
+      "I'd rather [stay] in tonight.",
+      "Я бы предпочёл остаться дома сегодня вечером.",
+      "Тот же субъект: would rather + голый инфинитив."
+     ],
+     [
+      "If only I [had listened] to your advice!",
+      "Если бы только я послушал твой совет!",
+      "If only о прошлом — Past Perfect."
+     ]
+    ]
    },
    {
     "id": "b2u1l3",
@@ -419,7 +499,47 @@ addUnits("b2", [
     "text": {
      "en": "In 2011, a team of physicists announced that they had measured particles traveling faster than light. If it were true, it would have changed modern physics forever. Journalists were excited, but many scientists were skeptical. \"They must have made a mistake somewhere,\" one professor said. \"Einstein can't have been wrong for over a hundred years without anyone noticing.\" The team itself asked other labs to check their findings, which was the right thing to do. A few months later, the cause was found: a loose fiber-optic cable had affected the timing system. Critics said the researchers should have double-checked their equipment before going public. Others defended them. \"They didn't claim a discovery; they asked for help. They might have kept quiet, but they chose to be open.\" Some people felt the scientists needn't have held a press conference at all, because the media turned a technical question into a sensation. The story is still taught today as an example of how science corrects itself: peer review and repetition are slower than headlines, but far more reliable.",
      "ru": "В 2011 году группа физиков объявила, что измерила частицы, движущиеся быстрее света. Если бы это было правдой, это навсегда изменило бы современную физику. Журналисты были в восторге, но многие учёные отнеслись скептически. «Они, должно быть, где-то ошиблись, — сказал один профессор. — Не может быть, чтобы Эйнштейн ошибался более ста лет, а никто не заметил». Сама команда попросила другие лаборатории проверить её результаты, и это было правильно. Через несколько месяцев причина нашлась: плохо подключённый оптоволоконный кабель повлиял на систему отсчёта времени. Критики говорили, что исследователям следовало перепроверить оборудование, прежде чем выходить на публику. Другие их защищали: «Они не заявляли об открытии, они просили помощи. Они могли бы промолчать, но выбрали открытость». Некоторые считали, что учёным вообще незачем было проводить пресс-конференцию, потому что СМИ превратили технический вопрос в сенсацию. Эту историю до сих пор рассказывают как пример того, как наука исправляет сама себя: рецензирование и повторение медленнее заголовков, но гораздо надёжнее."
-    }
+    },
+    "tags": [
+     "modals-past"
+    ],
+    "extra": [
+     [
+      "You [needn't have] bought flowers, but thank you.",
+      "Не нужно было покупать цветы, но спасибо.",
+      "Needn't have + V3: сделали, хотя не было нужно."
+     ],
+     [
+      "They [must have] left already; the lights are off.",
+      "Они, наверное, уже ушли — свет выключен.",
+      "Уверенный вывод о прошлом: must have."
+     ],
+     [
+      "He [can't have] seen me; he was asleep.",
+      "Он не мог меня видеть — он спал.",
+      "Невозможность в прошлом: can't have."
+     ],
+     [
+      "I [could have] helped you if you'd asked.",
+      "Я мог бы помочь тебе, если бы ты попросил.",
+      "Нереализованная возможность: could have."
+     ],
+     [
+      "We [shouldn't have] eaten that leftover sushi.",
+      "Не стоило нам есть те остатки суши.",
+      "Критика прошлого действия: shouldn't have."
+     ],
+     [
+      "She [may have] forgotten about the meeting.",
+      "Возможно, она забыла о встрече.",
+      "Предположение о прошлом: may have."
+     ],
+     [
+      "You [ought to have] called the landlord sooner.",
+      "Тебе следовало раньше позвонить арендодателю.",
+      "Ought to have = should have, упрёк."
+     ]
+    ]
    },
    {
     "id": "b2u1l4",
@@ -558,7 +678,47 @@ addUnits("b2", [
     "text": {
      "en": "Good morning, everyone, and welcome to our annual awards ceremony. Never before has our company had a year like this one. Not only did we open three new offices, but we also doubled the number of clients we work with. When I joined this team twelve years ago, little did I know how far we would go. Back then, we had five employees and one shared laptop. Rarely did anyone outside our city know our name. No sooner had we launched our first product than a much larger competitor copied it. Many people told us to give up. Had we listened to them, none of us would be in this room today. Only when we focused on our customers instead of our competitors did things start to change. Tonight I want to thank every one of you. Seldom does a leader get to work with people so committed and creative. And should anyone ever doubt what a small team can achieve, I will simply tell them our story. Thank you, and enjoy the evening.",
      "ru": "Доброе утро всем и добро пожаловать на нашу ежегодную церемонию награждения. Никогда раньше у нашей компании не было такого года, как этот. Мы не только открыли три новых офиса, но и удвоили число клиентов. Когда я пришёл в эту команду двенадцать лет назад, я и не подозревал, как далеко мы зайдём. Тогда у нас было пять сотрудников и один общий ноутбук. Редко кто за пределами нашего города знал наше название. Едва мы выпустили первый продукт, как гораздо более крупный конкурент его скопировал. Многие советовали нам сдаться. Если бы мы их послушали, никого из нас сегодня не было бы в этом зале. Только когда мы сосредоточились на клиентах, а не на конкурентах, всё начало меняться. Сегодня я хочу поблагодарить каждого из вас. Редко руководителю выпадает работать с такими преданными и творческими людьми. И если кто-нибудь когда-нибудь усомнится в том, чего может достичь маленькая команда, я просто расскажу им нашу историю. Спасибо и приятного вечера."
-    }
+    },
+    "tags": [
+     "inversion"
+    ],
+    "extra": [
+     [
+      "Rarely [do] we see such dedication.",
+      "Редко встретишь такую преданность делу.",
+      "После Rarely — инверсия с do."
+     ],
+     [
+      "Not until midnight [did] the party end.",
+      "Вечеринка закончилась только в полночь.",
+      "Not until ... + инверсия с did."
+     ],
+     [
+      "Hardly had we arrived [when] it started to rain.",
+      "Едва мы приехали, как начался дождь.",
+      "Hardly ... when — устойчивая пара."
+     ],
+     [
+      "[Should] you need help, call this number.",
+      "Если понадобится помощь, звоните по этому номеру.",
+      "Should вместо if в формальном условии."
+     ],
+     [
+      "Little [did] he know what was waiting for him.",
+      "Он и не подозревал, что его ждёт.",
+      "Little + инверсия: «и не знал»."
+     ],
+     [
+      "Under no circumstances [should] you open this door.",
+      "Ни при каких обстоятельствах не открывайте эту дверь.",
+      "Отрицательное наречие в начале → инверсия."
+     ],
+     [
+      "[Were] I in your shoes, I would apologize.",
+      "Будь я на твоём месте, я бы извинился.",
+      "Were вместо if I were."
+     ]
+    ]
    }
   ]
  },
@@ -697,7 +857,47 @@ addUnits("b2", [
     "text": {
      "en": "Scientists working in northern Siberia have announced what is being called a major breakthrough. A group of tiny worms, frozen in the permafrost, are reported to have come back to life after warming up in the lab. The worms are believed to be about 46,000 years old, which means they were frozen when mammoths were still walking the Earth. It is thought that the animals survived by entering a special state in which their metabolism almost completely stopped. Until now, such long survival was supposed to be impossible for complex organisms. The research team is said to be planning further experiments to understand how the worms protect their cells from ice damage. It has been suggested that the discovery could one day help doctors store human organs for transplants much longer than today. However, some experts warn that the soil samples may have been contaminated with modern worms. The researchers are expected to publish their full data next year so that other labs can check the results.",
      "ru": "Учёные, работающие на севере Сибири, объявили о том, что уже называют крупным прорывом. Сообщается, что группа крошечных червей, замёрзших в вечной мерзлоте, ожила после того, как их отогрели в лаборатории. Считается, что червям около 46 000 лет, то есть они замёрзли, когда по Земле ещё ходили мамонты. Предполагается, что животные выжили, войдя в особое состояние, в котором их метаболизм почти полностью остановился. До сих пор такое долгое выживание считалось невозможным для сложных организмов. Говорят, что команда планирует новые эксперименты, чтобы понять, как черви защищают клетки от повреждения льдом. Высказывалось предположение, что открытие однажды поможет врачам хранить донорские органы гораздо дольше, чем сегодня. Однако некоторые эксперты предупреждают, что образцы почвы могли быть загрязнены современными червями. Ожидается, что исследователи опубликуют полные данные в следующем году, чтобы другие лаборатории смогли проверить результаты."
-    }
+    },
+    "tags": [
+     "passive"
+    ],
+    "extra": [
+     [
+      "The singer is said [to be] working on a new album.",
+      "Говорят, что певец работает над новым альбомом.",
+      "Be said + to-инфинитив."
+     ],
+     [
+      "It [is reported] that the fire started at night.",
+      "Сообщается, что пожар начался ночью.",
+      "Безличная конструкция It is reported that."
+     ],
+     [
+      "The suspect is believed [to have fled] the country.",
+      "Считается, что подозреваемый бежал из страны.",
+      "Прошлое действие: to have + V3."
+     ],
+     [
+      "You're [supposed] to wear a helmet here.",
+      "Здесь положено носить шлем.",
+      "Be supposed to = так положено."
+     ],
+     [
+      "The bridge is expected [to open] in May.",
+      "Ожидается, что мост откроется в мае.",
+      "Будущее: be expected + to V."
+     ],
+     [
+      "It [is thought] that stress causes many illnesses.",
+      "Считается, что стресс вызывает многие болезни.",
+      "It is thought that + придаточное."
+     ],
+     [
+      "The painting is known [to have been] stolen twice.",
+      "Известно, что картину крали дважды.",
+      "Пассивный перфектный инфинитив."
+     ]
+    ]
    },
    {
     "id": "b2u2l2",
@@ -825,7 +1025,47 @@ addUnits("b2", [
     "text": {
      "en": "When Laura bought an old house outside Portland, her energy bills were shocking. In winter she paid almost four hundred dollars a month just to stay warm. So she decided to make the house greener, step by step. First, she had the walls and attic insulated, which cut her heating costs by nearly a third. Next, she had the old windows replaced with double-glazed ones. \"I couldn't do any of it myself,\" she laughs. \"I can't even hang a picture straight.\" The biggest project came last summer, when she had twelve solar panels installed on the roof. The contractor also got her to switch to a heat pump instead of a gas boiler. Now she gets the system inspected once a year and checks her energy use on an app. In sunny months, her house actually produces more electricity than she needs, and she sells the extra to the grid. \"It was expensive at first,\" Laura admits, \"but I'll have paid it all back in about seven years. And I sleep better knowing my home is not burning fossil fuels.\"",
      "ru": "Когда Лора купила старый дом под Портлендом, её счета за энергию были шокирующими. Зимой она платила почти четыреста долларов в месяц только за тепло. Поэтому она решила сделать дом экологичнее, шаг за шагом. Сначала ей утеплили стены и чердак, что сократило расходы на отопление почти на треть. Затем ей заменили старые окна на стеклопакеты. «Я ничего из этого не могла сделать сама, — смеётся она. — Я даже картину ровно повесить не могу». Самый крупный проект случился прошлым летом, когда ей установили на крышу двенадцать солнечных панелей. Подрядчик также уговорил её перейти на тепловой насос вместо газового котла. Теперь она раз в год отдаёт систему на проверку и следит за потреблением энергии в приложении. В солнечные месяцы её дом вырабатывает больше электричества, чем ей нужно, и она продаёт излишки в сеть. «Сначала было дорого, — признаёт Лора, — но примерно через семь лет всё окупится. И мне спокойнее спать, зная, что мой дом не сжигает ископаемое топливо»."
-    }
+    },
+    "tags": [
+     "causative"
+    ],
+    "extra": [
+     [
+      "I'm getting my eyes [tested] tomorrow.",
+      "Завтра я проверяю зрение.",
+      "Get + объект + V3."
+     ],
+     [
+      "She had her wallet [stolen] on the subway.",
+      "У неё украли кошелёк в метро.",
+      "Have + объект + V3 для неприятных событий."
+     ],
+     [
+      "We need to have the windows [cleaned].",
+      "Нам нужно помыть окна (силами мастеров).",
+      "Causative: делает кто-то другой."
+     ],
+     [
+      "Where do you [get|have] your hair cut?",
+      "Где ты стрижёшься?",
+      "Have/get something done — оба верны."
+     ],
+     [
+      "He finally got the leak [fixed].",
+      "Он наконец починил протечку (вызвал мастера).",
+      "Get + объект + V3."
+     ],
+     [
+      "I [had] my teeth whitened last year.",
+      "В прошлом году я отбелил зубы.",
+      "Have в прошедшем времени: had."
+     ],
+     [
+      "They're having a new kitchen [fitted].",
+      "Им устанавливают новую кухню.",
+      "Present Continuous + causative."
+     ]
+    ]
    },
    {
     "id": "b2u2l3",
@@ -966,7 +1206,47 @@ addUnits("b2", [
     "text": {
      "en": "Imagine your life in 2050. If current trends continue, the world will look very different. By then, global temperatures will have risen by about two degrees, and many coastal cities will be dealing with regular flooding. Millions of people in hot regions will be moving north in search of water and cooler weather. But there is also good news. Many countries have promised to become carbon neutral by the middle of the century, and by 2035 the European Union will have phased out the sale of new gasoline cars. Experts predict that by 2040 renewable energy will have become the cheapest source of power almost everywhere. Children born today will be starting their careers in a world powered mostly by sun and wind. Some of them will be working in jobs that don't exist yet, such as carbon farmers or climate engineers. Of course, none of this is guaranteed. By the time politicians agree on new rules, scientists will have been warning us for over fifty years. The question is not what the future will be like, but what we will have done to shape it.",
      "ru": "Представьте свою жизнь в 2050 году. Если нынешние тенденции сохранятся, мир будет выглядеть совсем иначе. К тому времени глобальная температура поднимется примерно на два градуса, и многие прибрежные города будут бороться с регулярными наводнениями. Миллионы людей из жарких регионов будут переселяться на север в поисках воды и более прохладной погоды. Но есть и хорошие новости. Многие страны пообещали стать углеродно-нейтральными к середине века, а к 2035 году Евросоюз откажется от продажи новых бензиновых автомобилей. Эксперты прогнозируют, что к 2040 году возобновляемая энергия станет самым дешёвым источником электричества почти везде. Дети, рождённые сегодня, будут начинать карьеру в мире, работающем в основном на солнце и ветре. Некоторые из них будут работать на должностях, которых ещё не существует, например углеродными фермерами или климатическими инженерами. Конечно, ничто из этого не гарантировано. К тому времени, как политики договорятся о новых правилах, учёные будут предупреждать нас уже более пятидесяти лет. Вопрос не в том, каким будет будущее, а в том, что мы сделаем, чтобы его сформировать."
-    }
+    },
+    "tags": [
+     "future-perfect"
+    ],
+    "extra": [
+     [
+      "By Friday, I [will have finished] the report.",
+      "К пятнице я закончу отчёт.",
+      "By + срок → Future Perfect."
+     ],
+     [
+      "At 8 p.m. tomorrow, we'[ll be having] dinner.",
+      "Завтра в 8 вечера мы будем ужинать.",
+      "Действие в процессе в момент будущего — Future Continuous."
+     ],
+     [
+      "She won't [have arrived] by noon.",
+      "К полудню она ещё не приедет.",
+      "Отрицание Future Perfect: won't have + V3."
+     ],
+     [
+      "[Will] you be passing the store on your way home?",
+      "Ты будешь проходить мимо магазина по дороге домой?",
+      "Future Continuous для вежливого вопроса о планах."
+     ],
+     [
+      "By next June, they will [have been] married ten years.",
+      "В июне будущего года они будут женаты десять лет.",
+      "Продолжительность к моменту в будущем."
+     ],
+     [
+      "Don't call at nine; I'll [be driving].",
+      "Не звони в девять — я буду за рулём.",
+      "Процесс в будущем моменте."
+     ],
+     [
+      "By the time you wake up, I'll [have left].",
+      "Когда ты проснёшься, я уже уеду.",
+      "By the time + Future Perfect."
+     ]
+    ]
    },
    {
     "id": "b2u2l4",
@@ -1094,7 +1374,47 @@ addUnits("b2", [
     "text": {
      "en": "Opened in 1793, the Louvre in Paris is the most visited art museum in the world. Every year, millions of tourists arrive hoping to see one painting above all: the Mona Lisa. Painted by Leonardo da Vinci in the early 1500s, the portrait was not especially famous until the twentieth century. Having been stolen from the museum in 1911, it suddenly became a global sensation. Newspapers printed its face on their front pages, and people queued to look at the empty space on the wall. Recovered two years later in Florence, the painting returned to Paris as a celebrity. Today, visitors entering the room are often surprised by how small it is. Protected by bulletproof glass and surrounded by crowds holding up their phones, the Mona Lisa can be hard to see properly. Having waited in line for an hour, many people spend less than a minute in front of it. Some critics argue that the museum should move it to a separate space. Others believe that, being part of the collection's history, it belongs exactly where it is.",
      "ru": "Открытый в 1793 году, Лувр в Париже — самый посещаемый художественный музей мира. Каждый год миллионы туристов приезжают, надеясь увидеть прежде всего одну картину — «Мону Лизу». Написанный Леонардо да Винчи в начале 1500-х, портрет не был особенно знаменит до XX века. После того как его украли из музея в 1911 году, он внезапно стал мировой сенсацией. Газеты печатали его на первых полосах, а люди стояли в очереди, чтобы посмотреть на пустое место на стене. Найденная через два года во Флоренции, картина вернулась в Париж знаменитостью. Сегодня посетители, входящие в зал, часто удивляются, какая она маленькая. Защищённую пуленепробиваемым стеклом и окружённую толпами людей с поднятыми телефонами, «Мону Лизу» бывает сложно как следует рассмотреть. Простояв в очереди час, многие проводят перед ней меньше минуты. Некоторые критики считают, что музею стоит перенести её в отдельное помещение. Другие полагают, что, будучи частью истории коллекции, она находится именно там, где должна."
-    }
+    },
+    "tags": [
+     "participles"
+    ],
+    "extra": [
+     [
+      "[Having lost] my keys, I had to call a locksmith.",
+      "Потеряв ключи, я был вынужден вызвать слесаря.",
+      "Having + V3 — предшествующее действие."
+     ],
+     [
+      "[Written] in simple language, the book is easy to read.",
+      "Написанная простым языком, книга легко читается.",
+      "V3 — пассивное значение."
+     ],
+     [
+      "The man [sitting] next to me snored all flight.",
+      "Мужчина, сидевший рядом, храпел весь полёт.",
+      "V-ing вместо who was sitting."
+     ],
+     [
+      "[Feeling] tired, she went to bed early.",
+      "Чувствуя усталость, она рано легла спать.",
+      "V-ing — причина."
+     ],
+     [
+      "[Not wanting] to wake the baby, we whispered.",
+      "Не желая будить ребёнка, мы шептались.",
+      "Not ставится перед причастием."
+     ],
+     [
+      "Products [made] in Italy are often expensive.",
+      "Товары, сделанные в Италии, часто дорогие.",
+      "V3 вместо which are made."
+     ],
+     [
+      "[Having been] warned, we took umbrellas.",
+      "Нас предупредили, поэтому мы взяли зонты.",
+      "Пассивное предшествование: having been + V3."
+     ]
+    ]
    }
   ]
  },
@@ -1247,7 +1567,47 @@ addUnits("b2", [
     "text": {
      "en": "Last week, thousands of people gathered in the city center to protest against plans to build a new highway through the old park. Organizers claimed that the project would destroy one of the last green spaces in the area. A spokesperson for the city council denied ignoring residents' opinions and insisted that public meetings had been held. However, local activists accused the council of holding those meetings during working hours, when few people could attend. Several speakers urged the crowd to stay peaceful, and most people did. When a small group threatened to block the main road, police warned them not to cause trouble. Later in the day, the mayor agreed to meet the protest leaders. She admitted making mistakes in the way the project had been communicated and apologized for not listening earlier. She suggested setting up an independent committee to study other routes. The activists welcomed the offer but refused to end the protest until the plans were officially put on hold. Both sides promised to continue the discussion next month.",
      "ru": "На прошлой неделе тысячи людей собрались в центре города, чтобы протестовать против планов построить новое шоссе через старый парк. Организаторы утверждали, что проект уничтожит одно из последних зелёных мест в районе. Представитель городского совета отрицал, что мнение жителей игнорировалось, и настаивал на том, что публичные слушания проводились. Однако местные активисты обвинили совет в том, что эти встречи проводились в рабочее время, когда мало кто мог прийти. Несколько выступающих призвали толпу сохранять спокойствие, и большинство так и сделали. Когда небольшая группа пригрозила перекрыть главную дорогу, полиция предупредила их не создавать проблем. Позже в тот же день мэр согласилась встретиться с лидерами протеста. Она признала ошибки в том, как сообщалось о проекте, и извинилась за то, что не прислушалась раньше. Она предложила создать независимую комиссию для изучения других маршрутов. Активисты приветствовали предложение, но отказались прекращать протест, пока планы официально не будут приостановлены. Обе стороны пообещали продолжить обсуждение в следующем месяце."
-    }
+    },
+    "tags": [
+     "reported-speech"
+    ],
+    "extra": [
+     [
+      "She [admitted] taking the money.",
+      "Она призналась, что взяла деньги.",
+      "Admit + V-ing."
+     ],
+     [
+      "He warned me [not] to touch the wire.",
+      "Он предупредил меня не трогать провод.",
+      "Warn + объект + not to V."
+     ],
+     [
+      "They [accused] him of lying.",
+      "Его обвинили во лжи.",
+      "Accuse + объект + of + V-ing."
+     ],
+     [
+      "The doctor [advised] me to rest.",
+      "Врач посоветовал мне отдохнуть.",
+      "Advise + объект + to V."
+     ],
+     [
+      "He apologized [for] being late.",
+      "Он извинился за опоздание.",
+      "Apologize for + V-ing."
+     ],
+     [
+      "She [insisted] on paying the bill.",
+      "Она настояла на том, чтобы оплатить счёт.",
+      "Insist on + V-ing."
+     ],
+     [
+      "They [promised] to call back later.",
+      "Они пообещали перезвонить позже.",
+      "Promise + to V."
+     ]
+    ]
    },
    {
     "id": "b2u3l2",
@@ -1383,7 +1743,47 @@ addUnits("b2", [
     "text": {
      "en": "I'll never forget playing my first open-world game. I was fourteen, and I remember staying up until three in the morning just exploring the map, ignoring the main quest completely. My parents tried to limit my screen time, but I always found ways around their rules. Years later, I regret wasting so many school nights, but I don't regret the experience itself. Gaming taught me English, patience, and how to solve problems. During university, I stopped playing for almost two years because I simply didn't have time. Then, one summer, a friend suggested trying a small indie game about a lighthouse keeper. I meant to play it for an hour. Instead, I finished it in one weekend and went on to read everything about the studio that made it. That game made me want to work in the industry. Today I design levels for a mid-sized studio, and I always remind new players to save often. I also try to remember what it felt like to be that fourteen-year-old kid: curious, a little lost, and completely happy.",
      "ru": "Я никогда не забуду, как играл в свою первую игру с открытым миром. Мне было четырнадцать, и я помню, как сидел до трёх ночи, просто исследуя карту и полностью игнорируя основной квест. Родители пытались ограничить моё экранное время, но я всегда находил способы обойти их правила. Спустя годы я жалею, что потратил столько школьных вечеров, но не жалею о самом опыте. Игры научили меня английскому, терпению и умению решать проблемы. В университете я почти на два года перестал играть, потому что просто не было времени. Потом однажды летом друг предложил попробовать небольшую инди-игру о смотрителе маяка. Я собирался поиграть час. Вместо этого я прошёл её за выходные, а потом перечитал всё о студии, которая её сделала. Эта игра вызвала у меня желание работать в индустрии. Сегодня я проектирую уровни в студии среднего размера и всегда напоминаю новым игрокам почаще сохраняться. А ещё я стараюсь помнить, каково было быть тем четырнадцатилетним подростком: любопытным, немного потерянным и совершенно счастливым."
-    }
+    },
+    "tags": [
+     "gerund-infinitive"
+    ],
+    "extra": [
+     [
+      "Try [restarting] the router.",
+      "Попробуй перезагрузить роутер.",
+      "Try + V-ing — эксперимент."
+     ],
+     [
+      "I tried [to lift] the box, but it was too heavy.",
+      "Я пытался поднять коробку, но она была слишком тяжёлой.",
+      "Try + to V — усилие."
+     ],
+     [
+      "I regret [to inform] you that the flight is canceled.",
+      "С сожалением сообщаю, что рейс отменён.",
+      "Regret to — сообщение плохой новости."
+     ],
+     [
+      "I'll never forget [seeing] the ocean for the first time.",
+      "Я никогда не забуду, как впервые увидел океан.",
+      "Forget + V-ing — воспоминание."
+     ],
+     [
+      "Don't forget [to lock] the door.",
+      "Не забудь запереть дверь.",
+      "Forget + to V — будущее действие."
+     ],
+     [
+      "After the break, he went on [to talk] about prices.",
+      "После перерыва он перешёл к разговору о ценах.",
+      "Go on to — переход к новому."
+     ],
+     [
+      "Getting the job means [moving] to Denver.",
+      "Получить эту работу — значит переехать в Денвер.",
+      "Mean + V-ing = влечь за собой."
+     ]
+    ]
    },
    {
     "id": "b2u3l3",
@@ -1519,7 +1919,47 @@ addUnits("b2", [
     "text": {
      "en": "In many developed countries, the population is getting older. People are living longer thanks to better medicine, and fewer children are being born. This creates a serious challenge for society. Who will take care of the elderly when there are fewer young people to work and pay taxes? In Japan, where almost a third of the population is over sixty-five, the government has invested heavily in technology. Robots now help nurses lift patients, and some care homes use robotic pets to reduce loneliness. Critics argue that a machine cannot replace human contact. In Italy and Spain, the traditional solution has been the family: grandparents often live with their children, and in return they help with the grandchildren. But as more young people move abroad for work, this system is under pressure. Some cities are experimenting with shared housing, where students live rent-free with older residents in exchange for a few hours of help each week. Both generations seem to benefit. Life is not only about money; it is also about community.",
      "ru": "Во многих развитых странах население стареет. Люди живут дольше благодаря лучшей медицине, а детей рождается меньше. Это создаёт серьёзную проблему для общества. Кто будет заботиться о пожилых, когда молодых людей, которые работают и платят налоги, станет меньше? В Японии, где почти треть населения старше шестидесяти пяти, правительство вложило большие средства в технологии. Роботы теперь помогают медсёстрам поднимать пациентов, а в некоторых домах престарелых используют роботов-питомцев, чтобы снизить одиночество. Критики утверждают, что машина не может заменить человеческое общение. В Италии и Испании традиционным решением была семья: бабушки и дедушки часто живут с детьми и взамен помогают с внуками. Но поскольку всё больше молодых людей уезжают работать за границу, эта система под давлением. Некоторые города экспериментируют с совместным жильём, где студенты бесплатно живут у пожилых жителей в обмен на несколько часов помощи в неделю. Похоже, что выигрывают оба поколения. Жизнь не только о деньгах — она ещё и о сообществе."
-    }
+    },
+    "tags": [
+     "articles"
+    ],
+    "extra": [
+     [
+      "[The] rich should pay more taxes.",
+      "Богатые должны платить больше налогов.",
+      "The + прилагательное = группа людей."
+     ],
+     [
+      "[The] tiger is an endangered species.",
+      "Тигр — вымирающий вид.",
+      "Generic the для вида в целом."
+     ],
+     [
+      "She goes to [church] every Sunday.",
+      "Она ходит в церковь каждое воскресенье.",
+      "Институт по назначению — без артикля."
+     ],
+     [
+      "We hiked in [the] Rocky Mountains.",
+      "Мы ходили в походы в Скалистых горах.",
+      "Горные цепи — с the."
+     ],
+     [
+      "He was sent to [prison] for fraud.",
+      "Его посадили в тюрьму за мошенничество.",
+      "Prison по назначению — без артикля."
+     ],
+     [
+      "[Life] is too short to worry.",
+      "Жизнь слишком коротка, чтобы волноваться.",
+      "Абстрактное понятие в целом — без артикля."
+     ],
+     [
+      "They sailed across [the] Pacific.",
+      "Они переплыли Тихий океан.",
+      "Океаны — с the."
+     ]
+    ]
    },
    {
     "id": "b2u3l4",
@@ -1650,7 +2090,47 @@ addUnits("b2", [
     "text": {
      "en": "When the first trailer came out, nobody expected much from it. It was a low-budget science fiction film with an unknown cast and a first-time director. And yet, it was this small movie that became the surprise hit of the year. What made it so successful? Most critics agree that it was the screenplay that made the difference. The story follows a woman who wakes up on a space station and cannot remember who she is. What looks like a typical survival thriller slowly turns into something much more emotional. The plot twist in the final act, which I won't spoil here, made audiences in some theaters actually stand up and applaud. It wasn't until the second week that the box office numbers really exploded, mostly thanks to word of mouth on social media. The thing is, big studios spend millions on marketing, while this film spent almost nothing. What it did have was honesty and a clear vision. Some people call it overrated, but I did love it, and the soundtrack is still on my playlist.",
      "ru": "Когда вышел первый трейлер, никто многого не ждал. Это был малобюджетный научно-фантастический фильм с неизвестными актёрами и режиссёром-дебютантом. И всё же именно этот маленький фильм стал неожиданным хитом года. Что сделало его таким успешным? Большинство критиков сходятся в том, что разницу создал именно сценарий. История рассказывает о женщине, которая просыпается на космической станции и не может вспомнить, кто она. То, что выглядит как типичный триллер о выживании, постепенно превращается в нечто гораздо более эмоциональное. Сюжетный поворот в финальном акте, который я не буду здесь раскрывать, заставил зрителей в некоторых кинотеатрах встать и аплодировать. Кассовые сборы по-настоящему взлетели только на второй неделе, в основном благодаря сарафанному радио в соцсетях. Дело в том, что крупные студии тратят миллионы на маркетинг, а этот фильм не потратил почти ничего. Зато у него были честность и ясное видение. Кто-то называет его переоценённым, но мне он правда очень понравился, и саундтрек до сих пор в моём плейлисте."
-    }
+    },
+    "tags": [
+     "emphasis-cleft"
+    ],
+    "extra": [
+     [
+      "It was my brother [who] broke the vase.",
+      "Это мой брат разбил вазу.",
+      "It was + лицо + who."
+     ],
+     [
+      "[What] we need is more time.",
+      "Что нам нужно, так это больше времени.",
+      "What-клефт выделяет предмет."
+     ],
+     [
+      "The thing [is], I can't afford it.",
+      "Дело в том, что я не могу себе этого позволить.",
+      "The thing is — разговорное выделение."
+     ],
+     [
+      "All she did [was] complain.",
+      "Всё, что она делала, — жаловалась.",
+      "All + did + was + V."
+     ],
+     [
+      "It was in Rome [that] they first met.",
+      "Именно в Риме они впервые встретились.",
+      "Выделение места: It was ... that."
+     ],
+     [
+      "[What] happened was that the server crashed.",
+      "Случилось вот что: сервер упал.",
+      "What happened was — выделение события."
+     ],
+     [
+      "The reason I called [is] to apologize.",
+      "Я звоню, чтобы извиниться.",
+      "The reason ... is + to V."
+     ]
+    ]
    }
   ]
  }

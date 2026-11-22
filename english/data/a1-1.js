@@ -153,6 +153,46 @@ addUnits("a1", [
      "I have 21 years — калька с русского; I 21 — нет глагола; My age have 21 — неверная грамматика.",
      "were — прошедшее время (были); wer, we'r — несуществующие написания.",
      "is — для he/she/it; are — для you/we/they; be — начальная форма."
+    ],
+    "tags": [
+     "to-be"
+    ],
+    "extra": [
+     [
+      "My name [is] Tom.",
+      "Меня зовут Том.",
+      "name — 3-е лицо ед. ч. → is."
+     ],
+     [
+      "We [are] from Texas.",
+      "Мы из Техаса.",
+      "we → are."
+     ],
+     [
+      "I['m] a nurse.",
+      "Я медсестра.",
+      "I am → I'm в разговоре."
+     ],
+     [
+      "They [are] my friends.",
+      "Они мои друзья.",
+      "they → are."
+     ],
+     [
+      "It [is] cold today.",
+      "Сегодня холодно.",
+      "it → is; по-русски глагол опускается."
+     ],
+     [
+      "You['re] very kind.",
+      "Ты очень добрый.",
+      "you are → you're."
+     ],
+     [
+      "My parents [are] at home.",
+      "Мои родители дома.",
+      "Мн. ч. → are."
+     ]
     ]
    },
    {
@@ -314,6 +354,47 @@ addUnits("a1", [
      "amn't — такой формы нет; isn't — для he/she/it; aren't — для you/we/they.",
      "You at home? — нет глагола; You are at home? — нет инверсии; Do you at home? — с be do не нужен.",
      "isn't — для he/she/it; not — без глагола be; don't — с be не употребляется."
+    ],
+    "tags": [
+     "to-be",
+     "questions"
+    ],
+    "extra": [
+     [
+      "[Is] he your brother?",
+      "Он твой брат?",
+      "В вопросе is ставим перед подлежащим."
+     ],
+     [
+      "I'm [not] hungry.",
+      "Я не голоден.",
+      "not после am."
+     ],
+     [
+      "Are you OK? — Yes, I [am].",
+      "Ты в порядке? — Да.",
+      "Краткий ответ: Yes, I am (без сокращения)."
+     ],
+     [
+      "She [isn't] at work today.",
+      "Её сегодня нет на работе.",
+      "is not → isn't."
+     ],
+     [
+      "[Are] they from Canada?",
+      "Они из Канады?",
+      "they → Are в вопросе."
+     ],
+     [
+      "We [aren't] late.",
+      "Мы не опаздываем.",
+      "are not → aren't."
+     ],
+     [
+      "Is it far? — No, it [isn't].",
+      "Это далеко? — Нет.",
+      "Краткий отрицательный ответ: No, it isn't."
+     ]
     ]
    },
    {
@@ -474,6 +555,46 @@ addUnits("a1", [
      "car of my brother's — неестественно; my brother car — нет 's; my brothers car's — 's не на месте.",
      "it's = it is; his's — такой формы нет; it — не притяжательная форма.",
      "ours — без существительного; us — объектная форма; we — подлежащее."
+    ],
+    "tags": [
+     "pronouns"
+    ],
+    "extra": [
+     [
+      "This is [my] phone.",
+      "Это мой телефон.",
+      "I → my."
+     ],
+     [
+      "[His] name is Jack.",
+      "Его зовут Джек.",
+      "he → his."
+     ],
+     [
+      "She loves [her] job.",
+      "Она любит свою работу.",
+      "Своя у she → her."
+     ],
+     [
+      "We live with [our] parents.",
+      "Мы живём с нашими родителями.",
+      "we → our."
+     ],
+     [
+      "What's [your] last name?",
+      "Какая у вас фамилия?",
+      "you → your."
+     ],
+     [
+      "The dog is eating [its] food.",
+      "Собака ест свою еду.",
+      "Для животного/предмета — its (без апострофа)."
+     ],
+     [
+      "[They] are my neighbors.",
+      "Они мои соседи.",
+      "Подлежащее — личное местоимение they."
+     ]
     ]
    },
    {
@@ -631,6 +752,46 @@ addUnits("a1", [
      "a / an — cats во множественном числе; the — означало бы конкретных кошек, а речь о кошках вообще.",
      "an — university начинается со звука [j], это согласный; the обязательно — нет, зависит от смысла; — — исчисляемое в ед. ч. требует артикля.",
      "A / An — машина уже упомянута, теперь она конкретная; — — исчисляемое в ед. ч. без артикля нельзя."
+    ],
+    "tags": [
+     "articles"
+    ],
+    "extra": [
+     [
+      "She's [an] engineer.",
+      "Она инженер.",
+      "Профессия с a/an; engineer начинается с гласного звука."
+     ],
+     [
+      "I have [a] question.",
+      "У меня вопрос.",
+      "Один из многих, согласный звук → a."
+     ],
+     [
+      "Close [the] window, please.",
+      "Закрой окно, пожалуйста.",
+      "Понятно, какое окно → the."
+     ],
+     [
+      "It takes [an] hour.",
+      "Это займёт час.",
+      "hour — h немая, гласный звук → an."
+     ],
+     [
+      "He's [a] university student.",
+      "Он студент университета.",
+      "university начинается с [j] → a."
+     ],
+     [
+      "Where is [the] bathroom?",
+      "Где туалет?",
+      "Конкретный в этом здании → the."
+     ],
+     [
+      "I want [an] orange.",
+      "Я хочу апельсин.",
+      "orange — гласный звук → an."
+     ]
     ]
    },
    {
@@ -785,6 +946,46 @@ addUnits("a1", [
      "is — people уже множественное; am — только с I; be — начальная форма.",
      "boxs — после x нужно -es; boxies — y здесь нет; box — это ед. ч.",
      "daies, dayes, dais — после гласной + y просто добавляем -s."
+    ],
+    "tags": [
+     "plurals"
+    ],
+    "extra": [
+     [
+      "I have two [boxes].",
+      "У меня две коробки.",
+      "После x добавляем -es."
+     ],
+     [
+      "Those [women] are teachers.",
+      "Те женщины — учителя.",
+      "woman → women (неправильное)."
+     ],
+     [
+      "We visited three [countries].",
+      "Мы посетили три страны.",
+      "Согласная + y → -ies."
+     ],
+     [
+      "My [feet] hurt.",
+      "У меня болят ноги (ступни).",
+      "foot → feet."
+     ],
+     [
+      "She has two [kids].",
+      "У неё двое детей.",
+      "Обычное -s."
+     ],
+     [
+      "Brush your [teeth].",
+      "Почисти зубы.",
+      "tooth → teeth."
+     ],
+     [
+      "We have [mice] in the garage.",
+      "У нас в гараже мыши.",
+      "mouse → mice (неправильное мн. ч.)."
+     ]
     ]
    }
   ]
@@ -936,6 +1137,46 @@ addUnits("a1", [
      "these — для близких предметов; this, that — ед. ч., а mountains — мн. ч.",
      "This great — нет глагола; Those are great — мн. ч. не подходит к новости; It great — нет глагола.",
      "These, Those — мн. ч., а book — ед. ч.; That's — = that is, лишний глагол перед существительным."
+    ],
+    "tags": [
+     "demonstratives"
+    ],
+    "extra": [
+     [
+      "[This] coffee is great.",
+      "Этот кофе отличный.",
+      "Близко, ед. ч. → this."
+     ],
+     [
+      "Look at [those] birds!",
+      "Посмотри на тех птиц!",
+      "Далеко, мн. ч. → those."
+     ],
+     [
+      "Are [these] your keys?",
+      "Это твои ключи?",
+      "Близко, мн. ч. → these."
+     ],
+     [
+      "Who is [that] man?",
+      "Кто тот мужчина?",
+      "Далеко, ед. ч. → that."
+     ],
+     [
+      "[These] shoes are new.",
+      "Эти туфли новые.",
+      "Мн. ч., рядом → these."
+     ],
+     [
+      "[That]'s a good idea.",
+      "Это хорошая идея.",
+      "that отсылает к сказанному."
+     ],
+     [
+      "I like [this] song.",
+      "Мне нравится эта песня.",
+      "Песня играет сейчас → this."
+     ]
     ]
    },
    {
@@ -1092,6 +1333,46 @@ addUnits("a1", [
      "In the fridge is no milk — порядок слов с русского; It isn't milk — значит «это не молоко»; The fridge hasn't milk — не по-американски.",
      "Is there — chairs во мн. ч.; There are — нет инверсии в вопросе; Have there — неверная конструкция.",
      "There are — water неисчисляемое; It's — не означает наличие; Have — неверная конструкция."
+    ],
+    "tags": [
+     "there-is"
+    ],
+    "extra": [
+     [
+      "There [is] a park near my house.",
+      "Рядом с моим домом есть парк.",
+      "Ед. ч. → there is."
+     ],
+     [
+      "There [are] two beds in the room.",
+      "В комнате две кровати.",
+      "Мн. ч. → there are."
+     ],
+     [
+      "[Is] there a pharmacy nearby?",
+      "Здесь рядом есть аптека?",
+      "Вопрос: Is there…?"
+     ],
+     [
+      "There [isn't] any milk.",
+      "Молока нет.",
+      "Неисчисляемое → there isn't."
+     ],
+     [
+      "There [are] a lot of people here.",
+      "Здесь много людей.",
+      "people — мн. ч."
+     ],
+     [
+      "Are there any questions? — No, there [aren't].",
+      "Есть вопросы? — Нет.",
+      "Краткий ответ: No, there aren't."
+     ],
+     [
+      "[There's] a problem with my car.",
+      "С моей машиной проблема.",
+      "there is → there's."
+     ]
     ]
    },
    {
@@ -1251,6 +1532,46 @@ addUnits("a1", [
      "Do — для she нужен Does; Has — вопрос Has she a sister? устарел; Is — с have не используется.",
      "Будь смешным — это be funny; Есть ли веселье — буквальный перевод; Будь осторожен — be careful.",
      "I got — прошедшее время (получил); I had — прошедшее; I've go — неверная форма."
+    ],
+    "tags": [
+     "have"
+    ],
+    "extra": [
+     [
+      "She [has] a big family.",
+      "У неё большая семья.",
+      "she → has."
+     ],
+     [
+      "We [have] a dog and a cat.",
+      "У нас собака и кошка.",
+      "we → have."
+     ],
+     [
+      "I['ve got] a headache.",
+      "У меня болит голова.",
+      "have got — разговорный вариант have."
+     ],
+     [
+      "[Do] you have a pen?",
+      "У тебя есть ручка?",
+      "Вопрос с have: Do you have…?"
+     ],
+     [
+      "He [doesn't] have a car.",
+      "У него нет машины.",
+      "Отрицание: doesn't have."
+     ],
+     [
+      "[Has] she got a sister?",
+      "У неё есть сестра?",
+      "have got: вопрос — Has she got…?"
+     ],
+     [
+      "They [have] two kids.",
+      "У них двое детей.",
+      "they → have."
+     ]
     ]
    },
    {
@@ -1417,6 +1738,47 @@ addUnits("a1", [
      "08:00 — это 8 a.m.; 18:00 — 6 p.m.; 00:00 — midnight.",
      "a quarter past five — 5:15; half past five — 5:30; five fifteen — 5:15.",
      "twoth, secondth — таких слов нет; twice — «дважды»."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "prepositions"
+    ],
+    "extra": [
+     [
+      "The movie starts [at] 8:15.",
+      "Фильм начинается в 8:15.",
+      "Точное время — at."
+     ],
+     [
+      "My birthday is [on] June 3rd.",
+      "Мой день рождения 3 июня.",
+      "Дата — on."
+     ],
+     [
+      "I'm [thirty] years old.",
+      "Мне тридцать лет.",
+      "thirty — ударение на первый слог, thirteen — на второй."
+     ],
+     [
+      "She is [thirteen].",
+      "Ей тринадцать.",
+      "thirTEEN — ударение на -teen."
+     ],
+     [
+      "It's half [past] six.",
+      "Половина седьмого.",
+      "half past six — 6:30."
+     ],
+     [
+      "It's a quarter [to] five.",
+      "Без четверти пять.",
+      "quarter to — без четверти."
+     ],
+     [
+      "Today is the [first] of May.",
+      "Сегодня первое мая.",
+      "Даты — порядковые числительные."
+     ]
     ]
    },
    {
@@ -1575,6 +1937,46 @@ addUnits("a1", [
      "we — подлежащее; our — перед сущ.; ours — без сущ.",
      "they — подлежащее; their — притяжательное; it — для одного предмета, а ключи — мн. ч.",
      "I too — неестественно в разговоре; Also me — калька; My too — притяжательное, неверно."
+    ],
+    "tags": [
+     "pronouns"
+    ],
+    "extra": [
+     [
+      "Call [me] tomorrow.",
+      "Позвони мне завтра.",
+      "После глагола — объектное me."
+     ],
+     [
+      "I know [him] from school.",
+      "Я знаю его со школы.",
+      "he → him."
+     ],
+     [
+      "Can you help [us]?",
+      "Можешь нам помочь?",
+      "we → us."
+     ],
+     [
+      "I love [them].",
+      "Я их люблю.",
+      "they → them."
+     ],
+     [
+      "Tell [her] the truth.",
+      "Скажи ей правду.",
+      "she → her."
+     ],
+     [
+      "This gift is for [you].",
+      "Этот подарок для тебя.",
+      "После предлога — объектная форма."
+     ],
+     [
+      "Where's my phone? I can't find [it].",
+      "Где мой телефон? Не могу его найти.",
+      "Предмет → it."
+     ]
     ]
    }
   ]

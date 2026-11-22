@@ -131,6 +131,41 @@ addUnits("a2", [
      "gooder — good неправильное; more good — так не говорят; best — превосходная степень.",
      "much — much comfortable без -er/more невозможно; -er — у длинного прилагательного -er не бывает; most — превосходная степень требует the и не ставится в сравнении.",
      "more big that — big берёт -er, и нужно than, а не that; biger then — нужно удвоить g, then = «потом»; bigger as — нет is, и после сравнительной степени нужно than."
+    ],
+    "tags": [
+     "comparatives"
+    ],
+    "extra": [
+     [
+      "This hotel is [cheaper] than that one.",
+      "Этот отель дешевле того.",
+      "Короткое прилагательное + -er."
+     ],
+     [
+      "My new phone is [better] than my old one.",
+      "Новый телефон лучше старого.",
+      "Good — better."
+     ],
+     [
+      "New York is more expensive [than] Ohio.",
+      "Нью-Йорк дороже Огайо.",
+      "Сравнение — than."
+     ],
+     [
+      "Today is [hotter] than yesterday.",
+      "Сегодня жарче, чем вчера.",
+      "Hot — удвоение: hotter."
+     ],
+     [
+      "This test was [easier] than the last one.",
+      "Этот тест легче прошлого.",
+      "Easy — y меняется на i."
+     ],
+     [
+      "The movie was [worse] than the book.",
+      "Фильм хуже книги.",
+      "Bad — worse."
+     ]
     ]
    },
    {
@@ -240,6 +275,41 @@ addUnits("a2", [
      "the expensivest — длинное прилагательное не берёт -est; most expensive — пропущен the; the more expensive — сравнительная, а не превосходная степень.",
      "the baddest — bad неправильное (baddest — только сленг); the most bad — так не говорят; the worse — сравнительная степень.",
      "of — of для группы (of all), а Europe — место; on, at — с названием континента не используются."
+    ],
+    "tags": [
+     "comparatives"
+    ],
+    "extra": [
+     [
+      "This is [the] cheapest phone in the store.",
+      "Это самый дешёвый телефон в магазине.",
+      "Перед превосходной — the."
+     ],
+     [
+      "She's the [best] player on the team.",
+      "Она лучшая в команде.",
+      "Good — the best."
+     ],
+     [
+      "It was the [most] beautiful day of the year.",
+      "Это был самый красивый день года.",
+      "Длинное прилагательное — the most."
+     ],
+     [
+      "Alaska is the [biggest] state in the US.",
+      "Аляска — самый большой штат США.",
+      "Big — biggest."
+     ],
+     [
+      "That was the [worst] meal ever.",
+      "Это была худшая еда в жизни.",
+      "Bad — the worst."
+     ],
+     [
+      "He's the [funniest] guy I know.",
+      "Он самый смешной из моих знакомых.",
+      "Funny — funniest."
+     ]
     ]
    },
    {
@@ -358,6 +428,42 @@ addUnits("a2", [
      "very enough — так не говорят; enough — «достаточно горячий» не объясняет, почему нельзя пить; as — as hot без второго as неполно.",
      "so as — so ... as возможно, но не «so as» подряд; than — than после сравнительной степени, а здесь big; more — more big невозможно и нет than.",
      "too — too chairs без many невозможно; as — as chairs бессмысленно; enough of — enough of нужен перед the/my и т.п., а не перед голым существительным."
+    ],
+    "tags": [
+     "comparatives",
+     "quantifiers"
+    ],
+    "extra": [
+     [
+      "My car isn't as fast [as] yours.",
+      "Моя машина не такая быстрая, как твоя.",
+      "As ... as — так же, как."
+     ],
+     [
+      "This coffee is [too] hot to drink.",
+      "Кофе слишком горячий, чтобы пить.",
+      "Too — слишком."
+     ],
+     [
+      "He isn't old [enough] to drive.",
+      "Он недостаточно взрослый, чтобы водить.",
+      "Enough после прилагательного."
+     ],
+     [
+      "We don't have [enough] chairs.",
+      "У нас не хватает стульев.",
+      "Enough перед существительным."
+     ],
+     [
+      "The jacket is [too] big for me.",
+      "Куртка мне велика.",
+      "Too + прилагательное."
+     ],
+     [
+      "She's [as] tall as her mom.",
+      "Она такая же высокая, как мама.",
+      "As ... as — равенство."
+     ]
     ]
    },
    {
@@ -475,6 +581,41 @@ addUnits("a2", [
      "good — прилагательное, а нужен наречие к plays; goodly — такого наречия нет; better well — бессмысленное сочетание.",
      "fastly — fast не берёт -ly; faster — сравнительная степень, а нет сравнения; fasting — «голодание».",
      "tiredly — после look нужно прилагательное; tiring — «утомительный», а не «уставший»; tiredness — существительное."
+    ],
+    "tags": [
+     "adjectives-adverbs"
+    ],
+    "extra": [
+     [
+      "Please drive [carefully].",
+      "Пожалуйста, веди осторожно.",
+      "Наречие — прилагательное + -ly."
+     ],
+     [
+      "She speaks English very [well].",
+      "Она очень хорошо говорит по-английски.",
+      "Good — наречие well."
+     ],
+     [
+      "He runs really [fast].",
+      "Он очень быстро бегает.",
+      "Fast — без -ly."
+     ],
+     [
+      "The kids played [quietly].",
+      "Дети играли тихо.",
+      "Quiet — quietly."
+     ],
+     [
+      "I worked [hard] all week.",
+      "Я усердно работал всю неделю.",
+      "Hard — наречие без -ly."
+     ],
+     [
+      "She smiled [happily].",
+      "Она радостно улыбнулась.",
+      "Happy — happily."
+     ]
     ]
    }
   ]
@@ -595,6 +736,41 @@ addUnits("a2", [
      "mustn't — это запрет, а не «не нужно»; must — нелогично: бесплатно, но обязан платить; have to — то же противоречие.",
      "don't have to — «не обязательно», а здесь опасно — нужен запрет; haven't to — такой формы нет; don't must — must не употребляется с do.",
      "musted — у must нет прошедшей формы; must have — это предположение о прошлом (must have + V3); was must — такой конструкции нет."
+    ],
+    "tags": [
+     "modals"
+    ],
+    "extra": [
+     [
+      "You [must] wear a seatbelt.",
+      "Нужно пристёгиваться.",
+      "Must — строгое правило."
+     ],
+     [
+      "I [have] to work on Saturday.",
+      "В субботу мне надо работать.",
+      "Have to — внешняя необходимость."
+     ],
+     [
+      "She [has] to take the bus.",
+      "Ей приходится ехать на автобусе.",
+      "She — has to."
+     ],
+     [
+      "You [mustn't] smoke here.",
+      "Здесь нельзя курить.",
+      "Mustn't — запрет."
+     ],
+     [
+      "You don't [have] to come.",
+      "Тебе не обязательно приходить.",
+      "Don't have to — нет необходимости."
+     ],
+     [
+      "Do we have to [pay] for parking?",
+      "Нужно платить за парковку?",
+      "Have to + глагол."
+     ]
     ]
    },
    {
@@ -711,6 +887,41 @@ addUnits("a2", [
      "should to — после should to не ставится; shoulds — модальные глаголы не берут -s; must to — после must to не ставится.",
      "Do should — модальный глагол не используется с do; Must to — лишнее to; Have — Have I call невозможно (нужно Do I have to).",
      "I have a heat — heat = жара, не температура тела; I am fever — fever существительное; temperature high — неправильный порядок (I have a high temperature)."
+    ],
+    "tags": [
+     "modals"
+    ],
+    "extra": [
+     [
+      "You [should] see a doctor.",
+      "Тебе стоит сходить к врачу.",
+      "Should — совет."
+     ],
+     [
+      "You shouldn't [drink] so much coffee.",
+      "Тебе не стоит пить столько кофе.",
+      "После shouldn't — глагол без to."
+     ],
+     [
+      "[Should] I bring anything?",
+      "Мне что-нибудь принести?",
+      "Вопрос — should в начале."
+     ],
+     [
+      "We should [leave] now.",
+      "Нам пора идти.",
+      "Should + глагол."
+     ],
+     [
+      "You [shouldn't] skip breakfast.",
+      "Не стоит пропускать завтрак.",
+      "Отрицательный совет."
+     ],
+     [
+      "What should I [wear] to the interview?",
+      "Что надеть на собеседование?",
+      "Wh + should + подлежащее + глагол."
+     ]
     ]
    },
    {
@@ -833,6 +1044,41 @@ addUnits("a2", [
      "might to — после модального глагола to не нужен; mights — модальные не берут -s; musts — то же, и must значило бы уверенность.",
      "Might — для просьбы звучит устаревше и очень формально; Maybe — наречие, не начинает вопрос; Should to — лишнее to и это не просьба.",
      "May be — раздельно: модальный + глагол, нужно he may be right; Might — нужен глагол: he might be; May — May he's невозможно."
+    ],
+    "tags": [
+     "modals"
+    ],
+    "extra": [
+     [
+      "It [might] snow tonight.",
+      "Ночью может пойти снег.",
+      "Might — возможно."
+     ],
+     [
+      "I may [be] a little late.",
+      "Я, возможно, немного опоздаю.",
+      "После may — глагол без to."
+     ],
+     [
+      "She might not [come] to the party.",
+      "Она может не прийти.",
+      "Might not — возможно, нет."
+     ],
+     [
+      "We [may] go to the beach tomorrow.",
+      "Завтра мы, может, поедем на пляж.",
+      "May — вероятность."
+     ],
+     [
+      "He might [know] the answer.",
+      "Он, возможно, знает ответ.",
+      "Might + глагол."
+     ],
+     [
+      "Take an umbrella. It [might] rain.",
+      "Возьми зонт. Может пойти дождь.",
+      "Might — неуверенный прогноз."
+     ]
     ]
    },
    {
@@ -969,6 +1215,43 @@ addUnits("a2", [
      "What is your work? — звучит неестественно, говорят What's your job?; Who do you work? — грамматически неверно; What are you working? — так не говорят.",
      "a — перед гласным звуком нужно an; the — профессия здесь не конкретная; — — артикль перед профессией обязателен.",
      "hire — после предлога нужна -ing форма; to hire — после for инфинитив не ставится; hired — V3 здесь не подходит."
+    ],
+    "tags": [
+     "vocabulary-topic",
+     "prepositions",
+     "present-simple"
+    ],
+    "extra": [
+     [
+      "I'm in [charge] of the sales team.",
+      "Я отвечаю за отдел продаж.",
+      "Be in charge of — отвечать за."
+     ],
+     [
+      "She's [responsible] for hiring.",
+      "Она отвечает за найм.",
+      "Responsible for — ответственный за."
+     ],
+     [
+      "He [deals] with customer complaints.",
+      "Он занимается жалобами клиентов.",
+      "Deal with — заниматься чем-то."
+     ],
+     [
+      "I work [in] marketing.",
+      "Я работаю в маркетинге.",
+      "In + сфера."
+     ],
+     [
+      "My job [involves] a lot of travel.",
+      "Моя работа связана с поездками.",
+      "Involve — включать в себя."
+     ],
+     [
+      "She [manages] a small restaurant.",
+      "Она управляет небольшим рестораном.",
+      "Manage — руководить."
+     ]
     ]
    }
   ]
@@ -1111,6 +1394,41 @@ addUnits("a2", [
      "much — для неисчисляемых, а tickets исчисляемое; little — для неисчисляемых; lot — нужно a lot of и не в вопросе с How.",
      "A few people came — «пришло несколько человек», смысл позитивный; A little people — little для неисчисляемых; Little people — то же, и это значит «маленькие люди».",
      "the account — банковский счёт; the bill of paper — так не говорят; the count — подсчёт, не счёт в ресторане."
+    ],
+    "tags": [
+     "quantifiers"
+    ],
+    "extra": [
+     [
+      "There are a [few] tables by the window.",
+      "У окна есть несколько столиков.",
+      "A few — с исчисляемыми."
+     ],
+     [
+      "Can I have a [little] sugar?",
+      "Можно немного сахара?",
+      "A little — с неисчисляемыми."
+     ],
+     [
+      "They have a [lot] of vegan options.",
+      "У них много веганских блюд.",
+      "A lot of — много."
+     ],
+     [
+      "We don't have [much] time.",
+      "У нас мало времени.",
+      "Much — неисчисляемые в отрицании."
+     ],
+     [
+      "How [many] people are in your party?",
+      "Сколько человек в вашей компании?",
+      "Many — исчисляемые."
+     ],
+     [
+      "Just a [little] ice, please.",
+      "Совсем немного льда, пожалуйста.",
+      "Ice неисчисляемое — a little."
+     ]
     ]
    },
    {
@@ -1248,6 +1566,41 @@ addUnits("a2", [
      "studying — после hope нужен to + V1; study — пропущено to; studied — прошедшее время.",
      "to learn — после предлога in инфинитив невозможен; learn — нужна -ing форма; learned — прошедшее время.",
      "meeting — после agree нужен to + V1; meet — пропущено to; met — прошедшее время."
+    ],
+    "tags": [
+     "gerund-infinitive"
+    ],
+    "extra": [
+     [
+      "I enjoy [cooking] for friends.",
+      "Мне нравится готовить для друзей.",
+      "Enjoy + -ing."
+     ],
+     [
+      "She wants [to] learn Spanish.",
+      "Она хочет выучить испанский.",
+      "Want + to."
+     ],
+     [
+      "We decided [to] stay home.",
+      "Мы решили остаться дома.",
+      "Decide + to."
+     ],
+     [
+      "He finished [eating] and left.",
+      "Он доел и ушёл.",
+      "Finish + -ing."
+     ],
+     [
+      "Do you mind [waiting] a minute?",
+      "Не против подождать минуту?",
+      "Mind + -ing."
+     ],
+     [
+      "I hope [to] see you soon.",
+      "Надеюсь скоро увидеться.",
+      "Hope + to."
+     ]
     ]
    },
    {
@@ -1365,6 +1718,41 @@ addUnits("a2", [
      "which — для вещей, а man — человек; what — не используется как относительное местоимение после существительного; whose — «чей».",
      "who — для людей, а car — вещь; what — после существительного не ставится; where — для места.",
      "the girl that sings, the bus that leaves, the man that helped — здесь that — подлежащее придаточного, без него предложение ломается."
+    ],
+    "tags": [
+     "relative-clauses"
+    ],
+    "extra": [
+     [
+      "That's the guy [who] fixed my car.",
+      "Это парень, который починил мою машину.",
+      "Who — о людях."
+     ],
+     [
+      "This is the book [which] I told you about.",
+      "Вот книга, о которой я рассказывал.",
+      "Which — о предметах."
+     ],
+     [
+      "I have a friend [who] lives in LA.",
+      "У меня есть друг, который живёт в LA.",
+      "Who — о людях."
+     ],
+     [
+      "The phone [that] I bought broke.",
+      "Телефон, который я купил, сломался.",
+      "That — о предметах."
+     ],
+     [
+      "Is this the bus [that] goes downtown?",
+      "Это автобус, который идёт в центр?",
+      "That — о транспорте."
+     ],
+     [
+      "The woman [who] called you is my boss.",
+      "Женщина, которая звонила, — мой начальник.",
+      "Who — о людях."
+     ]
     ]
    },
    {
@@ -1482,6 +1870,42 @@ addUnits("a2", [
      "call back you — местоимение должно стоять между глаголом и частицей; back call you — частица не идёт перед глаголом; call you up back — две частицы подряд, бессмыслица.",
      "I am Anna speaking here — неестественно, говорят This is Anna (speaking); Here is Anna — так не представляются; It's me Anna is — грамматически неверно.",
      "повесить картину — это hang a picture (без up в смысле звонка); взять трубку — pick up / answer; перезвонить — call back."
+    ],
+    "tags": [
+     "phrasal-verbs",
+     "speaking"
+    ],
+    "extra": [
+     [
+      "Can you call me [back] later?",
+      "Можешь перезвонить позже?",
+      "Call back — перезвонить."
+     ],
+     [
+      "Please hold [on] a second.",
+      "Подождите секунду.",
+      "Hold on — подождать у телефона."
+     ],
+     [
+      "Don't hang [up]!",
+      "Не вешай трубку!",
+      "Hang up — положить трубку."
+     ],
+     [
+      "I'll [pick] up the phone.",
+      "Я возьму трубку.",
+      "Pick up — ответить на звонок."
+     ],
+     [
+      "Sorry, you're breaking [up].",
+      "Извини, связь прерывается.",
+      "Break up — плохая связь."
+     ],
+     [
+      "Can you [put] me through to sales?",
+      "Соедините меня с отделом продаж.",
+      "Put through — соединить."
+     ]
     ]
    },
    {
@@ -1608,6 +2032,42 @@ addUnits("a2", [
      "hear — после предлога to нужна -ing форма; heard — прошедшее время; to hear — два to подряд, ошибка.",
      "Send it. — приказ, невежливо; You must send it. — звучит как требование; Give me it. — грубо и неестественный порядок.",
      "Hey Brown! — фамильярно для незнакомца; Hello dear Brown — неверный порядок и нет Mr.; Yo Mr. Brown — сленг."
+    ],
+    "tags": [
+     "writing",
+     "register"
+    ],
+    "extra": [
+     [
+      "I'm writing [to] ask about the apartment.",
+      "Пишу, чтобы спросить о квартире.",
+      "Writing to + цель."
+     ],
+     [
+      "Best [regards], Anna",
+      "С уважением, Анна",
+      "Best regards — нейтральная подпись."
+     ],
+     [
+      "Thank you for your [quick] reply.",
+      "Спасибо за быстрый ответ.",
+      "Quick reply — быстрый ответ."
+     ],
+     [
+      "Please find the file [attached].",
+      "Файл во вложении.",
+      "Attached — приложен."
+     ],
+     [
+      "I look forward to [hearing] from you.",
+      "Жду вашего ответа.",
+      "Look forward to + -ing."
+     ],
+     [
+      "Dear Mr. [Brown],",
+      "Уважаемый мистер Браун,",
+      "Dear + титул + фамилия."
+     ]
     ]
    }
   ]
