@@ -1,0 +1,301 @@
+{
+ "c2u1l1": {
+  "tags": [
+   "confusing-words",
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "She's [slender], with long elegant fingers.",
+    "Она стройная, с длинными изящными пальцами.",
+    "Slender — комплимент: изящная худоба."
+   ],
+   [
+    "Stop being so [nosy] about my love life.",
+    "Хватит совать нос в мою личную жизнь.",
+    "Nosy — негативное «любопытный»: лезет не в своё дело."
+   ],
+   [
+    "He's [assertive] in meetings but never rude.",
+    "На совещаниях он напорист, но никогда не груб.",
+    "Assertive — позитивная уверенность, в отличие от arrogant."
+   ],
+   [
+    "The kitchen was filled with the [aroma] of fresh bread.",
+    "Кухня наполнилась ароматом свежего хлеба.",
+    "Aroma — приятный запах еды; odor было бы негативно."
+   ],
+   [
+    "That stray dog looks so [scrawny].",
+    "Эта бродячая собака такая тощая.",
+    "Scrawny — негативно: болезненно худой."
+   ],
+   [
+    "Her [childish] tantrums embarrassed everyone.",
+    "Её детские истерики смутили всех.",
+    "Childish — негатив о взрослом; childlike было бы нейтрально-мило."
+   ],
+   [
+    "A [stench] of rotten fish hit us at the dock.",
+    "На причале нас ударила вонь тухлой рыбы.",
+    "Stench — сильный отвратительный запах."
+   ]
+  ]
+ },
+ "c2u1l2": {
+  "tags": [
+   "idioms"
+  ],
+  "extra": [
+   [
+    "I'm [swamped] with work right now.",
+    "Я сейчас завален работой.",
+    "Swamped — образно «затоплен» делами."
+   ],
+   [
+    "Let's not beat around the [bush].",
+    "Давай не будем ходить вокруг да около.",
+    "Идиома beat around the bush — уходить от сути."
+   ],
+   [
+    "Winning the lottery was a [blessing] in disguise.",
+    "Выигрыш в лотерею оказался скрытым благословением.",
+    "A blessing in disguise — неожиданная польза."
+   ],
+   [
+    "She spilled the [beans] about the surprise party.",
+    "Она проболталась о вечеринке-сюрпризе.",
+    "Spill the beans — выдать секрет."
+   ],
+   [
+    "That project is a real [hot potato].",
+    "Этот проект — настоящая горячая картофелина.",
+    "Hot potato — щекотливый вопрос, который все избегают."
+   ],
+   [
+    "He's skating on thin [ice] with his boss.",
+    "Он ходит по тонкому льду с начальником.",
+    "Skate on thin ice — рисковать."
+   ],
+   [
+    "Don't [bite] off more than you can chew.",
+    "Не берись за больше, чем осилишь.",
+    "Bite off more than you can chew — переоценить силы."
+   ]
+  ]
+ },
+ "c2u1l3": {
+  "tags": [
+   "pragmatics",
+   "style-rhetoric"
+  ],
+  "extra": [
+   [
+    "Losing your passport abroad is [hardly] ideal.",
+    "Потерять паспорт за границей — едва ли идеально.",
+    "Hardly ideal — британско-американское преуменьшение: «ужасно»."
+   ],
+   [
+    "Oh, [brilliant], I locked my keys in the car.",
+    "О, блестяще, я запер ключи в машине.",
+    "Сарказм: позитивное слово для неудачи."
+   ],
+   [
+    "He said it with a completely [straight] face.",
+    "Он сказал это с абсолютно серьёзным лицом.",
+    "Straight face — невозмутимое лицо при шутке (deadpan)."
+   ],
+   [
+    "The hurricane caused [some] damage to the town.",
+    "Ураган причинил городу «некоторый» ущерб.",
+    "Some здесь — ироничное преуменьшение разрушений."
+   ],
+   [
+    "Her reply dripped with [sarcasm].",
+    "Её ответ сочился сарказмом.",
+    "Drip with sarcasm — устойчивое сочетание."
+   ],
+   [
+    "Running a marathon is [no] walk in the park.",
+    "Пробежать марафон — не прогулка в парке.",
+    "Литота: отрицание противоположного усиливает смысл."
+   ],
+   [
+    "Well, [that] went well, didn't it?",
+    "Ну, это прошло просто отлично, правда?",
+    "Ироничная фраза после провала."
+   ]
+  ]
+ },
+ "c2u1l4": {
+  "tags": [
+   "linking-discourse"
+  ],
+  "extra": [
+   [
+    "[By the same token], we should cut other costs too.",
+    "По той же логике нам стоит сократить и другие расходы.",
+    "By the same token — по аналогии."
+   ],
+   [
+    "Which [brings] us to our final point.",
+    "Что подводит нас к последнему пункту.",
+    "Which brings us to... — переход к следующей теме."
+   ],
+   [
+    "Paris and Rome are lovely; the [former] is pricier.",
+    "Париж и Рим прекрасны; первый дороже.",
+    "The former — первый из двух упомянутых."
+   ],
+   [
+    "[Be that as it may], we still need a decision.",
+    "Как бы то ни было, решение нам всё равно нужно.",
+    "Be that as it may — уступка с возвратом к сути."
+   ],
+   [
+    "[Conversely], lower prices may attract more buyers.",
+    "И наоборот, более низкие цены могут привлечь покупателей.",
+    "Conversely — обратная зависимость."
+   ],
+   [
+    "[Needless to say], the plan failed.",
+    "Само собой, план провалился.",
+    "Needless to say — очевидный вывод."
+   ],
+   [
+    "[Incidentally], have you met our new manager?",
+    "Кстати, ты знаком с нашим новым менеджером?",
+    "Incidentally — попутная смена темы."
+   ]
+  ]
+ },
+ "c2u2l1": {
+  "tags": [
+   "word-formation",
+   "inversion"
+  ],
+  "extra": [
+   [
+    "They [mislabeled] the boxes during the move.",
+    "Они неправильно подписали коробки при переезде.",
+    "Префикс mis- — «ошибочно»."
+   ],
+   [
+    "Could you [simplify] the instructions?",
+    "Ты можешь упростить инструкцию?",
+    "Суффикс -ify образует глагол от прилагательного."
+   ],
+   [
+    "[Were] he to resign, the board would panic.",
+    "Если бы он ушёл в отставку, совет запаниковал бы.",
+    "Инверсия were + подлежащее вместо if he were."
+   ],
+   [
+    "All staff, [be] they full-time or part-time, get bonuses.",
+    "Все сотрудники, будь то штатные или совместители, получают премии.",
+    "Be they... — формальная уступка."
+   ],
+   [
+    "The more you practice, the [better] you get.",
+    "Чем больше практикуешься, тем лучше получается.",
+    "Конструкция the more..., the better..."
+   ],
+   [
+    "Please [email] me the report tonight.",
+    "Пожалуйста, пришли мне отчёт по почте сегодня.",
+    "Конверсия: существительное email как глагол."
+   ],
+   [
+    "Don't [overcook] the pasta.",
+    "Не переваривай пасту.",
+    "Префикс over- — «чрезмерно»."
+   ]
+  ]
+ },
+ "c2u2l2": {
+  "tags": [
+   "writing",
+   "register",
+   "style-rhetoric"
+  ],
+  "extra": [
+   [
+    "Mayor [Vows] to Fix Potholes",
+    "Мэр клянётся заделать ямы",
+    "Headlinese: vow вместо promise, Present Simple."
+   ],
+   [
+    "Storm [Batters] East Coast",
+    "Шторм обрушился на Восточное побережье",
+    "Короткий яркий глагол в заголовке."
+   ],
+   [
+    "CEO [Quits] After Data Scandal",
+    "Гендиректор уходит после скандала с данными",
+    "Quit — короткий синоним resign в заголовках."
+   ],
+   [
+    "Her hands [trembled] as she opened the letter.",
+    "Её руки дрожали, когда она открывала письмо.",
+    "Show, don't tell: показать страх через действие."
+   ],
+   [
+    "Rain again. Would it [never] stop?",
+    "Опять дождь. Неужели он никогда не кончится?",
+    "Несобственно-прямая речь передаёт мысли героя."
+   ],
+   [
+    "Officials [Eye] New Tax on Sugar",
+    "Чиновники присматриваются к новому налогу на сахар",
+    "Eye — «рассматривать» в заголовках."
+   ],
+   [
+    "Police [Hunt] Escaped Prisoner",
+    "Полиция разыскивает сбежавшего заключённого",
+    "Hunt — краткий глагол для «разыскивать»."
+   ]
+  ]
+ },
+ "c2u2l3": {
+  "tags": [
+   "slang-colloquial"
+  ],
+  "extra": [
+   [
+    "Those sneakers are [fire].",
+    "Эти кроссовки — огонь.",
+    "Fire — «очень круто»."
+   ],
+   [
+    "He got [salty] after losing the game.",
+    "Он надулся после проигрыша.",
+    "Salty — обиженный, раздражённый."
+   ],
+   [
+    "Your outfit? It's [giving] main character.",
+    "Твой образ? Прям главный герой.",
+    "It's giving... — «производит впечатление...»."
+   ],
+   [
+    "That party was a total [vibe].",
+    "Та вечеринка была атмосферной.",
+    "Vibe — классная атмосфера."
+   ],
+   [
+    "She [ghosted] me after two dates.",
+    "Она пропала после двух свиданий.",
+    "Ghost — внезапно прекратить общение."
+   ],
+   [
+    "I'm [dead], that meme is hilarious.",
+    "Я умер со смеху, мем уморительный.",
+    "I'm dead — очень смешно."
+   ],
+   [
+    "That's [sus], he was alone in the room.",
+    "Подозрительно, он был в комнате один.",
+    "Sus — suspicious, подозрительный."
+   ]
+  ]
+ }
+}

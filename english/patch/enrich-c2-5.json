@@ -1,0 +1,641 @@
+{
+ "c2u30l1": {
+  "tags": [
+   "slang-colloquial"
+  ],
+  "extra": [
+   [
+    "She's [delulu] if she thinks he'll call.",
+    "Она в иллюзиях, если думает, что он позвонит.",
+    "Delulu — delusional."
+   ],
+   [
+    "That song [slaps].",
+    "Эта песня качает.",
+    "Slap — очень хорошая."
+   ],
+   [
+    "He's the [GOAT] of basketball.",
+    "Он величайший в баскетболе.",
+    "GOAT — greatest of all time."
+   ],
+   [
+    "That's so [mid].",
+    "Это так себе.",
+    "Mid — посредственно."
+   ],
+   [
+    "She ate that [and] left no crumbs.",
+    "Она справилась идеально.",
+    "Ate (and left no crumbs) — блестяще справилась."
+   ],
+   [
+    "I'm [lowkey] tired today.",
+    "Я немного устал сегодня.",
+    "Lowkey — слегка."
+   ],
+   [
+    "That's a whole [vibe].",
+    "Это прям атмосфера.",
+    "Vibe."
+   ]
+  ]
+ },
+ "c2u30l2": {
+  "tags": [
+   "slang-colloquial"
+  ],
+  "extra": [
+   [
+    "I'm too [tilted] to keep playing.",
+    "Я слишком на взводе, чтобы играть.",
+    "Tilted — раздражён после неудач."
+   ],
+   [
+    "That player is [cracked].",
+    "Этот игрок невероятно силён.",
+    "Cracked — очень скилловый."
+   ],
+   [
+    "Jungle [diff], honestly.",
+    "Разница в лесниках, честно.",
+    "Diff — разница в уровне."
+   ],
+   [
+    "Good game, [GG] everyone.",
+    "Хорошая игра, всем GG.",
+    "GG — good game."
+   ],
+   [
+    "Stop [camping] in that corner.",
+    "Хватит сидеть в углу.",
+    "Camp — засиживаться."
+   ],
+   [
+    "He's [smurfing] on a new account.",
+    "Он играет на новом аккаунте против новичков.",
+    "Smurf."
+   ],
+   [
+    "That last round was so [clutch].",
+    "Последний раунд был решающим.",
+    "Clutch."
+   ]
+  ]
+ },
+ "c2u30l3": {
+  "tags": [
+   "slang-colloquial",
+   "register"
+  ],
+  "extra": [
+   [
+    "Let's [touch] base tomorrow.",
+    "Давай сверимся завтра.",
+    "Touch base."
+   ],
+   [
+    "That's the [low-hanging] fruit.",
+    "Это лёгкие задачи.",
+    "Low-hanging fruit."
+   ],
+   [
+    "Can you [loop] me in?",
+    "Можешь держать меня в курсе?",
+    "Loop in."
+   ],
+   [
+    "Let's [take] this offline.",
+    "Давай обсудим это отдельно.",
+    "Take offline."
+   ],
+   [
+    "We need to [move] the needle.",
+    "Нам нужно добиться результата.",
+    "Move the needle."
+   ],
+   [
+    "Please [ping] me when it's done.",
+    "Напиши мне, когда будет готово.",
+    "Ping."
+   ],
+   [
+    "What's the [deliverable] here?",
+    "Каков здесь конечный результат?",
+    "Deliverable."
+   ]
+  ]
+ },
+ "c2u30l4": {
+  "tags": [
+   "slang-colloquial",
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "That movie was [wicked] good.",
+    "Этот фильм был чертовски хорош.",
+    "Wicked — Бостон."
+   ],
+   [
+    "The line was [hella] long.",
+    "Очередь была очень длинной.",
+    "Hella — Калифорния."
+   ],
+   [
+    "She [be] working late.",
+    "Она обычно работает допоздна.",
+    "Habitual be в AAVE."
+   ],
+   [
+    "[Y'all] want some tea?",
+    "Хотите чаю?",
+    "Y'all — юг США."
+   ],
+   [
+    "Grab a [pop] from the fridge.",
+    "Возьми газировку из холодильника.",
+    "Pop — Средний Запад."
+   ],
+   [
+    "I [might could] help you later.",
+    "Может, смогу помочь позже.",
+    "Двойной модал на юге."
+   ],
+   [
+    "We're [finna] leave soon.",
+    "Мы скоро уходим.",
+    "Finna — fixing to."
+   ]
+  ]
+ },
+ "c2u30l5": {
+  "tags": [
+   "pragmatics",
+   "slang-colloquial"
+  ],
+  "extra": [
+   [
+    "Another meeting? [Fantastic].",
+    "Ещё одна встреча? Фантастика.",
+    "Сарказм."
+   ],
+   [
+    "[Wow], what a surprise.",
+    "Вау, какой сюрприз.",
+    "Сарказм без удивления."
+   ],
+   [
+    "He [deadpanned], \"I love Mondays.\"",
+    "Он с каменным лицом сказал: «Обожаю понедельники».",
+    "Deadpan."
+   ],
+   [
+    "[Sure], because that always works.",
+    "Конечно, ведь это всегда срабатывает.",
+    "Ироничное согласие."
+   ],
+   [
+    "Stuck in traffic? [Living] the dream.",
+    "Застрял в пробке? Живу мечтой.",
+    "Ироничная фраза."
+   ],
+   [
+    "Thanks [a lot], really helpful.",
+    "Огромное спасибо, очень помог.",
+    "Саркастичная благодарность."
+   ],
+   [
+    "[Cool] story, bro.",
+    "Классная история, бро.",
+    "Скука, сарказм."
+   ]
+  ]
+ },
+ "c2u31l1": {
+  "tags": [
+   "speaking"
+  ],
+  "extra": [
+   [
+    "How's it [going]?",
+    "Как дела?",
+    "Стандартное приветствие."
+   ],
+   [
+    "So what do you [do]?",
+    "Так чем ты занимаешься?",
+    "Вопрос о работе."
+   ],
+   [
+    "Crazy weather we're [having], huh?",
+    "Странная погода, да?",
+    "Small talk о погоде."
+   ],
+   [
+    "[Pretty] good, thanks.",
+    "Довольно хорошо, спасибо.",
+    "Типичный ответ."
+   ],
+   [
+    "How do you [know] the host?",
+    "Откуда ты знаешь хозяина?",
+    "Вопрос на вечеринке."
+   ],
+   [
+    "Anything fun [planned] for the weekend?",
+    "Есть планы на выходные?",
+    "Безопасная тема."
+   ],
+   [
+    "It was great [chatting] with you.",
+    "Было здорово поболтать.",
+    "Завершение разговора."
+   ]
+  ]
+ },
+ "c2u31l2": {
+  "tags": [
+   "speaking"
+  ],
+  "extra": [
+   [
+    "So I'm [standing] there, right?",
+    "И вот стою я там, понимаешь?",
+    "Present для живости."
+   ],
+   [
+    "And [then] out of nowhere, a dog runs in.",
+    "И тут откуда ни возьмись забегает собака.",
+    "Then — развитие сюжета."
+   ],
+   [
+    "[Long] story short, we got married.",
+    "Короче говоря, мы поженились.",
+    "Long story short."
+   ],
+   [
+    "You'll [never] guess who I saw.",
+    "Ни за что не угадаешь, кого я видел.",
+    "Завязка."
+   ],
+   [
+    "I was [like], «Are you serious?»",
+    "Я такой: «Ты серьёзно?»",
+    "Like для цитаты."
+   ],
+   [
+    "[Anyway], that's how I met him.",
+    "В общем, так я с ним и познакомился.",
+    "Anyway — финал."
+   ],
+   [
+    "So he [goes], «No way.»",
+    "И он такой: «Не может быть».",
+    "Goes = says."
+   ]
+  ]
+ },
+ "c2u31l3": {
+  "tags": [
+   "phrasal-verbs"
+  ],
+  "extra": [
+   [
+    "I'll [pick] you up at eight.",
+    "Я заеду за тобой в восемь.",
+    "Pick up — забрать."
+   ],
+   [
+    "Please [put] out your cigarette.",
+    "Пожалуйста, потуши сигарету.",
+    "Put out — потушить."
+   ],
+   [
+    "It took weeks to [get] over the flu.",
+    "Ушли недели, чтобы оправиться от гриппа.",
+    "Get over — оправиться."
+   ],
+   [
+    "She [picked] up Spanish in Mexico.",
+    "Она подхватила испанский в Мексике.",
+    "Pick up — выучить."
+   ],
+   [
+    "Your name [came] up in the meeting.",
+    "Твоё имя всплыло на совещании.",
+    "Come up — упомянуть."
+   ],
+   [
+    "I'm sorry to [put] you out.",
+    "Извини, что доставил хлопот.",
+    "Put out — побеспокоить."
+   ],
+   [
+    "He never [got] over her.",
+    "Он так её и не забыл.",
+    "Get over — пережить."
+   ]
+  ]
+ },
+ "c2u31l4": {
+  "tags": [
+   "slang-colloquial",
+   "adjectives-adverbs"
+  ],
+  "extra": [
+   [
+    "That test was [super] easy.",
+    "Тест был очень лёгким.",
+    "Super — усилитель."
+   ],
+   [
+    "I'm [sort] of busy right now.",
+    "Я сейчас как бы занят.",
+    "Sort of — хедж."
+   ],
+   [
+    "The movie was [kind] of boring.",
+    "Фильм был скучноватым.",
+    "Kind of — смягчение."
+   ],
+   [
+    "She's [totally] right.",
+    "Она абсолютно права.",
+    "Totally — усилитель."
+   ],
+   [
+    "He's [dead] tired.",
+    "Он смертельно устал.",
+    "Dead — «очень»."
+   ],
+   [
+    "It's [crazy] hot today.",
+    "Сегодня безумно жарко.",
+    "Crazy — усилитель."
+   ],
+   [
+    "That was [pretty] good.",
+    "Это было довольно хорошо.",
+    "Pretty — умеренный усилитель."
+   ]
+  ]
+ },
+ "c2u31l5": {
+  "tags": [
+   "speaking",
+   "pragmatics"
+  ],
+  "extra": [
+   [
+    "[So], what happened next?",
+    "Так что было дальше?",
+    "So начинает вопрос."
+   ],
+   [
+    "It's [totally] fine, don't worry.",
+    "Всё совершенно нормально, не волнуйся.",
+    "Totally."
+   ],
+   [
+    "[Like], I didn't even know her.",
+    "Типа, я её даже не знал.",
+    "Like — филлер."
+   ],
+   [
+    "[You know] what I mean?",
+    "Понимаешь, о чём я?",
+    "You know."
+   ],
+   [
+    "[Basically], we ran out of time.",
+    "В общем, у нас кончилось время.",
+    "Basically."
+   ],
+   [
+    "[Oh], by the way, I called Mom.",
+    "О, кстати, я позвонил маме.",
+    "Oh — смена темы."
+   ],
+   [
+    "It was, [um], kind of awkward.",
+    "Было, эм, неловко.",
+    "Um — пауза."
+   ]
+  ]
+ },
+ "c2u32l1": {
+  "tags": [
+   "modals",
+   "questions",
+   "register"
+  ],
+  "extra": [
+   [
+    "Could you [possibly] lend me a pen?",
+    "Не мог бы ты одолжить ручку?",
+    "Possibly смягчает."
+   ],
+   [
+    "I was [hoping] you could help.",
+    "Я надеялся, что ты поможешь.",
+    "Past continuous вежливее."
+   ],
+   [
+    "Would it be [possible] to leave early?",
+    "Можно было бы уйти пораньше?",
+    "Would it be possible."
+   ],
+   [
+    "Do you [happen] to know the time?",
+    "Вы случайно не знаете время?",
+    "Happen to."
+   ],
+   [
+    "Would you [mind] if I sat here?",
+    "Не возражаете, если я сяду?",
+    "Would you mind if + past."
+   ],
+   [
+    "I [wonder] if you could call back.",
+    "Интересно, не могли бы вы перезвонить.",
+    "I wonder if."
+   ],
+   [
+    "Is there any [chance] you could stay?",
+    "Есть ли шанс, что ты останешься?",
+    "Any chance."
+   ]
+  ]
+ },
+ "c2u32l2": {
+  "tags": [
+   "pragmatics",
+   "speaking"
+  ],
+  "extra": [
+   [
+    "Let me [get] back to you on that.",
+    "Дайте я вернусь к вам с ответом.",
+    "Отложенный отказ."
+   ],
+   [
+    "That's [kind] of you, but I'll pass.",
+    "Это мило, но я откажусь.",
+    "Kind of you."
+   ],
+   [
+    "I'm going to [pass] this time.",
+    "В этот раз я пас.",
+    "Pass — отказаться."
+   ],
+   [
+    "I'd love to, but I've got [plans].",
+    "С радостью бы, но у меня планы.",
+    "Вежливый отказ."
+   ],
+   [
+    "Maybe [another] time?",
+    "Может, в другой раз?",
+    "Смягчение."
+   ],
+   [
+    "I'm [swamped] this week, sorry.",
+    "Я завален на этой неделе, извини.",
+    "Причина отказа."
+   ],
+   [
+    "I'll have to [sit] this one out.",
+    "Я пропущу этот раз.",
+    "Sit out."
+   ]
+  ]
+ },
+ "c2u32l3": {
+  "tags": [
+   "pragmatics",
+   "writing"
+  ],
+  "extra": [
+   [
+    "[As] per our conversation, here's the file.",
+    "Согласно нашему разговору, вот файл.",
+    "As per."
+   ],
+   [
+    "Just [circling] back on my request.",
+    "Просто напоминаю о своей просьбе.",
+    "Мягкое напоминание."
+   ],
+   [
+    "[Friendly] reminder: the report is due today.",
+    "Дружеское напоминание: отчёт сегодня.",
+    "Friendly reminder."
+   ],
+   [
+    "Just to [clarify], who owns this task?",
+    "Просто уточню: кто отвечает за задачу?",
+    "Скрытое раздражение."
+   ],
+   [
+    "[Going] forward, please copy me.",
+    "В дальнейшем, пожалуйста, ставьте меня в копию.",
+    "Going forward — упрёк."
+   ],
+   [
+    "As [previously] mentioned, we're closed Monday.",
+    "Как упоминалось, в понедельник мы закрыты.",
+    "Скрытый упрёк."
+   ],
+   [
+    "Thanks in [advance] for your help.",
+    "Заранее спасибо за помощь.",
+    "Давление вежливостью."
+   ]
+  ]
+ },
+ "c2u32l4": {
+  "tags": [
+   "pragmatics"
+  ],
+  "extra": [
+   [
+    "I [wonder] if we could try another approach.",
+    "Может, попробуем другой подход?",
+    "Мягкая критика."
+   ],
+   [
+    "It's [almost] there, just a few tweaks.",
+    "Почти готово, пара правок.",
+    "Смягчение."
+   ],
+   [
+    "He didn't want to [lose] face.",
+    "Он не хотел потерять лицо.",
+    "Lose face."
+   ],
+   [
+    "Great start! [Maybe] add a summary?",
+    "Отличное начало! Может, добавить резюме?",
+    "Сэндвич-комплимент."
+   ],
+   [
+    "That's an [interesting] idea.",
+    "Интересная идея.",
+    "Часто — вежливое несогласие."
+   ],
+   [
+    "You [might] want to double-check this.",
+    "Возможно, стоит перепроверить.",
+    "Might want to."
+   ],
+   [
+    "I see your [point], but...",
+    "Понимаю тебя, но...",
+    "Смягчённое возражение."
+   ]
+  ]
+ },
+ "c2u32l5": {
+  "tags": [
+   "pragmatics"
+  ],
+  "extra": [
+   [
+    "He [hinted] that he wanted a raise.",
+    "Он намекнул, что хочет прибавку.",
+    "Hint."
+   ],
+   [
+    "\"Some students passed\" [implies] not all.",
+    "«Некоторые сдали» подразумевает, что не все.",
+    "Скалярная импликатура."
+   ],
+   [
+    "Read between the [lines].",
+    "Читай между строк.",
+    "Скрытый смысл."
+   ],
+   [
+    "\"It's getting late\" was a [hint] to leave.",
+    "«Уже поздно» было намёком уйти.",
+    "Косвенный акт."
+   ],
+   [
+    "What she [meant] was \"no\".",
+    "Она имела в виду «нет».",
+    "Meant."
+   ],
+   [
+    "His silence [spoke] volumes.",
+    "Его молчание говорило о многом.",
+    "Speak volumes."
+   ],
+   [
+    "\"Nice handwriting\" is [faint] praise for an essay.",
+    "«Хороший почерк» — слабая похвала эссе.",
+    "Faint praise."
+   ]
+  ]
+ }
+}
