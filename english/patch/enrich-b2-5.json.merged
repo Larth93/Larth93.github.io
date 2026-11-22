@@ -1,0 +1,90 @@
+{
+ "b2u30l1": {"tags": ["future", "reported-speech"], "extra": [
+  ["I thought it [would] rain, so I took an umbrella.", "Я думал, что пойдёт дождь, поэтому взял зонт.", "Предсказание из прошлого: will → would."],
+  ["She [was going to] quit, but they gave her a raise.", "Она собиралась уволиться, но ей повысили зарплату.", "Несбывшийся план в прошлом — was going to."],
+  ["The train [was about to] leave when we jumped on.", "Поезд вот-вот должен был отойти, когда мы запрыгнули.", "was about to — «вот-вот должно было случиться»."],
+  ["He promised he [would] never be late again.", "Он пообещал, что больше никогда не опоздает.", "Обещание в прошлом передаётся через would."],
+  ["They met in 2010, and later they [were to] marry.", "Они познакомились в 2010-м, а позже им суждено было пожениться.", "was/were to — судьба, книжный стиль."],
+  ["We [were going to] watch a movie, but the power went out.", "Мы собирались посмотреть фильм, но отключили свет.", "Намерение, которое не осуществилось."]
+ ]},
+ "b2u30l2": {"tags": ["relative-clauses"], "extra": [
+  ["That's the guy [whose] dog bit my brother.", "Это тот парень, чья собака укусила моего брата.", "whose — «чей», принадлежность."],
+  ["She passed the test, [which] surprised everyone.", "Она сдала тест, что всех удивило.", "which относится ко всему предложению."],
+  ["I have three cousins, two [of whom] live in Texas.", "У меня три кузена, двое из которых живут в Техасе.", "После of о людях — whom."],
+  ["This is the house [in which] I grew up.", "Это дом, в котором я вырос.", "Предлог + which — формальный вариант."],
+  ["He bought ten books, none [of which] he has read.", "Он купил десять книг, ни одну из которых не прочитал.", "none of which — о вещах."],
+  ["The company [whose] app crashed apologized to users.", "Компания, чьё приложение упало, извинилась перед пользователями.", "whose возможно и для неодушевлённых."]
+ ]},
+ "b2u30l3": {"tags": ["conjunctions", "relative-clauses"], "extra": [
+  ["[Wherever] you go, I'll follow you.", "Куда бы ты ни пошёл, я пойду за тобой.", "wherever — «где/куда бы ни»."],
+  ["Call me [whenever] you need help.", "Звони мне всякий раз, когда нужна помощь.", "whenever — «когда бы ни, всякий раз»."],
+  ["[No matter how] hard I try, I can't sleep.", "Как бы я ни старался, не могу заснуть.", "no matter how + прилагательное/наречие."],
+  ["You can invite [whoever] you like.", "Можешь пригласить кого угодно.", "whoever — «кто бы ни, любой, кто»."],
+  ["Take [whichever] seat is free.", "Садись на любое свободное место.", "whichever — выбор из ограниченного набора."],
+  ["[However] much it costs, I'm buying it.", "Сколько бы это ни стоило, я это куплю.", "however much — «сколько бы ни»."]
+ ]},
+ "b2u30l4": {"tags": ["conditionals", "conjunctions"], "extra": [
+  ["Take a jacket [in case] it gets cold.", "Возьми куртку на случай, если похолодает.", "in case — предосторожность, а не условие."],
+  ["Hurry up, [otherwise] we'll miss the bus.", "Поторопись, иначе мы опоздаем на автобус.", "otherwise — «иначе»."],
+  ["You won't pass [unless] you study harder.", "Ты не сдашь, если не будешь заниматься усерднее.", "unless = if not."],
+  ["[Suppose] you won the lottery, what would you do?", "Предположим, ты выиграл в лотерею — что бы ты сделал?", "suppose вводит гипотетическое условие."],
+  ["I'll lend you my car [as long as] you drive carefully.", "Я одолжу тебе машину, если будешь водить аккуратно.", "as long as — «при условии, что»."],
+  ["We'll go hiking, [provided] the weather is good.", "Мы пойдём в поход при условии хорошей погоды.", "provided (that) — формальное «при условии»."]
+ ]},
+ "b2u30l5": {"tags": ["quantifiers", "adjectives-adverbs"], "extra": [
+  ["The soup is [too] hot to eat.", "Суп слишком горячий, чтобы его есть.", "too + прил. + to — избыток."],
+  ["He isn't old [enough] to drive.", "Он недостаточно взрослый, чтобы водить.", "enough ставится после прилагательного."],
+  ["It was [such] a good party that nobody left.", "Вечеринка была такой хорошей, что никто не ушёл.", "such a + прил. + существительное."],
+  ["There were [so] many people that we couldn't move.", "Людей было так много, что мы не могли двигаться.", "so many + исчисляемые."],
+  ["I've eaten [so] much that I feel sick.", "Я так много съел, что меня тошнит.", "so much — с неисчисляемым или как наречие."],
+  ["Do we have [enough] chairs for everyone?", "У нас хватит стульев на всех?", "enough стоит перед существительным."]
+ ]},
+ "b2u31l1": {"tags": ["emphasis-cleft"], "extra": [
+  ["I [do] remember locking the door.", "Я точно помню, что запер дверь.", "do усиливает утверждение."],
+  ["She [does] work hard, believe me.", "Она правда много работает, поверь мне.", "В 3-м лице — does + инфинитив."],
+  ["We [did] warn you about the traffic.", "Мы ведь предупреждали тебя о пробках.", "В прошлом — did + инфинитив."],
+  ["[Do] help yourself to some cake.", "Угощайтесь тортом, пожалуйста.", "Do перед повелительным — вежливое настояние."],
+  ["I don't play much, but I [do] enjoy watching.", "Я мало играю, но смотреть мне очень нравится.", "Эмфатическое do для контраста."],
+  ["He [did] say he'd come, didn't he?", "Он ведь говорил, что придёт?", "did say — подчёркивает факт."]
+ ]},
+ "b2u31l2": {"tags": ["confusing-words", "prepositions"], "extra": [
+  ["He looks [like] his father.", "Он похож на своего отца.", "like — сходство, «как, похожий на»."],
+  ["She talks [as if] she knows everything.", "Она говорит так, будто всё знает.", "as if — «как будто»."],
+  ["I use my phone [as] an alarm clock.", "Я использую телефон как будильник.", "as — в качестве, функция."],
+  ["I love fruits [such as] mangoes and kiwis.", "Я люблю фрукты, такие как манго и киви.", "such as — для примеров."],
+  ["[As] I said, the meeting is canceled.", "Как я сказал, встреча отменена.", "as + предложение: «как»."],
+  ["It smells [like] burnt toast in here.", "Здесь пахнет подгоревшим тостом.", "smell like + существительное."]
+ ]},
+ "b2u31l3": {"tags": ["gerund-infinitive"], "extra": [
+  ["It's not worth [buying] the expensive model.", "Не стоит покупать дорогую модель.", "worth + V-ing."],
+  ["I couldn't help [laughing] at his joke.", "Я не мог не рассмеяться над его шуткой.", "can't help + V-ing — «не могу не»."],
+  ["It's a waste of time [arguing] with him.", "Спорить с ним — пустая трата времени.", "a waste of time + V-ing."],
+  ["There's no point [calling] — she's asleep.", "Звонить бесполезно — она спит.", "There's no point + V-ing."],
+  ["It's no use [crying] over spilled milk.", "Что толку плакать о пролитом молоке.", "It's no use + V-ing."],
+  ["This museum is well worth [visiting].", "Этот музей определённо стоит посетить.", "well worth + V-ing."]
+ ]},
+ "b2u31l4": {"tags": ["past-simple", "gerund-infinitive"], "extra": [
+  ["We [used to] live in Chicago.", "Раньше мы жили в Чикаго.", "Состояние в прошлом — только used to, не would."],
+  ["I'm not [used to] waking up so early.", "Я не привык вставать так рано.", "be used to + V-ing — «привык»."],
+  ["You'll soon [get used to] the cold.", "Ты скоро привыкнешь к холоду.", "get used to — процесс привыкания."],
+  ["Did you [use to] play the piano?", "Ты раньше играл на пианино?", "В вопросе с did — use to без -d."],
+  ["After dinner, Dad [would] tell us stories.", "После ужина папа, бывало, рассказывал нам истории.", "would — повторяющееся действие в прошлом."],
+  ["She [didn't use to] like coffee.", "Раньше она не любила кофе.", "Отрицание: didn't use to."]
+ ]},
+ "b2u31l5": {"tags": ["comparatives"], "extra": [
+  ["[The sooner] we leave, the better.", "Чем скорее выйдем, тем лучше.", "The + сравнительная, the + сравнительная."],
+  ["The more you practice, [the] easier it gets.", "Чем больше практикуешься, тем легче.", "Артикль the нужен в обеих частях."],
+  ["This phone is [much] faster than my old one.", "Этот телефон гораздо быстрее моего старого.", "much усиливает сравнительную степень."],
+  ["The test was [a bit] harder than I expected.", "Тест был немного сложнее, чем я ожидал.", "a bit — «немного» перед сравнительной."],
+  ["It's not [nearly] as cold as yesterday.", "Сегодня далеко не так холодно, как вчера.", "not nearly as — «далеко не так»."],
+  ["Prices are getting higher [and higher].", "Цены становятся всё выше и выше.", "Повтор сравнительной — постепенное изменение."]
+ ]},
+ "b2u31l6": {"tags": ["gerund-infinitive"], "extra": [
+  ["My parents let me [stay] up late.", "Родители разрешили мне не ложиться допоздна.", "let + объект + инфинитив без to."],
+  ["She asked me [to help] her move.", "Она попросила меня помочь ей с переездом.", "ask sb to do."],
+  ["Can you help me [carry] these boxes?", "Поможешь мне донести эти коробки?", "help sb (to) do — to можно опустить."],
+  ["I finally got him [to clean] his room.", "Я наконец уговорил его убрать в комнате.", "get sb to do — с to."],
+  ["The teacher made us [rewrite] the essay.", "Учитель заставил нас переписать эссе.", "make sb do — без to."],
+  ["I'd like [you to] meet my boss.", "Я хотел бы, чтобы ты познакомился с моим начальником.", "would like + объект + to."]
+ ]}
+}

@@ -1,0 +1,600 @@
+{
+ "c2u20l1": {
+  "tags": [
+   "word-formation"
+  ],
+  "extra": [
+   [
+    "He's a known [Anglophile].",
+    "Он известный англофил.",
+    "-phile — любитель."
+   ],
+   [
+    "The [benefactor] donated a million dollars.",
+    "Благотворитель пожертвовал миллион долларов.",
+    "Bene- — добро."
+   ],
+   [
+    "The book has a strict [chronological] order.",
+    "В книге строгий хронологический порядок.",
+    "Chron- — время."
+   ],
+   [
+    "Car fumes are [malodorous].",
+    "Выхлопы машин зловонны.",
+    "Mal- — плохо."
+   ],
+   [
+    "Ancient Athens was a [democracy].",
+    "Древние Афины были демократией.",
+    "-cracy — власть."
+   ],
+   [
+    "The patient suffers from [chronic] pain.",
+    "Пациент страдает хронической болью.",
+    "Chronic — длительный."
+   ],
+   [
+    "Officials suspected [malfeasance].",
+    "Чиновники заподозрили должностное преступление.",
+    "Mal- + feasance — злоупотребление."
+   ]
+  ]
+ },
+ "c2u20l2": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "Our boss is [laconic]; his emails are three words long.",
+    "Начальник немногословен: в письмах три слова.",
+    "Laconic — лаконичный."
+   ],
+   [
+    "The [obsequious] waiter kept bowing.",
+    "Подобострастный официант всё кланялся.",
+    "Obsequious — угодливый."
+   ],
+   [
+    "Her [meticulous] notes saved the project.",
+    "Её скрупулёзные записи спасли проект.",
+    "Meticulous — тщательный."
+   ],
+   [
+    "The politician gave an [evasive] answer.",
+    "Политик дал уклончивый ответ.",
+    "Evasive — уклончивый."
+   ],
+   [
+    "Fame is [ephemeral].",
+    "Слава мимолётна.",
+    "Ephemeral — недолговечный."
+   ],
+   [
+    "His [candid] review surprised us.",
+    "Его откровенный отзыв удивил нас.",
+    "Candid — откровенный."
+   ],
+   [
+    "The rules seemed [arbitrary].",
+    "Правила казались произвольными.",
+    "Arbitrary — произвольный."
+   ]
+  ]
+ },
+ "c2u20l3": {
+  "tags": [
+   "collocations"
+  ],
+  "extra": [
+   [
+    "Millions live in [abject] poverty.",
+    "Миллионы живут в крайней нищете.",
+    "Abject poverty — устойчивое сочетание."
+   ],
+   [
+    "She has a [vested] interest in the deal.",
+    "У неё личная заинтересованность в сделке.",
+    "Vested interest."
+   ],
+   [
+    "The plan met with [fierce] opposition.",
+    "План встретил яростное сопротивление.",
+    "Fierce opposition."
+   ],
+   [
+    "He [harbors] doubts about the plan.",
+    "Он таит сомнения насчёт плана.",
+    "Harbor doubts."
+   ],
+   [
+    "They reached a [tentative] agreement.",
+    "Они достигли предварительного соглашения.",
+    "Tentative agreement."
+   ],
+   [
+    "The scandal [tarnished] her reputation.",
+    "Скандал запятнал её репутацию.",
+    "Tarnish a reputation."
+   ],
+   [
+    "It was a [blatant] lie.",
+    "Это была наглая ложь.",
+    "Blatant lie."
+   ]
+  ]
+ },
+ "c2u20l4": {
+  "tags": [
+   "collocations",
+   "idioms"
+  ],
+  "extra": [
+   [
+    "Stress is part and [parcel] of the job.",
+    "Стресс — неотъемлемая часть работы.",
+    "Part and parcel."
+   ],
+   [
+    "We tried [time] and again.",
+    "Мы пытались снова и снова.",
+    "Time and again."
+   ],
+   [
+    "I'm sick and [tired] of excuses.",
+    "Мне до смерти надоели отговорки.",
+    "Sick and tired."
+   ],
+   [
+    "The rules are [cut] and dried.",
+    "Правила чёткие и однозначные.",
+    "Cut and dried."
+   ],
+   [
+    "She's up and [running] after surgery.",
+    "Она снова на ногах после операции.",
+    "Up and running."
+   ],
+   [
+    "We found the house [safe] and sound.",
+    "Мы нашли дом целым и невредимым.",
+    "Safe and sound."
+   ],
+   [
+    "Prices go up by leaps and [bounds].",
+    "Цены растут семимильными шагами.",
+    "By leaps and bounds."
+   ]
+  ]
+ },
+ "c2u20l5": {
+  "tags": [
+   "idioms"
+  ],
+  "extra": [
+   [
+    "A bird in the hand is worth two in the [bush].",
+    "Лучше синица в руках.",
+    "Пословица о надёжном."
+   ],
+   [
+    "The [proof] of the pudding is in the eating.",
+    "Всё познаётся на практике.",
+    "Проверка делом."
+   ],
+   [
+    "Don't put all your eggs in one [basket].",
+    "Не клади все яйца в одну корзину.",
+    "Распределяй риски."
+   ],
+   [
+    "When in Rome, do as the [Romans] do.",
+    "В чужой монастырь со своим уставом не ходят.",
+    "Подстраивайся под обычаи."
+   ],
+   [
+    "The early bird catches the [worm].",
+    "Кто рано встаёт, тому бог подаёт.",
+    "Ранним везёт."
+   ],
+   [
+    "Every cloud has a silver [lining].",
+    "Нет худа без добра.",
+    "Silver lining — светлая сторона."
+   ],
+   [
+    "Too many cooks spoil the [broth].",
+    "У семи нянек дитя без глаза.",
+    "Много руководителей — плохо."
+   ]
+  ]
+ },
+ "c2u21l1": {
+  "tags": [
+   "register",
+   "pragmatics"
+  ],
+  "extra": [
+   [
+    "He was [let] go last month.",
+    "Его уволили в прошлом месяце.",
+    "Let go — мягко «уволен»."
+   ],
+   [
+    "She's [expecting] in June.",
+    "Она ждёт ребёнка в июне.",
+    "Expecting — беременна."
+   ],
+   [
+    "The company is [restructuring].",
+    "Компания проходит реструктуризацию.",
+    "Эвфемизм сокращений."
+   ],
+   [
+    "Civilians became [collateral] damage.",
+    "Мирные жители стали сопутствующими потерями.",
+    "Военный эвфемизм."
+   ],
+   [
+    "He's a bit [economical] with the truth.",
+    "Он немного скуп на правду.",
+    "Эвфемизм лжи."
+   ],
+   [
+    "Where's the [restroom]?",
+    "Где уборная?",
+    "Restroom — вежливо «туалет»."
+   ],
+   [
+    "Our dog was [put] to sleep.",
+    "Нашего пса усыпили.",
+    "Put to sleep — эвтаназия."
+   ]
+  ]
+ },
+ "c2u21l2": {
+  "tags": [
+   "register",
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "She uses a [wheelchair].",
+    "Она пользуется инвалидной коляской.",
+    "Не «прикована к коляске»."
+   ],
+   [
+    "Ask a [server] for the menu.",
+    "Попроси меню у официанта.",
+    "Нейтральное по роду слово."
+   ],
+   [
+    "The [firefighters] arrived quickly.",
+    "Пожарные быстро приехали.",
+    "Вместо firemen."
+   ],
+   [
+    "He is a person with [autism].",
+    "Он человек с аутизмом.",
+    "Person-first язык."
+   ],
+   [
+    "Each student should bring [their] laptop.",
+    "Каждый студент должен принести ноутбук.",
+    "Singular they."
+   ],
+   [
+    "Our [flight attendant] was very kind.",
+    "Бортпроводник был очень любезен.",
+    "Вместо stewardess."
+   ],
+   [
+    "Shelters help people [experiencing] homelessness.",
+    "Приюты помогают людям без жилья.",
+    "Инклюзивная формулировка."
+   ]
+  ]
+ },
+ "c2u21l3": {
+  "tags": [
+   "register"
+  ],
+  "extra": [
+   [
+    "[Notwithstanding] the above, fees remain due.",
+    "Несмотря на вышеизложенное, оплата остаётся обязательной.",
+    "Notwithstanding — юридическое «несмотря на»."
+   ],
+   [
+    "[Pursuant] to Section 4, the lease ends.",
+    "Согласно разделу 4, аренда прекращается.",
+    "Pursuant to — согласно."
+   ],
+   [
+    "The Buyer [shall] pay within 30 days.",
+    "Покупатель обязан оплатить в течение 30 дней.",
+    "Shall — обязанность."
+   ],
+   [
+    "The parties agree as set out [herein].",
+    "Стороны соглашаются с изложенным здесь.",
+    "Herein — в настоящем документе."
+   ],
+   [
+    "This agreement is legally [binding].",
+    "Это соглашение юридически обязательно.",
+    "Binding — обязательный."
+   ],
+   [
+    "The tenant must give [written] notice.",
+    "Арендатор должен дать письменное уведомление.",
+    "Written notice — письменное."
+   ],
+   [
+    "Any [breach] will end the contract.",
+    "Любое нарушение расторгнет договор.",
+    "Breach — нарушение договора."
+   ]
+  ]
+ },
+ "c2u21l4": {
+  "tags": [
+   "hedging",
+   "nominalisation",
+   "register"
+  ],
+  "extra": [
+   [
+    "It [could] be argued that prices are too high.",
+    "Можно утверждать, что цены слишком высоки.",
+    "It could be argued — хедж."
+   ],
+   [
+    "The data [suggest] a strong link.",
+    "Данные указывают на сильную связь.",
+    "Suggest — осторожнее, чем prove."
+   ],
+   [
+    "The [implementation] of the policy was slow.",
+    "Внедрение политики шло медленно.",
+    "Номинализация от implement."
+   ],
+   [
+    "Results [tend] to vary by region.",
+    "Результаты, как правило, различаются по регионам.",
+    "Tend to — хедж."
+   ],
+   [
+    "This is [arguably] the best study.",
+    "Это, пожалуй, лучшее исследование.",
+    "Arguably — осторожная оценка."
+   ],
+   [
+    "Further research is [warranted].",
+    "Требуются дальнейшие исследования.",
+    "Warranted — академическое «оправдано»."
+   ],
+   [
+    "The [findings] are preliminary.",
+    "Выводы предварительные.",
+    "Findings — результаты."
+   ]
+  ]
+ },
+ "c2u21l5": {
+  "tags": [
+   "register",
+   "style-rhetoric"
+  ],
+  "extra": [
+   [
+    "Minister [quits] in shame.",
+    "Министр позорно уходит.",
+    "Таблоидный глагол."
+   ],
+   [
+    "Love [rat] caught cheating again.",
+    "Изменщика снова поймали.",
+    "Love rat — таблоидное «изменник»."
+   ],
+   [
+    "Fans [blast] new movie ending.",
+    "Фанаты разносят концовку фильма.",
+    "Blast — резко критиковать."
+   ],
+   [
+    "Budget [axed] for school lunches.",
+    "Бюджет на школьные обеды урезан.",
+    "Axe — сократить."
+   ],
+   [
+    "A [gossamer] veil of mist hung there.",
+    "Там висела паутинка тумана.",
+    "Поэтическое «тончайший»."
+   ],
+   [
+    "Her joy was [ineffable].",
+    "Её радость была невыразимой.",
+    "Ineffable — невыразимый."
+   ],
+   [
+    "The [lambent] flame danced softly.",
+    "Мерцающее пламя тихо плясало.",
+    "Lambent — поэтическое «мерцающий»."
+   ]
+  ]
+ },
+ "c2u22l1": {
+  "tags": [
+   "idioms",
+   "collocations"
+  ],
+  "extra": [
+   [
+    "Don't [waste] my time.",
+    "Не трать моё время.",
+    "Time is money."
+   ],
+   [
+    "She [attacked] every point I made.",
+    "Она атаковала каждый мой довод.",
+    "Argument is war."
+   ],
+   [
+    "I [can't] buy that excuse.",
+    "Не могу купить эту отговорку.",
+    "Buy — принять идею."
+   ],
+   [
+    "Prices [skyrocketed] last year.",
+    "Цены взлетели в прошлом году.",
+    "More is up."
+   ],
+   [
+    "We're at a [crossroads] in our relationship.",
+    "Наши отношения на распутье.",
+    "Life is a journey."
+   ],
+   [
+    "That idea is half-[baked].",
+    "Эта идея сырая.",
+    "Ideas are food."
+   ],
+   [
+    "He's feeling [down] today.",
+    "Ему сегодня грустно.",
+    "Sad is down."
+   ]
+  ]
+ },
+ "c2u22l2": {
+  "tags": [
+   "sounds",
+   "style-rhetoric"
+  ],
+  "extra": [
+   [
+    "The bacon [crackled] in the pan.",
+    "Бекон трещал на сковороде.",
+    "Ономатопея."
+   ],
+   [
+    "Leaves [rustled] in the wind.",
+    "Листья шелестели на ветру.",
+    "Rustle — звукоподражание."
+   ],
+   [
+    "\"Peter Piper picked peppers\" shows [alliteration].",
+    "«Peter Piper picked peppers» — аллитерация.",
+    "Повтор начальных согласных."
+   ],
+   [
+    "\"Fleet feet sweep\" shows [assonance].",
+    "«Fleet feet sweep» — ассонанс.",
+    "Повтор гласных."
+   ],
+   [
+    "The door [creaked] open.",
+    "Дверь со скрипом открылась.",
+    "Creak — скрип."
+   ],
+   [
+    "The bees [buzzed] around the flowers.",
+    "Пчёлы жужжали вокруг цветов.",
+    "Buzz — жужжание."
+   ],
+   [
+    "The balloon burst with a loud [pop].",
+    "Шарик лопнул с громким хлопком.",
+    "Pop — хлопок."
+   ]
+  ]
+ },
+ "c2u22l3": {
+  "tags": [
+   "style-rhetoric",
+   "idioms"
+  ],
+  "extra": [
+   [
+    "He said \"for all intensive purposes\" — a classic [malapropism].",
+    "Он сказал «for all intensive purposes» — классический малапропизм.",
+    "Ошибка похожим словом."
+   ],
+   [
+    "The title is a clever [double entendre].",
+    "Название — хитрая двусмысленность.",
+    "Двойной смысл."
+   ],
+   [
+    "I used to be a banker, but I lost [interest].",
+    "Я был банкиром, но потерял интерес.",
+    "Каламбур: interest — проценты и интерес."
+   ],
+   [
+    "Time flies like an [arrow].",
+    "Время летит как стрела.",
+    "Классическая двусмысленная фраза."
+   ],
+   [
+    "That joke was so [punny].",
+    "Шутка была полна каламбуров.",
+    "Punny — каламбурный."
+   ],
+   [
+    "The baker quit because he was tired of the [dough].",
+    "Пекарь ушёл: устал от теста.",
+    "Dough — тесто и деньги."
+   ],
+   [
+    "A good pun is its own [reword].",
+    "Хороший каламбур сам себе награда.",
+    "Игра reword/reward."
+   ]
+  ]
+ },
+ "c2u22l4": {
+  "tags": [
+   "style-rhetoric",
+   "word-formation"
+  ],
+  "extra": [
+   [
+    "\"Smog\" is a [portmanteau] of smoke and fog.",
+    "«Smog» — слияние smoke и fog.",
+    "Portmanteau."
+   ],
+   [
+    "\"X is the new black\" is a famous [snowclone].",
+    "«X is the new black» — известный сноуклон.",
+    "Шаблонная фраза."
+   ],
+   [
+    "\"Squad Helps Dog Bite Victim\" is a [crash blossom].",
+    "Это заголовок-двусмысленность.",
+    "Crash blossom."
+   ],
+   [
+    "The scandal was quickly dubbed \"Partygate\" with the [suffix] -gate.",
+    "Скандал прозвали «Partygate» с суффиксом -gate.",
+    "-gate для скандалов."
+   ],
+   [
+    "The ad uses a catchy [slogan].",
+    "Реклама использует цепкий слоган.",
+    "Slogan."
+   ],
+   [
+    "\"Netflix and chill\" became a viral [catchphrase].",
+    "«Netflix and chill» стал вирусной фразой.",
+    "Catchphrase."
+   ],
+   [
+    "\"Sharknado\" is a silly [blend].",
+    "«Sharknado» — забавное словослияние.",
+    "Blend."
+   ]
+  ]
+ }
+}

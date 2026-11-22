@@ -1,0 +1,284 @@
+{
+"a2u20l1": {
+ "why": [
+  "I'd like to + V1 — вежливое «я хотел бы»; book a room = забронировать номер.",
+  "Пассив: Is + V3 (included) — завтрак включён (кем-то в цену).",
+  "from ... to ... — с какого по какое число.",
+  "check in = заселиться, зарегистрироваться в отеле.",
+  "fill out (a form) = заполнить (анкету, форму); американский вариант.",
+  "confirmation = подтверждение (существительное от confirm).",
+  "round-trip ticket = билет туда-обратно (американский вариант; британский — return)."
+ ],
+ "alts": {
+  "0": ["I would like to book a room for two nights.", "I'd like to reserve a room for two nights."],
+  "2": ["We're staying from the 5th to the 8th of June.", "We're staying from June 5th to June 8th."],
+  "3": ["Check-in is after 3 p.m."],
+  "4": ["Please fill in this form."],
+  "5": ["I received the confirmation by email."]
+ },
+ "qwhy": [
+  "I want book — пропущено to и звучит менее вежливо; I like to book — «мне нравится бронировать»; I'd like booking — после would like нужен to + V1.",
+  "on — on с датой, а не с длительностью; during — «во время чего-то», не с числом ночей; since — с точкой начала, а не с периодом.",
+  "check in — заселиться; fill out — заполнить; go off — «сработать (о будильнике)» или «уйти».",
+  "Does — included — V3, нужен be; Are — breakfast в ед. ч.; Has — has included был бы Present Perfect актив, бессмыслица."
+ ]
+},
+"a2u20l2": {
+ "why": [
+  "doesn't work = не работает (о технике); shower — 3-е лицо ед. ч.: doesn't + V1.",
+  "There's no + существительное = нет (чего-то); no заменяет not any.",
+  "too + прилагательное: too noisy = слишком шумно.",
+  "send someone to + V1: прислать кого-то, чтобы починить (fix).",
+  "turn on = включить; после can't — V1.",
+  "towels — мн. ч. после some (полотенца исчисляемые).",
+  "change rooms = поменять номер (во мн. ч., т.к. меняют один на другой).",
+  "look into = разобраться, изучить (проблему)."
+ ],
+ "alts": {
+  "1": ["There isn't any hot water in my room.", "My room has no hot water."],
+  "3": ["Could you send someone to repair it?"],
+  "4": ["I can't switch on the TV.", "I can't turn the TV on."],
+  "6": ["Could I switch rooms, please?", "Can I change rooms, please?"],
+  "7": ["We'll look into it immediately."]
+ },
+ "qwhy": [
+  "not works — отрицание требует doesn't; don't work — с Wi-Fi (оно) нужно doesn't; no work — так не говорят.",
+  "It is — для наличия чего-то нужно there; They are — тоже не выражает наличие; Have — нет подлежащего.",
+  "You fix it. — звучит как приказ; Fix it! — грубо; Can fix it? — нет подлежащего.",
+  "up — break up = расстаться; off — break off = отломиться, прервать; out — break out = вспыхнуть (пожар, война)."
+ ]
+},
+"a2u20l3": {
+ "why": [
+  "get to + место = добраться до.",
+  "get off = выйти из общественного транспорта (автобус, поезд).",
+  "It takes + время = занимает (сколько-то времени).",
+  "by + вид транспорта без артикля: by subway, by bus.",
+  "fare = плата за проезд.",
+  "make a transfer = сделать пересадку (американский вариант).",
+  "get in = сесть в машину/такси (в маленький транспорт, где нельзя стоять).",
+  "weekly pass = недельный проездной."
+ ],
+ "alts": {
+  "0": ["How can I get to the airport?"],
+  "2": ["It takes around twenty minutes.", "It takes about 20 minutes."],
+  "3": ["I usually take the subway to work."],
+  "4": ["The fare costs two dollars.", "The fare is $2."],
+  "5": ["You need to transfer downtown.", "You need to change downtown."],
+  "6": ["Get into the taxi, quick!"]
+ },
+ "qwhy": [
+  "get out the bus — get out of используют для машины, и пропущено of; go off — значит «уйти, сработать»; get down — «спуститься».",
+  "by foot — разговорно встречается, но норма on foot; with foot — так не говорят; by feet — неверно.",
+  "needs — не с It в значении затрат времени; goes — не выражает длительность; spends — время тратит человек (I spend), а не It.",
+  "get on — для автобуса, поезда, самолёта, а не такси; get to — «добраться до»; go on — «продолжать»."
+ ]
+},
+"a2u20l4": {
+ "why": [
+  "Past Simple: маркер last summer; go → went.",
+  "Пассив в прошлом: was + V3 (delayed) — рейс задержали.",
+  "pick up = встретить, забрать кого-то; Past Simple (picked).",
+  "Past Simple: короткое событие (начался дождь) на фоне Past Continuous (were walking).",
+  "set off = отправиться в путь.",
+  "spend time + V-ing: spent a day looking around.",
+  "get back = вернуться.",
+  "Finally = наконец (после долгих попыток); стоит в начале фразы."
+ ],
+ "alts": {
+  "0": ["Last summer we went to Lisbon."],
+  "1": ["Our flight was delayed by two hours."],
+  "2": ["My friend met us at the airport."],
+  "4": ["We left early in the morning.", "We set out early in the morning."],
+  "5": ["We spent a day exploring the old town."],
+  "6": ["We came back on Sunday night.", "We got back on Sunday evening."],
+  "7": ["At last, we found our hotel."]
+ },
+ "qwhy": [
+  "have gone — с конкретным годом Present Perfect нельзя; go — настоящее время; were go — неверная конструкция.",
+  "cooked — Past Simple не передаёт фон, во время которого что-то случилось; am cooking — настоящее время; cook — настоящее время.",
+  "get off — выйти из транспорта; set back — «задержать»; go off — «уйти, сработать».",
+  "While — для длительного фона, а arrived — короткое событие; During — предлог, после него не ставится предложение; Then — «потом», не связывает два действия как «как только»."
+ ]
+},
+"a2u20l5": {
+ "why": [
+  "There are + мн. ч. (lots of parks): наличие многих предметов.",
+  "be famous for = славиться чем-то.",
+  "be worth + V-ing = стоит (сделать).",
+  "lively = оживлённый (прилагательное, несмотря на -ly).",
+  "Короткое прилагательное small: сравнительная -er + than.",
+  "В отрицаниях с исчисляемыми (tourists) — many.",
+  "neighborhood = район (американское написание).",
+  "view = вид; a great view from = прекрасный вид с."
+ ],
+ "alts": {
+  "0": ["My city has lots of parks.", "There are a lot of parks in my city."],
+  "1": ["The city is known for its bridges."],
+  "2": ["The old town is worth a visit."],
+  "3": ["Downtown is very lively in the evening."],
+  "5": ["There aren't a lot of tourists in winter.", "There are few tourists in winter."],
+  "6": ["My area is quiet and safe."],
+  "7": ["There is a great view from the hill.", "The hill has a great view."]
+ },
+ "qwhy": [
+  "to see — после worth инфинитив не ставится; see — нужна -ing форма; seen — V3 не подходит.",
+  "is — cafés во мн. ч.; has/have — наличие выражается через there is/are, а не have.",
+  "of — famous of не существует; with — не то значение; by — «кем-то», не «чем».",
+  "much — для неисчисляемых, а parks исчисляемое; a lot — нужно a lot of; lots — нужно lots of."
+ ]
+},
+"a2u21l1": {
+ "why": [
+  "make an appointment = записаться на приём.",
+  "have a headache = болит голова; headache — исчисляемое, с a.",
+  "hurt = болеть; back — 3-е лицо ед. ч., отсюда hurts.",
+  "since + точка начала (Monday); Present Perfect — кашель продолжается до сих пор.",
+  "come down with = заболеть (простудой и т.п.).",
+  "prescription = рецепт на лекарство.",
+  "health insurance = медицинская страховка.",
+  "get over = оправиться (от болезни)."
+ ],
+ "alts": {
+  "0": ["I would like to make an appointment.", "I'd like to book an appointment."],
+  "1": ["I have a really bad headache.", "I've got a terrible headache."],
+  "2": ["My back hurts when I'm sitting."],
+  "3": ["I've had a cough since Monday."],
+  "4": ["I think I'm getting a cold."],
+  "6": ["Do you have medical insurance?"],
+  "7": ["It took me a week to recover from the flu."]
+ },
+ "qwhy": [
+  "My throat is ill — ill говорят о человеке, не о части тела; I have sore throat ill — лишнее ill и нет артикля; I am throat — бессмыслица.",
+  "since — нужна точка начала, а two days — период; from — с Present Perfect не используется так; during — «во время», не для длительности.",
+  "hurts — legs во мн. ч.; is hurting me pain — неверная конструкция; pain — существительное, не глагол в этом значении.",
+  "get off — выйти (из транспорта); get on — сесть, ладить; come down — «спуститься» (заболеть — come down with)."
+ ]
+},
+"a2u21l2": {
+ "why": [
+  "rent = арендная плата; How much is the rent?",
+  "Пассив: Are + V3 (included) — включены (в цену).",
+  "furnished = меблированная (с мебелью).",
+  "look for = искать.",
+  "move in = въехать (в жильё).",
+  "don't have to = не обязательно.",
+  "mustn't = запрещено, нельзя.",
+  "landlord = хозяин, арендодатель."
+ ],
+ "alts": {
+  "3": ["I'm looking for a one-bedroom apartment.", "I'm looking for a one-bedroom flat."],
+  "5": ["You don't need to pay a fee."],
+  "6": ["You can't smoke in the apartment.", "Smoking isn't allowed in the apartment."],
+  "7": ["The landlord lives on the floor below."]
+ },
+ "qwhy": [
+  "mustn't — это запрет, а не «не обязательно»; haven't pay — неверная форма; not must — must не отрицается через not перед ним.",
+  "move on — «двигаться дальше»; move up — «продвинуться»; get in — «войти, сесть», но не въехать в квартиру.",
+  "Do — Do I have pets? — вопрос о факте, а не разрешение; Have — Have I pets звучит устаревше и не о разрешении; Am — am с have невозможно.",
+  "rent card — такого понятия нет; landlord — арендодатель; bill — счёт."
+ ]
+},
+"a2u21l3": {
+ "why": [
+  "open an account = открыть счёт.",
+  "take out (cash) = снять наличные.",
+  "ATM = банкомат; перед гласным звуком [eɪ] нужен an.",
+  "Пассив в прошлом: was + V3 (blocked), маркер yesterday.",
+  "fee = комиссия, плата за услугу.",
+  "borrow = брать в долг (у кого-то).",
+  "pay back = вернуть долг.",
+  "lend = давать в долг/одалживать (кому-то): lend me."
+ ],
+ "alts": {
+  "1": ["I need to withdraw some cash.", "I need to get some cash."],
+  "2": ["Is there an ATM near here?"],
+  "3": ["My card got blocked yesterday."],
+  "4": ["Is there a charge for transfers?"],
+  "6": ["I'll pay you back on Friday.", "I'll give it back to you on Friday."]
+ },
+ "qwhy": [
+  "take off — «снять (одежду), взлететь»; take up — «заняться чем-то»; put out — «потушить».",
+  "borrow me — borrow = брать, а не давать; Can I lend — вопрос задан от неверного лица; lend to me ... back — лишние to и back.",
+  "is been — неверная форма (нужно has been); were — card в ед. ч.; has — has stolen = «украла» (актив), а нужен пассив.",
+  "fare — плата за проезд; fine — штраф; price tag — ценник."
+ ]
+},
+"a2u21l4": {
+ "why": [
+  "yet в отрицании = ещё не; стоит в конце; Present Perfect.",
+  "ago = назад; с Past Simple (ordered).",
+  "track = отслеживать (заказ).",
+  "tracking number = трек-номер.",
+  "send = отправить; после I'd like to — V1.",
+  "pick up = забрать (посылку).",
+  "drop off = сдать, завезти (посылку).",
+  "Пассив в Present Perfect: has been + V3 (shipped); just = только что."
+ ],
+ "alts": {
+  "0": ["My package hasn't come yet.", "My parcel hasn't arrived yet."],
+  "2": ["Can I track my order?"],
+  "4": ["I'd like to mail this to Canada.", "I want to send this to Canada."],
+  "5": ["You can collect it at the post office."],
+  "7": ["Your order has just shipped."]
+ },
+ "qwhy": [
+  "didn't — с yet нужен Present Perfect; wasn't — wasn't arrived — неверная пассивная форма; isn't — то же.",
+  "before now — неестественно; yet — не указывает на время в прошлом; since — нужна точка начала, и с Present Perfect.",
+  "pick out — «выбрать»; take on — «взять на себя»; drop off — «сдать, отвезти», противоположное.",
+  "trace back — «проследить до источника»; follow up — «проверить, напомнить»; watch on — такого выражения нет."
+ ]
+},
+"a2u21l5": {
+ "why": [
+  "return = вернуть (товар).",
+  "refund = возврат денег; get a refund.",
+  "receipt = чек (p не читается).",
+  "fit = подходить по размеру.",
+  "enough после прилагательного: big enough.",
+  "exchange ... for = обменять на.",
+  "try on = примерить (одежду); местоимение it между глаголом и on.",
+  "Пассив в прошлом: were + V3 (damaged); headphones — мн. ч."
+ ],
+ "alts": {
+  "0": ["I would like to return these shoes."],
+  "1": ["Could I get a refund?", "Can I have a refund?"],
+  "3": ["The jacket doesn't fit."],
+  "4": ["It's not big enough."],
+  "5": ["Can I swap it for a medium?", "Could I exchange it for a medium?"],
+  "7": ["The headphones were damaged inside the box."]
+ },
+ "qwhy": [
+  "enough big — enough ставится после прилагательного; big too — too ставится перед прилагательным; too enough — так не говорят.",
+  "doesn't suit size — suit = идти по стилю, и «size» лишнее; isn't fitting to me — fit без to и обычно не в Continuous; doesn't match me — match = сочетаться (с чем-то).",
+  "try out — «опробовать» (устройство); put up — «повесить, поставить»; take on — «взять на себя».",
+  "check list — список дел; bill note — такого нет; recipe — рецепт блюда."
+ ]
+},
+"a2u21l6": {
+ "why": [
+  "Past Simple: заказ был сделан ранее (ordered).",
+  "be + прилагательное: is cold.",
+  "Present Perfect Continuous: have been + V-ing — действие длится до сих пор (for forty minutes).",
+  "undercooked = недожаренный, недоваренный.",
+  "send back = вернуть (блюдо на кухню).",
+  "manager = менеджер, управляющий.",
+  "take off (the check) = убрать из счёта.",
+  "check = счёт в ресторане (американский вариант)."
+ ],
+ "alts": {
+  "0": ["I'm afraid this isn't what I ordered."],
+  "2": ["We have been waiting for forty minutes.", "We've been waiting for 40 minutes."],
+  "3": ["The steak isn't cooked enough."],
+  "4": ["I'd like to send it back to the kitchen."],
+  "6": ["They removed the dessert from the check.", "They took the dessert off the bill."],
+  "7": ["Could we have the check, please?", "Can we get the check, please?"]
+ },
+ "qwhy": [
+  "We wait — Present Simple не передаёт «уже час и продолжается»; are waiting since — нужен Present Perfect, и since не с периодом; waited ... now — Past Simple противоречит now.",
+  "I'm scared — «мне страшно», не вежливый оборот; Listen — резко; Hey you — грубо.",
+  "account — банковский счёт; receipt card — такого нет; score — счёт в игре.",
+  "send off — «отправить (письмо), удалить с поля»; give up — «сдаться»; take back up — бессмыслица."
+ ]
+}
+}

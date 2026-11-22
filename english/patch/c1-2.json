@@ -1,0 +1,222 @@
+{
+  "c1u3l1": {
+    "why": [
+      "Составное определение перед существительным пишется через дефисы: state-of-the-art lab.",
+      "Наречие newly + причастие renovated образуют определение «недавно отремонтированный» (без дефиса, т. к. наречие на -ly).",
+      "Составное определение с числом: дефисы и year в ед. ч. — ten-year-old daughter.",
+      "Причастие прошедшего времени collected заменяет придаточное that were collected (пассивный смысл).",
+      "После the first + существительное используется to-инфинитив: the first woman to win.",
+      "Составное прилагательное перед существительным пишется через дефис: long-term solution.",
+      "Существительное customer service выступает определением к team (в ед. ч., без 's)."
+    ],
+    "alts": {
+      "0": ["She works in a cutting-edge research lab.", "She works in a state-of-the-art laboratory."],
+      "1": ["We rented a recently renovated apartment downtown."],
+      "2": ["He has a ten-year-old daughter."],
+      "3": ["The data collected last year was incomplete."],
+      "4": ["She became the first woman to win the award."],
+      "5": ["We need a long-term solution."],
+      "6": ["Call customer service.", "Call the customer support team."]
+    },
+    "qwhy": [
+      "three-hours — в составном определении существительное в ед. ч.; three hours' delays — мн. ч. delays при артикле a; delay of three-hours — после of дефис не нужен.",
+      "shoes store — определение обычно в ед. ч.; store of shoes — неестественно; shoe's store — притяжательный падеж здесь неуместен.",
+      "lived — пассивное/прошедшее причастие не передаёт активное who live; living people — меняет смысл («живые люди»); to live — инфинитив означает цель/будущее.",
+      "Остальные варианты нарушают порядок прилагательных: мнение → возраст → материал."
+    ]
+  },
+  "c1u3l2": {
+    "why": [
+      "Wh-cleft: What + подлежащее + глагол ... is — выделяет то, что нужно.",
+      "It-cleft: It was + выделяемый человек + who/that; про человека — who.",
+      "All I want is ... = «всё, чего я хочу, — это...»; all заменяет what для усиления.",
+      "Прилагательное + as + подлежащее + be = уступка «хотя он и был уставшим».",
+      "В wh-cleft What he did was + инфинитив без to (quit) — выделяем действие.",
+      "The reason (that) ... is ... — выделение причины.",
+      "Much as I'd like to = «как бы мне ни хотелось»; to сохраняется вместо глагола stay."
+    ],
+    "gap": { "1": "who|that" },
+    "alts": {
+      "0": ["What I really need is a long vacation.", "I really need a long vacation."],
+      "1": ["It was my sister that told me the news.", "My sister was the one who told me the news."],
+      "2": ["All I want is a quiet evening."],
+      "3": ["Although he was very tired, he finished the report.", "Tired though he was, he finished the report."],
+      "4": ["He just quit on the spot.", "What he did was quit on the spot."],
+      "5": ["I'm calling to apologize.", "The reason I'm calling is to apologize."],
+      "6": ["As much as I'd like to, I can't stay.", "Much as I'd like to, I can't stay."]
+    },
+    "qwhy": [
+      "It was Chicago where we met it — лишнее it; Was in Chicago we met — нет подлежащего It и that; What we met was Chicago — бессмыслица (встретили не Чикаго).",
+      "That / Which — не начинают wh-cleft со значением «то, что»; It — тогда нужна другая структура (It is ... that).",
+      "like / so / that — в уступительной конструкции после прилагательного используется только as (или though).",
+      "As it was cold — «так как было холодно» (причина); It was cold as we swam — «было холодно, когда мы плавали»; As cold — неграмматично."
+    ]
+  },
+  "c1u3l3": {
+    "why": [
+      "Коллокация heavy traffic — плотное движение (не strong/big).",
+      "Коллокация a strong accent — сильный акцент.",
+      "С risk сочетается high: a high risk of.",
+      "Коллокация meet a deadline — уложиться в срок.",
+      "С research используется do: do research (не make).",
+      "highly + unlikely/likely — стандартная коллокация «крайне (мало)вероятно».",
+      "bitterly disappointed — устойчивое «горько разочарованы».",
+      "Коллокация take measures — принимать меры."
+    ],
+    "gap": { "7": "take|adopt" },
+    "alts": {
+      "0": ["We were stuck in heavy traffic.", "We got stuck in a bad traffic jam."],
+      "1": ["She has a strong French accent."],
+      "2": ["Smoking carries a high risk of disease.", "Smoking poses a high risk of disease."],
+      "3": ["We worked all night to make the deadline."],
+      "4": ["They did a lot of research before they invested."],
+      "5": ["It's very unlikely that he'll agree.", "He's highly unlikely to agree."],
+      "6": ["Fans were bitterly disappointed with the ending."],
+      "7": ["The city must take action against flooding."]
+    },
+    "qwhy": [
+      "strong rain / big rain — не коллокации в английском; hard raining — неграмматично (можно it's raining hard).",
+      "do / take / have a mistake — не сочетаются с mistake, только make.",
+      "rise — непереходный глагол, не берёт дополнение; lift / grow — не сочетаются с awareness.",
+      "heavily / highly — не сочетаются с disagree; deeply — встречается редко, стандарт — strongly.",
+      "strongly very — неграмматичное сочетание двух наречий; heavily / bitterly — не сочетаются с recommended."
+    ]
+  },
+  "c1u3l4": {
+    "why": [
+      "put up with = терпеть (что-то неприятное).",
+      "turn down = отклонить (предложение, приглашение).",
+      "come across as = производить впечатление, казаться.",
+      "look into = разобраться, расследовать.",
+      "play it by ear = действовать по ситуации, без плана.",
+      "cut corners = экономить на качестве, халтурить.",
+      "a blessing in disguise = неприятность, которая оказалась к лучшему.",
+      "on the fence = в нерешительности, не определился."
+    ],
+    "gap": { "1": "turned down|rejected|declined" },
+    "alts": {
+      "0": ["I can't stand this noise anymore.", "I can't tolerate this noise anymore."],
+      "1": ["She declined the job offer.", "She rejected the job offer."],
+      "2": ["He seems shy, but he's funny."],
+      "3": ["We'll investigate your complaint.", "We'll look into your complaint."],
+      "4": ["Let's not make plans; we'll play it by ear."],
+      "5": ["Never cut corners on safety.", "Never skimp on safety."],
+      "6": ["Losing that job turned out to be a blessing in disguise."],
+      "7": ["I still haven't decided about moving.", "I'm still undecided about moving."]
+    },
+    "qwhy": [
+      "tolerate — это put up with; reject — это turn down; devise — это come up with.",
+      "Он случайно грубит — смешение с come across (наткнуться); Он перестал грубить — нет такого смысла; Он встретил грубияна — буквальное прочтение.",
+      "the elephant in the room — замалчиваемая проблема; on the fence — в нерешительности; cut corners — халтурить.",
+      "picked out — выбрал; made out — разглядел/понял; put off — отложил."
+    ]
+  },
+  "c1u4l1": {
+    "why": [
+      "outweigh = перевешивать (преимущества больше затрат).",
+      "Granted, ... but — уступка: признаём довод оппонента, потом возражаем.",
+      "overlook = упускать из виду; подлежащее argument в ед. ч. → -s.",
+      "compelling = убедительный; a compelling case for — устойчивое сочетание.",
+      "Устойчивая фраза It stands to reason that = логично, что.",
+      "On balance = взвесив всё, в целом — формула вывода.",
+      "Admittedly = надо признать — вводит уступку."
+    ],
+    "gap": { "6": "Admittedly|Granted" },
+    "alts": {
+      "0": ["The benefits clearly outweigh the costs."],
+      "1": ["Admittedly, it's expensive, but it lasts longer.", "Sure, it's expensive, but it lasts longer."],
+      "2": ["This argument ignores a key fact.", "This argument misses a key fact."],
+      "3": ["There is a strong case for change.", "There are compelling arguments for change."],
+      "4": ["It's logical that prices will rise.", "It makes sense that prices will rise."],
+      "5": ["Overall, I support the proposal.", "On the whole, I support the proposal."],
+      "6": ["Granted, the first version had bugs.", "Admittedly, the first version was buggy."]
+    },
+    "qwhy": [
+      "Therefore — вывод; Furthermore — добавление; As a result — следствие.",
+      "overweigh / outweight — несуществующие формы; overcome — преодолевать.",
+      "Granted, it's cheap — уступка, а не вывод; Critics may argue that... — контраргумент; Firstly — начало аргументации.",
+      "введения тезиса / примера / вывода — фраза указывает на недостаток чужого аргумента, а не на эти функции."
+    ]
+  },
+  "c1u4l2": {
+    "why": [
+      "Формальное unable to вместо разговорного can't.",
+      "commence — формальный синоним start/begin, уместен для церемонии.",
+      "when you get a chance — нейтрально-дружелюбная разговорная формула.",
+      "In light of = в свете (формальное); в американском английском — in light of.",
+      "obtain — формальный синоним get в официальных требованиях.",
+      "with regard to = касательно (официальное письмо).",
+      "make it = успеть, смочь прийти (разговорное, подходит к Hey)."
+    ],
+    "gap": { "5": "regard|reference|respect" },
+    "alts": {
+      "0": ["Unfortunately, I will be unable to attend.", "I regret that I will not be able to attend."],
+      "1": ["The ceremony will begin at noon.", "The ceremony will start at noon."],
+      "2": ["Please send it when you have a chance."],
+      "3": ["Given recent events, the show has been canceled.", "In light of recent events, the show has been canceled."],
+      "4": ["Applicants must get a visa in advance."],
+      "5": ["I'm writing regarding your application.", "I'm writing about your application."],
+      "6": ["Hey, I can't come tonight."]
+    },
+    "qwhy": [
+      "Hit me up / Let me know ASAP / Text me back — разговорные, неуместны в официальном письме.",
+      "kick off / get going — разговорные; begin up — несуществующее сочетание.",
+      "Dear Sir, I demand — слишком официально и грубо; Mark, send file now — резко и без артиклей; Respected Mark, I humbly request — калька, звучит неестественно.",
+      "a lot of stuff / tons of problems / loads of issues — разговорные количественные выражения."
+    ]
+  },
+  "c1u4l3": {
+    "why": [
+      "examine — типичный академический глагол «рассматривать»; This paper → -s.",
+      "Moving on to ... — фраза-переход (signposting) в презентации.",
+      "Устойчивая формула As you can see from this chart.",
+      "takeaway (амер.) = главный вывод, то, что стоит запомнить.",
+      "consequently = следовательно, вводит результат; после точки с запятой.",
+      "To wrap up = в завершение (wrap up — подводить итог).",
+      "take questions = отвечать на вопросы аудитории."
+    ],
+    "gap": { "4": "consequently|therefore|as a result" },
+    "alts": {
+      "0": ["This paper looks at the causes of inflation.", "This paper explores the causes of inflation."],
+      "1": ["Moving on to my next point, let's talk about costs."],
+      "2": ["As you can see from the chart, sales doubled."],
+      "3": ["The main takeaway is that habits matter.", "The key point is that habits matter."],
+      "4": ["Prices rose; as a result, demand fell.", "Prices rose; therefore, demand fell."],
+      "5": ["To sum up, let me summarize the main points.", "In conclusion, let me summarize the main points."],
+      "6": ["I'd be happy to answer any questions."]
+    },
+    "qwhy": [
+      "It's cheap, however it's slow — запятая перед however создаёт comma splice; however, без знака перед — неверно; с двумя запятыми — тоже comma splice.",
+      "In the modern world... — клише для начала эссе; The aim of this paper is... — вводит цель; Hence — связка следствия, а не перехода.",
+      "В заключении / в середине — слишком поздно; не формулировать явно — противоречит нормам англ. эссе.",
+      "whereas — противопоставление; conversely — наоборот; moreover — кроме того."
+    ]
+  },
+  "c1u4l4": {
+    "why": [
+      "gonna = going to (разговорная редукция) — намерение.",
+      "whaddya = what do you в быстрой речи.",
+      "dunno = don't know.",
+      "lemme = let me.",
+      "gotta = (have) got to = надо.",
+      "kinda = kind of = «как-то, слегка».",
+      "shoulda = should have; You should have seen ... = видел бы ты."
+    ],
+    "alts": {
+      "0": ["I'm going to grab some coffee.", "I'm going to get some coffee."],
+      "1": ["What do you think about the movie?", "What did you think of the movie?"],
+      "2": ["I don't know where he went."],
+      "3": ["Let me check my schedule."],
+      "4": ["We have to leave in five minutes.", "We've got to leave in five minutes."],
+      "5": ["It was kind of boring, honestly.", "Honestly, it was a bit boring."],
+      "6": ["You should have seen his face!"]
+    },
+    "qwhy": [
+      "Did she / Did they — в didja слышно you, а не she/they; Do you — didja содержит did.",
+      "Linking — связывание слов, а не выпадение; Flap T — t между гласными звучит как d; Weak form — ослабление служебных слов.",
+      "«wa-ter» с чётким t и «wat-ter» — британское/нетипичное произношение; «wa-cher» — такого звука нет.",
+      "should of — ошибка из-за слабой формы have; shoulda — только разговорная запись; should've of — лишнее of.",
+      "What did you want, dude? / Where do you want to go? / What are you doing? — не совпадают с whaddya wanna do по составу слов."
+    ]
+  }
+}

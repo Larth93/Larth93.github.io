@@ -1,0 +1,254 @@
+{
+"b1u20l1": {
+ "why": [
+  "In my opinion — устойчивое выражение, только с предлогом in.",
+  "В английском отрицание ставится к think: I don't think…, а не I think … not.",
+  "As far as I'm concerned — «что касается меня», выражает личную позицию.",
+  "The main reason is that… — «главная причина в том, что».",
+  "For one thing — «во-первых» при перечислении аргументов.",
+  "because of + существительное (the storm); because — перед придаточным с глаголом.",
+  "convincing — «убедительный» (вызывает уверенность); convinced — «убеждённый» (о человеке)."
+ ],
+ "alts": {"0": ["I think the city needs more bike lanes."], "2": ["As for me, the price is too high.", "In my view, the price is too high."], "3": ["The main reason is that it saves money."], "4": ["First of all, it's faster.", "Firstly, it's faster."], "5": ["We canceled the trip due to the storm."], "6": ["Her argument was very persuasive."]},
+ "qwhy": [
+  "I think it won't work not — двойное отрицание; I think that not work — нет подлежащего и вспомогательного; I not think — not без do.",
+  "By, On, At — не сочетаются с opinion в этом значении.",
+  "because — требует придаточного с глаголом; since — тоже союз перед предложением; so — следствие, а не причина.",
+  "As far as I know — о знании фактов; As long as — «пока/при условии»; As soon as — «как только»."
+ ]
+},
+"b1u20l2": {
+ "why": [
+  "agree with + человек; agree — глагол, без am.",
+  "couldn't agree more — «больше согласиться невозможно» = полностью согласен.",
+  "have a point — «быть в чём-то правым»; признание позиции перед but.",
+  "I'm afraid I disagree — вежливое несогласие; disagree — глагол.",
+  "to some extent — «до некоторой степени».",
+  "Have you considered…? — Present Perfect + consider = учесть, обдумать.",
+  "find a compromise — найти компромисс."
+ ],
+ "alts": {"0": ["I completely agree with you.", "I totally agree with you."], "2": ["You've got a point, but it's expensive.", "You're right in a way, but it's expensive."], "4": ["That's true to a certain extent.", "That's partly true."], "5": ["Have you taken the costs into account?"]},
+ "qwhy": [
+  "I am agree — agree глагол, be не нужен; I agree to you — agree to + предложение/условие, не человек; I am agreed you — неграмматично.",
+  "не согласен, не могу согласиться — буквальный перевод, смысл обратный; почти согласен — неверно, это максимальное согласие.",
+  "You're wrong, No, it's not true — прямолинейно, без смягчения; That's stupid — грубо.",
+  "So do I — для согласия с утверждением; Me neither don't — двойное отрицание; So don't I — неграмматично."
+ ]
+},
+"b1u20l3": {
+ "why": [
+  "news — неисчисляемое, согласуется с глаголом в ед. ч.: is.",
+  "according to — «согласно, по данным».",
+  "source — источник информации.",
+  "biased — предвзятый (односторонне освещает события).",
+  "on social media — с соцсетями используется предлог on.",
+  "go viral — стать вирусным, быстро распространиться.",
+  "headline — заголовок статьи/новости."
+ ],
+ "alts": {"0": ["The news isn't good today."], "1": ["The article says rents are rising."], "4": ["I saw it on social networks."], "5": ["The video went viral overnight."]},
+ "qwhy": [
+  "were, are — news в ед. ч.; have been — мн. ч. и неверное время.",
+  "a news, one news — news неисчисляемое; a new — прилагательное «новый».",
+  "on — для сайтов, не для газеты; at, by — не про место в газете.",
+  "reliable — надёжный; viral — вирусный; accurate — точный."
+ ]
+},
+"b1u20l4": {
+ "why": [
+  "ad — разговорное «реклама/рекламный ролик», исчисляемое; every + ед. ч.",
+  "advertise — рекламировать(ся); the company → 3 лицо ед. ч.: advertises.",
+  "catchy — легко запоминающийся, цепляющий (о слогане, мелодии).",
+  "misleading — вводящий в заблуждение.",
+  "persuade sb to do — уговорить; прошлое: persuaded.",
+  "target audience — целевая аудитория.",
+  "sponsored post — оплаченный спонсором пост."
+ ],
+ "alts": {"0": ["I skip every ad on YouTube.", "I skip all the ads on YouTube."], "3": ["The ad was completely misleading."], "4": ["She convinced me to try it.", "She talked me into trying it."]},
+ "qwhy": [
+  "a funny advertising — advertising неисчисляемое; reclame — не английское слово; an advertise — это глагол.",
+  "take — после persuade нужно to; taking — не та форма; that take — неграмматично.",
+  "catchy — запоминающийся; eye-catching — привлекающий внимание; reliable — надёжный.",
+  "advertisement — одно объявление; advertise — глагол; an ad — одна реклама, не индустрия."
+ ]
+},
+"b1u20l5": {
+ "why": [
+  "major in — получать специальность (в американском вузе); прошлое: majored.",
+  "master's degree — магистерская степень.",
+  "tuition — плата за обучение (неисчисляемое).",
+  "scholarship — стипендия за заслуги, покрывающая обучение.",
+  "take an exam — сдавать экзамен (процесс); pass — сдать успешно.",
+  "graduate from — окончить учебное заведение.",
+  "drop out — бросить учёбу."
+ ],
+ "alts": {"0": ["My major was computer science.", "I studied computer science."], "2": ["Tuition is very expensive in the United States."], "4": ["I'm taking my final tomorrow."], "6": ["He dropped out of college to start a company."]},
+ "qwhy": [
+  "passing — pass = успешно сдать, результат ещё неизвестен; give, make — не сочетаются с exam в значении «сдавать».",
+  "in — graduate in = по специальности; at, of — не используются с graduate.",
+  "scholarship — стипендия; fee loan — не термин; salary — зарплата.",
+  "on, at, with — major сочетается только с in."
+ ]
+},
+"b1u21l1": {
+ "why": [
+  "apply for — подавать заявление на что-то; in March → Past Simple.",
+  "Пассив: was approved — визу одобрили (исполнитель неважен).",
+  "be on a visa — находиться в стране по визе (предлог on).",
+  "purpose of your visit — цель визита, стандартный вопрос.",
+  "expire — истекать (о сроке действия); passport → expires.",
+  "paperwork — бумаги, документы (неисчисляемое).",
+  "customs — таможня, всегда с -s."
+ ],
+ "alts": {"0": ["I applied for a work visa in March."], "4": ["My passport expires next year."], "5": ["There's so much paperwork to complete.", "There's a lot of paperwork to fill out."], "6": ["We waited for two hours at customs."]},
+ "qwhy": [
+  "with, by, under — с визой используется on.",
+  "was refused to — лишнее to; was declined me — неграмматично; didn't approve — актив без подлежащего.",
+  "visa card — банковская карта; white card, resident pass — не термины США.",
+  "paperworks, a paperwork — неисчисляемое, без -s и a; many paperwork — many с исчисляемыми."
+ ]
+},
+"b1u21l2": {
+ "why": [
+  "SSN (Social Security Number) — номер соцстрахования, нужен для работы в США.",
+  "open an account — открыть счёт.",
+  "withdraw → withdrew — снять деньги со счёта.",
+  "fee — комиссия, плата за услугу.",
+  "credit score — кредитный рейтинг.",
+  "direct deposit — прямое зачисление зарплаты на счёт.",
+  "savings account — сберегательный счёт."
+ ],
+ "alts": {"1": ["I want to open a checking account.", "I would like to open a checking account."], "2": ["I took out two hundred dollars."], "3": ["Is there a monthly charge?"]},
+ "qwhy": [
+  "savings account — для накоплений; credit account — кредитный, не для своих денег; bill account — не термин.",
+  "take off cash — take off = снимать одежду/взлетать; pull cash, remove cash — не говорят.",
+  "debit card — карта; PIN — код; receipt — чек.",
+  "I want open account — нет to и артикля; Give me account — грубо и без артикля; I will to — после will без to."
+ ]
+},
+"b1u21l3": {
+ "why": [
+  "rent — арендная плата; be due — подлежать оплате.",
+  "lease — договор аренды.",
+  "utilities — коммунальные услуги (вода, газ, электричество), мн. ч.",
+  "landlord — арендодатель, хозяин жилья.",
+  "security deposit — залог за жильё.",
+  "available — свободный, доступный (о жилье).",
+  "move in — въехать (в жильё)."
+ ],
+ "alts": {"0": ["Rent is due on the first."], "3": ["The landlord repaired the heater quickly."], "5": ["Is the apartment still free?"]},
+ "qwhy": [
+  "landlord — арендодатель; roommate — сосед по квартире; owner — владелец.",
+  "stop a lease — не говорят; cancel a rent — rent = плата; quit a landlord — бессмыслица.",
+  "one-bedroom — с отдельной спальней; townhouse — таунхаус; condo — квартира в собственности.",
+  "allowing — актив, питомцы не разрешают; allow — нужна V3 после be; permit — тоже нужна V3 (permitted)."
+ ]
+},
+"b1u21l4": {
+ "why": [
+  "small talk — светская беседа о пустяках; make small talk.",
+  "be supposed to — «положено, принято».",
+  "It's rude to + глагол — «невежливо/грубо делать что-то».",
+  "culture shock — культурный шок.",
+  "personal space — личное пространство.",
+  "leave a tip — оставить чаевые; прошлое: left.",
+  "polite — вежливый."
+ ],
+ "alts": {"0": ["Americans do a lot of small talk."], "1": ["You're expected to tip the waiter.", "It's customary to tip the waiter."], "5": ["We left a 20% tip."]},
+ "qwhy": [
+  "My back hurts… — слишком личное для ритуала; Why do you ask? — звучит враждебно; I am normal — калька с русского.",
+  "0%, 5% — слишком мало, это невежливо; 50% — нереально много.",
+  "suppose, supposing, supposes — в конструкции нужна V3: be supposed to.",
+  "salary, religion, weight — личные/чувствительные темы."
+ ]
+},
+"b1u21l5": {
+ "why": [
+  "Пассив: was delayed — рейс задержали; by three hours — на сколько.",
+  "miss a connection — опоздать на стыковочный рейс.",
+  "arrive — прибыть; после didn't — базовая форма.",
+  "file a claim — подать претензию/заявление о компенсации.",
+  "refund — возврат денег.",
+  "rebook — перебронировать; прошлое: rebooked.",
+  "options — варианты, возможности."
+ ],
+ "alts": {"0": ["Our flight was delayed three hours."], "2": ["My suitcase didn't come.", "My luggage didn't arrive."], "4": ["Can I get my money back for the ticket?"], "5": ["They rebooked me onto the morning flight.", "They put me on the morning flight."]},
+ "qwhy": [
+  "canceled me — актив, неверное дополнение; is cancel — нужна V3; has canceling — неграмматично.",
+  "lost — терять, не опоздать; late my connection — late не глагол; skipped my transfer — пропустить намеренно.",
+  "Put me… — приказ; You must… — требование; I want… now — грубо.",
+  "voucher — ваучер; receipt — чек; fee — плата."
+ ]
+},
+"b1u22l1": {
+ "why": [
+  "about yourself — о себе (возвратное местоимение к you).",
+  "strength — сильная сторона; my biggest + ед. ч.",
+  "for five years + действие продолжается → Present Perfect Continuous: have been working.",
+  "be responsible for — отвечать за что-то.",
+  "increase by + число — увеличить на (сколько).",
+  "salary expectations — зарплатные ожидания, мн. ч.",
+  "hire — нанять; прошлое: hired."
+ ],
+ "alts": {"0": ["Tell me a bit about yourself."], "2": ["I've worked in marketing for five years."], "3": ["I was in charge of the mobile app."], "4": ["We increased sales by 20%.", "We grew sales by twenty percent."]},
+ "qwhy": [
+  "SWOT — анализ сильных/слабых сторон; KPI — показатели эффективности; ASAP — «как можно скорее».",
+  "work — Present Simple не с since; am working — нет связи с прошлым; worked — завершённое прошлое.",
+  "We did some things, The team was good — расплывчато и не от себя; I tried maybe to help — неуверенно и неграмматично.",
+  "on, for, at — increase сочетается с by для величины изменения."
+ ]
+},
+"b1u22l2": {
+ "why": [
+  "agenda — повестка встречи.",
+  "jump in — вставить слово, вмешаться в разговор.",
+  "Just to clarify — «просто уточню».",
+  "suggest + V-ing: postponing.",
+  "wrap up — закругляться, заканчивать.",
+  "follow up — написать/связаться по итогам.",
+  "on the same page — одинаково понимать ситуацию."
+ ],
+ "alts": {"1": ["Can I cut in here?"], "3": ["I suggest delaying the release.", "I suggest we postpone the release."], "4": ["Let's call it a day."], "6": ["Is everyone on the same page?"]},
+ "qwhy": [
+  "to move — suggest не с инфинитивом; move — без that/подлежащего неграмматично; moved — неверная форма.",
+  "Stop talking, Wait, wrong, Listen to me — грубо, без смягчения.",
+  "wrap in — завернуть во что-то; close off — перекрыть; end over — не существует.",
+  "agenda points — пункты повестки (до встречи); minutes — протокол; follow-ups items — неграмматично."
+ ]
+},
+"b1u22l3": {
+ "why": [
+  "attach — прикрепить файл; Present Perfect: I've attached (результат сейчас).",
+  "follow up on — напомнить о чём-то.",
+  "Would you mind + V-ing: checking.",
+  "Thanks in advance — заранее спасибо.",
+  "heads-up — предупреждение заранее.",
+  "loop in — подключить человека к переписке/обсуждению.",
+  "out of office — отсутствовать на работе (в отпуске, командировке)."
+ ],
+ "alts": {"0": ["I've attached the latest report.", "Please find the latest report attached."], "2": ["Could you check this today?"], "5": ["Let me add our designer."], "6": ["I'll be out of the office next week.", "I'll be away next week."]},
+ "qwhy": [
+  "to send, send, sent — после would you mind нужна форма V-ing.",
+  "Why didn't you answer?, Answer me ASAP!!!, You forgot — обвиняюще и грубо.",
+  "every other day, email or document, end of discussion — не расшифровки EOD.",
+  "Dear Madam Sarah — слишком формально и неверно; Hello, dear colleague! — калька; Sarah! — резко."
+ ]
+},
+"b1u22l4": {
+ "why": [
+  "can't afford — не могу позволить себе.",
+  "save up for — копить на что-то.",
+  "spend money on — тратить на что-то.",
+  "stick to a budget — придерживаться бюджета.",
+  "cut back on — сократить потребление/траты.",
+  "borrow — брать в долг (себе).",
+  "broke — без денег, на мели (разг.)."
+ ],
+ "alts": {"1": ["We're saving for a trip to Japan."], "4": ["I need to spend less on coffee."], "5": ["Can you lend me twenty dollars?", "Could I borrow twenty dollars?"]},
+ "qwhy": [
+  "for, to, in — spend сочетается с on.",
+  "borrow — брать, а не давать; owe — быть должным; rent — сдавать/снимать.",
+  "/debt/, /dept/, /debit/ — b в debt не читается, произношение /det/.",
+  "buying, buy, for buy — afford сочетается с to + глагол."
+ ]
+}
+}

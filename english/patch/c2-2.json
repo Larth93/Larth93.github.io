@@ -1,0 +1,98 @@
+{
+"c2u3l1": {
+ "why": [
+  "sticking point = камень преткновения — пункт, по которому не могут договориться.",
+  "deal-breaker = условие, из-за которого сделка срывается (неприемлемо).",
+  "meet (someone) halfway = пойти навстречу, найти компромисс.",
+  "provided that = «при условии, что»: согласие зависит от предоплаты.",
+  "run something by someone = согласовать, показать кому-то для одобрения.",
+  "sleep on it = «утро вечера мудренее» — обдумать до завтра.",
+  "I was wondering if... — вежливая, смягчённая просьба; Past Continuous добавляет дистанцию.",
+  "With all due respect = «при всём уважении» — смягчает последующее несогласие."
+ ],
+ "gap": {"3":"provided|providing","4":"run|check"},
+ "alts": {"1":["The lack of a warranty is unacceptable to us."],"3":["We'll agree, provided that payment is made upfront.","We'll agree on condition that payment is upfront."],"5":["I'd like to think it over before deciding."]}
+},
+"c2u3l2": {
+ "why": [
+  "tricolon = риторическая триада: три параллельных элемента.",
+  "ad hominem = нападение на личность, а не на аргумент.",
+  "false dichotomy = ложная дилемма: искусственно оставлены только два варианта.",
+  "straw man = искажение позиции оппонента, чтобы легче её опровергнуть.",
+  "slippery slope = «скользкая дорожка»: шаг якобы неизбежно ведёт к крайности.",
+  "pathos = апелляция к эмоциям (ethos — к авторитету, logos — к логике).",
+  "loaded language = эмоционально заряженная лексика, навязывающая оценку."
+ ],
+ "gap": {"2":"dichotomy|dilemma"},
+ "alts": {"2":["You're either with us or against us? That's a false dilemma."],"5":["The speech appealed heavily to emotion."]}
+},
+"c2u3l3": {
+ "why": [
+  "Catch-22 (роман Хеллера) = безвыходная ситуация с взаимоисключающими условиями.",
+  "Orwellian (Оруэлл, «1984») = тоталитарный контроль и слежка.",
+  "ballpark figure (бейсбол) = примерная цифра.",
+  "out of left field (бейсбол) = совершенно неожиданно.",
+  "Hail Mary (амер. футбол) = отчаянная попытка с малыми шансами.",
+  "Pyrrhic victory = пиррова победа — слишком дорогой ценой.",
+  "go down a rabbit hole («Алиса в Стране чудес») = увлечься и потеряться в теме.",
+  "drop the ball (спорт) = упустить, облажаться."
+ ],
+ "alts": {"0":["No experience, no job; no job, no experience. It's a vicious circle."],"2":["Can you give me a rough figure?","Can you give me a rough estimate?"]}
+},
+"c2u4l1": {
+ "why": [
+  "Подлежащее One (одна из), а не reasons — глагол в единственном: is.",
+  "fewer с исчисляемыми во множественном (applicants); less — с неисчисляемыми.",
+  "Each of... — подлежащее each, глагол в единственном: has.",
+  "После предлога between — объектный падеж: you and me (не I).",
+  "whom — объект придаточного (we hired him → whom).",
+  "Компания = it, притяжательное its (без апострофа; it's = it is).",
+  "The number of... — подлежащее number, глагол в единственном (a number of — во множественном).",
+  "Параллелизм: перечень однородных членов в одной форме — cooking, traveling, reading."
+ ],
+ "gap": {"4":"whom|who|that"},
+ "alts": {"3":["This is just between us.","This stays between you and me."],"4":["The person we hired quit.","The person who we hired quit."]}
+},
+"c2u4l2": {
+ "why": [
+  "affect — глагол «влиять» (после модального can).",
+  "effect — существительное «эффект» (little effect).",
+  "comprise = состоять из — без of.",
+  "imply = намекать (так делает говорящий).",
+  "infer = сделать вывод (так делает слушающий); прошедшее inferred.",
+  "discreet = сдержанный, тактичный; discrete — отдельный, дискретный.",
+  "complement = дополнять; compliment — хвалить.",
+  "eventually = в конце концов (не «в итоге возможно» — ложный друг «эвентуально»)."
+ ],
+ "gap": {"2":"comprises|includes|has","4":"inferred|gathered|guessed","7":"eventually|finally"},
+ "alts": {"2":["The committee consists of seven members.","The committee is made up of seven members."],"4":["From his tone, I could tell he was upset."],"7":["We finally found the hotel.","In the end, we found the hotel."]}
+},
+"c2u4l3": {
+ "why": [
+  "I mean = «то есть» — уточнение/смягчение предыдущего.",
+  "be like = «такой (говорит)» — вводит цитату в разговорной речи.",
+  "Actually = «вообще-то» — мягкая поправка или несогласие.",
+  "Anyway = «в общем» — возврат к основной линии рассказа.",
+  "wild = «вот это да, невероятно» (разговорное).",
+  "Fair enough = «справедливо, понятно» — принятие довода.",
+  "I hear you = «я тебя понимаю» — признание чувств перед возражением.",
+  "So yeah = маркер завершения устного рассказа."
+ ],
+ "gap": {"4":"wild|crazy|insane"},
+ "alts": {"4":["She won the lottery? That's crazy."],"6":["I understand, but we still need the report."]}
+},
+"c2u4l4": {
+ "why": [
+  "tour de force = выдающееся, мастерское исполнение.",
+  "fall flat = не сработать, не вызвать реакции; jokes — множественное, fall без -s.",
+  "derivative (of) = вторичный, подражательный.",
+  "heavy-handed = подан грубо, в лоб.",
+  "overstay its welcome = длиться дольше, чем приятно/уместно.",
+  "underwhelming = разочаровывающий, не впечатливший.",
+  "phone it in = работать без отдачи, спустя рукава; прошедшее phoned.",
+  "make up for = компенсировать; visuals — множественное, make без -s."
+ ],
+ "gap": {"5":"underwhelming|disappointing"},
+ "alts": {"0":["Her performance is a genuine masterpiece."],"5":["The sequel was disappointing."],"7":["Great visuals compensate for the weak story."]}
+}
+}

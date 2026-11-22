@@ -1,0 +1,534 @@
+{
+ "c1u20l1": {
+  "tags": [
+   "collocations",
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "The bakery started to [turn a profit] in its second year.",
+    "Пекарня начала приносить прибыль на второй год.",
+    "turn/make a profit — устойчивая коллокация; не do a profit."
+   ],
+   [
+    "Management decided to [cut costs] by closing two offices.",
+    "Руководство решило сократить расходы, закрыв два офиса.",
+    "cut costs — стандартное сочетание «сокращать расходы»."
+   ],
+   [
+    "The firm is struggling with a serious [cash-flow] problem.",
+    "Фирма борется с серьёзной проблемой оборотных средств.",
+    "cash-flow problem — нехватка денег для текущих платежей."
+   ],
+   [
+    "The board rejected the [hostile] takeover bid.",
+    "Совет директоров отклонил предложение о враждебном поглощении.",
+    "hostile takeover — поглощение против воли руководства."
+   ],
+   [
+    "Our [shareholders] expect higher dividends this year.",
+    "Наши акционеры ждут более высоких дивидендов в этом году.",
+    "shareholders — владельцы акций, в отличие от более широкого stakeholders."
+   ],
+   [
+    "The startup managed to [secure] five million in funding.",
+    "Стартапу удалось привлечь пять миллионов финансирования.",
+    "secure funding/capital — «получить, обеспечить» финансирование."
+   ]
+  ]
+ },
+ "c1u20l2": {
+  "tags": [
+   "vocabulary-topic",
+   "collocations"
+  ],
+  "extra": [
+   [
+    "The economy slipped into a [recession] last year.",
+    "В прошлом году экономика скатилась в рецессию.",
+    "slip into a recession — типичная коллокация для спада."
+   ],
+   [
+    "The government announced a huge [fiscal] stimulus package.",
+    "Правительство объявило огромный пакет бюджетного стимулирования.",
+    "fiscal stimulus — стимулирование через госрасходы и налоги."
+   ],
+   [
+    "Unemployment [rose] sharply during the downturn.",
+    "Безработица резко выросла во время спада.",
+    "rise — непереходный глагол: безработица растёт сама."
+   ],
+   [
+    "The central bank decided to [raise] interest rates again.",
+    "Центробанк решил снова повысить процентные ставки.",
+    "raise — переходный: банк повышает ставки."
+   ],
+   [
+    "Consumer [spending] fell for the third straight month.",
+    "Потребительские расходы падают третий месяц подряд.",
+    "consumer spending — стандартный макроэкономический термин."
+   ],
+   [
+    "Many economists fear a long economic [downturn].",
+    "Многие экономисты опасаются затяжного экономического спада.",
+    "downturn — спад деловой активности."
+   ]
+  ]
+ },
+ "c1u20l3": {
+  "tags": [
+   "vocabulary-topic",
+   "collocations"
+  ],
+  "extra": [
+   [
+    "The prime minister decided to [call] an early election.",
+    "Премьер-министр решил назначить досрочные выборы.",
+    "call an election — «объявить/назначить выборы»."
+   ],
+   [
+    "She won the race by a [landslide].",
+    "Она победила с огромным отрывом.",
+    "win by a landslide — убедительная победа на выборах."
+   ],
+   [
+    "The president threatened to [veto] the bill.",
+    "Президент пригрозил наложить вето на законопроект.",
+    "veto a bill — отклонить закон правом вето."
+   ],
+   [
+    "The senator refused to [step down] despite the scandal.",
+    "Сенатор отказался уйти в отставку, несмотря на скандал.",
+    "step down — уйти с должности."
+   ],
+   [
+    "Voter [turnout] was unusually high this year.",
+    "Явка избирателей в этом году была необычно высокой.",
+    "voter turnout — явка на выборах."
+   ],
+   [
+    "The opposition [campaigned] hard on healthcare.",
+    "Оппозиция активно вела кампанию по вопросам здравоохранения.",
+    "campaign on an issue — делать тему центральной в кампании."
+   ]
+  ]
+ },
+ "c1u20l4": {
+  "tags": [
+   "vocabulary-topic",
+   "collocations"
+  ],
+  "extra": [
+   [
+    "After two days, the jury [reached] a verdict.",
+    "Через два дня присяжные вынесли вердикт.",
+    "reach a verdict — «прийти к вердикту»."
+   ],
+   [
+    "The suspect was [charged with] armed robbery.",
+    "Подозреваемому предъявили обвинение в вооружённом ограблении.",
+    "be charged with — обвиняться в чём-то."
+   ],
+   [
+    "The court [sentenced] him to five years in prison.",
+    "Суд приговорил его к пяти годам тюрьмы.",
+    "sentence somebody to — приговорить к наказанию."
+   ],
+   [
+    "Her lawyer plans to [appeal] the decision.",
+    "Её адвокат собирается обжаловать решение.",
+    "appeal a decision — обжаловать в вышестоящем суде (в AmE без against)."
+   ],
+   [
+    "The two companies agreed to [settle] out of court.",
+    "Две компании договорились урегулировать спор вне суда.",
+    "settle out of court — досудебное урегулирование."
+   ],
+   [
+    "The judge [dismissed] the case for lack of evidence.",
+    "Судья прекратил дело за недостатком доказательств.",
+    "dismiss a case — закрыть дело."
+   ]
+  ]
+ },
+ "c1u21l1": {
+  "tags": [
+   "vocabulary-topic",
+   "collocations"
+  ],
+  "extra": [
+   [
+    "Diabetes is a [chronic] condition that needs constant care.",
+    "Диабет — хроническое заболевание, требующее постоянного ухода.",
+    "chronic — длительный, в отличие от acute (острый)."
+   ],
+   [
+    "The new drug has few serious [side effects].",
+    "У нового препарата мало серьёзных побочных эффектов.",
+    "side effects — побочные действия лекарства."
+   ],
+   [
+    "Confirmation [bias] makes us ignore contrary evidence.",
+    "Предвзятость подтверждения заставляет нас игнорировать противоположные факты.",
+    "confirmation bias — когнитивное искажение."
+   ],
+   [
+    "He is still [recovering from] knee surgery.",
+    "Он всё ещё восстанавливается после операции на колене.",
+    "recover from — оправиться от болезни или операции."
+   ],
+   [
+    "She has been [suffering from] anxiety for years.",
+    "Она годами страдает тревожностью.",
+    "suffer from + болезнь — стандартная коллокация."
+   ],
+   [
+    "Regular exercise can [boost] your mood.",
+    "Регулярные упражнения могут улучшить настроение.",
+    "boost mood/immunity — «повышать, укреплять»."
+   ]
+  ]
+ },
+ "c1u21l2": {
+  "tags": [
+   "vocabulary-topic",
+   "collocations"
+  ],
+  "extra": [
+   [
+    "Algorithmic [bias] can reinforce existing inequality.",
+    "Алгоритмическая предвзятость может усиливать существующее неравенство.",
+    "algorithmic bias — систематическая ошибка модели против групп людей."
+   ],
+   [
+    "Users are increasingly worried about data [privacy].",
+    "Пользователи всё больше беспокоятся о конфиденциальности данных.",
+    "data privacy — защита личных данных."
+   ],
+   [
+    "Who should be held [accountable] when an AI makes a mistake?",
+    "Кто должен нести ответственность, когда ИИ ошибается?",
+    "be held accountable — нести ответственность."
+   ],
+   [
+    "The company [collects] data without clear consent.",
+    "Компания собирает данные без явного согласия.",
+    "collect data — собирать данные."
+   ],
+   [
+    "Critics call for greater [transparency] in how models work.",
+    "Критики призывают к большей прозрачности в работе моделей.",
+    "transparency — открытость, понятность."
+   ],
+   [
+    "Facial recognition raises serious ethical [concerns].",
+    "Распознавание лиц вызывает серьёзные этические опасения.",
+    "raise concerns — вызывать опасения."
+   ]
+  ]
+ },
+ "c1u21l3": {
+  "tags": [
+   "vocabulary-topic",
+   "collocations"
+  ],
+  "extra": [
+   [
+    "The country is investing heavily in [renewable] energy.",
+    "Страна активно инвестирует в возобновляемую энергетику.",
+    "renewable energy — энергия из возобновляемых источников."
+   ],
+   [
+    "Planting trees can help [mitigate] climate change.",
+    "Посадка деревьев может помочь смягчить изменение климата.",
+    "mitigate — смягчать последствия."
+   ],
+   [
+    "Deforestation threatens the region's [biodiversity].",
+    "Вырубка лесов угрожает биоразнообразию региона.",
+    "biodiversity — разнообразие видов."
+   ],
+   [
+    "Many cities plan to become carbon [neutral] by 2050.",
+    "Многие города планируют стать углеродно-нейтральными к 2050 году.",
+    "carbon neutral — с нулевым балансом выбросов."
+   ],
+   [
+    "We should [phase out] coal power plants gradually.",
+    "Нам следует постепенно отказаться от угольных электростанций.",
+    "phase out — постепенно выводить из использования."
+   ],
+   [
+    "Plastic waste [pollutes] oceans around the world.",
+    "Пластиковые отходы загрязняют океаны по всему миру.",
+    "pollute — загрязнять."
+   ]
+  ]
+ },
+ "c1u21l4": {
+  "tags": [
+   "vocabulary-topic",
+   "collocations"
+  ],
+  "extra": [
+   [
+    "That headline is pure [clickbait].",
+    "Этот заголовок — чистой воды кликбейт.",
+    "clickbait — заголовок-приманка ради кликов."
+   ],
+   [
+    "Reporters must always [protect] their sources.",
+    "Репортёры всегда должны защищать свои источники.",
+    "protect sources — не раскрывать информаторов."
+   ],
+   [
+    "The paper had to [issue] a correction the next day.",
+    "На следующий день газете пришлось опубликовать поправку.",
+    "issue a correction — официально исправить ошибку."
+   ],
+   [
+    "The story went [viral] within hours.",
+    "История стала вирусной за несколько часов.",
+    "go viral — быстро распространиться в сети."
+   ],
+   [
+    "The interview was [off the record].",
+    "Интервью было не для публикации.",
+    "off the record — неофициально, без права цитировать."
+   ],
+   [
+    "The network was accused of [biased] coverage.",
+    "Телеканал обвинили в предвзятом освещении.",
+    "biased coverage — пристрастное освещение событий."
+   ]
+  ]
+ },
+ "c1u21l5": {
+  "tags": [
+   "vocabulary-topic",
+   "collocations"
+  ],
+  "extra": [
+   [
+    "The novel is told by an [unreliable] narrator.",
+    "Роман рассказан ненадёжным рассказчиком.",
+    "unreliable narrator — рассказчик, которому нельзя полностью верить."
+   ],
+   [
+    "Critics [panned] the sequel as lazy and dull.",
+    "Критики разгромили сиквел как ленивый и скучный.",
+    "pan — резко раскритиковать."
+   ],
+   [
+    "The play [explores] themes of grief and guilt.",
+    "Пьеса исследует темы горя и вины.",
+    "explore themes — стандартная формула в рецензиях."
+   ],
+   [
+    "The ending felt a little [predictable].",
+    "Концовка показалась немного предсказуемой.",
+    "predictable — предсказуемый."
+   ],
+   [
+    "Her paintings are [instantly] recognizable.",
+    "Её картины узнаваемы с первого взгляда.",
+    "instantly recognizable — устойчивое сочетание."
+   ],
+   [
+    "The film [received] rave reviews at Cannes.",
+    "Фильм получил восторженные отзывы в Каннах.",
+    "receive rave reviews — получить восторженные рецензии."
+   ]
+  ]
+ },
+ "c1u22l1": {
+  "tags": [
+   "vocabulary-topic",
+   "speaking"
+  ],
+  "extra": [
+   [
+    "She faced a real moral [dilemma].",
+    "Она столкнулась с настоящей моральной дилеммой.",
+    "moral dilemma — выбор между двумя этическими обязательствами."
+   ],
+   [
+    "Your conclusion doesn't [follow from] your premises.",
+    "Ваш вывод не следует из ваших посылок.",
+    "follow from — логически вытекать."
+   ],
+   [
+    "That argument is a classic slippery [slope].",
+    "Этот аргумент — классический «скользкий путь».",
+    "slippery slope — логическая ошибка о неизбежной цепочке последствий."
+   ],
+   [
+    "Kant [argued] that lying is always wrong.",
+    "Кант утверждал, что лгать всегда неправильно.",
+    "argue that — утверждать, доказывать."
+   ],
+   [
+    "Is free will just an [illusion]?",
+    "Является ли свобода воли лишь иллюзией?",
+    "illusion — иллюзия, видимость."
+   ],
+   [
+    "The argument is valid but not [sound].",
+    "Аргумент формально верен, но не обоснован.",
+    "sound — валидный аргумент с истинными посылками."
+   ]
+  ]
+ },
+ "c1u22l2": {
+  "tags": [
+   "vocabulary-topic",
+   "collocations"
+  ],
+  "extra": [
+   [
+    "Correlation does not [imply] causation.",
+    "Корреляция не означает причинно-следственную связь.",
+    "imply — подразумевать, логически следовать."
+   ],
+   [
+    "The [sample size] was too small to be reliable.",
+    "Размер выборки был слишком мал, чтобы быть надёжным.",
+    "sample size — число участников исследования."
+   ],
+   [
+    "Other labs failed to [replicate] the results.",
+    "Другим лабораториям не удалось воспроизвести результаты.",
+    "replicate — повторить эксперимент с тем же итогом."
+   ],
+   [
+    "The researchers [tested] the hypothesis on mice.",
+    "Исследователи проверили гипотезу на мышах.",
+    "test a hypothesis — проверять гипотезу."
+   ],
+   [
+    "The findings are not statistically [significant].",
+    "Результаты статистически незначимы.",
+    "statistically significant — устойчивый научный термин."
+   ],
+   [
+    "Participants were [randomly] assigned to two groups.",
+    "Участников случайным образом распределили на две группы.",
+    "randomly assigned — рандомизация."
+   ]
+  ]
+ },
+ "c1u22l3": {
+  "tags": [
+   "vocabulary-topic",
+   "register"
+  ],
+  "extra": [
+   [
+    "There is an [inherent] risk in any investment.",
+    "В любой инвестиции есть неотъемлемый риск.",
+    "inherent — присущий по природе."
+   ],
+   [
+    "Constant criticism can [undermine] confidence.",
+    "Постоянная критика может подорвать уверенность.",
+    "undermine — постепенно ослаблять."
+   ],
+   [
+    "The new policy will [facilitate] international trade.",
+    "Новая политика облегчит международную торговлю.",
+    "facilitate — способствовать, облегчать."
+   ],
+   [
+    "Prices vary [considerably] across regions.",
+    "Цены значительно различаются по регионам.",
+    "considerably — значительно (академичный синоним a lot)."
+   ],
+   [
+    "Researchers must [acquire] informed consent.",
+    "Исследователи должны получить информированное согласие.",
+    "acquire/obtain — формальные синонимы get."
+   ],
+   [
+    "The data [indicate] a clear upward trend.",
+    "Данные указывают на явный рост.",
+    "indicate — указывать; в академическом стиле data часто во мн. ч."
+   ]
+  ]
+ },
+ "c1u22l4": {
+  "tags": [
+   "writing",
+   "linking-discourse"
+  ],
+  "extra": [
+   [
+    "[In essence], the author argues that cities need fewer cars.",
+    "По сути, автор утверждает, что городам нужно меньше машин.",
+    "In essence — вводит краткую суть."
+   ],
+   [
+    "The article [highlights] the dangers of social media.",
+    "Статья подчёркивает опасности соцсетей.",
+    "highlight — выделять ключевую мысль."
+   ],
+   [
+    "The author [concludes] that reform is urgent.",
+    "Автор приходит к выводу, что реформа необходима срочно.",
+    "conclude that — подводить итог."
+   ],
+   [
+    "She [maintains] that the data were misread.",
+    "Она настаивает, что данные были неверно истолкованы.",
+    "maintain — твёрдо утверждать."
+   ],
+   [
+    "The writer [dismisses] these concerns as exaggerated.",
+    "Автор отвергает эти опасения как преувеличенные.",
+    "dismiss — отмахиваться от идеи."
+   ],
+   [
+    "[Overall], the report paints a hopeful picture.",
+    "В целом доклад рисует обнадёживающую картину.",
+    "Overall — обобщающая связка в резюме."
+   ]
+  ]
+ },
+ "c1u22l5": {
+  "tags": [
+   "writing",
+   "word-formation"
+  ],
+  "extra": [
+   [
+    "Change the verb into a [noun] to vary the structure.",
+    "Превратите глагол в существительное, чтобы изменить структуру.",
+    "Смена части речи — базовый приём перефразирования."
+   ],
+   [
+    "\"Rapid growth\" can be rephrased as \"grew [rapidly]\".",
+    "«Быстрый рост» можно перефразировать как «быстро вырос».",
+    "Прилагательное → наречие при смене структуры."
+   ],
+   [
+    "Avoid copying more than three words in a [row].",
+    "Не копируйте больше трёх слов подряд.",
+    "in a row — подряд."
+   ],
+   [
+    "A good paraphrase keeps the original [meaning].",
+    "Хороший пересказ сохраняет исходный смысл.",
+    "Главное при перефразировании — смысл, не слова."
+   ],
+   [
+    "Turn an active sentence into the [passive] for variety.",
+    "Для разнообразия переведите действительный залог в страдательный.",
+    "Смена залога — ещё один способ перефразирования."
+   ],
+   [
+    "Always [cite] the source, even when paraphrasing.",
+    "Всегда указывайте источник, даже при перефразировании.",
+    "cite a source — ссылаться на источник."
+   ]
+  ]
+ }
+}

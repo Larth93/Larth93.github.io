@@ -1,0 +1,215 @@
+{
+  "c1u1l1": {
+    "why": [
+      "Отрицательное наречие never в начале требует инверсии: вспомогательный have ставится перед подлежащим I (Present Perfect — опыт до сих пор).",
+      "Rarely в начале → инверсия; в Present Simple нужен вспомогательный does перед he, а глагол admit остаётся в базовой форме.",
+      "Little в значении «совсем не» в начале требует инверсии; прошлое время → did + we + базовый глагол know.",
+      "Under no circumstances — отрицательная фраза в начале, поэтому модальный should встаёт перед подлежащим you.",
+      "At no time в начале → инверсия; пассив в прошлом: was ставится перед подлежащим the public.",
+      "Seldom в начале → инверсия; общая истина в Present Simple, поэтому do + we + see.",
+      "Nowhere else в начале → инверсия; будущее время, поэтому will стоит перед you."
+    ],
+    "alts": {
+      "0": ["I have never felt so exhausted.", "I've never felt so exhausted."],
+      "1": ["He rarely admits his mistakes.", "Rarely does he admit his mistakes."],
+      "2": ["We had no idea the company was bankrupt.", "We didn't know the company was bankrupt."],
+      "3": ["Never share your password under any circumstances."],
+      "4": ["The public was never warned.", "At no time was the public warned."],
+      "5": ["We seldom see such talent.", "You rarely see such talent."],
+      "6": ["You won't find better coffee anywhere else."]
+    },
+    "qwhy": [
+      "Never I have seen — после never в начале нужна инверсия; Never I saw — нет инверсии; Never haven't I seen — двойное отрицание.",
+      "she goes / she does go — нет инверсии после Seldom; goes she — инвертировать можно только вспомогательный глагол.",
+      "I suspected / I did suspect — нет инверсии после Little; suspected I — смысловой глагол не выносится вперёд.",
+      "Never have I been / At no time have I been / Seldom am I — инверсия звучит книжно и театрально в дружеской беседе."
+    ]
+  },
+  "c1u1l2": {
+    "why": [
+      "Not only в начале требует инверсии в первой части: did + she + pass (прошлое время).",
+      "Устойчивая пара Hardly ... when: «едва ..., как».",
+      "No sooner — сравнительная конструкция, поэтому её пара — than, а не when.",
+      "После Only when + придаточное инверсия стоит в главной части: did + I + notice.",
+      "Not until + время в начале → инверсия в главной части: did they release.",
+      "Scarcely в начале → инверсия с Past Perfect: had + the game + launched; пара — when.",
+      "Barely ... when — та же пара, что Hardly/Scarcely ... when."
+    ],
+    "alts": {
+      "0": ["She not only passed the exam but also topped the class.", "Not only did she pass the exam, but she was also the best in the class."],
+      "1": ["We had hardly left when it started to rain.", "As soon as we left, it started to rain."],
+      "2": ["I had no sooner paid than I saw a cheaper offer.", "As soon as I paid, I saw a cheaper offer."],
+      "3": ["I only noticed the stars when the lights went out."],
+      "4": ["The sequel wasn't released until 2020.", "They didn't release the sequel until 2020."],
+      "5": ["Hardly had the game launched when the servers crashed.", "The game had barely launched when the servers crashed."],
+      "6": ["He had barely started when his boss interrupted him.", "Hardly had he started when his boss interrupted him."]
+    },
+    "qwhy": [
+      "when — пара для hardly/scarcely, а не для no sooner; that — не вводит событие во времени; then — наречие, а не союз.",
+      "I had gotten / I got — после Hardly в начале нужна инверсия; did I get — в этой конструкции нужен Past Perfect.",
+      "I spoke / I did speak — нет инверсии в главной части после Only after; spoke I — смысловой глагол не инвертируется.",
+      "he was — нет инверсии; he did — нет инверсии и неверный глагол; did he was — be не требует вспомогательного did.",
+      "Ошибки нет — ошибка есть: инверсия не в той части; No sooner / would understand — не исправляют порядок слов."
+    ]
+  },
+  "c1u1l3": {
+    "why": [
+      "Should + подлежащее в начале = формальное «если вдруг» (условие реального типа без if).",
+      "Had + I + V3 вместо If I had known — инверсия в 3-м типе условных (нереальное прошлое).",
+      "Were I you = If I were you: инверсия во 2-м типе, were для всех лиц.",
+      "Устойчивая формула Were it not for + существительное = «если бы не...».",
+      "Главная часть 3-го типа: would + have + V3, поэтому we'd have arrived.",
+      "После Should + подлежащее идёт базовая форма: should the flight be canceled (пассив).",
+      "При условной инверсии отрицание не сокращается и стоит после подлежащего: Had she not called."
+    ],
+    "alts": {
+      "0": ["If you need assistance, call the front desk.", "Should you need help, call the front desk."],
+      "1": ["If I had known the truth, I would have left.", "If I'd known the truth, I would have left."],
+      "2": ["If I were you, I'd accept the offer.", "If I were you, I would accept the offer."],
+      "3": ["If it weren't for the map, we'd be lost.", "Without the map, we'd be lost."],
+      "4": ["If it hadn't been for the delay, we'd have arrived on time.", "But for the delay, we would have arrived on time."],
+      "5": ["If the flight is canceled, you are entitled to a refund."],
+      "6": ["If she hadn't called, I would have forgotten."]
+    },
+    "qwhy": [
+      "Would / Will — не используются в условной инверсии; Had — требует V3 (Had you required), а здесь реальное условие.",
+      "Should — для реальных условий, а не для нереального прошлого; Were — не сочетается с known; Did — не образует условную инверсию.",
+      "Hadn't I seen — при инверсии отрицание не сокращается; Had not I seen — not стоит после подлежащего; Didn't I see — это вопрос.",
+      "Was — в формуле только were; Had — Had it not been for относится к прошлому; Should — в этой формуле не используется."
+    ]
+  },
+  "c1u1l4": {
+    "why": [
+      "После insist that — mandative subjunctive: базовая форма attend без -s даже для he.",
+      "It is vital that + subjunctive: базовая форма be для всех лиц (пассив be informed).",
+      "Отрицание в subjunctive после request that: not + базовая форма (not use), без do.",
+      "It's high time + Past Simple: форма прошедшего, а смысл — «уже давно пора сейчас».",
+      "I'd rather + другое подлежащее + Past Simple: didn't tell — желание о настоящем/будущем.",
+      "as if + нереальное сравнение → were для всех лиц (формальный стиль).",
+      "Застывшая формула subjunctive: Be that as it may = «как бы то ни было»."
+    ],
+    "gap": { "5": "were|was" },
+    "alts": {
+      "0": ["The manager insisted that he should attend the meeting.", "The manager insisted on him attending the meeting."],
+      "1": ["It is vital that she should be informed immediately.", "It's vital that she be informed right away."],
+      "2": ["They asked us not to use our phones.", "They requested that we not use our phones."],
+      "3": ["It's about time you found a real job.", "It's high time you got a real job."],
+      "4": ["I would rather you didn't tell anyone.", "I'd prefer it if you didn't tell anyone."],
+      "5": ["He talks as though he were an expert.", "He talks like he's an expert."],
+      "6": ["Be that as it may, the decision is final.", "Anyway, the decision is final."]
+    },
+    "qwhy": [
+      "signs — после recommend that нужна базовая форма без -s; signed — прошедшее не используется в subjunctive; will sign — будущее не ставится.",
+      "go — после It's time нужен Past Simple; will go — будущее невозможно; going — не личная форма.",
+      "isn't / won't be — индикатив вместо subjunctive; doesn't be — be не образует отрицание с do.",
+      "Пусть приходит, кто хочет / Может быть, придёт — буквальный, неверный перевод; Как бы то ни было — это Be that as it may."
+    ]
+  },
+  "c1u2l1": {
+    "why": [
+      "После прилагательного sharp и артикля a нужно существительное: increase (рост).",
+      "После the ... of нужно существительное от implement: implementation.",
+      "Существительное awareness (осведомлённость) от aware; управление awareness of.",
+      "Существительное reliance от rely; сочетание reliance on.",
+      "После притяжательного board's нужно существительное: approval от approve.",
+      "После His нужно существительное refusal; refusal + to-инфинитив.",
+      "Demand for + то, на что есть спрос (а не demand of)."
+    ],
+    "gap": { "0": "increase|rise", "3": "reliance|dependence" },
+    "alts": {
+      "0": ["There was a sharp rise in housing prices.", "Housing prices rose sharply."],
+      "1": ["Implementing the policy took two years.", "It took two years to implement the policy."],
+      "2": ["Public awareness of the problem has grown.", "Public awareness of the issue has increased."],
+      "3": ["Our dependence on smartphones is concerning.", "Our reliance on smartphones is worrying."],
+      "4": ["The project needs the approval of the board.", "The project needs board approval."],
+      "5": ["His refusal to cooperate delayed everything."],
+      "6": ["The demand for electric cars is growing.", "Demand for electric vehicles is rising."]
+    },
+    "qwhy": [
+      "dramatically rise — наречие не стоит перед существительным; dramatic rising up — лишнее up и неестественная форма; rise dramatic — прилагательное ставится перед существительным.",
+      "introduce — глагол, а нужно существительное; introducing of — герундий не берёт of; introductive — прилагательное.",
+      "of — reduction of возможен лишь для того, что уменьшают целиком, стандарт — in costs; on / for — не сочетаются с reduction.",
+      "Остальные варианты — разговорные (looked at it, stuff, a lot), без номинализации."
+    ]
+  },
+  "c1u2l2": {
+    "why": [
+      "suggest — типичный глагол хеджирования (указывают, а не доказывают); data — мн. ч. в академическом стиле, поэтому без -s.",
+      "tend to + инфинитив смягчает обобщение: «склонны», а не «всегда».",
+      "It would appear that — вежливо-осторожная формула «по-видимому».",
+      "arguably = «пожалуй, можно утверждать» — смягчённая оценка.",
+      "somewhat = «несколько, в некоторой степени» — смягчает прилагательное ambitious.",
+      "Устойчивое выражение to a certain extent = «до некоторой степени».",
+      "presumably = «предположительно» — вывод без полной уверенности."
+    ],
+    "gap": { "0": "suggest|suggests|indicate|indicates", "4": "somewhat|rather|slightly" },
+    "alts": {
+      "0": ["The data suggests a strong correlation.", "The data indicate a strong correlation."],
+      "1": ["Young people tend to change jobs more frequently."],
+      "2": ["It appears that the system has failed.", "Apparently, the system has failed."],
+      "3": ["This is probably her best performance."],
+      "4": ["The plan was rather ambitious.", "The plan was a bit ambitious."],
+      "5": ["To some extent, I agree with you.", "Up to a point, I agree with you."],
+      "6": ["The delay was probably caused by the weather.", "Presumably, the delay was caused by the weather."]
+    },
+    "qwhy": [
+      "prove / definitely / obvious — категоричные утверждения, без смягчения.",
+      "Спорно, сомнительно — частая ложная ассоциация с argue; Аргументированно доказано — слишком сильно; Агрессивно — не связано по смыслу.",
+      "You're wrong / That's stupid / No, it's not true — прямое и грубое несогласие.",
+      "are tending — tend не употребляется в Continuous для общих склонностей; tends — подлежащее во мн. ч.; tend — нужен to перед report."
+    ]
+  },
+  "c1u2l3": {
+    "why": [
+      "После hope/think/expect утвердительный ответ заменяется на so: I hope so.",
+      "Отрицательная замена после I'm afraid — not: I'm afraid not.",
+      "ones заменяет исчисляемое существительное во мн. ч. (shoes), чтобы не повторять его.",
+      "После would love сохраняется частица to, глагол опускается: I'd love to.",
+      "Вспомогательный did заменяет весь глагол watch the finale (Past Simple).",
+      "doing so заменяет действие leaving early, чтобы не повторять его.",
+      "Neither + вспомогательный + подлежащее: глагол can повторяется из реплики."
+    ],
+    "alts": {
+      "0": ["I hope it is."],
+      "1": ["I'm afraid it will."],
+      "2": ["I don't like the red shoes, but the black ones are okay."],
+      "3": ["I'd love to.", "Sure, I'd love to."],
+      "4": ["I didn't watch the finale, but my brother did."],
+      "5": ["Employees may leave early but must give notice first."],
+      "6": ["I can't stand horror movies. — Me neither.", "I can't stand horror movies. — I can't either."]
+    },
+    "qwhy": [
+      "yes — после think не ставится; it / that — не заменяют придаточное после think.",
+      "no — после hope отрицательная замена только not; don't — неполная фраза; so not — неграмматично.",
+      "it / so — не заменяют инфинитив после love; — (ничего) — I'd love без to звучит незаконченно.",
+      "it — местоимение для уже названного предмета, а не для выбора; that — не употребляется после прилагательного; ones — мн. ч., а jacket одна.",
+      "do — время Present Simple, а в реплике Present Perfect; am — be не вспомогательный здесь; did — прошедшее время не совпадает."
+    ]
+  },
+  "c1u2l4": {
+    "why": [
+      "must have + V3 — уверенный логический вывод о прошлом (улика: свет выключен).",
+      "can't have + V3 — уверенность, что в прошлом это было невозможно.",
+      "needn't have + V3 — действие совершили, но оно оказалось ненужным.",
+      "be bound to + инфинитив = «непременно, наверняка»: уверенный прогноз.",
+      "be supposed to = «положено» по правилам.",
+      "might as well = «можно и..., раз уж нет лучшего варианта».",
+      "should have + V3 — упрёк: следовало сделать, но не сделали."
+    ],
+    "alts": {
+      "0": ["The lights are off, so they must have left."],
+      "1": ["He couldn't have finished already."],
+      "2": ["You didn't need to cook; we ate at a restaurant.", "You needn't have cooked; we ate at a restaurant."],
+      "3": ["Prices will definitely rise next year.", "Prices are sure to rise next year."],
+      "4": ["You have to wear a badge here.", "You're required to wear a badge here."],
+      "5": ["The bus is late, so we may as well walk."],
+      "6": ["She ought to have warned us earlier."]
+    },
+    "qwhy": [
+      "must have — не хватает V3 и смысл о прошлом; can be — can не выражает вывод в утвердительной форме; should be — «должен бы» (ожидание), а не вывод.",
+      "couldn't have taken — значит «не мог взять»; mustn't have taken — mustn't не выражает ненужность; shouldn't take — настоящее время, не о прошлом.",
+      "mustn't have seen — в американском английском вывод «не может быть» выражается can't have; shouldn't have seen — упрёк; needn't have seen — «зря видел».",
+      "is to be — настоящее/будущее; was being — длительный пассив без смысла плана; must have been — вывод, противоречит but it was canceled."
+    ]
+  }
+}

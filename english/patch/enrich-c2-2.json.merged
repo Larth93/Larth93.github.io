@@ -1,0 +1,302 @@
+{
+ "c2u3l1": {
+  "tags": [
+   "register",
+   "speaking"
+  ],
+  "extra": [
+   [
+    "I'm [afraid] that might be difficult for us.",
+    "Боюсь, для нас это может быть сложно.",
+    "I'm afraid — смягчение отказа."
+   ],
+   [
+    "Would you be [open] to a longer contract?",
+    "Вы были бы открыты к более длинному контракту?",
+    "Would you be open to...? — дипломатичное предложение."
+   ],
+   [
+    "We could [meet] you halfway on the price.",
+    "Мы могли бы пойти вам навстречу по цене.",
+    "Meet halfway — компромисс."
+   ],
+   [
+    "That's our [bottom] line, I'm afraid.",
+    "Боюсь, это наш крайний вариант.",
+    "Bottom line — предел уступок."
+   ],
+   [
+    "Let's [table] this issue for now.",
+    "Давайте пока отложим этот вопрос.",
+    "Table (AmE) — отложить обсуждение."
+   ],
+   [
+    "We'd need some [flexibility] on delivery dates.",
+    "Нам понадобится гибкость по срокам поставки.",
+    "Мягкая формулировка требования."
+   ],
+   [
+    "Could we [explore] other options?",
+    "Можем ли мы рассмотреть другие варианты?",
+    "Explore — нейтральный дипломатичный глагол."
+   ]
+  ]
+ },
+ "c2u3l2": {
+  "tags": [
+   "style-rhetoric"
+  ],
+  "extra": [
+   [
+    "\"Ask not what your country can do for you\" uses [antithesis].",
+    "«Не спрашивай, что страна может сделать для тебя» — пример антитезы.",
+    "Antithesis — противопоставление."
+   ],
+   [
+    "Repeating \"We shall fight\" is [anaphora].",
+    "Повтор «We shall fight» — анафора.",
+    "Anaphora — повтор начала фраз."
+   ],
+   [
+    "Citing your expertise is an appeal to [ethos].",
+    "Ссылка на свою экспертизу — апелляция к этосу.",
+    "Ethos — доверие к оратору."
+   ],
+   [
+    "Statistics appeal to [logos].",
+    "Статистика апеллирует к логосу.",
+    "Logos — логика."
+   ],
+   [
+    "The sad photo was pure [pathos].",
+    "Грустное фото — чистый пафос.",
+    "Pathos — эмоции."
+   ],
+   [
+    "That's a [straw man] of my argument.",
+    "Это искажение моего аргумента.",
+    "Straw man — подмена позиции оппонента."
+   ],
+   [
+    "His question was purely [rhetorical].",
+    "Его вопрос был чисто риторическим.",
+    "Rhetorical question — без ожидания ответа."
+   ]
+  ]
+ },
+ "c2u3l3": {
+  "tags": [
+   "idioms",
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "The final pass was a real [Hail Mary].",
+    "Последний пас был настоящим отчаянным броском.",
+    "Hail Mary — отчаянная попытка в последний момент."
+   ],
+   [
+    "We all gather to watch the [Super Bowl].",
+    "Мы все собираемся смотреть Супербоул.",
+    "Главное спортивное событие США."
+   ],
+   [
+    "The town feels like [Groundhog Day].",
+    "В этом городе каждый день как день сурка.",
+    "Groundhog Day — бесконечное повторение."
+   ],
+   [
+    "Cameras everywhere — [Big Brother] is watching.",
+    "Камеры повсюду — Большой Брат следит.",
+    "Отсылка к Оруэллу."
+   ],
+   [
+    "He's a real [Scrooge] at Christmas.",
+    "Он настоящий Скрудж на Рождество.",
+    "Scrooge — скряга (Диккенс)."
+   ],
+   [
+    "That startup was his [Achilles'] heel.",
+    "Этот стартап был его ахиллесовой пятой.",
+    "Слабое место."
+   ],
+   [
+    "Opening that email was like opening [Pandora's] box.",
+    "Открыть то письмо — как открыть ящик Пандоры.",
+    "Источник множества бед."
+   ]
+  ]
+ },
+ "c2u4l1": {
+  "tags": [
+   "writing",
+   "confusing-words"
+  ],
+  "extra": [
+   [
+    "Neither of the answers [is] correct.",
+    "Ни один из ответов не верен.",
+    "Neither of — согласование в ед. числе в формальной речи."
+   ],
+   [
+    "[Whom] did you invite?",
+    "Кого ты пригласил?",
+    "Whom — объект глагола."
+   ],
+   [
+    "Walking home, [I] saw a fox.",
+    "Идя домой, я увидел лису.",
+    "Подлежащее должно совершать действие причастия."
+   ],
+   [
+    "There's [less] traffic today.",
+    "Сегодня меньше машин.",
+    "Less с неисчисляемым traffic."
+   ],
+   [
+    "The team [has] chosen its captain.",
+    "Команда выбрала капитана.",
+    "В AmE собирательное — ед. число."
+   ],
+   [
+    "Everyone brought [their] own lunch.",
+    "Все принесли свой обед.",
+    "Singular they после everyone."
+   ],
+   [
+    "Each of the rooms [has] a view.",
+    "Из каждой комнаты есть вид.",
+    "Each of — ед. число."
+   ]
+  ]
+ },
+ "c2u4l2": {
+  "tags": [
+   "writing",
+   "confusing-words"
+  ],
+  "extra": [
+   [
+    "The new law will [effect] major change.",
+    "Новый закон произведёт крупные перемены.",
+    "Effect как глагол — «осуществить»."
+   ],
+   [
+    "The course [comprises] five modules.",
+    "Курс состоит из пяти модулей.",
+    "Comprise без of."
+   ],
+   [
+    "I bought eggs, milk, [and] bread.",
+    "Я купил яйца, молоко и хлеб.",
+    "Оксфордская запятая перед and."
+   ],
+   [
+    "It's late, [so] let's go home.",
+    "Поздно, так что пойдём домой.",
+    "Союз so исправляет comma splice."
+   ],
+   [
+    "The dog wagged [its] tail.",
+    "Собака виляла хвостом.",
+    "Its — притяжательное, без апострофа."
+   ],
+   [
+    "Please [ensure] the door is locked.",
+    "Убедитесь, что дверь заперта.",
+    "Ensure — обеспечить; insure — страховать."
+   ],
+   [
+    "This policy will not [affect] current staff.",
+    "Эта политика не затронет нынешних сотрудников.",
+    "Affect — глагол «влиять»."
+   ]
+  ]
+ },
+ "c2u4l3": {
+  "tags": [
+   "speaking",
+   "listening"
+  ],
+  "extra": [
+   [
+    "It's, [like], really far away.",
+    "Это, типа, очень далеко.",
+    "Like — филлер-хедж."
+   ],
+   [
+    "[You know], it's hard to explain.",
+    "Знаешь, это сложно объяснить.",
+    "You know — апелляция к собеседнику."
+   ],
+   [
+    "We missed the bus, [so yeah].",
+    "Мы опоздали на автобус, вот так.",
+    "So yeah — завершение рассказа."
+   ],
+   [
+    "I was [kinda] hoping you'd call.",
+    "Я вроде как надеялся, что ты позвонишь.",
+    "Kinda — смягчение."
+   ],
+   [
+    "[Well], that's one way to put it.",
+    "Ну, можно и так сказать.",
+    "Well — пауза и сомнение."
+   ],
+   [
+    "It was, [I dunno], weird.",
+    "Это было, не знаю, странно.",
+    "I dunno — разговорная неуверенность."
+   ],
+   [
+    "[Anyway], where was I?",
+    "В общем, на чём я остановился?",
+    "Anyway — возврат к теме."
+   ]
+  ]
+ },
+ "c2u4l4": {
+  "tags": [
+   "writing",
+   "collocations"
+  ],
+  "extra": [
+   [
+    "The sequel feels [uneven] in places.",
+    "Сиквел местами неровный.",
+    "Uneven — непостоянное качество."
+   ],
+   [
+    "The young actor holds his [own] against the stars.",
+    "Молодой актёр не уступает звёздам.",
+    "Hold one's own — держаться на равных."
+   ],
+   [
+    "The ending is [deeply] satisfying.",
+    "Концовка приносит глубокое удовлетворение.",
+    "Deeply satisfying — устойчивое сочетание."
+   ],
+   [
+    "The plot [drags] in the middle.",
+    "Сюжет затягивается в середине.",
+    "Drag — становиться скучным."
+   ],
+   [
+    "The film is [visually] stunning.",
+    "Фильм визуально потрясающий.",
+    "Visually stunning — частая оценка."
+   ],
+   [
+    "Her debut novel is a [triumph].",
+    "Её дебютный роман — триумф.",
+    "Triumph — высокая похвала."
+   ],
+   [
+    "The dialogue feels [wooden].",
+    "Диалоги звучат деревянно.",
+    "Wooden — неестественный."
+   ]
+  ]
+ }
+}

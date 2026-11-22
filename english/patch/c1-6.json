@@ -1,0 +1,126 @@
+{
+"c1u33l1": {
+ "why": [
+  "affect — глагол «влиять, затрагивать»; после will нужен глагол, без предлога.",
+  "effect — существительное «эффект, действие»; после no нужно существительное (have an effect).",
+  "imply = намекать (так делает говорящий); Present Continuous — вопрос о том, что сейчас звучит.",
+  "infer = делать вывод (так делает слушающий/анализирующий) из цифр.",
+  "ensure = обеспечить, удостовериться, что...; insure — страховать.",
+  "principle = принцип (существительное); principal — главный / директор.",
+  "elicit = вызвать (реакцию, ответ); не путать с illicit — незаконный.",
+  "complement = дополнять (хорошо сочетаться); compliment — делать комплимент."
+ ],
+ "gap": {"6":"elicited|provoked|drew"},
+ "alts": {"1":["The medicine didn't work at all."],"4":["Please make sure the door is locked."],"6":["The question provoked a nervous laugh."]}
+},
+"c1u33l2": {
+ "why": [
+  "comprise = состоять из, включать — без of (comprises three bedrooms).",
+  "consist of — всегда с of; в отличие от comprise.",
+  "continual = постоянный, повторяющийся с перерывами (жалобы снова и снова).",
+  "continuously = непрерывно, без остановки (24 часа подряд).",
+  "economic = относящийся к экономике (экономический кризис).",
+  "economical = экономный, выгодный (тратит меньше топлива).",
+  "historic = исторически значимый; historical — относящийся к истории/прошлому.",
+  "disinterested = беспристрастный, незаинтересованный лично; uninterested — равнодушный."
+ ],
+ "gap": {"0":"comprises|includes|has"},
+ "alts": {"0":["The house has three bedrooms and a garage.","The house consists of three bedrooms and a garage."],"3":["The machine runs nonstop for 24 hours."],"7":["We need an impartial judge."]}
+},
+"c1u33l3": {
+ "why": [
+  "actual = настоящий, фактический (не «актуальный»).",
+  "relevant = актуальный, имеющий отношение к делу; «актуальный» ≠ actual.",
+  "magazine = журнал (не «магазин» — store).",
+  "sympathetic = сочувствующий (не «симпатичный» — likable).",
+  "accurate = точный (не «аккуратный» — neat/careful).",
+  "neat = аккуратный, опрятный.",
+  "complexion = цвет лица (не «комплекция» — build).",
+  "cabinet = шкаф(чик) (не «кабинет» — office)."
+ ],
+ "gap": {"1":"relevant|topical|current"},
+ "alts": {"0":["The real reason he left is still unclear."],"1":["This issue is still very topical."],"3":["My boss was very understanding when I got sick."]}
+},
+"c1u33l4": {
+ "why": [
+  "fabric = ткань (не «фабрика» — factory).",
+  "factory = фабрика, завод.",
+  "decade = десятилетие (не «декада» в смысле 10 дней).",
+  "prospect = перспектива, вероятность в будущем.",
+  "intelligent = умный (не «интеллигентный» — cultured).",
+  "genial = добродушный, приветливый (не «гениальный» — brilliant).",
+  "pathetic = жалкий (не «патетический»).",
+  "strep throat = стрептококковая ангина (амер.); angina — стенокардия."
+ ],
+ "gap": {"4":"intelligent|smart|clever|brilliant"},
+ "alts": {"4":["She's the smartest student in the class."],"5":["Our host was a friendly old man.","Our host was a good-natured old man."],"7":["I think I have tonsillitis."]}
+},
+"c1u33l5": {
+ "why": [
+  "Admittedly = «надо признать» — вводит уступку перед контраргументом.",
+  "the burden of proof = бремя доказательства — устойчивый термин.",
+  "a straw man = «соломенное чучело»: оппоненту приписывают слабую позицию, которой он не высказывал.",
+  "ad hominem = аргумент «к личности» — нападение на человека, а не на довод.",
+  "outweigh = перевешивать (выгоды больше рисков).",
+  "beside the point = не по существу, к делу не относится.",
+  "I'll grant you (that)... = соглашусь, признаю — уступка в споре.",
+  "rebuttal = опровержение, контраргумент."
+ ],
+ "gap": {"6":"grant|admit to"},
+ "alts": {"0":["Granted, the policy has some flaws.","Admittedly, the policy has some drawbacks."],"5":["Whether he's rich is irrelevant."],"6":["I'll admit that the data is limited."]}
+},
+"c1u34l1": {
+ "why": [
+  "going to → в речи «gonna»: план/намерение в будущем.",
+  "want to → «wanna»: предложение что-то сделать.",
+  "have got to → «gotta»: необходимость («мне надо»).",
+  "let me → «lemme»: просьба-разрешение.",
+  "don't know → «dunno»: стандартное «не знаю».",
+  "what do you → «whaddaya»: вопрос в Present Simple.",
+  "should have + V3 → «shoulda»: «видел бы ты» — о прошлом, которое не случилось.",
+  "kind of → «kinda» = «как-то, немного» (смягчение)."
+ ],
+ "gap": {"2":"got to|have to","7":"kind of|sort of|a little|a bit"},
+ "alts": {"0":["I'll call you back later."],"2":["I have to go, sorry.","I need to go, sorry."],"3":["Let me take a look at that for a second."]}
+},
+"c1u34l2": {
+ "why": [
+  "be like = разговорное «говорит/такая»: вводит цитату или реакцию.",
+  "To be fair = «справедливости ради» — признаём довод в пользу другого.",
+  "literally в разговорной речи — усилитель (в значении «реально, прямо»), не буквально.",
+  "Anyway = «в общем» — возврат к основной теме.",
+  "catch = расслышать, уловить (сказанное).",
+  "mumble = бормотать, говорить неразборчиво.",
+  "I mean = «ну то есть» — уточнение или смягчение сказанного.",
+  "try + V-ing = попробовать (как способ); shadowing — повтор речи за диктором."
+ ],
+ "gap": {"4":"catch|hear|get"},
+ "alts": {"3":["Anyway, back to what I was saying."],"4":["Sorry, I didn't hear that.","Sorry, I didn't get that."]}
+},
+"c1u34l3": {
+ "why": [
+  "sarcasm = сарказм: говорят противоположное («отлично» о плохом).",
+  "deadpan = невозмутимый, с каменным лицом (о манере подачи).",
+  "pun = каламбур, игра слов.",
+  "callback = отсылка к более ранней шутке/эпизоду.",
+  "understatement = преуменьшение (на деле было очень холодно).",
+  "cringe = испытывать испанский стыд; make + объект + инфинитив без to.",
+  "punchline = кульминационная фраза шутки, «соль».",
+  "timing = выбор момента, ритм подачи."
+ ],
+ "alts": {"5":["Michael's speeches always make me feel embarrassed."],"6":["I didn't get the joke."]}
+},
+"c1u34l4": {
+ "why": [
+  "small talk = светская беседа на нейтральные темы.",
+  "tipping = давать чаевые (герундий как подлежащее).",
+  "Southern hospitality = южное гостеприимство (Техас — юг США); Southern с заглавной.",
+  "melting pot = плавильный котёл (смешение культур).",
+  "the American Dream = американская мечта — устойчивое выражение.",
+  "polarization = поляризация (разделение на полярные лагеря).",
+  "upward mobility = восходящая социальная мобильность.",
+  "individualism = индивидуализм — ключевая американская ценность."
+ ],
+ "alts": {"1":["In the US, tips are basically mandatory.","In the US, tipping is practically mandatory."],"6":["Climbing the social ladder is harder than it used to be."]}
+}
+}

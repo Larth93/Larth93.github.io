@@ -1,0 +1,207 @@
+{
+"c1u30l1": {
+ "why": [
+  "provided (that) = «при условии, что»: строгое условие разрешения; после него настоящее время (you keep).",
+  "But for + существительное (the rain) = «если бы не»; главная часть в третьем условном (would have finished).",
+  "otherwise = «иначе»: условие спрятано в первой части (если не поторопишься — опоздаем).",
+  "Supposing = «допустим, предположим»: вводит гипотезу; дальше прошедшее (won) и would, как во втором условном.",
+  "in case = «на случай, если»: берём наличные заранее, как меру предосторожности, а не условие.",
+  "as long as = «если только, при условии что» — разговорное условие-договорённость.",
+  "Without + существительное = «без»; здесь заменяет нереальное условие (if it hadn't been for her advice).",
+  "unless = «если не»: мы не продолжим, если клиент НЕ согласится; после unless отрицание не ставится."
+ ],
+ "gap": {"0":"provided|providing|as long as|so long as","1":"But for|Without","2":"otherwise|or else|or","3":"Supposing|Suppose","5":"as long as|so long as|provided|providing","6":"Without|But for"},
+ "alts": {"5":["I'll sign provided the salary is guaranteed.","I'll sign if the salary is guaranteed."],"1":["If it hadn't been for the rain, the match would have finished."],"2":["Hurry up, or we'll miss the flight."]}
+},
+"c1u30l2": {
+ "why": [
+  "Перфектное причастие Having + V3: действие (закончила отчёт) произошло раньше главного (вышла).",
+  "Отрицательный оборот: Not ставится перед причастием — Not knowing = «не зная».",
+  "Устойчивый абсолютный оборот weather permitting = «если позволит погода»; у оборота своё подлежащее (weather).",
+  "Абсолютная конструкция: существительное + пассивное причастие (the work done = когда работа была сделана).",
+  "Пассивное причастие Shocked: она сама была шокирована (испытывает чувство), подлежащее совпадает.",
+  "Абсолютный оборот: his arms + folded — руки скрещены (пассивное состояние), отдельное подлежащее.",
+  "With + существительное + -ing (with costs rising) — абсолютная конструкция, выражающая причину/обстоятельство.",
+  "Judging by = «судя по» — устойчивый причастный оборот, не требующий совпадения подлежащих."
+ ],
+ "gap": {"0":"Having finished|After finishing"},
+ "alts": {"3":["With the work done, we went out for drinks.","The work done, we went out for a drink."]}
+},
+"c1u30l3": {
+ "why": [
+  "Абстрактное понятие в общем смысле (честность вообще) — без артикля.",
+  "the: честность конкретизирована (of her answer) — речь о конкретном случае.",
+  "a + прилагательное + knowledge: устойчивое сочетание a good knowledge of — один «вид» знания.",
+  "have a wonderful time: time с прилагательным в значении «период/опыт» — исчисляемое, с a.",
+  "Human nature — природа в общем смысле, без артикля (как nature вообще).",
+  "a thirst for: абстрактное существительное в значении «некое чувство/желание» с описанием — с a.",
+  "experience в значении «случай, опыт (событие)» исчисляемое; an — перед гласным звуком (eye-opening).",
+  "the: общество конкретизировано придаточным (we live in)."
+ ],
+ "alts": {"6":["Working abroad was a real eye-opener."]}
+},
+"c1u30l4": {
+ "why": [
+  "Few без артикля = «мало, почти нет» (негативный оттенок) с исчисляемыми (tourists).",
+  "a few = «несколько» (позитивно: время есть, расслабься) с исчисляемыми (minutes).",
+  "hardly any = «почти нет»; hardly уже отрицательное, поэтому any, а не no.",
+  "the odd + единственное число = «редкий, случайный, единичный» (неформально).",
+  "a handful of = «горстка, немного» людей; only подчёркивает малое количество.",
+  "No fewer than + число с исчисляемыми = «целых, не менее» — подчёркивает, что это много.",
+  "umpteen (разг.) = «бесчисленное количество, тысячу раз».",
+  "every other day = «через день» (каждый второй)."
+ ],
+ "gap": {"0":"Few|Not many","3":"the odd|the occasional|an occasional","5":"No fewer|No less"},
+ "alts": {"5":["As many as nine candidates applied."],"6":["I've told you a thousand times!"]}
+},
+"c1u30l5": {
+ "why": [
+  "deny + V-ing = отрицать факт (leaking); после deny не нужен инфинитив.",
+  "urge + объект + to-инфинитив = настоятельно призывать кого-то что-то сделать.",
+  "accuse + объект + of + V-ing = обвинять кого-то в чём-то (of stealing).",
+  "concede (that) = неохотно признать; передаёт оттенок уступки, тренеру неприятно это признавать.",
+  "suggest + V-ing (cutting) — не suggest somebody to do.",
+  "insist on + V-ing = настаивать на чём-то (on paying).",
+  "reassure + объект + that = заверить, успокоить кого-то.",
+  "threaten + to-инфинитив = пригрозить сделать что-то."
+ ],
+ "gap": {"1":"urged|encouraged|told|asked","3":"conceded|admitted|acknowledged","4":"suggested|recommended|advised","5":"insisted"},
+ "alts": {"0":["He denied that he had leaked the documents."],"4":["My doctor suggested that I cut down on sugar."]}
+},
+"c1u31l1": {
+ "why": [
+  "Дистанцирующий пассив: be said + to be + V-ing — «говорят», действие идёт сейчас (пишет).",
+  "to have + V3: бегство произошло раньше момента «считается».",
+  "Безличная конструкция It is estimated that... = «по оценкам».",
+  "be alleged to have + V3 = «предположительно (по обвинению) сделал» — прошлое действие, не доказанное.",
+  "be rumored to be + V-ing = «по слухам»; процесс в настоящем (встречается).",
+  "There are thought to be... — пассив с вводным there: «считается, что есть».",
+  "to have been + V3: пассив (мост построен) и раньше момента «известно».",
+  "reportedly = «по сообщениям» — наречие-аналог is reported to; не утверждаем факт сами."
+ ],
+ "gap": {"0":"said|thought|believed|rumored|reported","3":"alleged|believed|thought|said|suspected","4":"rumored|said|reported","7":"reportedly|allegedly"},
+ "alts": {"0":["They say the singer is writing a new album.","People say the singer is writing a new album."],"2":["An estimated million people attended."],"7":["The company is reported to be planning job cuts."]}
+},
+"c1u31l2": {
+ "why": [
+  "needn't have + V3: действие сделано, но оказалось ненужным (уже поели) — «зря».",
+  "must have + V3: уверенный логический вывод о прошлом («должно быть»).",
+  "can't have + V3: уверенность, что в прошлом этого не было («не мог»).",
+  "might have + V3 в упрёке: «мог бы и (сказать)» — раздражение, что не сделали.",
+  "should have + V3: сожаление/упрёк о прошлом — надо было, но не сделали.",
+  "managed to = удалось (единичный успех после усилий); could здесь не подходит.",
+  "was supposed to = «должна была» по плану/договорённости, но не пришла.",
+  "could have + V3: возможность в прошлом, которая не реализовалась («мог сбить»)."
+ ],
+ "gap": {"3":"might have|could have","4":"should have|ought to have","6":"supposed|due","7":"could have|might have"},
+ "alts": {"0":["You didn't need to cook; we already ate.","You needn't have cooked; we've already eaten."],"6":["The package was due to arrive on Monday.","The package was supposed to arrive on Monday."]}
+},
+"c1u31l3": {
+ "why": [
+  "resent + V-ing; здесь пассивный герундий being told — указывают мне.",
+  "relish + V-ing = обожать, смаковать делать что-то.",
+  "contemplate + V-ing = подумывать о чём-то.",
+  "can't help but + инфинитив без to = «не могу не» (вариант can't help + V-ing).",
+  "vow + to-инфинитив = поклясться; never можно поставить перед или после to.",
+  "look forward to: to — предлог, поэтому V-ing (meeting).",
+  "dread to think — устойчивое «страшно подумать»; в других случаях dread + V-ing.",
+  "go on + to-инфинитив = затем (в дальнейшем) сделать что-то новое; to found — «основать»."
+ ],
+
+ "alts": {"3":["I can't help admiring his nerve."],"6":["I hate to think what it cost."]}
+},
+"c1u31l4": {
+ "why": [
+  "Wh-cleft: What + придаточное + is... — выделяет то, что нужно.",
+  "It-cleft: It was X who... — выделяет лицо (именно CEO); для человека who.",
+  "Эмфатическое do + инфинитив: усиливает утверждение («правда ценю»).",
+  "whatsoever после no + существительное = «абсолютно никакой».",
+  "Much as + подлежащее + глагол = «как бы ни, хотя очень» — уступка с усилением.",
+  "All I want is... = «всё, чего я хочу» — выделение, близкое к what-cleft.",
+  "The thing is, ... = «дело в том, что» — разговорное вступление к главному.",
+  "the very + существительное = «именно тот самый»."
+ ],
+ "gap": {"2":"do|really|truly","3":"whatsoever|at all","7":"very|exact|same"},
+ "alts": {"1":["The CEO was the one who made the call."],"2":["I really do appreciate your help, honestly."]}
+},
+"c1u31l5": {
+ "why": [
+  "iron out = устранить (проблемы, недочёты) — «разгладить».",
+  "drag on = тянуться слишком долго (переговоры).",
+  "wind down = постепенно сворачивать (деятельность).",
+  "follow through on = довести до конца, выполнить (обещания).",
+  "spell out = чётко, подробно изложить.",
+  "sign off on = официально утвердить (бюджет).",
+  "push back = перенести на более позднее время.",
+  "loop in = подключить человека к обсуждению/переписке."
+ ],
+ "gap": {"0":"iron out|work out|sort out","6":"push back|move"},
+ "alts": {"5":["The VP finally approved the budget."],"6":["Can we move the call to Thursday?"],"7":["Please add Maria to this thread."]}
+},
+"c1u32l1": {
+ "why": [
+  "fall out with someone (over something) = поссориться.",
+  "patch things up = помириться, уладить отношения.",
+  "drift apart = постепенно отдалиться.",
+  "stand up for someone = заступиться.",
+  "mull over = обдумывать; объект-местоимение (it) ставится между глаголом и частицей.",
+  "back out = отказаться от уже данного согласия/сделки.",
+  "come around to = в итоге согласиться с тем, что раньше отвергал.",
+  "talk someone out of + V-ing = отговорить; into — наоборот, уговорить."
+ ],
+ "gap": {"6":"came around|came round"},
+ "alts": {"4":["Let me think it over tonight.","Let me sleep on it."],"6":["My dad eventually warmed to the idea."]}
+},
+"c1u32l2": {
+ "why": [
+  "a ballpark figure = примерная, грубая оценка (из бейсбола).",
+  "back to the drawing board = начинать заново после неудачи.",
+  "get the ball rolling = запустить процесс.",
+  "touch base (with) = коротко связаться, свериться.",
+  "cut corners = экономить на чём-то в ущерб качеству.",
+  "the bottom line = главный итог, суть.",
+  "be on the same page = одинаково понимать ситуацию.",
+  "drop the ball = упустить, не справиться с обязанностью."
+ ],
+ "alts": {"0":["Just give me a rough figure.","Just give me a rough estimate."],"6":["Are we all on the same page here?"]}
+},
+"c1u32l3": {
+ "why": [
+  "rub someone the wrong way (амер.) = раздражать.",
+  "step on someone's toes = задеть, вторгнуться в чужую сферу.",
+  "add fuel to the fire = подлить масла в огонь.",
+  "fly off the handle = вспылить; прошедшее flew.",
+  "be at loggerheads (over) = быть в серьёзном конфликте.",
+  "a bone of contention = яблоко раздора.",
+  "clear the air = прояснить отношения, снять напряжение.",
+  "bury the hatchet = помириться («зарыть топор войны»); прошедшее buried."
+ ],
+ "alts": {"7":["After years, the brothers made peace.","Years later, the brothers buried the hatchet."]}
+},
+"c1u32l4": {
+ "why": [
+  "hit the jackpot = сорвать куш, добиться большого успеха.",
+  "make the cut = пройти отбор.",
+  "pull it off = суметь сделать трудное.",
+  "knock it out of the park = сделать блестяще (бейсбол).",
+  "go belly up = прогореть, обанкротиться.",
+  "fall flat = не произвести ожидаемого эффекта; прошедшее fell.",
+  "miss the boat = упустить шанс.",
+  "a long shot = маловероятная затея."
+ ],
+ "alts": {"2":["I can't believe we did it!","I can't believe we managed it!"],"6":["If you don't invest now, you'll miss out."]}
+},
+"c1u32l5": {
+ "why": [
+  "beat around the bush (амер.) = ходить вокруг да около.",
+  "cut to the chase = перейти к сути.",
+  "get the wrong end of the stick = понять неправильно.",
+  "read between the lines = видеть подтекст.",
+  "talk someone's ear off (амер.) = заговорить кого-то до утомления.",
+  "hear it through the grapevine = узнать по слухам.",
+  "put in a good word for someone = замолвить словечко.",
+  "a heart-to-heart = разговор по душам (существительное)."
+ ],
+ "alts": {"1":["Let's get to the point: what's the price?"],"2":["I think you misunderstood."]}
+}
+}

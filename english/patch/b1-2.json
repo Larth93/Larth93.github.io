@@ -1,0 +1,177 @@
+{
+"b1u3l1": {
+ "why": [
+  "Present Simple Passive: is + V3 — общий факт, важен не исполнитель, а действие.",
+  "Past Simple Passive: was + V3; steal → stole → stolen; last night — прошлое.",
+  "Present Passive: are + V3 (made) — регулярный факт о производстве.",
+  "Исполнитель в пассиве вводится предлогом by.",
+  "Present Passive с отрицанием: is not + V3 (allowed) — правило действует всегда.",
+  "Past Simple Passive: was + V3; in September — прошлое, подлежащее в ед. числе.",
+  "Past Passive: was + V3; fire → fired = уволить."
+ ],
+ "gap": {"4": "allowed|permitted"},
+ "alts": {"0": ["People speak English all over the world.", "English is spoken around the world."], "1": ["Someone stole my bike last night."], "4": ["Smoking is not permitted here.", "Smoking is prohibited here."], "6": ["He got fired for being late."]},
+ "qwhy": [
+  "painted — актив: картина не рисовала сама; is painting — актив Continuous; was paint — нужна V3 (painted).",
+  "grows by — актив с by бессмысленно; is grow — нужна V3; grown — нет глагола be.",
+  "from — откуда, а не кем; with — инструмент (with a knife); of — принадлежность."
+ ]
+},
+"b1u3l2": {
+ "why": [
+  "Present Perfect Passive: has been + V3 — результат важен сейчас.",
+  "Present Continuous Passive: is being + V3 — ремонт идёт сейчас.",
+  "Future Passive: will be + V3; tomorrow — будущее.",
+  "Present Perfect Passive: has + been + V3 — заказ уже отправлен.",
+  "Модальный пассив: must be + V3 (signed).",
+  "Past Perfect Passive: had been + V3; by noon — к моменту в прошлом.",
+  "Present Passive: is + V3 — постоянное состояние (данные хранятся); data здесь как ед. число."
+ ],
+ "alts": {"0": ["My account was hacked.", "Someone has hacked my account."], "1": ["They are repairing the road."], "3": ["Your order was shipped."], "5": ["All the tickets had been sold by noon.", "All tickets were sold out by noon."], "6": ["Your data are stored on our servers."]},
+ "qwhy": [
+  "was being — процесс в прошлом, а не «только что»; is — Present Simple Passive не передаёт завершённость; had — Past Perfect, нужна связь с настоящим.",
+  "will open by — актив + лишнее by; is opened next — Present для будущего факта неверно; will been opened — после will нужна базовая форма be.",
+  "is washed now — Present Simple не для процесса сейчас; has washed — актив Perfect; is washing by — актив Continuous, машина не моет сама.",
+  "He fired — актив: «он уволил»; He was fire, He got fire — нужна V3 fired."
+ ]
+},
+"b1u4l1": {
+ "why": [
+  "Косвенная речь после said: сдвиг времени am/is → was.",
+  "tell требует дополнения (кому): told me; said me — ошибка.",
+  "will → would при сдвиге; the next day вместо tomorrow.",
+  "Present Perfect/Past Simple → Past Perfect: had finished.",
+  "can → could при сдвиге времени.",
+  "say без дополнения «кому» + that; told потребовало бы told us/me."
+ ],
+ "alts": {"0": ["He said that he was tired."], "1": ["She told me that she worked there.", "She said she worked there."], "3": ["They said they'd finished the project."], "5": ["The manager said the office was closed."]},
+ "qwhy": [
+  "is being — Continuous и без сдвига; were — не согласуется с she; has — не глагол be.",
+  "said — say не используется с прямым «кому» (said me); say — нет прошедшего; spoke — speak не вводит содержание речи.",
+  "will — нет сдвига времени после said; can — меняет смысл; had — не модальный и не передаёт будущее.",
+  "yesterday, the day before — прошлое; today — без сдвига, неверно."
+ ]
+},
+"b1u4l2": {
+ "why": [
+  "Косвенный вопрос: прямой порядок слов + сдвиг времени: where I lived.",
+  "Вопрос да/нет в косвенной речи вводится if/whether.",
+  "Просьба в косвенной речи: ask + кого + to + глагол.",
+  "Отрицательный приказ: tell + кого + not to + глагол.",
+  "Косвенный вопрос после Can you tell me: прямой порядок, глагол в конце (the office is).",
+  "Косвенный вопрос: прямой порядок (what my salary was) + сдвиг времени.",
+  "wonder whether — косвенный вопрос да/нет; whether = ли."
+ ],
+ "gap": {"1": "if|whether", "6": "whether|if"},
+ "alts": {"1": ["He asked whether I spoke German."], "4": ["Could you tell me where the office is?"], "5": ["The recruiter asked what salary I expected."], "6": ["I wonder if they'll call me back."]},
+ "qwhy": [
+  "what was my name — вопросительный порядок; what is my name? — нет сдвига и знак вопроса; what my name is was — два глагола.",
+  "that — не вводит вопрос; what — вопрос да/нет, а не специальный; do — вспомогательный глагол в косвенном вопросе не нужен.",
+  "close — без to; closing — tell не сочетается с V-ing; that I close — неверная конструкция для приказа.",
+  "when does the meeting start — вопросительный порядок; when starts the meeting — инверсия; when the meeting does start — лишний do."
+ ]
+},
+"b1u4l3": {
+ "why": [
+  "Defining clause о человеке → who (или that).",
+  "Non-defining (в запятых); подлежащее brother — 3 лицо ед. ч. → lives.",
+  "О месте → where (= in which).",
+  "Принадлежность (его машина) → whose.",
+  "which в non-defining относится ко всему предложению (то, что он не позвонил).",
+  "be based in = находиться (о компании, штаб-квартире)."
+ ],
+ "gap": {"0": "who|that"},
+ "alts": {"0": ["The man that interviewed me was friendly."], "2": ["This is the city I grew up in.", "This is the town where I grew up."], "5": ["Apple, which was founded in 1976, is located in California."]},
+ "qwhy": [
+  "that — нельзя в non-defining (с запятыми); which — для предметов, не людей; whose — принадлежность.",
+  "who — нет значения «чей»; which — для предметов, не притяжательное; who's = who is.",
+  "that — нельзя после запятой о всём предложении; what — не относительное местоимение для предыдущей фразы; who — о людях.",
+  "My boss, who I like — non-defining, опускать нельзя; Paris, which I love — тоже non-defining; Tom, who called — who подлежащее и non-defining."
+ ]
+},
+"b1u5l1": {
+ "why": [
+  "must — уверенный логический вывод из факта (работал всю ночь).",
+  "can't — уверенность, что это невозможно (он в Испании).",
+  "might — предположение с неуверенностью (возможно).",
+  "Вывод о прошлом: must have + V3 (forgotten).",
+  "Невозможность в прошлом: can't have + V3; после can't — have.",
+  "Вывод о процессе сейчас: must be + V-ing (sleeping)."
+ ],
+ "gap": {"2": "might|may|could"},
+ "alts": {"0": ["You worked all night. You must be exhausted."], "2": ["She may be in a meeting.", "Maybe she's in a meeting."], "4": ["They couldn't have seen us."], "5": ["The lights are off. They must be asleep."]},
+ "qwhy": [
+  "can't — противоречит факту (Ferrari); mustn't — запрет, не вывод; should — ожидание/совет.",
+  "mustn't — запрет, а не невозможность; must — противоречит возрасту; may — допускает возможность.",
+  "must — о настоящем, а вывод о прошлом (+ rained требует have); can't have — противоречит мокрой дороге; should — не вывод о прошлом."
+ ]
+},
+"b1u5l2": {
+ "why": [
+  "Утверждение с be (are) → отрицательный хвост aren't you.",
+  "Present Simple (works) → вспомогательный doesn't she.",
+  "Отрицательное предложение (didn't) → положительный хвост did they.",
+  "Present Perfect (have been) → haven't you.",
+  "Исключение: I'm … → aren't I.",
+  "Let's … → хвост shall we."
+ ],
+ "alts": {"0": ["You're from Moscow, right?"], "5": ["Let's have lunch, shall we?", "Let's get lunch, shall we?"]},
+ "qwhy": [
+  "isn't he — likes не с be; does he — положительное → нужен отрицательный хвост; don't he — с he нужно doesn't.",
+  "weren't you — два отрицания; did you — в предложении be, а не do; was you — неверное согласование.",
+  "amn't I — в стандартном английском нет; am I not't — неграмматично; isn't I — is не с I.",
+  "doesn't she — can модальный, повторяется он; can she — положительный хвост после утверждения; isn't she — не be."
+ ]
+},
+"b1u5l3": {
+ "why": [
+  "so + прилагательное (expensive) + that — результат.",
+  "such a + прилагательное + исчисляемое сущ. в ед. ч. (a long meeting).",
+  "such + неисчисляемое сущ. без a: advice — неисчисляемое.",
+  "such + сущ. во мн. ч. без артикля: prices.",
+  "so + наречие (quickly).",
+  "so many + исчисляемые во мн. ч. (people)."
+ ],
+ "alts": {"1": ["It was a very long meeting."], "2": ["Thanks, that's really good advice."], "4": ["She speaks so fast."]},
+ "qwhy": [
+  "so — не ставится перед a + сущ.; so a — неверный порядок; a such — артикль после such.",
+  "such — перед сущ., а здесь только прилагательное; such a, so a — нет сущ., артикль не нужен.",
+  "so — не перед прил. + сущ.; such a — people во мн. ч., a нельзя; so much — для неисчисляемых и без прил."
+ ]
+},
+"b1u5l4": {
+ "why": [
+  "save up (for) — копить на что-то.",
+  "pay back — вернуть долг; местоимение между глаголом и частицей.",
+  "run out of + сущ. — закончиться (у нас).",
+  "cut back on — сократить расходы на что-то.",
+  "pay off — полностью выплатить кредит.",
+  "lend — давать в долг (кому-то).",
+  "borrow — брать взаймы (у кого-то)."
+ ],
+ "alts": {"0": ["I'm saving for a new laptop."], "1": ["I'll pay you back next week.", "I'll give you the money back next week."], "3": ["We need to spend less on eating out.", "We need to cut back on restaurants."], "5": ["Could you lend me twenty dollars?", "Can I borrow twenty dollars from you?"], "6": ["Could I borrow your car?"]},
+ "qwhy": [
+  "borrow — брать, а не давать; owe — быть должным; pay off — выплатить долг.",
+  "off — run off = убежать; out — без of нельзя перед сущ.; away of — не существует.",
+  "pay back you — местоимение ставится между глаголом и частицей; back pay you — неверный порядок; pay you off back — две частицы."
+ ]
+},
+"b1u5l5": {
+ "why": [
+  "make a decision — устойчивое сочетание (принять решение).",
+  "make a mistake — устойчивое сочетание; everyone → ед. ч. makes.",
+  "do someone a favor — устойчивое сочетание.",
+  "make progress — устойчивое сочетание; Present Continuous: are making.",
+  "make sense — иметь смысл.",
+  "do one's best — сделать всё возможное.",
+  "do research — устойчивое сочетание; research неисчисляемое."
+ ],
+ "alts": {"1": ["Everybody makes mistakes."], "2": ["Can you do me a favor?"], "6": ["We did some research before we bought it."]},
+ "qwhy": [
+  "does, takes, gets — не сочетаются с mistakes; только make a mistake.",
+  "make — make the dishes неверно; wash up do — бессмыслица; take — не сочетается.",
+  "does — do money не говорят; earns up — up лишнее; takes — take money = брать деньги.",
+  "make — make a favor неверно; give up — сдаться; take — не сочетается с favor."
+ ]
+}
+}

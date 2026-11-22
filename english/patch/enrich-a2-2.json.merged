@@ -1,0 +1,488 @@
+{
+ "a2u4l1": {
+  "tags": [
+   "comparatives"
+  ],
+  "extra": [
+   [
+    "This hotel is [cheaper] than that one.",
+    "Этот отель дешевле того.",
+    "Короткое прилагательное + -er."
+   ],
+   [
+    "My new phone is [better] than my old one.",
+    "Новый телефон лучше старого.",
+    "Good — better."
+   ],
+   [
+    "New York is more expensive [than] Ohio.",
+    "Нью-Йорк дороже Огайо.",
+    "Сравнение — than."
+   ],
+   [
+    "Today is [hotter] than yesterday.",
+    "Сегодня жарче, чем вчера.",
+    "Hot — удвоение: hotter."
+   ],
+   [
+    "This test was [easier] than the last one.",
+    "Этот тест легче прошлого.",
+    "Easy — y меняется на i."
+   ],
+   [
+    "The movie was [worse] than the book.",
+    "Фильм хуже книги.",
+    "Bad — worse."
+   ]
+  ]
+ },
+ "a2u4l2": {
+  "tags": [
+   "comparatives"
+  ],
+  "extra": [
+   [
+    "This is [the] cheapest phone in the store.",
+    "Это самый дешёвый телефон в магазине.",
+    "Перед превосходной — the."
+   ],
+   [
+    "She's the [best] player on the team.",
+    "Она лучшая в команде.",
+    "Good — the best."
+   ],
+   [
+    "It was the [most] beautiful day of the year.",
+    "Это был самый красивый день года.",
+    "Длинное прилагательное — the most."
+   ],
+   [
+    "Alaska is the [biggest] state in the US.",
+    "Аляска — самый большой штат США.",
+    "Big — biggest."
+   ],
+   [
+    "That was the [worst] meal ever.",
+    "Это была худшая еда в жизни.",
+    "Bad — the worst."
+   ],
+   [
+    "He's the [funniest] guy I know.",
+    "Он самый смешной из моих знакомых.",
+    "Funny — funniest."
+   ]
+  ]
+ },
+ "a2u4l3": {
+  "tags": [
+   "comparatives",
+   "quantifiers"
+  ],
+  "extra": [
+   [
+    "My car isn't as fast [as] yours.",
+    "Моя машина не такая быстрая, как твоя.",
+    "As ... as — так же, как."
+   ],
+   [
+    "This coffee is [too] hot to drink.",
+    "Кофе слишком горячий, чтобы пить.",
+    "Too — слишком."
+   ],
+   [
+    "He isn't old [enough] to drive.",
+    "Он недостаточно взрослый, чтобы водить.",
+    "Enough после прилагательного."
+   ],
+   [
+    "We don't have [enough] chairs.",
+    "У нас не хватает стульев.",
+    "Enough перед существительным."
+   ],
+   [
+    "The jacket is [too] big for me.",
+    "Куртка мне велика.",
+    "Too + прилагательное."
+   ],
+   [
+    "She's [as] tall as her mom.",
+    "Она такая же высокая, как мама.",
+    "As ... as — равенство."
+   ]
+  ]
+ },
+ "a2u4l4": {
+  "tags": [
+   "adjectives-adverbs"
+  ],
+  "extra": [
+   [
+    "Please drive [carefully].",
+    "Пожалуйста, веди осторожно.",
+    "Наречие — прилагательное + -ly."
+   ],
+   [
+    "She speaks English very [well].",
+    "Она очень хорошо говорит по-английски.",
+    "Good — наречие well."
+   ],
+   [
+    "He runs really [fast].",
+    "Он очень быстро бегает.",
+    "Fast — без -ly."
+   ],
+   [
+    "The kids played [quietly].",
+    "Дети играли тихо.",
+    "Quiet — quietly."
+   ],
+   [
+    "I worked [hard] all week.",
+    "Я усердно работал всю неделю.",
+    "Hard — наречие без -ly."
+   ],
+   [
+    "She smiled [happily].",
+    "Она радостно улыбнулась.",
+    "Happy — happily."
+   ]
+  ]
+ },
+ "a2u5l1": {
+  "tags": [
+   "modals"
+  ],
+  "extra": [
+   [
+    "You [must] wear a seatbelt.",
+    "Нужно пристёгиваться.",
+    "Must — строгое правило."
+   ],
+   [
+    "I [have] to work on Saturday.",
+    "В субботу мне надо работать.",
+    "Have to — внешняя необходимость."
+   ],
+   [
+    "She [has] to take the bus.",
+    "Ей приходится ехать на автобусе.",
+    "She — has to."
+   ],
+   [
+    "You [mustn't] smoke here.",
+    "Здесь нельзя курить.",
+    "Mustn't — запрет."
+   ],
+   [
+    "You don't [have] to come.",
+    "Тебе не обязательно приходить.",
+    "Don't have to — нет необходимости."
+   ],
+   [
+    "Do we have to [pay] for parking?",
+    "Нужно платить за парковку?",
+    "Have to + глагол."
+   ]
+  ]
+ },
+ "a2u5l2": {
+  "tags": [
+   "modals"
+  ],
+  "extra": [
+   [
+    "You [should] see a doctor.",
+    "Тебе стоит сходить к врачу.",
+    "Should — совет."
+   ],
+   [
+    "You shouldn't [drink] so much coffee.",
+    "Тебе не стоит пить столько кофе.",
+    "После shouldn't — глагол без to."
+   ],
+   [
+    "[Should] I bring anything?",
+    "Мне что-нибудь принести?",
+    "Вопрос — should в начале."
+   ],
+   [
+    "We should [leave] now.",
+    "Нам пора идти.",
+    "Should + глагол."
+   ],
+   [
+    "You [shouldn't] skip breakfast.",
+    "Не стоит пропускать завтрак.",
+    "Отрицательный совет."
+   ],
+   [
+    "What should I [wear] to the interview?",
+    "Что надеть на собеседование?",
+    "Wh + should + подлежащее + глагол."
+   ]
+  ]
+ },
+ "a2u5l3": {
+  "tags": [
+   "modals"
+  ],
+  "extra": [
+   [
+    "It [might] snow tonight.",
+    "Ночью может пойти снег.",
+    "Might — возможно."
+   ],
+   [
+    "I may [be] a little late.",
+    "Я, возможно, немного опоздаю.",
+    "После may — глагол без to."
+   ],
+   [
+    "She might not [come] to the party.",
+    "Она может не прийти.",
+    "Might not — возможно, нет."
+   ],
+   [
+    "We [may] go to the beach tomorrow.",
+    "Завтра мы, может, поедем на пляж.",
+    "May — вероятность."
+   ],
+   [
+    "He might [know] the answer.",
+    "Он, возможно, знает ответ.",
+    "Might + глагол."
+   ],
+   [
+    "Take an umbrella. It [might] rain.",
+    "Возьми зонт. Может пойти дождь.",
+    "Might — неуверенный прогноз."
+   ]
+  ]
+ },
+ "a2u5l4": {
+  "tags": [
+   "vocabulary-topic",
+   "prepositions",
+   "present-simple"
+  ],
+  "extra": [
+   [
+    "I'm in [charge] of the sales team.",
+    "Я отвечаю за отдел продаж.",
+    "Be in charge of — отвечать за."
+   ],
+   [
+    "She's [responsible] for hiring.",
+    "Она отвечает за найм.",
+    "Responsible for — ответственный за."
+   ],
+   [
+    "He [deals] with customer complaints.",
+    "Он занимается жалобами клиентов.",
+    "Deal with — заниматься чем-то."
+   ],
+   [
+    "I work [in] marketing.",
+    "Я работаю в маркетинге.",
+    "In + сфера."
+   ],
+   [
+    "My job [involves] a lot of travel.",
+    "Моя работа связана с поездками.",
+    "Involve — включать в себя."
+   ],
+   [
+    "She [manages] a small restaurant.",
+    "Она управляет небольшим рестораном.",
+    "Manage — руководить."
+   ]
+  ]
+ },
+ "a2u6l1": {
+  "tags": [
+   "quantifiers"
+  ],
+  "extra": [
+   [
+    "There are a [few] tables by the window.",
+    "У окна есть несколько столиков.",
+    "A few — с исчисляемыми."
+   ],
+   [
+    "Can I have a [little] sugar?",
+    "Можно немного сахара?",
+    "A little — с неисчисляемыми."
+   ],
+   [
+    "They have a [lot] of vegan options.",
+    "У них много веганских блюд.",
+    "A lot of — много."
+   ],
+   [
+    "We don't have [much] time.",
+    "У нас мало времени.",
+    "Much — неисчисляемые в отрицании."
+   ],
+   [
+    "How [many] people are in your party?",
+    "Сколько человек в вашей компании?",
+    "Many — исчисляемые."
+   ],
+   [
+    "Just a [little] ice, please.",
+    "Совсем немного льда, пожалуйста.",
+    "Ice неисчисляемое — a little."
+   ]
+  ]
+ },
+ "a2u6l2": {
+  "tags": [
+   "gerund-infinitive"
+  ],
+  "extra": [
+   [
+    "I enjoy [cooking] for friends.",
+    "Мне нравится готовить для друзей.",
+    "Enjoy + -ing."
+   ],
+   [
+    "She wants [to] learn Spanish.",
+    "Она хочет выучить испанский.",
+    "Want + to."
+   ],
+   [
+    "We decided [to] stay home.",
+    "Мы решили остаться дома.",
+    "Decide + to."
+   ],
+   [
+    "He finished [eating] and left.",
+    "Он доел и ушёл.",
+    "Finish + -ing."
+   ],
+   [
+    "Do you mind [waiting] a minute?",
+    "Не против подождать минуту?",
+    "Mind + -ing."
+   ],
+   [
+    "I hope [to] see you soon.",
+    "Надеюсь скоро увидеться.",
+    "Hope + to."
+   ]
+  ]
+ },
+ "a2u6l3": {
+  "tags": [
+   "relative-clauses"
+  ],
+  "extra": [
+   [
+    "That's the guy [who] fixed my car.",
+    "Это парень, который починил мою машину.",
+    "Who — о людях."
+   ],
+   [
+    "This is the book [which] I told you about.",
+    "Вот книга, о которой я рассказывал.",
+    "Which — о предметах."
+   ],
+   [
+    "I have a friend [who] lives in LA.",
+    "У меня есть друг, который живёт в LA.",
+    "Who — о людях."
+   ],
+   [
+    "The phone [that] I bought broke.",
+    "Телефон, который я купил, сломался.",
+    "That — о предметах."
+   ],
+   [
+    "Is this the bus [that] goes downtown?",
+    "Это автобус, который идёт в центр?",
+    "That — о транспорте."
+   ],
+   [
+    "The woman [who] called you is my boss.",
+    "Женщина, которая звонила, — мой начальник.",
+    "Who — о людях."
+   ]
+  ]
+ },
+ "a2u6l4": {
+  "tags": [
+   "phrasal-verbs",
+   "speaking"
+  ],
+  "extra": [
+   [
+    "Can you call me [back] later?",
+    "Можешь перезвонить позже?",
+    "Call back — перезвонить."
+   ],
+   [
+    "Please hold [on] a second.",
+    "Подождите секунду.",
+    "Hold on — подождать у телефона."
+   ],
+   [
+    "Don't hang [up]!",
+    "Не вешай трубку!",
+    "Hang up — положить трубку."
+   ],
+   [
+    "I'll [pick] up the phone.",
+    "Я возьму трубку.",
+    "Pick up — ответить на звонок."
+   ],
+   [
+    "Sorry, you're breaking [up].",
+    "Извини, связь прерывается.",
+    "Break up — плохая связь."
+   ],
+   [
+    "Can you [put] me through to sales?",
+    "Соедините меня с отделом продаж.",
+    "Put through — соединить."
+   ]
+  ]
+ },
+ "a2u6l5": {
+  "tags": [
+   "writing",
+   "register"
+  ],
+  "extra": [
+   [
+    "I'm writing [to] ask about the apartment.",
+    "Пишу, чтобы спросить о квартире.",
+    "Writing to + цель."
+   ],
+   [
+    "Best [regards], Anna",
+    "С уважением, Анна",
+    "Best regards — нейтральная подпись."
+   ],
+   [
+    "Thank you for your [quick] reply.",
+    "Спасибо за быстрый ответ.",
+    "Quick reply — быстрый ответ."
+   ],
+   [
+    "Please find the file [attached].",
+    "Файл во вложении.",
+    "Attached — приложен."
+   ],
+   [
+    "I look forward to [hearing] from you.",
+    "Жду вашего ответа.",
+    "Look forward to + -ing."
+   ],
+   [
+    "Dear Mr. [Brown],",
+    "Уважаемый мистер Браун,",
+    "Dear + титул + фамилия."
+   ]
+  ]
+ }
+}

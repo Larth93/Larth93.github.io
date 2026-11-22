@@ -1,0 +1,374 @@
+{
+ "b1u23l1": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "I'm worried about my online [privacy].",
+    "Я беспокоюсь о своей конфиденциальности в сети.",
+    "Privacy — конфиденциальность."
+   ],
+   [
+    "This app [collects] a lot of personal data.",
+    "Это приложение собирает много личных данных.",
+    "Collect data — собирать данные."
+   ],
+   [
+    "We use AI tools to [save] time.",
+    "Мы используем ИИ-инструменты, чтобы экономить время.",
+    "Save time — экономить время."
+   ],
+   [
+    "Make sure you [update] your software.",
+    "Обязательно обнови программы.",
+    "Update — обновлять."
+   ],
+   [
+    "Chatbots sometimes make [up] facts.",
+    "Чат-боты иногда выдумывают факты.",
+    "Make up — выдумывать."
+   ],
+   [
+    "Can this task be [automated]?",
+    "Можно ли автоматизировать эту задачу?",
+    "Be automated — пассив от automate."
+   ]
+  ]
+ },
+ "b1u23l2": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "Climate [change] affects everyone.",
+    "Изменение климата касается всех.",
+    "Climate change — изменение климата."
+   ],
+   [
+    "We try to [reduce] plastic waste.",
+    "Мы стараемся сокращать пластиковые отходы.",
+    "Reduce — сокращать."
+   ],
+   [
+    "Solar energy is a [renewable] resource.",
+    "Солнечная энергия — возобновляемый ресурс.",
+    "Renewable — возобновляемый."
+   ],
+   [
+    "Please turn [off] the lights when you leave.",
+    "Пожалуйста, выключай свет, когда уходишь.",
+    "Turn off — выключать."
+   ],
+   [
+    "Many animals are in [danger] of extinction.",
+    "Многим животным грозит вымирание.",
+    "In danger of — под угрозой."
+   ],
+   [
+    "I bring my own [bag] to the store.",
+    "Я хожу в магазин со своей сумкой.",
+    "Own — собственный."
+   ]
+  ]
+ },
+ "b1u23l3": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "I need to get more [exercise].",
+    "Мне нужно больше двигаться.",
+    "Exercise — физическая нагрузка (неисч.)."
+   ],
+   [
+    "I go for a [check-up] once a year.",
+    "Я прохожу осмотр раз в год.",
+    "Check-up — медосмотр."
+   ],
+   [
+    "Try to cut [down] on sugar.",
+    "Постарайся есть меньше сахара.",
+    "Cut down on — сокращать потребление."
+   ],
+   [
+    "She eats a [balanced] diet.",
+    "Она питается сбалансированно.",
+    "Balanced diet — сбалансированное питание."
+   ],
+   [
+    "I try to drink eight glasses of [water] a day.",
+    "Я стараюсь пить восемь стаканов воды в день.",
+    "Water — неисчисляемое, считаем стаканами."
+   ],
+   [
+    "He's in great [shape] for his age.",
+    "Он в отличной форме для своего возраста.",
+    "In shape — в форме."
+   ]
+  ]
+ },
+ "b1u23l4": {
+  "tags": [
+   "speaking",
+   "past-continuous"
+  ],
+  "extra": [
+   [
+    "So, this one [time], I got locked out.",
+    "Так вот, однажды я не смог попасть домой.",
+    "This one time — разговорное начало истории."
+   ],
+   [
+    "Anyway, long story [short], we missed the train.",
+    "Короче, мы опоздали на поезд.",
+    "Long story short — короче говоря."
+   ],
+   [
+    "We [were] driving home when it started to snow.",
+    "Мы ехали домой, когда пошёл снег.",
+    "Past Continuous для фона событий."
+   ],
+   [
+    "[Suddenly], someone knocked on the door.",
+    "Вдруг кто-то постучал в дверь.",
+    "Suddenly — внезапно."
+   ],
+   [
+    "In the [end], everything was fine.",
+    "В итоге всё было нормально.",
+    "In the end — в конце концов."
+   ],
+   [
+    "You won't [believe] what happened next.",
+    "Ты не поверишь, что было дальше.",
+    "Фраза для удержания интереса."
+   ]
+  ]
+ },
+ "b1u24l1": {
+  "tags": [
+   "phrasal-verbs"
+  ],
+  "extra": [
+   [
+    "He really takes [after] his dad.",
+    "Он очень похож на отца.",
+    "Take after — быть похожим на родственника."
+   ],
+   [
+    "The plane took [off] on time.",
+    "Самолёт вылетел вовремя.",
+    "Take off — взлетать."
+   ],
+   [
+    "I need to get [over] this cold.",
+    "Мне нужно оправиться от простуды.",
+    "Get over — оправиться."
+   ],
+   [
+    "What time do you get [up]?",
+    "Во сколько ты встаёшь?",
+    "Get up — вставать."
+   ],
+   [
+    "She took [up] yoga last year.",
+    "В прошлом году она занялась йогой.",
+    "Take up — начать заниматься."
+   ],
+   [
+    "How did you get [away] with that?",
+    "Как тебе это сошло с рук?",
+    "Get away with — избежать наказания."
+   ]
+  ]
+ },
+ "b1u24l2": {
+  "tags": [
+   "phrasal-verbs"
+  ],
+  "extra": [
+   [
+    "She came up [with] a great idea.",
+    "Она придумала отличную идею.",
+    "Come up with — придумать."
+   ],
+   [
+    "I came [across] an old photo yesterday.",
+    "Вчера я наткнулся на старое фото.",
+    "Come across — случайно найти."
+   ],
+   [
+    "Please put [away] your phones.",
+    "Пожалуйста, уберите телефоны.",
+    "Put away — убирать."
+   ],
+   [
+    "The meeting was put [off] until Monday.",
+    "Встречу перенесли на понедельник.",
+    "Put off — откладывать."
+   ],
+   [
+    "When did you come [back] from Texas?",
+    "Когда ты вернулся из Техаса?",
+    "Come back — возвращаться."
+   ],
+   [
+    "Firefighters put [out] the fire quickly.",
+    "Пожарные быстро потушили огонь.",
+    "Put out — тушить."
+   ]
+  ]
+ },
+ "b1u24l3": {
+  "tags": [
+   "phrasal-verbs"
+  ],
+  "extra": [
+   [
+    "I'm looking forward [to] seeing you.",
+    "Я с нетерпением жду встречи с тобой.",
+    "Look forward to + -ing."
+   ],
+   [
+    "We'll look [into] the problem.",
+    "Мы разберёмся с этой проблемой.",
+    "Look into — изучить, разобраться."
+   ],
+   [
+    "She's going [through] a hard time.",
+    "Она переживает трудные времена.",
+    "Go through — переживать."
+   ],
+   [
+    "Can you look [after] my dog this weekend?",
+    "Можешь присмотреть за моей собакой на выходных?",
+    "Look after — присматривать."
+   ],
+   [
+    "Look [up] the word in the dictionary.",
+    "Посмотри это слово в словаре.",
+    "Look up — искать информацию."
+   ],
+   [
+    "Prices keep going [up].",
+    "Цены продолжают расти.",
+    "Go up — расти."
+   ]
+  ]
+ },
+ "b1u24l4": {
+  "tags": [
+   "collocations",
+   "confusing-words"
+  ],
+  "extra": [
+   [
+    "I need to [do] my homework.",
+    "Мне нужно сделать домашнее задание.",
+    "Do homework — устойчивое сочетание."
+   ],
+   [
+    "Sorry, I [made] a mistake.",
+    "Извините, я ошибся.",
+    "Make a mistake — с make."
+   ],
+   [
+    "Can we [make] an appointment for Monday?",
+    "Можем назначить встречу на понедельник?",
+    "Make an appointment — с make."
+   ],
+   [
+    "Who [does] the dishes in your house?",
+    "Кто у вас моет посуду?",
+    "Do the dishes — домашние дела с do."
+   ],
+   [
+    "She [did] a great job on the project.",
+    "Она отлично справилась с проектом.",
+    "Do a good job — с do."
+   ],
+   [
+    "Don't [make] so much noise!",
+    "Не шуми так!",
+    "Make noise — с make."
+   ]
+  ]
+ },
+ "b1u24l5": {
+  "tags": [
+   "gerund-infinitive"
+  ],
+  "extra": [
+   [
+    "We [used] to go camping every summer.",
+    "Раньше мы каждое лето ходили в походы.",
+    "Used to — прошлая привычка."
+   ],
+   [
+    "I'm not used to [driving] on the right.",
+    "Я не привык ездить по правой стороне.",
+    "Be used to + -ing."
+   ],
+   [
+    "You'll get used [to] the weather.",
+    "Ты привыкнешь к погоде.",
+    "Get used to — привыкать."
+   ],
+   [
+    "Did you [use] to play sports?",
+    "Ты раньше занимался спортом?",
+    "В вопросе с did — use без -d."
+   ],
+   [
+    "It took me a year to get used to [living] here.",
+    "Мне понадобился год, чтобы привыкнуть жить здесь.",
+    "Get used to + -ing."
+   ],
+   [
+    "There [used] to be a cinema here.",
+    "Раньше здесь был кинотеатр.",
+    "There used to be — раньше было."
+   ]
+  ]
+ },
+ "b1u24l6": {
+  "tags": [
+   "future"
+  ],
+  "extra": [
+   [
+    "He said he [would] call me later.",
+    "Он сказал, что позвонит мне позже.",
+    "Would — будущее в прошедшем."
+   ],
+   [
+    "I was [going] to tell you, I swear.",
+    "Я собирался тебе сказать, клянусь.",
+    "Was going to — несостоявшееся намерение."
+   ],
+   [
+    "We were about [to] eat when he arrived.",
+    "Мы собирались есть, когда он пришёл.",
+    "Be about to — вот-вот."
+   ],
+   [
+    "I thought it [would] be easier.",
+    "Я думал, будет легче.",
+    "Would после прошедшего времени."
+   ],
+   [
+    "She promised she [would] help us.",
+    "Она обещала, что поможет нам.",
+    "Would в косвенной речи."
+   ],
+   [
+    "They were [going] to move, but they changed their minds.",
+    "Они собирались переехать, но передумали.",
+    "Were going to — план, который не осуществился."
+   ]
+  ]
+ }
+}

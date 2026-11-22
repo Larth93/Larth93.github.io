@@ -1,0 +1,341 @@
+{
+ "b2u23l1": {
+  "tags": [
+   "vocabulary-topic",
+   "hedging"
+  ],
+  "extra": [
+   [
+    "Researchers [conducted] a ten-year study.",
+    "Исследователи провели десятилетнее исследование.",
+    "Conduct a study."
+   ],
+   [
+    "The results [suggest] a strong link.",
+    "Результаты указывают на сильную связь.",
+    "Suggest — осторожный вывод."
+   ],
+   [
+    "Participants were [randomly] assigned to groups.",
+    "Участников случайно распределили по группам.",
+    "Randomly."
+   ],
+   [
+    "More [research] is needed.",
+    "Нужны дальнейшие исследования.",
+    "Research — неисчисляемое."
+   ],
+   [
+    "The study was [funded] by the government.",
+    "Исследование финансировало правительство.",
+    "Fund."
+   ],
+   [
+    "The data [appear] to confirm the theory.",
+    "Данные, по-видимому, подтверждают теорию.",
+    "Appear to — хеджирование."
+   ],
+   [
+    "The paper was [peer]-reviewed.",
+    "Статья прошла рецензирование.",
+    "Peer-reviewed."
+   ]
+  ]
+ },
+ "b2u23l2": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "Regular exercise [boosts] your mood.",
+    "Регулярные упражнения улучшают настроение.",
+    "Boost."
+   ],
+   [
+    "Try to [cut] down on sugar.",
+    "Старайся меньше есть сахара.",
+    "Cut down on."
+   ],
+   [
+    "A balanced [diet] is essential.",
+    "Сбалансированное питание необходимо.",
+    "Balanced diet."
+   ],
+   [
+    "Smoking [increases] the risk of cancer.",
+    "Курение повышает риск рака.",
+    "Increase the risk."
+   ],
+   [
+    "She's trying to [lose] weight.",
+    "Она пытается похудеть.",
+    "Lose weight."
+   ],
+   [
+    "Stress can [weaken] the immune system.",
+    "Стресс может ослабить иммунитет.",
+    "Weaken."
+   ],
+   [
+    "He gets a yearly [checkup].",
+    "Он ежегодно проходит медосмотр.",
+    "Checkup."
+   ]
+  ]
+ },
+ "b2u23l3": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "[Resilience] helps people recover from setbacks.",
+    "Стойкость помогает оправляться от неудач.",
+    "Resilience."
+   ],
+   [
+    "He suffers from social [anxiety].",
+    "Он страдает социальной тревожностью.",
+    "Anxiety."
+   ],
+   [
+    "Confirmation [bias] affects our decisions.",
+    "Предвзятость подтверждения влияет на решения.",
+    "Confirmation bias."
+   ],
+   [
+    "She's very [motivated] to succeed.",
+    "Она очень мотивирована добиться успеха.",
+    "Motivated."
+   ],
+   [
+    "Therapy helped him [cope] with grief.",
+    "Терапия помогла ему справиться с горем.",
+    "Cope with."
+   ],
+   [
+    "Stop [procrastinating] and start writing.",
+    "Хватит откладывать, начинай писать.",
+    "Procrastinate."
+   ],
+   [
+    "Praise can [boost] a child's confidence.",
+    "Похвала может повысить уверенность ребёнка.",
+    "Boost confidence."
+   ]
+  ]
+ },
+ "b2u23l4": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "Unemployment [rose] to six percent.",
+    "Безработица выросла до шести процентов.",
+    "Rise — rose."
+   ],
+   [
+    "The government cut [taxes] last year.",
+    "Правительство снизило налоги в прошлом году.",
+    "Cut taxes."
+   ],
+   [
+    "Demand for housing [exceeds] supply.",
+    "Спрос на жильё превышает предложение.",
+    "Exceed."
+   ],
+   [
+    "The country has a huge trade [deficit].",
+    "У страны огромный дефицит торгового баланса.",
+    "Trade deficit."
+   ],
+   [
+    "Wages haven't kept [up] with inflation.",
+    "Зарплаты не поспевают за инфляцией.",
+    "Keep up with."
+   ],
+   [
+    "GDP [grew] by two percent.",
+    "ВВП вырос на два процента.",
+    "Grow — grew."
+   ],
+   [
+    "Consumer [spending] fell sharply.",
+    "Потребительские расходы резко упали.",
+    "Consumer spending."
+   ]
+  ]
+ },
+ "b2u24l1": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "She was caught [shoplifting].",
+    "Её поймали на краже в магазине.",
+    "Shoplifting."
+   ],
+   [
+    "He [committed] a serious crime.",
+    "Он совершил тяжкое преступление.",
+    "Commit a crime."
+   ],
+   [
+    "A [witness] saw the whole thing.",
+    "Свидетель видел всё.",
+    "Witness."
+   ],
+   [
+    "The [burglar] got in through a window.",
+    "Грабитель проник через окно.",
+    "Burglar."
+   ],
+   [
+    "Car [theft] is common here.",
+    "Угон машин здесь обычное дело.",
+    "Theft."
+   ],
+   [
+    "They [vandalized] the bus stop.",
+    "Они разгромили остановку.",
+    "Vandalize."
+   ],
+   [
+    "Police are [investigating] the murder.",
+    "Полиция расследует убийство.",
+    "Investigate."
+   ]
+  ]
+ },
+ "b2u24l2": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "He pleaded [guilty] to fraud.",
+    "Он признал вину в мошенничестве.",
+    "Plead guilty."
+   ],
+   [
+    "The judge [sentenced] him to five years.",
+    "Судья приговорил его к пяти годам.",
+    "Sentence to."
+   ],
+   [
+    "Her [lawyer] filed an appeal.",
+    "Её адвокат подал апелляцию.",
+    "Lawyer."
+   ],
+   [
+    "The jury found him not [guilty].",
+    "Присяжные признали его невиновным.",
+    "Find not guilty."
+   ],
+   [
+    "He was released on [bail].",
+    "Его выпустили под залог.",
+    "On bail."
+   ],
+   [
+    "The case went to [trial] in May.",
+    "Дело дошло до суда в мае.",
+    "Go to trial."
+   ],
+   [
+    "She gave [evidence] in court.",
+    "Она дала показания в суде.",
+    "Give evidence."
+   ]
+  ]
+ },
+ "b2u24l3": {
+  "tags": [
+   "writing",
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "The beach was [unspoiled] and quiet.",
+    "Пляж был нетронутым и тихим.",
+    "Unspoiled."
+   ],
+   [
+    "We stayed in a [charming] little inn.",
+    "Мы остановились в очаровательной гостинице.",
+    "Charming."
+   ],
+   [
+    "The streets were [crowded] with tourists.",
+    "Улицы были полны туристов.",
+    "Crowded with."
+   ],
+   [
+    "The old town is a hidden [gem].",
+    "Старый город — скрытая жемчужина.",
+    "Hidden gem."
+   ],
+   [
+    "We drove along a [winding] mountain road.",
+    "Мы ехали по извилистой горной дороге.",
+    "Winding."
+   ],
+   [
+    "The lake was [crystal] clear.",
+    "Озеро было кристально чистым.",
+    "Crystal clear."
+   ],
+   [
+    "The food market is [vibrant] and colorful.",
+    "Рынок еды яркий и оживлённый.",
+    "Vibrant."
+   ]
+  ]
+ },
+ "b2u24l4": {
+  "tags": [
+   "past-perfect",
+   "past-continuous"
+  ],
+  "extra": [
+   [
+    "We [were walking] along the beach when it started to rain.",
+    "Мы гуляли по пляжу, когда пошёл дождь.",
+    "Фон — Past Continuous."
+   ],
+   [
+    "I was [about] to leave when he called.",
+    "Я как раз собирался уйти, когда он позвонил.",
+    "Was about to = собирался."
+   ],
+   [
+    "By noon, we [had reached] the summit.",
+    "К полудню мы добрались до вершины.",
+    "Past Perfect до момента в прошлом."
+   ],
+   [
+    "They had been [driving] all night.",
+    "Они ехали всю ночь.",
+    "Past Perfect Continuous — длительность."
+   ],
+   [
+    "When we arrived, the ferry [had] already left.",
+    "Когда мы приехали, паром уже ушёл.",
+    "Had already + V3."
+   ],
+   [
+    "The sun [was setting] as we reached the town.",
+    "Солнце садилось, когда мы добрались до города.",
+    "Процесс на фоне."
+   ],
+   [
+    "We [got] lost on the first day.",
+    "В первый день мы заблудились.",
+    "Past Simple — событие в рассказе."
+   ]
+  ]
+ }
+}

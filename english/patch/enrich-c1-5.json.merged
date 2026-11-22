@@ -1,0 +1,559 @@
+{
+ "c1u30l1": {
+  "tags": [
+   "conditionals",
+   "conjunctions"
+  ],
+  "extra": [
+   [
+    "[Supposing] you lost your job, what would you do?",
+    "Предположим, ты потерял работу, что бы ты сделал?",
+    "Supposing = what if, вводит гипотезу."
+   ],
+   [
+    "Take a map; [otherwise] you'll get lost.",
+    "Возьми карту, иначе заблудишься.",
+    "otherwise — «в противном случае»."
+   ],
+   [
+    "[But for] her help, I would have failed.",
+    "Если бы не её помощь, я бы провалился.",
+    "But for + существительное = если бы не."
+   ],
+   [
+    "I'll lend you the car [on condition that] you return it tonight.",
+    "Я одолжу машину при условии, что вернёшь её вечером.",
+    "on condition that — формальное условие."
+   ],
+   [
+    "Bring an umbrella [in case] it rains.",
+    "Возьми зонт на случай дождя.",
+    "in case — на всякий случай, не = if."
+   ],
+   [
+    "You won't pass [unless] you study harder.",
+    "Ты не сдашь, если не будешь заниматься усерднее.",
+    "unless = if not."
+   ]
+  ]
+ },
+ "c1u30l2": {
+  "tags": [
+   "participles"
+  ],
+  "extra": [
+   [
+    "[The meeting over], we all went for coffee.",
+    "Когда собрание закончилось, мы все пошли пить кофе.",
+    "Абсолютный оборот: свой подлежащий + причастие/прилагательное."
+   ],
+   [
+    "[Weather permitting], we'll hike tomorrow.",
+    "Если позволит погода, завтра пойдём в поход.",
+    "Абсолютный оборот с permitting."
+   ],
+   [
+    "[Having lived] in Tokyo, she speaks Japanese well.",
+    "Прожив в Токио, она хорошо говорит по-японски.",
+    "Perfect participle — предшествующее действие."
+   ],
+   [
+    "[Written] in haste, the email was full of typos.",
+    "Написанное в спешке письмо было полно опечаток.",
+    "Past participle — пассивное значение."
+   ],
+   [
+    "[Feeling] tired, he went to bed early.",
+    "Чувствуя усталость, он рано лёг спать.",
+    "Present participle — причина."
+   ],
+   [
+    "[All things considered], it was a success.",
+    "Учитывая всё, это был успех.",
+    "Устойчивый абсолютный оборот."
+   ]
+  ]
+ },
+ "c1u30l3": {
+  "tags": [
+   "articles"
+  ],
+  "extra": [
+   [
+    "[Life] is too short to hold grudges.",
+    "Жизнь слишком коротка, чтобы держать обиды.",
+    "Абстрактное понятие в общем смысле — без артикля."
+   ],
+   [
+    "She lived [a] happy life.",
+    "Она прожила счастливую жизнь.",
+    "a life — конкретная жизнь с описанием."
+   ],
+   [
+    "[The] knowledge of three languages helped him.",
+    "Знание трёх языков помогло ему.",
+    "the knowledge of — ограничено of-фразой."
+   ],
+   [
+    "[Education] should be free for everyone.",
+    "Образование должно быть бесплатным для всех.",
+    "Общее понятие — нулевой артикль."
+   ],
+   [
+    "He received [an] excellent education.",
+    "Он получил отличное образование.",
+    "Абстрактное существительное с прилагательным часто берёт a/an."
+   ],
+   [
+    "[The] patience she showed was remarkable.",
+    "Терпение, которое она проявила, было замечательным.",
+    "Уточнение придаточным — the."
+   ]
+  ]
+ },
+ "c1u30l4": {
+  "tags": [
+   "quantifiers"
+  ],
+  "extra": [
+   [
+    "There's [hardly any] milk left.",
+    "Молока почти не осталось.",
+    "hardly any — почти нет."
+   ],
+   [
+    "We get [the odd] visitor in winter.",
+    "Зимой у нас бывает редкий посетитель.",
+    "the odd — изредка встречающийся."
+   ],
+   [
+    "[A good many] people disagreed.",
+    "Довольно много людей не согласились.",
+    "a good many — значительное количество."
+   ],
+   [
+    "[Little] is known about his early life.",
+    "О его ранней жизни известно мало.",
+    "little (без a) — мало, с негативным оттенком."
+   ],
+   [
+    "I have [a little] time if you need help.",
+    "У меня есть немного времени, если нужна помощь.",
+    "a little — немного, позитивно."
+   ],
+   [
+    "[Neither] answer is correct.",
+    "Ни один из ответов не верен.",
+    "neither + ед. ч. — ни один из двух."
+   ]
+  ]
+ },
+ "c1u30l5": {
+  "tags": [
+   "reported-speech"
+  ],
+  "extra": [
+   [
+    "She [conceded] that she had made a mistake.",
+    "Она признала, что допустила ошибку.",
+    "concede — неохотно признать."
+   ],
+   [
+    "He [insisted on] paying for dinner.",
+    "Он настоял на том, чтобы заплатить за ужин.",
+    "insist on + -ing."
+   ],
+   [
+    "The minister [refused] to comment.",
+    "Министр отказался комментировать.",
+    "refuse + to-инфинитив."
+   ],
+   [
+    "They [accused] him of lying.",
+    "Его обвинили во лжи.",
+    "accuse somebody of + -ing."
+   ],
+   [
+    "She [warned] us not to touch the wires.",
+    "Она предупредила нас не трогать провода.",
+    "warn somebody not to."
+   ],
+   [
+    "He [apologized] for being late.",
+    "Он извинился за опоздание.",
+    "apologize for + -ing."
+   ]
+  ]
+ },
+ "c1u31l1": {
+  "tags": [
+   "passive",
+   "hedging"
+  ],
+  "extra": [
+   [
+    "It is [believed] that the fire started in the kitchen.",
+    "Считается, что пожар начался на кухне.",
+    "It is believed that — безличный пассив."
+   ],
+   [
+    "The company is [thought] to be losing money.",
+    "Считается, что компания теряет деньги.",
+    "be thought to + инфинитив."
+   ],
+   [
+    "He is said [to have] left the country last year.",
+    "Говорят, он уехал из страны в прошлом году.",
+    "to have + V3 — для прошлого действия."
+   ],
+   [
+    "The painting is [estimated] to be worth millions.",
+    "Картина оценивается в миллионы.",
+    "be estimated to — оценочный пассив."
+   ],
+   [
+    "It has been [reported] that two people were injured.",
+    "Сообщается, что два человека пострадали.",
+    "It has been reported that — новостной стиль."
+   ],
+   [
+    "The suspect is [alleged] to have stolen the car.",
+    "Подозреваемый предположительно угнал машину.",
+    "be alleged to — юридическая дистанция."
+   ]
+  ]
+ },
+ "c1u31l2": {
+  "tags": [
+   "modals-past"
+  ],
+  "extra": [
+   [
+    "We [didn't need to] hurry, so we walked slowly.",
+    "Нам не нужно было спешить, и мы шли медленно.",
+    "didn't need to — не было необходимости (и не делали)."
+   ],
+   [
+    "You [could have] told me earlier!",
+    "Ты мог бы сказать мне раньше!",
+    "could have — упрёк о несделанном."
+   ],
+   [
+    "He [can't have] seen us; it was too dark.",
+    "Он не мог нас видеть: было слишком темно.",
+    "can't have — логическая невозможность в прошлом."
+   ],
+   [
+    "They [might have] gotten lost on the way.",
+    "Возможно, они заблудились по дороге.",
+    "might have — предположение о прошлом."
+   ],
+   [
+    "You [should have] seen his face!",
+    "Видел бы ты его лицо!",
+    "should have seen — эмоциональное восклицание."
+   ],
+   [
+    "I [needn't have] brought an umbrella; it was sunny.",
+    "Зря я взял зонт: было солнечно.",
+    "needn't have — сделал, но было не нужно."
+   ]
+  ]
+ },
+ "c1u31l3": {
+  "tags": [
+   "gerund-infinitive"
+  ],
+  "extra": [
+   [
+    "I [dread] to think what might happen.",
+    "Мне страшно подумать, что может случиться.",
+    "dread to think — устойчивое выражение."
+   ],
+   [
+    "I can't help [laughing] at his jokes.",
+    "Не могу не смеяться над его шутками.",
+    "can't help + -ing."
+   ],
+   [
+    "She can't help but [notice] the mess.",
+    "Она не может не заметить беспорядок.",
+    "can't help but + голый инфинитив."
+   ],
+   [
+    "He resents [having] to work weekends.",
+    "Его возмущает необходимость работать по выходным.",
+    "resent + -ing."
+   ],
+   [
+    "I don't relish [spending] hours in traffic.",
+    "Мне совсем не нравится проводить часы в пробках.",
+    "relish + -ing."
+   ],
+   [
+    "She went on [to become] a famous surgeon.",
+    "Впоследствии она стала известным хирургом.",
+    "go on to do — следующий этап."
+   ]
+  ]
+ },
+ "c1u31l4": {
+  "tags": [
+   "emphasis-cleft"
+  ],
+  "extra": [
+   [
+    "[What] annoys me is his attitude.",
+    "Что меня раздражает, так это его отношение.",
+    "Псевдорасщеплённое предложение с What."
+   ],
+   [
+    "It was in Paris [that] they first met.",
+    "Именно в Париже они впервые встретились.",
+    "It was ... that — выделение обстоятельства."
+   ],
+   [
+    "I [do] like your new haircut.",
+    "Мне правда нравится твоя новая стрижка.",
+    "Эмфатическое do."
+   ],
+   [
+    "She [did] call you; you just didn't answer.",
+    "Она же звонила тебе, ты просто не ответил.",
+    "Эмфатическое did для возражения."
+   ],
+   [
+    "[All] I want is a quiet evening.",
+    "Всё, чего я хочу, — тихий вечер.",
+    "All I want is — выделение."
+   ],
+   [
+    "The reason I called is [that] I need advice.",
+    "Я позвонил потому, что мне нужен совет.",
+    "The reason ... is that — выделение причины."
+   ]
+  ]
+ },
+ "c1u31l5": {
+  "tags": [
+   "phrasal-verbs"
+  ],
+  "extra": [
+   [
+    "The company is [winding down] its operations in Europe.",
+    "Компания сворачивает деятельность в Европе.",
+    "wind down — постепенно сворачивать."
+   ],
+   [
+    "You need to [follow through] on your promises.",
+    "Нужно доводить обещания до конца.",
+    "follow through — выполнить до конца."
+   ],
+   [
+    "Let's [touch base] next week.",
+    "Давай свяжемся на следующей неделе.",
+    "touch base — кратко связаться."
+   ],
+   [
+    "The project [fell through] due to lack of funds.",
+    "Проект сорвался из-за нехватки средств.",
+    "fall through — сорваться."
+   ],
+   [
+    "Could you [take over] while I'm away?",
+    "Можешь подменить меня, пока меня нет?",
+    "take over — взять на себя."
+   ],
+   [
+    "We had to [scale back] our plans.",
+    "Нам пришлось урезать планы.",
+    "scale back — сократить масштаб."
+   ]
+  ]
+ },
+ "c1u32l1": {
+  "tags": [
+   "phrasal-verbs"
+  ],
+  "extra": [
+   [
+    "Let me [mull over] your offer.",
+    "Дай мне обдумать твоё предложение.",
+    "mull over — тщательно обдумать."
+   ],
+   [
+    "He [backed out] of the deal at the last minute.",
+    "Он вышел из сделки в последний момент.",
+    "back out — отказаться от обязательства."
+   ],
+   [
+    "They [split up] after ten years together.",
+    "Они расстались после десяти лет вместе.",
+    "split up — расстаться."
+   ],
+   [
+    "I finally [made up my mind] to move.",
+    "Я наконец решился переехать.",
+    "make up one's mind — решиться."
+   ],
+   [
+    "She [stood by] him through the trial.",
+    "Она поддерживала его на протяжении суда.",
+    "stand by — поддерживать."
+   ],
+   [
+    "Don't let me [down] this time.",
+    "Не подведи меня на этот раз.",
+    "let somebody down — подвести."
+   ]
+  ]
+ },
+ "c1u32l2": {
+  "tags": [
+   "idioms"
+  ],
+  "extra": [
+   [
+    "Let's [circle] back to this later.",
+    "Давай вернёмся к этому позже.",
+    "circle back — вернуться к вопросу позже."
+   ],
+   [
+    "We need to think outside the [box].",
+    "Нам нужно мыслить нестандартно.",
+    "think outside the box — нестандартно."
+   ],
+   [
+    "The deal is [in the bag].",
+    "Сделка у нас в кармане.",
+    "in the bag — гарантирован."
+   ],
+   [
+    "Let's not [reinvent] the wheel.",
+    "Не будем изобретать велосипед.",
+    "reinvent the wheel — изобретать велосипед."
+   ],
+   [
+    "Can we get the [ball] rolling?",
+    "Можем начать?",
+    "get the ball rolling — запустить процесс."
+   ],
+   [
+    "That's a bit [above] my pay grade.",
+    "Это не моего уровня решение.",
+    "above my pay grade — вне моих полномочий."
+   ]
+  ]
+ },
+ "c1u32l3": {
+  "tags": [
+   "idioms"
+  ],
+  "extra": [
+   [
+    "The brothers finally [buried] the hatchet.",
+    "Братья наконец помирились.",
+    "bury the hatchet — помириться."
+   ],
+   [
+    "The two parties are at [loggerheads] over taxes.",
+    "Две партии на ножах из-за налогов.",
+    "at loggerheads — в остром конфликте."
+   ],
+   [
+    "His comments only added fuel to the [fire].",
+    "Его комментарии лишь подлили масла в огонь.",
+    "add fuel to the fire."
+   ],
+   [
+    "Let's clear the [air] before we continue.",
+    "Давайте проясним ситуацию, прежде чем продолжать.",
+    "clear the air — снять напряжение."
+   ],
+   [
+    "We don't [see] eye to eye on politics.",
+    "Мы не сходимся во взглядах на политику.",
+    "see eye to eye — соглашаться."
+   ],
+   [
+    "She gave him the cold [shoulder].",
+    "Она демонстративно его игнорировала.",
+    "give the cold shoulder — игнорировать."
+   ]
+  ]
+ },
+ "c1u32l4": {
+  "tags": [
+   "idioms"
+  ],
+  "extra": [
+   [
+    "The restaurant went belly [up] after a year.",
+    "Ресторан разорился через год.",
+    "go belly up — обанкротиться."
+   ],
+   [
+    "Her first novel was a [smash] hit.",
+    "Её первый роман стал оглушительным хитом.",
+    "smash hit — огромный успех."
+   ],
+   [
+    "The plan [backfired] badly.",
+    "План обернулся против нас.",
+    "backfire — дать обратный эффект."
+   ],
+   [
+    "He finally [made it] big in Hollywood.",
+    "Он наконец добился большого успеха в Голливуде.",
+    "make it big — прославиться."
+   ],
+   [
+    "The launch was a total [flop].",
+    "Запуск полностью провалился.",
+    "flop — провал."
+   ],
+   [
+    "We're finally on the right [track].",
+    "Мы наконец на верном пути.",
+    "on the right track."
+   ]
+  ]
+ },
+ "c1u32l5": {
+  "tags": [
+   "idioms"
+  ],
+  "extra": [
+   [
+    "I think you got the wrong end of the [stick].",
+    "Думаю, ты неправильно понял.",
+    "get the wrong end of the stick — понять превратно."
+   ],
+   [
+    "Let me [run] it by my boss first.",
+    "Сначала согласую это с начальником.",
+    "run something by somebody — обсудить."
+   ],
+   [
+    "We're not on the same [page].",
+    "Мы не понимаем друг друга.",
+    "on the same page — одинаково понимать."
+   ],
+   [
+    "He tends to [talk] down to people.",
+    "Он склонен разговаривать с людьми свысока.",
+    "talk down to — снисходительно."
+   ],
+   [
+    "Can I [pick] your brain about this?",
+    "Можно с тобой посоветоваться?",
+    "pick somebody's brain — посоветоваться."
+   ],
+   [
+    "She doesn't mince her [words].",
+    "Она не стесняется в выражениях.",
+    "not mince words — говорить прямо."
+   ]
+  ]
+ }
+}

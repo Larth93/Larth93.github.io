@@ -1,0 +1,424 @@
+{
+ "a1u1l1": {
+  "tags": [
+   "to-be"
+  ],
+  "extra": [
+   [
+    "My name [is] Tom.",
+    "Меня зовут Том.",
+    "name — 3-е лицо ед. ч. → is."
+   ],
+   [
+    "We [are] from Texas.",
+    "Мы из Техаса.",
+    "we → are."
+   ],
+   [
+    "I['m] a nurse.",
+    "Я медсестра.",
+    "I am → I'm в разговоре."
+   ],
+   [
+    "They [are] my friends.",
+    "Они мои друзья.",
+    "they → are."
+   ],
+   [
+    "It [is] cold today.",
+    "Сегодня холодно.",
+    "it → is; по-русски глагол опускается."
+   ],
+   [
+    "You['re] very kind.",
+    "Ты очень добрый.",
+    "you are → you're."
+   ],
+   [
+    "My parents [are] at home.",
+    "Мои родители дома.",
+    "Мн. ч. → are."
+   ]
+  ]
+ },
+ "a1u1l2": {
+  "tags": [
+   "to-be",
+   "questions"
+  ],
+  "extra": [
+   [
+    "[Is] he your brother?",
+    "Он твой брат?",
+    "В вопросе is ставим перед подлежащим."
+   ],
+   [
+    "I'm [not] hungry.",
+    "Я не голоден.",
+    "not после am."
+   ],
+   [
+    "Are you OK? — Yes, I [am].",
+    "Ты в порядке? — Да.",
+    "Краткий ответ: Yes, I am (без сокращения)."
+   ],
+   [
+    "She [isn't] at work today.",
+    "Её сегодня нет на работе.",
+    "is not → isn't."
+   ],
+   [
+    "[Are] they from Canada?",
+    "Они из Канады?",
+    "they → Are в вопросе."
+   ],
+   [
+    "We [aren't] late.",
+    "Мы не опаздываем.",
+    "are not → aren't."
+   ],
+   [
+    "Is it far? — No, it [isn't].",
+    "Это далеко? — Нет.",
+    "Краткий отрицательный ответ: No, it isn't."
+   ]
+  ]
+ },
+ "a1u1l3": {
+  "tags": [
+   "pronouns"
+  ],
+  "extra": [
+   [
+    "This is [my] phone.",
+    "Это мой телефон.",
+    "I → my."
+   ],
+   [
+    "[His] name is Jack.",
+    "Его зовут Джек.",
+    "he → his."
+   ],
+   [
+    "She loves [her] job.",
+    "Она любит свою работу.",
+    "Своя у she → her."
+   ],
+   [
+    "We live with [our] parents.",
+    "Мы живём с нашими родителями.",
+    "we → our."
+   ],
+   [
+    "What's [your] last name?",
+    "Какая у вас фамилия?",
+    "you → your."
+   ],
+   [
+    "The dog is eating [its] food.",
+    "Собака ест свою еду.",
+    "Для животного/предмета — its (без апострофа)."
+   ],
+   [
+    "[They] are my neighbors.",
+    "Они мои соседи.",
+    "Подлежащее — личное местоимение they."
+   ]
+  ]
+ },
+ "a1u1l4": {
+  "tags": [
+   "articles"
+  ],
+  "extra": [
+   [
+    "She's [an] engineer.",
+    "Она инженер.",
+    "Профессия с a/an; engineer начинается с гласного звука."
+   ],
+   [
+    "I have [a] question.",
+    "У меня вопрос.",
+    "Один из многих, согласный звук → a."
+   ],
+   [
+    "Close [the] window, please.",
+    "Закрой окно, пожалуйста.",
+    "Понятно, какое окно → the."
+   ],
+   [
+    "It takes [an] hour.",
+    "Это займёт час.",
+    "hour — h немая, гласный звук → an."
+   ],
+   [
+    "He's [a] university student.",
+    "Он студент университета.",
+    "university начинается с [j] → a."
+   ],
+   [
+    "Where is [the] bathroom?",
+    "Где туалет?",
+    "Конкретный в этом здании → the."
+   ],
+   [
+    "I want [an] orange.",
+    "Я хочу апельсин.",
+    "orange — гласный звук → an."
+   ]
+  ]
+ },
+ "a1u1l5": {
+  "tags": [
+   "plurals"
+  ],
+  "extra": [
+   [
+    "I have two [boxes].",
+    "У меня две коробки.",
+    "После x добавляем -es."
+   ],
+   [
+    "Those [women] are teachers.",
+    "Те женщины — учителя.",
+    "woman → women (неправильное)."
+   ],
+   [
+    "We visited three [countries].",
+    "Мы посетили три страны.",
+    "Согласная + y → -ies."
+   ],
+   [
+    "My [feet] hurt.",
+    "У меня болят ноги (ступни).",
+    "foot → feet."
+   ],
+   [
+    "She has two [kids].",
+    "У неё двое детей.",
+    "Обычное -s."
+   ],
+   [
+    "Brush your [teeth].",
+    "Почисти зубы.",
+    "tooth → teeth."
+   ],
+   [
+    "We have [mice] in the garage.",
+    "У нас в гараже мыши.",
+    "mouse → mice (неправильное мн. ч.)."
+   ]
+  ]
+ },
+ "a1u2l1": {
+  "tags": [
+   "demonstratives"
+  ],
+  "extra": [
+   [
+    "[This] coffee is great.",
+    "Этот кофе отличный.",
+    "Близко, ед. ч. → this."
+   ],
+   [
+    "Look at [those] birds!",
+    "Посмотри на тех птиц!",
+    "Далеко, мн. ч. → those."
+   ],
+   [
+    "Are [these] your keys?",
+    "Это твои ключи?",
+    "Близко, мн. ч. → these."
+   ],
+   [
+    "Who is [that] man?",
+    "Кто тот мужчина?",
+    "Далеко, ед. ч. → that."
+   ],
+   [
+    "[These] shoes are new.",
+    "Эти туфли новые.",
+    "Мн. ч., рядом → these."
+   ],
+   [
+    "[That]'s a good idea.",
+    "Это хорошая идея.",
+    "that отсылает к сказанному."
+   ],
+   [
+    "I like [this] song.",
+    "Мне нравится эта песня.",
+    "Песня играет сейчас → this."
+   ]
+  ]
+ },
+ "a1u2l2": {
+  "tags": [
+   "there-is"
+  ],
+  "extra": [
+   [
+    "There [is] a park near my house.",
+    "Рядом с моим домом есть парк.",
+    "Ед. ч. → there is."
+   ],
+   [
+    "There [are] two beds in the room.",
+    "В комнате две кровати.",
+    "Мн. ч. → there are."
+   ],
+   [
+    "[Is] there a pharmacy nearby?",
+    "Здесь рядом есть аптека?",
+    "Вопрос: Is there…?"
+   ],
+   [
+    "There [isn't] any milk.",
+    "Молока нет.",
+    "Неисчисляемое → there isn't."
+   ],
+   [
+    "There [are] a lot of people here.",
+    "Здесь много людей.",
+    "people — мн. ч."
+   ],
+   [
+    "Are there any questions? — No, there [aren't].",
+    "Есть вопросы? — Нет.",
+    "Краткий ответ: No, there aren't."
+   ],
+   [
+    "[There's] a problem with my car.",
+    "С моей машиной проблема.",
+    "there is → there's."
+   ]
+  ]
+ },
+ "a1u2l3": {
+  "tags": [
+   "have"
+  ],
+  "extra": [
+   [
+    "She [has] a big family.",
+    "У неё большая семья.",
+    "she → has."
+   ],
+   [
+    "We [have] a dog and a cat.",
+    "У нас собака и кошка.",
+    "we → have."
+   ],
+   [
+    "I['ve got] a headache.",
+    "У меня болит голова.",
+    "have got — разговорный вариант have."
+   ],
+   [
+    "[Do] you have a pen?",
+    "У тебя есть ручка?",
+    "Вопрос с have: Do you have…?"
+   ],
+   [
+    "He [doesn't] have a car.",
+    "У него нет машины.",
+    "Отрицание: doesn't have."
+   ],
+   [
+    "[Has] she got a sister?",
+    "У неё есть сестра?",
+    "have got: вопрос — Has she got…?"
+   ],
+   [
+    "They [have] two kids.",
+    "У них двое детей.",
+    "they → have."
+   ]
+  ]
+ },
+ "a1u2l4": {
+  "tags": [
+   "vocabulary-topic",
+   "prepositions"
+  ],
+  "extra": [
+   [
+    "The movie starts [at] 8:15.",
+    "Фильм начинается в 8:15.",
+    "Точное время — at."
+   ],
+   [
+    "My birthday is [on] June 3rd.",
+    "Мой день рождения 3 июня.",
+    "Дата — on."
+   ],
+   [
+    "I'm [thirty] years old.",
+    "Мне тридцать лет.",
+    "thirty — ударение на первый слог, thirteen — на второй."
+   ],
+   [
+    "She is [thirteen].",
+    "Ей тринадцать.",
+    "thirTEEN — ударение на -teen."
+   ],
+   [
+    "It's half [past] six.",
+    "Половина седьмого.",
+    "half past six — 6:30."
+   ],
+   [
+    "It's a quarter [to] five.",
+    "Без четверти пять.",
+    "quarter to — без четверти."
+   ],
+   [
+    "Today is the [first] of May.",
+    "Сегодня первое мая.",
+    "Даты — порядковые числительные."
+   ]
+  ]
+ },
+ "a1u2l5": {
+  "tags": [
+   "pronouns"
+  ],
+  "extra": [
+   [
+    "Call [me] tomorrow.",
+    "Позвони мне завтра.",
+    "После глагола — объектное me."
+   ],
+   [
+    "I know [him] from school.",
+    "Я знаю его со школы.",
+    "he → him."
+   ],
+   [
+    "Can you help [us]?",
+    "Можешь нам помочь?",
+    "we → us."
+   ],
+   [
+    "I love [them].",
+    "Я их люблю.",
+    "they → them."
+   ],
+   [
+    "Tell [her] the truth.",
+    "Скажи ей правду.",
+    "she → her."
+   ],
+   [
+    "This gift is for [you].",
+    "Этот подарок для тебя.",
+    "После предлога — объектная форма."
+   ],
+   [
+    "Where's my phone? I can't find [it].",
+    "Где мой телефон? Не могу его найти.",
+    "Предмет → it."
+   ]
+  ]
+ }
+}

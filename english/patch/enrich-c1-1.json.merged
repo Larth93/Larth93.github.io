@@ -1,0 +1,66 @@
+{
+ "c1u1l1": {"tags": ["inversion"], "extra": [
+  ["Seldom [do we] see such talent.", "Редко мы видим такой талант.", "После seldom — вспомогательный глагол перед подлежащим."],
+  ["Never before [had she] felt so alone.", "Никогда прежде она не чувствовала себя такой одинокой.", "Never before + Past Perfect с инверсией."],
+  ["Under no circumstances [should you] open this door.", "Ни при каких обстоятельствах не открывайте эту дверь.", "Under no circumstances требует инверсии."],
+  ["Little [did he] know what was coming.", "Он и не подозревал, что его ждёт.", "Little did he know — «и не подозревал»."],
+  ["At no time [was] the public in danger.", "Общественность ни разу не подвергалась опасности.", "At no time + инверсия с was."],
+  ["Only later [did I] realize my mistake.", "Лишь позже я осознал свою ошибку.", "Only later + инверсия."]
+ ]},
+ "c1u1l2": {"tags": ["inversion"], "extra": [
+  ["No sooner had I sat down [than] the phone rang.", "Не успел я сесть, как зазвонил телефон.", "No sooner ... than — не when."],
+  ["Not only [is he] smart, but he's also kind.", "Он не только умён, но и добр.", "Not only + инверсия в первой части."],
+  ["Hardly [had] the show started when the lights failed.", "Едва началось шоу, как погас свет.", "Hardly had + причастие ... when."],
+  ["Scarcely had we arrived [when] it began to snow.", "Едва мы приехали, как пошёл снег.", "Scarcely ... when."],
+  ["Not until midnight [did they] finish.", "Они закончили только в полночь.", "Not until + инверсия в главной части."],
+  ["Only when I left [did I] understand.", "Лишь уехав, я понял.", "Only when: инверсия после придаточного."]
+ ]},
+ "c1u1l3": {"tags": ["inversion", "conditionals"], "extra": [
+  ["[Were] I in your position, I'd accept the offer.", "Будь я на твоём месте, я бы принял предложение.", "Were I = If I were."],
+  ["[Had] we left earlier, we'd have caught the flight.", "Выйди мы раньше, успели бы на рейс.", "Had we left = If we had left."],
+  ["[Should] the problem persist, contact support.", "Если проблема сохранится, обратитесь в поддержку.", "Should = if (формально)."],
+  ["Were it not [for] her help, I'd have failed.", "Если бы не её помощь, я бы провалился.", "Were it not for — «если бы не»."],
+  ["Had it not [been] for the rain, we'd have won.", "Если бы не дождь, мы бы выиграли.", "Had it not been for — о прошлом."],
+  ["[Should] you have any questions, feel free to ask.", "Если у вас возникнут вопросы, спрашивайте.", "Should you — вежливая формула."]
+ ]},
+ "c1u1l4": {"tags": ["subjunctive-formal"], "extra": [
+  ["The doctor recommended that she [rest] for a week.", "Врач рекомендовал ей отдохнуть неделю.", "recommend that + базовая форма без -s."],
+  ["It's high time we [left].", "Нам давно пора уходить.", "It's high time + прошедшее время."],
+  ["I demand that he [apologize] immediately.", "Я требую, чтобы он немедленно извинился.", "demand that + базовая форма."],
+  ["It is essential that every student [be] on time.", "Крайне важно, чтобы каждый студент приходил вовремя.", "be — сослагательная форма."],
+  ["They suggested that the meeting [be] postponed.", "Они предложили перенести встречу.", "Пассив в сослагательном: be + V3."],
+  ["He is, as it [were], a walking encyclopedia.", "Он, так сказать, ходячая энциклопедия.", "as it were — «так сказать»."]
+ ]},
+ "c1u2l1": {"tags": ["nominalisation", "word-formation"], "extra": [
+  ["The [failure] of the project cost millions.", "Провал проекта обошёлся в миллионы.", "fail → failure."],
+  ["We need a quick [decision] on this.", "Нам нужно быстрое решение по этому вопросу.", "decide → decision."],
+  ["Her [refusal] to cooperate surprised us.", "Её отказ сотрудничать нас удивил.", "refuse → refusal."],
+  ["The [reduction] in costs saved the company.", "Сокращение расходов спасло компанию.", "reduce → reduction."],
+  ["The [arrival] of the guests was delayed.", "Прибытие гостей задержалось.", "arrive → arrival."],
+  ["There has been a steady [growth] in demand.", "Наблюдается устойчивый рост спроса.", "grow → growth."]
+ ]},
+ "c1u2l2": {"tags": ["hedging"], "extra": [
+  ["It would [appear] that the plan has failed.", "По всей видимости, план провалился.", "It would appear that — осторожная формулировка."],
+  ["This is [arguably] the best film of the decade.", "Это, пожалуй, лучший фильм десятилетия.", "arguably — «можно утверждать»."],
+  ["The results [seem] to support our theory.", "Результаты, по-видимому, подтверждают нашу теорию.", "seem to смягчает утверждение."],
+  ["Prices are [likely] to rise next year.", "Цены, вероятно, вырастут в следующем году.", "be likely to — вероятность."],
+  ["There [may] be other explanations.", "Возможно, существуют другие объяснения.", "may — модальное смягчение."],
+  ["To some [extent], the critics are right.", "В какой-то степени критики правы.", "to some extent — частичное согласие."]
+ ]},
+ "c1u2l3": {"tags": ["ellipsis-substitution"], "extra": [
+  ["I love jazz. — So [do] I.", "Я люблю джаз. — Я тоже.", "So do I — согласие с утверждением."],
+  ["She can't swim. — Neither [can] I.", "Она не умеет плавать. — Я тоже.", "Neither + тот же вспомогательный."],
+  ["Would you like to come? — I'd love [to].", "Хочешь прийти? — С удовольствием.", "to заменяет весь инфинитив."],
+  ["I prefer the red shoes to the black [ones].", "Мне больше нравятся красные туфли, чем чёрные.", "ones заменяет существительное во мн. ч."],
+  ["He promised to call, but he didn't [do] so.", "Он обещал позвонить, но не сделал этого.", "do so заменяет глагольную группу."],
+  ["Is it going to rain? — I don't [think] so.", "Будет дождь? — Не думаю.", "think so — замещение придаточного."]
+ ]},
+ "c1u2l4": {"tags": ["modals-past", "modals"], "extra": [
+  ["You [needn't] have brought food — we had plenty.", "Не нужно было приносить еду — у нас было много.", "needn't have — сделал зря."],
+  ["She [might] have missed the bus.", "Возможно, она опоздала на автобус.", "might have — предположение о прошлом."],
+  ["They're [bound] to notice the mistake.", "Они обязательно заметят ошибку.", "be bound to — неизбежность."],
+  ["He [should] have told us earlier.", "Ему следовало сказать нам раньше.", "should have — упрёк."],
+  ["The concert [was] to have taken place in May.", "Концерт должен был состояться в мае.", "was to have done — несостоявшийся план."],
+  ["You [could] have been killed!", "Ты мог погибнуть!", "could have — нереализованная возможность."]
+ ]}
+}

@@ -1,0 +1,96 @@
+{
+"c2u1l1": {
+ "why": [
+  "frugal = бережливый — позитивная коннотация (разумная экономия, не выбрасывала еду).",
+  "stingy = скупой, жадный — негативная коннотация (жалеет чаевые).",
+  "nosy = любопытный в плохом смысле, суёт нос в чужие дела.",
+  "notorious = печально известный — слава с плохой стороны (жестокость).",
+  "renowned = прославленный, известный в хорошем смысле (о профессионале).",
+  "blunder = грубая, глупая ошибка (промах) — сильнее, чем mistake.",
+  "glare = смотреть злобно, сердито; прошедшее glared.",
+  "stench = сильная вонь; нейтральное smell, позитивное scent."
+ ],
+ "gap": {"0":"frugal|thrifty","1":"stingy|cheap","4":"renowned|famous|well-known|prominent","5":"blunder|mistake","7":"stench|stink"},
+ "alts": {"1":["He's too cheap to leave a tip."],"2":["Stop being so nosy about my personal life."],"4":["She is a famous heart surgeon.","She is a well-known cardiac surgeon."]}
+},
+"c2u1l2": {
+ "why": [
+  "open a can of worms = поднять неприятную тему, вызвав кучу проблем.",
+  "have a lot on one's plate = быть очень загруженным.",
+  "a double-edged sword = палка о двух концах (есть плюсы и минусы).",
+  "throw someone under the bus = подставить, пожертвовать кем-то ради себя.",
+  "move the goalposts = менять условия/требования по ходу дела.",
+  "half-baked = непродуманный, сырой (о плане, идее).",
+  "skyrocket = резко взлететь (о ценах); Present Perfect — результат к настоящему.",
+  "food for thought = пища для размышлений."
+ ],
+ "gap": {"6":"skyrocketed|soared"},
+ "alts": {"1":["Sorry, I'm really busy this week.","Sorry, I'm swamped this week."],"6":["Rents have soared in Miami."]}
+},
+"c2u1l3": {
+ "why": [
+  "an understatement = преуменьшение: о сильной жаре говорят «немного тепло»; исчисляемое, поэтому an.",
+  "great в сарказме: говорим «отлично» о неприятном (задержка рейса).",
+  "deadpan = невозмутимый, без эмоций на лице.",
+  "Yeah, right = саркастическое «ага, конечно» — выражает недоверие.",
+  "take something literally = понимать буквально; наречие literally к глаголу take.",
+  "tongue-in-cheek = с иронией, не всерьёз.",
+  "pun = каламбур, игра слов."
+ ],
+ "alts": {"0":["\"It's a bit warm,\" he said, in 110-degree heat. That's an understatement."],"5":["The review was written ironically."]}
+},
+"c2u1l4": {
+ "why": [
+  "That said = «при этом, тем не менее» — вводит уступку после сказанного.",
+  "the latter = последний из двух названных (кофе); the former — первый.",
+  "thereby + V-ing = «тем самым» — следствие действия.",
+  "in turn = «в свою очередь» — звено в цепочке причин.",
+  "or rather = «вернее, точнее» — уточнение сказанного.",
+  "By the same token = «по той же логике» — вводит аналогичный довод.",
+  "At any rate = «во всяком случае» — переход к главному, несмотря на неясность."
+ ],
+ "gap": {"0":"That|Having","6":"rate|event"},
+ "alts": {"0":["It's expensive. Having said that, it's worth every penny.","It's expensive. That said, it's worth every cent."],"6":["Anyway, we'll know tomorrow.","In any case, we'll know tomorrow."]}
+},
+"c2u2l1": {
+ "why": [
+  "Приставка out- = «превзойти»: outperform — показать результат лучше.",
+  "Приставка counter- = «против»: counterproductive — дающий обратный эффект.",
+  "Суффикс -esque = «в духе»: Kafkaesque — абсурдно-бюрократичный, как у Кафки.",
+  "Инверсия Were + подлежащее + to + инфинитив = формальное «если бы» (If she were to leave).",
+  "The + сравнительная степень..., the + сравнительная степень = «чем..., тем...».",
+  "Абсолютная конструкция weather permitting = «если позволит погода».",
+  "lest + (should) + инфинитив без to = «чтобы не»; формально/литературно.",
+  "be it X or Y = «будь то X или Y» — сослагательное be."
+ ],
+ "alts": {"3":["If she were to leave, we'd be lost.","If she left, we'd be lost."],"4":["The more you practice, the easier it becomes."],"6":["He whispered so that no one would overhear."]}
+},
+"c2u2l2": {
+ "why": [
+  "amid = на фоне, среди (событий) — типично для заголовков.",
+  "probe = расследование — короткое «газетное» слово вместо investigation.",
+  "slam = резко раскритиковать (газетный стиль); Present Simple в заголовке о недавнем событии.",
+  "vow = клясться, торжественно обещать; vow to + инфинитив.",
+  "allegedly = якобы, по утверждениям — вина не доказана.",
+  "axe = отменить, урезать (газетный жаргон).",
+  "Инверсия после обстоятельства места (Into the room) — литературный приём: глагол перед подлежащим.",
+  "collapse onto = рухнуть на что-то; прошедшее в повествовании."
+ ],
+ "gap": {"1":"Probe|Investigation","2":"Slam|Blast","3":"Vows|Pledges|Promises","5":"Axes|Cancels|Scraps"},
+ "alts": {"6":["A stranger walked into the room."],"7":["Exhausted, she flopped onto the sofa."]}
+},
+"c2u2l3": {
+ "why": [
+  "no cap = «без шуток, честно» (сленг).",
+  "lowkey = «втайне, немного, не афишируя».",
+  "salty = обиженный, раздражённый (после проигрыша).",
+  "sus = подозрительный (от suspicious).",
+  "flake = не прийти, отменить в последний момент; she — глагол с -s.",
+  "carry (в играх) = вытащить команду своей игрой.",
+  "rage quit = выйти из игры в ярости.",
+  "Bet = «договорились, понял» — согласие (сленг)."
+ ],
+ "gap": {"2":"salty|bitter|sore","3":"sus|sketchy|shady"},
+ "alts": {"0":["That was the best burger ever, for real."],"3":["That guy in the parking lot looks suspicious.","That guy in the parking lot looks sketchy."],"4":["She always bails at the last minute."]}
+}
+}

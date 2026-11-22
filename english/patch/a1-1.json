@@ -1,0 +1,365 @@
+{
+  "a1u1l1": {
+    "why": [
+      "I → am. В английском нужен глагол-связка даже там, где в русском его нет.",
+      "she → is; to be указывает происхождение: be from.",
+      "we → are; состояние (устали) выражается через be + прилагательное.",
+      "they → are; to be связывает подлежащее с тем, кем оно является.",
+      "It's = it is: устойчивая фраза It's nice to meet you; it — формальное подлежащее.",
+      "he → is; возраст по-английски через be: he is 25 (years old), не «has 25 years».",
+      "you → are (и для «ты», и для «вы»); be right = быть правым."
+    ],
+    "alts": {
+      "4": [
+        "Nice to meet you.",
+        "Pleased to meet you."
+      ],
+      "5": [
+        "He is twenty-five.",
+        "He's 25 years old."
+      ],
+      "6": [
+        "You're right."
+      ]
+    },
+    "qwhy": [
+      "are — для you/we/they; am — только с I; be — начальная форма, не изменяется по лицам.",
+      "is — для he/she/it; am — для I; be — начальная форма.",
+      "I have 21 years — калька с русского; I 21 — нет глагола; My age have 21 — неверная грамматика.",
+      "were — прошедшее время (были); wer, we'r — несуществующие написания.",
+      "is — для he/she/it; are — для you/we/they; be — начальная форма."
+    ]
+  },
+  "a1u1l2": {
+    "why": [
+      "Вопрос с be: глагол выходит вперёд — Are you…? (you → are).",
+      "Отрицание с be: I'm + not. Отдельного do не нужно.",
+      "it → is; в вопросе Is выносится в начало: Is it far?",
+      "Краткий утвердительный ответ: Yes, I am — без сокращения.",
+      "she → is not = isn't; отрицание с be.",
+      "we → are not = aren't.",
+      "Wh-вопрос: Where + are + you + from? (you → are).",
+      "Краткий отрицательный ответ про they: No, they aren't."
+    ],
+    "alts": {
+      "0": [
+        "Are you busy now?"
+      ],
+      "1": [
+        "I am not hungry."
+      ],
+      "2": [
+        "Is it far away from here?",
+        "Is it a long way from here?"
+      ],
+      "4": [
+        "She's not at work today."
+      ],
+      "5": [
+        "We're not late."
+      ],
+      "6": [
+        "Where do you come from?"
+      ]
+    },
+    "qwhy": [
+      "Are — для you/we/they; Am — только с I; Does — не используется с be.",
+      "Yes, I'm — в конце краткого ответа нельзя сокращать; Yes, I are — I сочетается с am; Yes, am — пропущено подлежащее.",
+      "amn't — такой формы нет; isn't — для he/she/it; aren't — для you/we/they.",
+      "You at home? — нет глагола; You are at home? — нет инверсии; Do you at home? — с be do не нужен.",
+      "isn't — для he/she/it; not — без глагола be; don't — с be не употребляется."
+    ]
+  },
+  "a1u1l3": {
+    "why": [
+      "your — притяжательное перед существительным name; What's your name? — Как тебя зовут?",
+      "Her — «её» перед существительным sister.",
+      "our — «наш» перед существительным house.",
+      "yours — притяжательное без существительного (в конце фразы): Is this phone yours?",
+      "Tom's — притяжательный 's для людей: жена Тома = Tom's wife.",
+      "his — «свой» переводится по лицу подлежащего: he → his.",
+      "its — притяжательное для животного/предмета (без апострофа); it's = it is.",
+      "Their — «их» перед существительным parents."
+    ],
+    "alts": {
+      "1": [
+        "Her sister lives in Boston."
+      ],
+      "3": [
+        "Is this your phone?"
+      ],
+      "6": [
+        "The cat is eating its food."
+      ],
+      "7": [
+        "Their parents are really nice."
+      ]
+    },
+    "qwhy": [
+      "his — это «его», а подлежащее she; she — личное местоимение, не притяжательное; hers — без существительного.",
+      "my — требует существительного после; me — объектная форма; I — подлежащее.",
+      "car of my brother's — неестественно; my brother car — нет 's; my brothers car's — 's не на месте.",
+      "it's = it is; his's — такой формы нет; it — не притяжательная форма.",
+      "ours — без существительного; us — объектная форма; we — подлежащее."
+    ]
+  },
+  "a1u1l4": {
+    "why": [
+      "an — перед гласным звуком [ɛ] (engineer); профессия всегда с a/an.",
+      "a — одно такси, любое, упоминается впервые.",
+      "the — конкретная дверь, понятно из ситуации, какая.",
+      "an — hour начинается с гласного звука: h немая [aʊər].",
+      "the — аэропорт в городе один, понятно, какой именно.",
+      "a — great idea: исчисляемое в ед. ч., артикль ставится перед прилагательным; great начинается с согласного.",
+      "an — umbrella начинается с гласного звука [ʌ]; «какой-нибудь зонт»."
+    ],
+    "alts": {
+      "1": [
+        "I need a cab."
+      ],
+      "2": [
+        "Close the door, please."
+      ],
+      "3": [
+        "It takes one hour."
+      ],
+      "5": [
+        "What a great idea!",
+        "Great idea!"
+      ]
+    },
+    "qwhy": [
+      "a — engineer начинается с гласного звука; the — профессию не определяют через the; — — с профессией нужен артикль.",
+      "A / An — солнце одно, нужен the; без артикля — нельзя с исчисляемым в ед. ч.",
+      "a / an — cats во множественном числе; the — означало бы конкретных кошек, а речь о кошках вообще.",
+      "an — university начинается со звука [j], это согласный; the обязательно — нет, зависит от смысла; — — исчисляемое в ед. ч. требует артикля.",
+      "A / An — машина уже упомянута, теперь она конкретная; — — исчисляемое в ед. ч. без артикля нельзя."
+    ]
+  },
+  "a1u1l5": {
+    "why": [
+      "child → children: неправильная форма множественного числа.",
+      "people — множественное от person; many требует множественного.",
+      "city → cities: согласная + y → -ies.",
+      "bus → buses: после s добавляется -es.",
+      "tooth → teeth: неправильная форма; зубы чистят все, поэтому мн. ч.",
+      "woman → women [ˈwɪmɪn]: неправильная форма; those — мн. ч.",
+      "dish → dishes: после sh -es; wash the dishes — мыть посуду."
+    ],
+    "alts": {
+      "0": [
+        "I've got two children.",
+        "I have two kids."
+      ],
+      "1": [
+        "A lot of people live here.",
+        "Lots of people live here."
+      ],
+      "4": [
+        "Brush your teeth."
+      ],
+      "6": [
+        "Please wash the dishes.",
+        "Do the dishes, please."
+      ]
+    },
+    "qwhy": [
+      "citys — после согласной y меняется на ies; cityes, citis — неверное написание.",
+      "childs, childes — child имеет неправильную форму; childrens — двойное множественное.",
+      "is — people уже множественное; am — только с I; be — начальная форма.",
+      "boxs — после x нужно -es; boxies — y здесь нет; box — это ед. ч.",
+      "daies, dayes, dais — после гласной + y просто добавляем -s."
+    ]
+  },
+  "a1u2l1": {
+    "why": [
+      "These — «эти», мн. ч. (keys), предметы рядом.",
+      "this — ед. ч. (seat), место рядом с говорящим.",
+      "That's — that указывает на только что сказанное (идею).",
+      "those — «те», мн. ч. (shoes), далеко от говорящего.",
+      "This is… — стандартная формула, чтобы представить человека.",
+      "these — мн. ч. (bags), рядом; в вопросе Are these…?"
+    ],
+    "alts": {
+      "1": [
+        "Is this seat taken?"
+      ],
+      "2": [
+        "That's a good idea.",
+        "That's a brilliant idea."
+      ],
+      "3": [
+        "How much do those shoes cost?"
+      ],
+      "5": [
+        "Are these bags yours?"
+      ]
+    },
+    "qwhy": [
+      "This — ед. ч., а parents — мн. ч.; That — ед. ч. и далеко; Those is — those требует are.",
+      "It is my friend — о людях при знакомстве так не говорят; He is my friend here — неестественно; These is — these требует are и мн. ч.",
+      "these — для близких предметов; this, that — ед. ч., а mountains — мн. ч.",
+      "This great — нет глагола; Those are great — мн. ч. не подходит к новости; It great — нет глагола.",
+      "These, Those — мн. ч., а book — ед. ч.; That's — = that is, лишний глагол перед существительным."
+    ]
+  },
+  "a1u2l2": {
+    "why": [
+      "Is there…? — вопрос о наличии; pharmacy в ед. ч.",
+      "There are — мн. ч. (two beds); новая информация о том, что есть в номере.",
+      "There's no + сущ. — «нет чего-то»; milk неисчисляемое → is.",
+      "Are there any…? — вопрос о наличии во мн. ч. (restaurants).",
+      "There aren't any — отрицание во мн. ч. (towels).",
+      "There's — ед. ч. (a supermarket), упоминаем впервые."
+    ],
+    "alts": {
+      "0": [
+        "Is there a drugstore near here?",
+        "Is there a pharmacy nearby?"
+      ],
+      "1": [
+        "There are two beds in the room."
+      ],
+      "2": [
+        "There isn't any milk in the fridge."
+      ],
+      "3": [
+        "Are there any good restaurants around here?"
+      ],
+      "4": [
+        "There are no towels in the bathroom."
+      ],
+      "5": [
+        "There is a supermarket on this street."
+      ]
+    },
+    "qwhy": [
+      "There is — tourists во мн. ч.; It is / They are — не выражают «есть, имеется».",
+      "There is a bank here? — нет инверсии; Is a bank here? — пропущено there; Has here a bank? — калька, неверно.",
+      "In the fridge is no milk — порядок слов с русского; It isn't milk — значит «это не молоко»; The fridge hasn't milk — не по-американски.",
+      "Is there — chairs во мн. ч.; There are — нет инверсии в вопросе; Have there — неверная конструкция.",
+      "There are — water неисчисляемое; It's — не означает наличие; Have — неверная конструкция."
+    ]
+  },
+  "a1u2l3": {
+    "why": [
+      "После Do глагол в начальной форме: Do you have…?",
+      "she → has (третье лицо ед. ч.).",
+      "Отрицание в американском варианте: don't have.",
+      "Вопрос с he → Does; основной глагол have без -s.",
+      "I've got = I have (разговорное): «у меня есть вопрос».",
+      "have breakfast — завтракать; we → have, регулярное действие.",
+      "he → doesn't have; после doesn't глагол без -s."
+    ],
+    "alts": {
+      "0": [
+        "Have you got a reservation?",
+        "Do you have a booking?"
+      ],
+      "1": [
+        "She has two children.",
+        "She's got two kids."
+      ],
+      "2": [
+        "I have no time today.",
+        "I haven't got time today."
+      ],
+      "3": [
+        "Has he got a car?"
+      ],
+      "4": [
+        "I have a question."
+      ],
+      "6": [
+        "He has no pets.",
+        "He hasn't got any pets."
+      ]
+    },
+    "qwhy": [
+      "have — с he нужно has; is having — have в значении «иметь» не ставится в Continuous; haves — такой формы нет.",
+      "I haven't a car — устаревшая британская форма; I not have / I no have — нет вспомогательного don't.",
+      "Do — для she нужен Does; Has — вопрос Has she a sister? устарел; Is — с have не используется.",
+      "Будь смешным — это be funny; Есть ли веселье — буквальный перевод; Будь осторожен — be careful.",
+      "I got — прошедшее время (получил); I had — прошедшее; I've go — неверная форма."
+    ]
+  },
+  "a1u2l4": {
+    "why": [
+      "What time is it? — устойчивый вопрос «Который час?».",
+      "o'clock — для ровного часа: seven o'clock.",
+      "half past nine — «половина десятого»: половина после девяти.",
+      "Дата — порядковым числительным: May third (3 мая).",
+      "fifteen — пятнадцать (-teen, ударение на конце); не fifty.",
+      "a quarter to ten — «без четверти десять»: четверть до десяти.",
+      "a thousand — «тысяча»: перед hundred/thousand в значении «одна» ставится a; people — мн. ч., поэтому there are."
+    ],
+    "alts": {
+      "0": [
+        "What's the time?"
+      ],
+      "1": [
+        "It's seven sharp.",
+        "It's exactly seven."
+      ],
+      "2": [
+        "The flight leaves at nine thirty."
+      ],
+      "3": [
+        "My birthday is May third.",
+        "My birthday is on the third of May."
+      ],
+      "4": [
+        "It's fifteen dollars."
+      ],
+      "5": [
+        "The meeting is at nine forty-five."
+      ],
+      "6": [
+        "There are one thousand people here."
+      ]
+    },
+    "qwhy": [
+      "FIF-teen — так ударяют fifty (-ty); равное / нет — у -teen ударение на конце.",
+      "4 мая — британский порядок; 4 апреля, 5 мая — перепутаны числа.",
+      "08:00 — это 8 a.m.; 18:00 — 6 p.m.; 00:00 — midnight.",
+      "a quarter past five — 5:15; half past five — 5:30; five fifteen — 5:15.",
+      "twoth, secondth — таких слов нет; twice — «дважды»."
+    ]
+  },
+  "a1u2l5": {
+    "why": [
+      "me — объектная форма после глагола help.",
+      "her — объект после call («позвони ей»).",
+      "us — объектная форма после предлога with.",
+      "him — объект после know («знаю его»).",
+      "them — объект после предлога for (wait for).",
+      "you — после предлога for; форма you одинакова для подлежащего и объекта.",
+      "me — объект после tell (tell me — расскажи мне)."
+    ],
+    "alts": {
+      "0": [
+        "Could you help me?",
+        "Can you give me a hand?"
+      ],
+      "1": [
+        "Give her a call tomorrow."
+      ],
+      "3": [
+        "I don't know him."
+      ],
+      "4": [
+        "Wait here for them."
+      ],
+      "5": [
+        "This present is for you."
+      ]
+    },
+    "qwhy": [
+      "I — форма подлежащего; my — притяжательное перед сущ.; mine — «мой» без сущ.",
+      "she — форма подлежащего; hers — «её» без сущ.; him — для мужчины.",
+      "we — подлежащее; our — перед сущ.; ours — без сущ.",
+      "they — подлежащее; their — притяжательное; it — для одного предмета, а ключи — мн. ч.",
+      "I too — неестественно в разговоре; Also me — калька; My too — притяжательное, неверно."
+    ]
+  }
+}

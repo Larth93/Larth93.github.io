@@ -1,0 +1,341 @@
+{
+ "b2u4l1": {
+  "tags": [
+   "linking-discourse",
+   "conjunctions"
+  ],
+  "extra": [
+   [
+    "[Although] she was tired, she kept working.",
+    "Хотя она устала, она продолжала работать.",
+    "Although + полное предложение."
+   ],
+   [
+    "[Despite] feeling sick, he went to work.",
+    "Несмотря на плохое самочувствие, он пошёл на работу.",
+    "Despite + V-ing, без of."
+   ],
+   [
+    "The test was hard. [However], everyone passed.",
+    "Тест был трудным. Однако все сдали.",
+    "However в начале предложения с запятой."
+   ],
+   [
+    "Tom loves coffee, [whereas] his wife prefers tea.",
+    "Том любит кофе, а его жена предпочитает чай.",
+    "Whereas противопоставляет два факта."
+   ],
+   [
+    "In spite [of] the cost, we bought the tickets.",
+    "Несмотря на цену, мы купили билеты.",
+    "In spite of — с предлогом of."
+   ],
+   [
+    "[Even though] it was late, the shop was open.",
+    "Хотя было поздно, магазин работал.",
+    "Even though усиливает контраст."
+   ],
+   [
+    "He's rich. [Nevertheless], he lives simply.",
+    "Он богат. Тем не менее он живёт скромно.",
+    "Nevertheless — формальное «тем не менее»."
+   ]
+  ]
+ },
+ "b2u4l2": {
+  "tags": [
+   "linking-discourse"
+  ],
+  "extra": [
+   [
+    "The roads were icy. [As a result], schools closed.",
+    "Дороги обледенели. В результате школы закрыли.",
+    "As a result вводит следствие."
+   ],
+   [
+    "[Moreover], the plan is cheaper to run.",
+    "Более того, план дешевле в реализации.",
+    "Moreover добавляет довод."
+   ],
+   [
+    "I thought it was easy. [In fact], it was very hard.",
+    "Я думал, это легко. На самом деле было очень трудно.",
+    "In fact уточняет или опровергает."
+   ],
+   [
+    "[On the other hand], cities offer more jobs.",
+    "С другой стороны, в городах больше работы.",
+    "Вводит противоположную точку зрения."
+   ],
+   [
+    "[As far as] I know, the store opens at nine.",
+    "Насколько я знаю, магазин открывается в девять.",
+    "As far as I know — ограничение знания."
+   ],
+   [
+    "[In addition], the hotel has a free gym.",
+    "Кроме того, в отеле есть бесплатный спортзал.",
+    "In addition добавляет информацию."
+   ],
+   [
+    "[To sum up], the benefits outweigh the costs.",
+    "Подводя итог, выгоды перевешивают затраты.",
+    "Маркер заключения."
+   ]
+  ]
+ },
+ "b2u4l3": {
+  "tags": [
+   "word-formation"
+  ],
+  "extra": [
+   [
+    "Her [kindness] surprised everyone.",
+    "Её доброта всех удивила.",
+    "Kind + -ness → существительное."
+   ],
+   [
+    "I [misunderstood] the instructions.",
+    "Я неправильно понял инструкцию.",
+    "Mis- = неправильно."
+   ],
+   [
+    "The movie was [predictable].",
+    "Фильм был предсказуемым.",
+    "Predict + -able."
+   ],
+   [
+    "Don't [overcook] the pasta.",
+    "Не переваривай макароны.",
+    "Over- = слишком."
+   ],
+   [
+    "She is very [creative].",
+    "Она очень креативная.",
+    "Create + -ive."
+   ],
+   [
+    "The answer was [incorrect].",
+    "Ответ был неверным.",
+    "In- — отрицательная приставка."
+   ],
+   [
+    "We need better [management].",
+    "Нам нужно лучшее управление.",
+    "Manage + -ment."
+   ]
+  ]
+ },
+ "b2u4l4": {
+  "tags": [
+   "register"
+  ],
+  "extra": [
+   [
+    "We would like to [inform] you of a change.",
+    "Мы хотели бы сообщить вам об изменении.",
+    "Inform — формальный вариант tell."
+   ],
+   [
+    "Please [contact] us if you have questions.",
+    "Пожалуйста, свяжитесь с нами, если есть вопросы.",
+    "Contact вместо get in touch."
+   ],
+   [
+    "Visitors must [obtain] a permit.",
+    "Посетители должны получить разрешение.",
+    "Obtain — формальное get."
+   ],
+   [
+    "I [apologize] for any inconvenience.",
+    "Приношу извинения за неудобства.",
+    "Формальное извинение вместо sorry."
+   ],
+   [
+    "The event was [canceled] due to weather.",
+    "Мероприятие отменено из-за погоды.",
+    "Due to — формальное because of."
+   ],
+   [
+    "We [regret] that we cannot attend.",
+    "К сожалению, мы не можем присутствовать.",
+    "Regret — формальное sorry."
+   ],
+   [
+    "Could you [assist] me with this form?",
+    "Не могли бы вы помочь мне с этой формой?",
+    "Assist — формальное help."
+   ]
+  ]
+ },
+ "b2u5l1": {
+  "tags": [
+   "phrasal-verbs",
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "The team [carried out] a customer survey.",
+    "Команда провела опрос клиентов.",
+    "Carry out = выполнить, провести."
+   ],
+   [
+    "He [burned out] after months of overtime.",
+    "Он выгорел после месяцев переработок.",
+    "Burn out = выгореть."
+   ],
+   [
+    "I've [taken on] too many projects.",
+    "Я взял на себя слишком много проектов.",
+    "Take on = взять на себя."
+   ],
+   [
+    "The factory [laid off] 200 workers.",
+    "Фабрика уволила 200 рабочих.",
+    "Lay off = сократить."
+   ],
+   [
+    "She [stepped down] as chair last month.",
+    "Она ушла с поста председателя в прошлом месяце.",
+    "Step down = уйти с должности."
+   ],
+   [
+    "Let's [follow up] on this next week.",
+    "Вернёмся к этому на следующей неделе.",
+    "Follow up = вернуться к вопросу."
+   ],
+   [
+    "He [filled in] for his boss on Monday.",
+    "В понедельник он подменял начальника.",
+    "Fill in for = замещать."
+   ]
+  ]
+ },
+ "b2u5l2": {
+  "tags": [
+   "idioms",
+   "phrasal-verbs"
+  ],
+  "extra": [
+   [
+    "We need to be [on the same page] before the meeting.",
+    "Нам нужно договориться до встречи.",
+    "On the same page = одинаково понимать."
+   ],
+   [
+    "A joke helped [break] the ice.",
+    "Шутка помогла растопить лёд.",
+    "Break the ice = снять напряжение."
+   ],
+   [
+    "My sister and I [fell out] last year.",
+    "Мы с сестрой поссорились в прошлом году.",
+    "Fall out = поссориться."
+   ],
+   [
+    "They [broke up] after five years.",
+    "Они расстались через пять лет.",
+    "Break up = расстаться."
+   ],
+   [
+    "I [hit it off] with her right away.",
+    "Мы с ней сразу нашли общий язык.",
+    "Hit it off = сразу поладить."
+   ],
+   [
+    "Can you [count on] your friends?",
+    "Ты можешь положиться на своих друзей?",
+    "Count on = полагаться."
+   ],
+   [
+    "He always [lets] me down.",
+    "Он всегда меня подводит.",
+    "Let down = подвести."
+   ]
+  ]
+ },
+ "b2u5l3": {
+  "tags": [
+   "writing"
+  ],
+  "extra": [
+   [
+    "[Firstly], remote work saves time.",
+    "Во-первых, удалённая работа экономит время.",
+    "Маркер первого аргумента."
+   ],
+   [
+    "In [conclusion], the benefits are clear.",
+    "В заключение, преимущества очевидны.",
+    "Стандартное начало вывода."
+   ],
+   [
+    "Please find [attached] my CV.",
+    "Прилагаю своё резюме.",
+    "Формула для вложения."
+   ],
+   [
+    "I am writing [regarding] your recent order.",
+    "Пишу по поводу вашего недавнего заказа.",
+    "Regarding = по поводу (формально)."
+   ],
+   [
+    "Dear Sir or [Madam],",
+    "Уважаемый господин или госпожа,",
+    "Обращение, если имя неизвестно."
+   ],
+   [
+    "On the [other] hand, it can be lonely.",
+    "С другой стороны, это может быть одиноко.",
+    "Вводит контраргумент."
+   ],
+   [
+    "I would [appreciate] a prompt reply.",
+    "Буду признателен за быстрый ответ.",
+    "Вежливая формула просьбы."
+   ]
+  ]
+ },
+ "b2u5l4": {
+  "tags": [
+   "speaking"
+  ],
+  "extra": [
+   [
+    "That's a [tricky] question.",
+    "Это непростой вопрос.",
+    "Фраза, чтобы выиграть время."
+   ],
+   [
+    "[Personally], I prefer living in the city.",
+    "Лично я предпочитаю жить в городе.",
+    "Вводит личное мнение."
+   ],
+   [
+    "I'd [say] it's about fifty percent.",
+    "Я бы сказал, примерно пятьдесят процентов.",
+    "I'd say смягчает оценку."
+   ],
+   [
+    "It [might] be because of social media.",
+    "Возможно, дело в соцсетях.",
+    "Might для предположения."
+   ],
+   [
+    "[Unlike] my brother, I hate sports.",
+    "В отличие от брата, я ненавижу спорт.",
+    "Unlike для сравнения."
+   ],
+   [
+    "I've never really [thought] about that.",
+    "Я никогда особо об этом не задумывался.",
+    "Честный способ начать ответ."
+   ],
+   [
+    "On the [whole], people are friendlier there.",
+    "В целом люди там дружелюбнее.",
+    "On the whole = в целом."
+   ]
+  ]
+ }
+}
