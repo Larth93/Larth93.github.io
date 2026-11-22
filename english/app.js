@@ -105,6 +105,7 @@ function pickVoice(){
 const voiceIsGood = () => VOICE && /Premium|Enhanced|Google|Microsoft|Neural|Natural/i.test(VOICE.name);
 if ('speechSynthesis' in window){ pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
 function say(text, rate, onend){
+  text = String(text).replace(/\s*\([^)]*[а-яА-Яa-z][^)]*\)/g,'');
   if (!('speechSynthesis' in window)) { onend && onend(); return; }
   speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(plain(text));
