@@ -1,0 +1,598 @@
+{
+ "b2u20l1": {
+  "tags": [
+   "vocabulary-topic",
+   "speaking"
+  ],
+  "extra": [
+   [
+    "Based on my research, the market [rate] is higher.",
+    "По моим данным, рыночная ставка выше.",
+    "Market rate — рыночный уровень оплаты."
+   ],
+   [
+    "Could we [revisit] the salary figure?",
+    "Можем вернуться к цифре зарплаты?",
+    "Revisit = пересмотреть."
+   ],
+   [
+    "I was hoping for something closer [to] 90,000.",
+    "Я надеялся на что-то ближе к 90 000.",
+    "Closer to + сумма."
+   ],
+   [
+    "Is the signing [bonus] negotiable?",
+    "Бонус при подписании обсуждаем?",
+    "Signing bonus — разовая выплата."
+   ],
+   [
+    "I'd like some time to [consider] the offer.",
+    "Я бы хотел время, чтобы обдумать предложение.",
+    "Consider = обдумать."
+   ],
+   [
+    "The offer includes stock [options].",
+    "Предложение включает опционы на акции.",
+    "Stock options — опционы."
+   ],
+   [
+    "Can we meet in the [middle]?",
+    "Можем встретиться посередине?",
+    "Meet in the middle = компромисс."
+   ]
+  ]
+ },
+ "b2u20l2": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "She [met] all her targets this quarter.",
+    "В этом квартале она выполнила все цели.",
+    "Meet targets — коллокация."
+   ],
+   [
+    "Let's set some clear [goals] for next year.",
+    "Давайте поставим чёткие цели на следующий год.",
+    "Set goals."
+   ],
+   [
+    "My manager gave me constructive [feedback].",
+    "Менеджер дал мне конструктивную обратную связь.",
+    "Constructive feedback."
+   ],
+   [
+    "He needs to improve his time [management].",
+    "Ему нужно улучшить тайм-менеджмент.",
+    "Time management."
+   ],
+   [
+    "I'm hoping for a [promotion] this year.",
+    "Надеюсь на повышение в этом году.",
+    "Promotion = повышение."
+   ],
+   [
+    "She went above and [beyond] on that project.",
+    "Она сделала больше, чем требовалось, на том проекте.",
+    "Go above and beyond — идиома."
+   ],
+   [
+    "We'll [review] your progress in six months.",
+    "Мы оценим ваш прогресс через полгода.",
+    "Review = оценить."
+   ]
+  ]
+ },
+ "b2u20l3": {
+  "tags": [
+   "speaking",
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "Let's [move] on to the budget.",
+    "Перейдём к бюджету.",
+    "Move on to — сигнал перехода."
+   ],
+   [
+    "As you can [see] on this slide, sales doubled.",
+    "Как видно на этом слайде, продажи удвоились.",
+    "Ссылка на слайд."
+   ],
+   [
+    "To [wrap] up, we're on track.",
+    "Подводя итог, мы идём по плану.",
+    "Wrap up = завершить."
+   ],
+   [
+    "I'll be happy to take any [questions].",
+    "С радостью отвечу на вопросы.",
+    "Take questions."
+   ],
+   [
+    "We're slightly [behind] schedule.",
+    "Мы немного отстаём от графика.",
+    "Behind schedule."
+   ],
+   [
+    "Let me [give] you some background first.",
+    "Сначала немного предыстории.",
+    "Give background."
+   ],
+   [
+    "The main [takeaway] is that users want speed.",
+    "Главный вывод — пользователи хотят скорости.",
+    "Takeaway = ключевой вывод."
+   ]
+  ]
+ },
+ "b2u20l4": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "We mostly communicate [asynchronously].",
+    "Мы в основном общаемся асинхронно.",
+    "Async — не в реальном времени."
+   ],
+   [
+    "I work from [home] on Fridays.",
+    "По пятницам я работаю из дома.",
+    "Work from home."
+   ],
+   [
+    "It's hard to [switch] off after work.",
+    "Трудно отключиться после работы.",
+    "Switch off = отключиться."
+   ],
+   [
+    "We have a quick video [call] every morning.",
+    "Каждое утро у нас короткий видеозвонок.",
+    "Video call."
+   ],
+   [
+    "My [coworkers] live in three time zones.",
+    "Мои коллеги живут в трёх часовых поясах.",
+    "Coworkers = коллеги."
+   ],
+   [
+    "Remote work gives me more [flexibility].",
+    "Удалёнка даёт мне больше гибкости.",
+    "Flexibility."
+   ],
+   [
+    "I set clear [boundaries] around my working hours.",
+    "Я чётко ограничиваю рабочие часы.",
+    "Set boundaries."
+   ]
+  ]
+ },
+ "b2u20l5": {
+  "tags": [
+   "writing",
+   "register"
+  ],
+  "extra": [
+   [
+    "Thank you for your [prompt] reply.",
+    "Благодарю за быстрый ответ.",
+    "Prompt = оперативный."
+   ],
+   [
+    "Please let me [know] if you need anything else.",
+    "Пожалуйста, сообщите, если нужно что-то ещё.",
+    "Стандартная заключительная фраза."
+   ],
+   [
+    "I am writing to [follow] up on our call.",
+    "Пишу по итогам нашего звонка.",
+    "Follow up on."
+   ],
+   [
+    "Kind [regards],",
+    "С уважением,",
+    "Стандартная подпись."
+   ],
+   [
+    "I would be grateful if you could [confirm] the date.",
+    "Буду благодарен, если подтвердите дату.",
+    "Confirm."
+   ],
+   [
+    "[Further] to our meeting, here is the agenda.",
+    "В дополнение к нашей встрече — вот повестка.",
+    "Further to — формальное «в продолжение»."
+   ],
+   [
+    "We apologize for the [delay] in responding.",
+    "Приносим извинения за задержку с ответом.",
+    "Delay in responding."
+   ]
+  ]
+ },
+ "b2u21l1": {
+  "tags": [
+   "writing",
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "The number of tourists [doubled] between 2010 and 2020.",
+    "Число туристов удвоилось с 2010 по 2020 год.",
+    "Doubled — описание роста."
+   ],
+   [
+    "Sales fell [slightly] in March.",
+    "В марте продажи немного снизились.",
+    "Slightly = незначительно."
+   ],
+   [
+    "There was a [dramatic] rise in prices.",
+    "Произошёл резкий рост цен.",
+    "Dramatic rise — коллокация."
+   ],
+   [
+    "The rate remained [stable] at 5 percent.",
+    "Уровень оставался стабильным на 5 процентах.",
+    "Remain stable."
+   ],
+   [
+    "Exports reached a [peak] of 2 million.",
+    "Экспорт достиг пика в 2 миллиона.",
+    "Reach a peak."
+   ],
+   [
+    "Use [fluctuated] between 20 and 30 percent.",
+    "Использование колебалось между 20 и 30 процентами.",
+    "Fluctuate = колебаться."
+   ],
+   [
+    "The figure rose [steadily] over the decade.",
+    "Показатель стабильно рос на протяжении десятилетия.",
+    "Steadily = постепенно."
+   ]
+  ]
+ },
+ "b2u21l2": {
+  "tags": [
+   "writing",
+   "linking-discourse"
+  ],
+  "extra": [
+   [
+    "It could be [argued] that tourism harms cities.",
+    "Можно утверждать, что туризм вредит городам.",
+    "It could be argued — хеджирование."
+   ],
+   [
+    "[Opponents] claim that taxes would rise.",
+    "Противники утверждают, что налоги вырастут.",
+    "Opponents = противники."
+   ],
+   [
+    "This [leads] to higher unemployment.",
+    "Это приводит к росту безработицы.",
+    "Lead to = приводить к."
+   ],
+   [
+    "[Furthermore], it reduces traffic.",
+    "Более того, это сокращает пробки.",
+    "Furthermore добавляет довод."
+   ],
+   [
+    "A good [example] of this is Japan.",
+    "Хороший пример — Япония.",
+    "Приведение примера."
+   ],
+   [
+    "This essay will [discuss] both views.",
+    "В этом эссе рассматриваются обе точки зрения.",
+    "Discuss без about."
+   ],
+   [
+    "In my [view], the government should act.",
+    "По моему мнению, правительство должно действовать.",
+    "In my view."
+   ]
+  ]
+ },
+ "b2u21l3": {
+  "tags": [
+   "speaking"
+  ],
+  "extra": [
+   [
+    "I'm going to talk [about] a book I love.",
+    "Я расскажу о книге, которую люблю.",
+    "Начало ответа по карточке."
+   ],
+   [
+    "It must have been about five years [ago].",
+    "Это было, наверное, лет пять назад.",
+    "Ago — для прошлого."
+   ],
+   [
+    "What I really liked [was] the atmosphere.",
+    "Что мне больше всего понравилось, так это атмосфера.",
+    "What-клефт расширяет ответ."
+   ],
+   [
+    "I'm not really a morning [person].",
+    "Я не жаворонок.",
+    "Morning person — идиома."
+   ],
+   [
+    "I'd have to [say] my hometown.",
+    "Пожалуй, мой родной город.",
+    "I'd have to say — начало ответа."
+   ],
+   [
+    "It was a real [turning] point for me.",
+    "Это стало настоящим поворотным моментом для меня.",
+    "Turning point."
+   ],
+   [
+    "I [used] to play piano as a kid.",
+    "В детстве я играл на пианино.",
+    "Used to — прошлые привычки."
+   ]
+  ]
+ },
+ "b2u21l4": {
+  "tags": [
+   "speaking",
+   "hedging"
+  ],
+  "extra": [
+   [
+    "It's [hard] to say for sure.",
+    "Трудно сказать наверняка.",
+    "Хеджирование."
+   ],
+   [
+    "[In] comparison with the past, life is easier.",
+    "По сравнению с прошлым жизнь стала легче.",
+    "In comparison with."
+   ],
+   [
+    "I [suppose] young people adapt faster.",
+    "Полагаю, молодые быстрее адаптируются.",
+    "Suppose — мягкое мнение."
+   ],
+   [
+    "There are pros and [cons] to both.",
+    "У обоих есть плюсы и минусы.",
+    "Pros and cons."
+   ],
+   [
+    "It [depends] on the country.",
+    "Зависит от страны.",
+    "It depends on."
+   ],
+   [
+    "By and [large], schools are improving.",
+    "В целом школы становятся лучше.",
+    "By and large = в целом."
+   ],
+   [
+    "This trend is [likely] to continue.",
+    "Эта тенденция, вероятно, сохранится.",
+    "Be likely to."
+   ]
+  ]
+ },
+ "b2u22l1": {
+  "tags": [
+   "listening",
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "Let's [turn] now to the second theory.",
+    "Теперь обратимся ко второй теории.",
+    "Turn to — сигнал перехода."
+   ],
+   [
+    "The [key] point here is adaptation.",
+    "Ключевой момент здесь — адаптация.",
+    "Key point."
+   ],
+   [
+    "To [illustrate], consider the honeybee.",
+    "Для иллюстрации рассмотрим медоносную пчелу.",
+    "Сигнал примера."
+   ],
+   [
+    "Scientists [initially] rejected the idea.",
+    "Учёные изначально отвергли эту идею.",
+    "Initially = сначала."
+   ],
+   [
+    "This [hypothesis] was tested in 1990.",
+    "Эту гипотезу проверили в 1990 году.",
+    "Hypothesis."
+   ],
+   [
+    "Now, getting back to my main [point]...",
+    "Итак, возвращаясь к главной мысли...",
+    "Возврат после отступления."
+   ],
+   [
+    "Take [notes] on the main ideas only.",
+    "Записывайте только главные идеи.",
+    "Take notes."
+   ]
+  ]
+ },
+ "b2u22l2": {
+  "tags": [
+   "speaking",
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "That's a fair [point], however...",
+    "Справедливое замечание, однако...",
+    "Признание аргумента."
+   ],
+   [
+    "Social media can be highly [addictive].",
+    "Соцсети могут сильно затягивать.",
+    "Addictive."
+   ],
+   [
+    "AI could [replace] millions of jobs.",
+    "ИИ может заменить миллионы рабочих мест.",
+    "Replace."
+   ],
+   [
+    "Data [privacy] is a major concern.",
+    "Конфиденциальность данных — серьёзная проблема.",
+    "Privacy."
+   ],
+   [
+    "I see where you're coming [from].",
+    "Я понимаю твою точку зрения.",
+    "Where you're coming from."
+   ],
+   [
+    "With all due [respect], I disagree.",
+    "При всём уважении, я не согласен.",
+    "Вежливое несогласие."
+   ],
+   [
+    "The evidence doesn't [support] that claim.",
+    "Данные не подтверждают это утверждение.",
+    "Support a claim."
+   ]
+  ]
+ },
+ "b2u22l3": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "Students should learn to think [independently].",
+    "Учащиеся должны учиться думать самостоятельно.",
+    "Independently."
+   ],
+   [
+    "Standardized [tests] put students under stress.",
+    "Стандартизированные тесты создают стресс.",
+    "Standardized tests."
+   ],
+   [
+    "Many families can't afford [tuition] fees.",
+    "Многие семьи не могут оплатить обучение.",
+    "Tuition fees."
+   ],
+   [
+    "Online learning offers more [flexibility].",
+    "Онлайн-обучение даёт больше гибкости.",
+    "Flexibility."
+   ],
+   [
+    "Class [sizes] are too large.",
+    "Классы слишком большие.",
+    "Class size."
+   ],
+   [
+    "Homework should be [optional] for young kids.",
+    "Домашка для младших должна быть необязательной.",
+    "Optional."
+   ],
+   [
+    "Schools should teach financial [literacy].",
+    "Школы должны учить финансовой грамотности.",
+    "Financial literacy."
+   ]
+  ]
+ },
+ "b2u22l4": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "Public [transportation] is overcrowded.",
+    "Общественный транспорт переполнен.",
+    "Public transportation (AmE)."
+   ],
+   [
+    "Many people [commute] from the suburbs.",
+    "Многие ездят на работу из пригородов.",
+    "Commute."
+   ],
+   [
+    "Traffic [congestion] costs billions.",
+    "Пробки обходятся в миллиарды.",
+    "Congestion."
+   ],
+   [
+    "The city needs more green [spaces].",
+    "Городу нужно больше зелёных зон.",
+    "Green spaces."
+   ],
+   [
+    "Rising rents [displace] low-income families.",
+    "Растущая аренда вытесняет малоимущие семьи.",
+    "Displace."
+   ],
+   [
+    "Young people [migrate] to big cities.",
+    "Молодёжь переезжает в крупные города.",
+    "Migrate."
+   ],
+   [
+    "The [population] has doubled since 1980.",
+    "Население удвоилось с 1980 года.",
+    "Population."
+   ]
+  ]
+ },
+ "b2u22l5": {
+  "tags": [
+   "vocabulary-topic"
+  ],
+  "extra": [
+   [
+    "Sea levels are [rising] every year.",
+    "Уровень моря растёт каждый год.",
+    "Rise — непереходный."
+   ],
+   [
+    "Wind [farms] produce clean energy.",
+    "Ветряные электростанции дают чистую энергию.",
+    "Wind farm."
+   ],
+   [
+    "Deforestation [contributes] to global warming.",
+    "Вырубка лесов способствует глобальному потеплению.",
+    "Contribute to."
+   ],
+   [
+    "We need to [switch] to electric cars.",
+    "Нам нужно перейти на электромобили.",
+    "Switch to."
+   ],
+   [
+    "Extreme [weather] is becoming more common.",
+    "Экстремальная погода случается всё чаще.",
+    "Extreme weather."
+   ],
+   [
+    "The goal is to reach net [zero] by 2050.",
+    "Цель — нулевые выбросы к 2050 году.",
+    "Net zero."
+   ],
+   [
+    "Greenhouse [gases] trap heat.",
+    "Парниковые газы удерживают тепло.",
+    "Greenhouse gases."
+   ]
+  ]
+ }
+}
