@@ -1,0 +1,52 @@
+Hànlù — словарные карточки, lexicon.js
+Лицензия подборки и адаптации: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Основной источник китайских слов, пиньиня и русских переводов:
+Maqsudjon Polatov. HSK Chinese–Uzbek–Russian Vocabulary (Zitou), CC BY 4.0.
+https://huggingface.co/datasets/Maqsudjonpolatov/hsk-chinese-uzbek-russian
+https://creativecommons.org/licenses/by/4.0/
+
+Дополнительные переводы: участники русского Викисловаря, CC BY-SA 4.0.
+https://ru.wiktionary.org/
+Машиночитаемая выборка — Tatu Ylönen, Wiktextract, и проект Kaikki.org.
+https://kaikki.org/ruwiktionary/
+Для просмотра авторов статьи откройте её историю в Викисловаре:
+https://ru.wiktionary.org/w/index.php?action=history&title=老师
+Подставьте заглавное слово (в том числе его традиционную форму) вместо 老师.
+Wiktextract: Wiktionary as Machine-Readable Structured Data, LREC 2022.
+
+Дополнительный источник написаний, уровней, частотности и транскрипции:
+Yanis Zafirópulos и участники Complete HSK Vocabulary, MIT.
+https://github.com/drkameleon/complete-hsk-vocabulary
+Источники, на которых основан проект, перечислены в README его репозитория.
+
+В Hànlù собраны карточки с русским значением, проведены выбор значения, отбор,
+удаление дублей, сокращение ряда переводов и адаптация для упражнений.
+Для учебной группировки использовано доступное поле уровня из словаря
+(в первую очередь HSK 3.0; при его отсутствии — другая шкала источника).
+Общий продвинутый блок разбит на ступени 7, 8 и 9 примерно равной длины
+по частоте встречаемости. Если частота неизвестна, слово расположено в
+конце очереди. Ступени служат внутренним порядком изучения.
+Адаптация распространяется на условиях CC BY-SA 4.0, без гарантий.
+MIT License
+
+Copyright (c) 2026 Yanis Zafirópulos
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

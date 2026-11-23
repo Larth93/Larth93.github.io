@@ -1,0 +1,12 @@
+Четыре тона в путунхуа. Записи ma1 (cmn), ma2 (cmn), ma3 (cmn), ma4 (cmn)
+Голос — Chen Wang 王琛, провинция Цзянсу, Китай.
+Коллекция zh_syllabs. © 2013 Wang Chen, Lopez Hugo, Vion Nicolas.
+Лицензия Creative Commons Attribution-ShareAlike 3.0 Unported.
+https://creativecommons.org/licenses/by-sa/3.0/
+Звуковые файлы сохранены без изменений.
+Исходные материалы:
+https://github.com/hugolpz/audio-cmn/tree/ff9ed3d0c631195bd2c06f39450f3264c7124040/64k/syllabs
+cmn-ma1.mp3 — mā (妈)
+cmn-ma2.mp3 — má (麻)
+cmn-ma3.mp3 — mǎ (马)
+cmn-ma4.mp3 — mà (骂)
